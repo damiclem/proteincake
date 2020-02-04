@@ -1,0 +1,28 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+# ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+sp|Q13526|PIN1_HUMAN  -            163 msa.fasta            -          10534   8.3e-10   25.4   0.1   1   1   2.4e-10   8.3e-10   25.4   0.1  9391  9473     3    87     1   150 0.58 Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 OS=Homo sapiens OX=9606 GN=PIN1 PE=1 SV=1
+sp|O60861|GAS7_HUMAN  -            476 msa.fasta            -          10534   1.3e-09   24.8  10.6   1   1   4.5e-10   1.6e-09   24.5  10.6  9381  9635    66   394    51   468 0.36 Growth arrest-specific protein 7 OS=Homo sapiens OX=9606 GN=GAS7 PE=1 SV=3
+sp|Q8N3X1|FNBP4_HUMAN -           1017 msa.fasta            -          10534   4.2e-09   23.1  57.3   1   2     0.002    0.0068    2.4  24.1  9397  9596   218   504    27   556 0.36 Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 SV=3
+sp|Q8N3X1|FNBP4_HUMAN -           1017 msa.fasta            -          10534   4.2e-09   23.1  57.3   2   2   1.7e-08   5.9e-08   19.2  40.4  9238  9617   365   985   334  1015 0.40 Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 SV=3
+sp|O15428|PINL_HUMAN  -            100 msa.fasta            -          10534     1e-07   18.5   0.1   1   1   2.9e-08     1e-07   18.5   0.1  9391  9433     3    45     1    95 0.82 Putative PIN1-like protein OS=Homo sapiens OX=9606 GN=PIN1P1 PE=5 SV=1
+sp|Q96J02|ITCH_HUMAN  -            903 msa.fasta            -          10534     1e-07   18.4  13.8   1   2   0.00078    0.0027    3.8   8.0  9385  9428   319   360   248   416 0.78 E3 ubiquitin-protein ligase Itchy homolog OS=Homo sapiens OX=9606 GN=ITCH PE=1 SV=2
+sp|Q96J02|ITCH_HUMAN  -            903 msa.fasta            -          10534     1e-07   18.4  13.8   2   2   1.8e-06   6.3e-06   12.5   2.0  9362  9435   408   479   393   517 0.75 E3 ubiquitin-protein ligase Itchy homolog OS=Homo sapiens OX=9606 GN=ITCH PE=1 SV=2
+sp|Q9H4Z3|CAPAM_HUMAN -            704 msa.fasta            -          10534     2e-06   14.2   2.9   1   1   6.3e-07   2.2e-06   14.0   2.9  9376  9479    24   158     3   334 0.66 mRNA (2'-O-methyladenosine-N(6)-)-methyltransferase OS=Homo sapiens OX=9606 GN=PCIF1 PE=1 SV=1
+sp|Q9H4B6|SAV1_HUMAN  -            383 msa.fasta            -          10534     2e-06   14.2   3.1   1   1   5.7e-07     2e-06   14.2   3.1  9363  9474   167   275     4   381 0.58 Protein salvador homolog 1 OS=Homo sapiens OX=9606 GN=SAV1 PE=1 SV=2
+sp|Q9HAU4|SMUF2_HUMAN -            748 msa.fasta            -          10534   3.1e-05   10.2   2.7   1   1   0.00014   0.00047    6.3   3.0  9395  9491   159   292   153   430 0.37 E3 ubiquitin-protein ligase SMURF2 OS=Homo sapiens OX=9606 GN=SMURF2 PE=1 SV=1
+sp|O00308|WWP2_HUMAN  -            870 msa.fasta            -          10534   6.6e-05    9.1  28.7   1   3     0.015      0.05   -0.5  16.7  9380  9435   321   371   161   397 0.61 NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapiens OX=9606 GN=WWP2 PE=1 SV=2
+sp|O00308|WWP2_HUMAN  -            870 msa.fasta            -          10534   6.6e-05    9.1  28.7   2   3   5.7e-05    0.0002    7.6   8.1  9371  9433   387   443   368   476 0.65 NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapiens OX=9606 GN=WWP2 PE=1 SV=2
+sp|O00308|WWP2_HUMAN  -            870 msa.fasta            -          10534   6.6e-05    9.1  28.7   3   3    0.0038     0.013    1.5   0.2  9391  9432   442   482   436   503 0.80 NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapiens OX=9606 GN=WWP2 PE=1 SV=2
+sp|Q9NZC7|WWOX_HUMAN  -            414 msa.fasta            -          10534   0.00072    5.7   0.0   1   1   0.00018   0.00061    5.9   0.0  9391  9435    14    57     4   317 0.78 WW domain-containing oxidoreductase OS=Homo sapiens OX=9606 GN=WWOX PE=1 SV=1
+sp|O75554|WBP4_HUMAN  -            376 msa.fasta            -          10534     0.092   -1.3  30.7   1   1      0.33       1.2   -5.0  30.7  9303  9517    48   316     6   374 0.39 WW domain-binding protein 4 OS=Homo sapiens OX=9606 GN=WBP4 PE=1 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      model.hmm
+# Target file:     positive_pfam_human_proteins.fasta
+# Option settings: hmmsearch -o HMM_results_pos --domtblout HMM_domtblout_pos model.hmm positive_pfam_human_proteins.fasta 
+# Current dir:     /server2/2/2018/dsolimin/Desktop/beerprot/data
+# Date:            Tue Feb  4 18:11:23 2020
+# [ok]
