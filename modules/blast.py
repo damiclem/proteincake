@@ -7,6 +7,11 @@ import requests as req
 import json
 import xmltodict
 
+
+# Constants
+BASE_URL = r'https://www.ebi.ac.uk/Tools/services/rest/ncbiblast'
+
+
 # Parse xml jpb result
 def parse_xml_job_result(job_result):
     # Parse xml to ordered dictionary
@@ -48,53 +53,49 @@ def parse_xml_job_result(job_result):
     # Return hits
     return hits_out
 
-# Define class for using EBI balst through web services
-class Blast():
-    
-    # Constructor
-    def __init__(self):
-        # Initialize base url
-        self.base_url = r'https://www.ebi.ac.uk/Tools/services/rest/ncbiblast'
         
-    # Make parameters request
-    def get_parameters(self):
-        # Retrieve web service results
-        res = req.get('/'.join([self.base_url, 'parameters']), 
-                      headers={'Content-type': 'application/json',
-                               'Accept': 'application/json'})
-        # Return tuple (is status code '200 OK'?, result content, result object)
-        return res.status_code == 200, res.json().get('parameters'), res
-    
-    # Submit job and retrieve its id
-    def run_job(self, email, sequence, params={}):
-        # Merge user-specified and default parameters
-        params = {**{'program': 'blastp',
-                     'stype': 'protein',
-                     'database': 'uniprotkb'},
-                  **params}
-        # Update mandatory parameters
-        params['email'] = email
-        params['sequence'] = sequence
-        # Make request
-        res = req.post('/'.join([self.base_url, 'run']), 
-                               headers={'Content-type': 'application/x-www-form-urlencoded',
-                                        'Accept': 'text/plain'}, 
-                               params=params)
-        # Return result
-        return res.status_code == 200, res.text, res
-    
-    # Retrieve job status
-    def get_job_status(self, job_id):
-        # Make request
-        res = req.get('/'.join([self.base_url, 'status', job_id]),
-                      headers={'Accept': 'text/plain'})
-        # Return results
-        return res.status_code == 200, res.text, res
-    
-    # Retrieve job result
-    def get_job_result(self, job_id, result_type='xml', result_parse=parse_xml_job_result):
-        # Make request
-        res = req.get('/'.join([self.base_url, 'result', job_id, result_type]),
-                      headers={'Accept': 'application/xml'})
-        # Return results
-        return res.status_code == 200, result_parse(res.text), res
+# Make parameters request
+def get_parameters():
+    # Retrieve web service results
+    res = req.get('/'.join([BASE_URL, 'parameters']), 
+                  headers={'Content-type': 'application/json',
+                           'Accept': 'application/json'})
+    # Return tuple (is status code '200 OK'?, result content, result object)
+    return res.status_code == 200, res.json().get('parameters'), res
+
+
+# Submit job and retrieve its id
+def run_job(email, sequence, params={}):
+    # Merge user-specified and default parameters
+    params = {**{'program': 'blastp',
+                 'stype': 'protein',
+                 'database': 'uniprotkb'},
+              **params}
+    # Update mandatory parameters
+    params['email'] = email
+    params['sequence'] = sequence
+    # Make request
+    res = req.post('/'.join([BASE_URL, 'run']), 
+                           headers={'Content-type': 'application/x-www-form-urlencoded',
+                                    'Accept': 'text/plain'}, 
+                           params=params)
+    # Return result
+    return res.status_code == 200, res.text, res
+
+
+# Retrieve job status
+def get_job_status(job_id):
+    # Make request
+    res = req.get('/'.join([BASE_URL, 'status', job_id]),
+                  headers={'Accept': 'text/plain'})
+    # Return results
+    return res.status_code == 200, res.text, res
+
+
+# Retrieve job result
+def get_job_result(job_id, result_type='xml', result_parse=parse_xml_job_result):
+    # Make request
+    res = req.get('/'.join([BASE_URL, 'result', job_id, result_type]),
+                  headers={'Accept': 'application/xml'})
+    # Return results
+    return res.status_code == 200, result_parse(res.text), res
