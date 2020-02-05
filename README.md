@@ -18,3 +18,4 @@ Part one:
         1.3.b  Retireve a set of human proteins with the same PFAM of the initial sequence (positive examples)
         1.3.c  Retrieve a set of human proteins with a different PFAM of the initial sequence (negative examples)
         1.3.d  Evaluated the HMM model using the positive and the negative examples
+        hmmsearch --domtblout results/HMM_domtblout_adj_pos -o results/HMM_results_adj_pos models/model_adjusted.hmm data/positive_pfam_human_proteins.fasta
