@@ -15,7 +15,10 @@ Part one:
   1.3. Hidden Markov Model (HMM)
         
         1.3.a  Build an HMM model using the MSA of point 1.2.b
-        1.3.b  Retireve a set of human proteins with the same PFAM of the initial sequence (positive examples)
+        hmmbuild models/model.hmm data/msa.fasta
+        1.3.b  Retrieve a set of human proteins with the same PFAM of the initial sequence (positive examples)
+        database:(type:pfam pf00397) AND reviewed:yes AND organism:"Homo sapiens (Human) [9606]"
         1.3.c  Retrieve a set of human proteins with a different PFAM of the initial sequence (negative examples)
+        reviewed:yes AND organism:"Homo sapiens (Human) [9606]" AND NOT database:(type:pfam pf00397)
         1.3.d  Evaluated the HMM model using the positive and the negative examples
-        hmmsearch --domtblout results/HMM_domtblout_adj_pos -o results/HMM_results_adj_pos models/model_adjusted.hmm data/positive_pfam_human_proteins.fasta
+        hmmsearch --domtblout results/HMM_domtblout_pos -o results/HMM_results_pos models/model.hmm data/positive_pfam.fasta
