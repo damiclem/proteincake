@@ -1,0 +1,35 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+# ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+sp|Q8N3X1|FNBP4_HUMAN -           1017 msa_reduced          -           1078     1e-10   31.7   3.9   1   6       2.2       9.2   -4.5   7.5   337   391    72   176    22   181 0.55 Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 SV=3
+sp|Q8N3X1|FNBP4_HUMAN -           1017 msa_reduced          -           1078     1e-10   31.7   3.9   2   6   2.3e-05   9.8e-05   11.9   0.1   400   450   220   263   219   476 0.83 Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 SV=3
+sp|Q8N3X1|FNBP4_HUMAN -           1017 msa_reduced          -           1078     1e-10   31.7   3.9   3   6   2.5e-11     1e-10   31.7   3.9   397   435   598   636   596   697 0.81 Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 SV=3
+sp|Q8N3X1|FNBP4_HUMAN -           1017 msa_reduced          -           1078     1e-10   31.7   3.9   4   6         9        38   -7.9  24.8   335   395   631   729   628   733 0.34 Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 SV=3
+sp|Q8N3X1|FNBP4_HUMAN -           1017 msa_reduced          -           1078     1e-10   31.7   3.9   5   6         9        38  -12.6  28.6   424   472   710   848   710   872 0.40 Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 SV=3
+sp|Q8N3X1|FNBP4_HUMAN -           1017 msa_reduced          -           1078     1e-10   31.7   3.9   6   6         9        38  -18.2  34.3   370   398   892   924   763   924 0.61 Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 SV=3
+sp|Q13526|PIN1_HUMAN  -            163 msa_reduced          -           1078   9.2e-09   25.3   0.0   1   1   2.2e-09   9.2e-09   25.3   0.0   395   445     6    53     2   149 0.66 Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 OS=Homo sapiens OX=9606 GN=PIN1 PE=1 SV=1
+sp|O75554|WBP4_HUMAN  -            376 msa_reduced          -           1078   2.9e-08   23.7   1.4   1   2   0.00017   0.00073    9.1   0.1   412   428   139   155   138   158 0.95 WW domain-binding protein 4 OS=Homo sapiens OX=9606 GN=WBP4 PE=1 SV=1
+sp|O75554|WBP4_HUMAN  -            376 msa_reduced          -           1078   2.9e-08   23.7   1.4   2   2   7.8e-06   3.3e-05   13.5   0.1   412   446   180   219   180   353 0.57 WW domain-binding protein 4 OS=Homo sapiens OX=9606 GN=WBP4 PE=1 SV=1
+sp|O15428|PINL_HUMAN  -            100 msa_reduced          -           1078     6e-07   19.3   0.4   1   1   1.4e-07     6e-07   19.3   0.4   395   434     6    45     2    99 0.77 Putative PIN1-like protein OS=Homo sapiens OX=9606 GN=PIN1P1 PE=5 SV=1
+sp|Q9HAU4|SMUF2_HUMAN -            748 msa_reduced          -           1078   7.5e-06   15.7   2.1   1   1   2.5e-06     1e-05   15.2   2.1   413   472   175   381   175   394 0.43 E3 ubiquitin-protein ligase SMURF2 OS=Homo sapiens OX=9606 GN=SMURF2 PE=1 SV=1
+sp|O60861|GAS7_HUMAN  -            476 msa_reduced          -           1078    0.0012    8.4  26.0   1   2   1.2e-05   5.2e-05   12.9  19.4   377   465    63   206    35   269 0.62 Growth arrest-specific protein 7 OS=Homo sapiens OX=9606 GN=GAS7 PE=1 SV=3
+sp|O60861|GAS7_HUMAN  -            476 msa_reduced          -           1078    0.0012    8.4  26.0   2   2      0.25       1.1   -1.4   1.1   164   190   312   338   227   439 0.42 Growth arrest-specific protein 7 OS=Homo sapiens OX=9606 GN=GAS7 PE=1 SV=3
+sp|Q9H0M0|WWP1_HUMAN  -            922 msa_reduced          -           1078     0.002    7.6  30.6   1   3     0.015     0.065    2.6   8.9   391   429   346   383   223   386 0.69 NEDD4-like E3 ubiquitin-protein ligase WWP1 OS=Homo sapiens OX=9606 GN=WWP1 PE=1 SV=1
+sp|Q9H0M0|WWP1_HUMAN  -            922 msa_reduced          -           1078     0.002    7.6  30.6   2   3    0.0011    0.0045    6.5   2.3   394   428   381   414   380   422 0.89 NEDD4-like E3 ubiquitin-protein ligase WWP1 OS=Homo sapiens OX=9606 GN=WWP1 PE=1 SV=1
+sp|Q9H0M0|WWP1_HUMAN  -            922 msa_reduced          -           1078     0.002    7.6  30.6   3   3     4e-05   0.00017   11.2   5.2   373   433   436   494   415   585 0.71 NEDD4-like E3 ubiquitin-protein ligase WWP1 OS=Homo sapiens OX=9606 GN=WWP1 PE=1 SV=1
+sp|O00308|WWP2_HUMAN  -            870 msa_reduced          -           1078      0.43   -0.1  47.2   1   3       3.6        15   -5.2  19.3   394   435   300   340   167   344 0.58 NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapiens OX=9606 GN=WWP2 PE=1 SV=2
+sp|O00308|WWP2_HUMAN  -            870 msa_reduced          -           1078      0.43   -0.1  47.2   2   3    0.0022    0.0095    5.4   8.9   395   430   331   365   331   376 0.90 NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapiens OX=9606 GN=WWP2 PE=1 SV=2
+sp|O00308|WWP2_HUMAN  -            870 msa_reduced          -           1078      0.43   -0.1  47.2   3   3   0.00026    0.0011    8.5  11.6   370   456   378   481   364   569 0.64 NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapiens OX=9606 GN=WWP2 PE=1 SV=2
+sp|Q96J02|ITCH_HUMAN  -            903 msa_reduced          -           1078       8.2   -4.3  34.0   1   3       4.1        17   -5.4  16.9   326   430   223   361   189   365 0.51 E3 ubiquitin-protein ligase Itchy homolog OS=Homo sapiens OX=9606 GN=ITCH PE=1 SV=2
+sp|Q96J02|ITCH_HUMAN  -            903 msa_reduced          -           1078       8.2   -4.3  34.0   2   3      0.02     0.083    2.3   0.6   412   428   375   391   369   399 0.89 E3 ubiquitin-protein ligase Itchy homolog OS=Homo sapiens OX=9606 GN=ITCH PE=1 SV=2
+sp|Q96J02|ITCH_HUMAN  -            903 msa_reduced          -           1078       8.2   -4.3  34.0   3   3   0.00077    0.0033    6.9   3.4   390   432   437   475   393   495 0.76 E3 ubiquitin-protein ligase Itchy homolog OS=Homo sapiens OX=9606 GN=ITCH PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      models/model_adjusted.hmm
+# Target file:     data/positive_pfam_human_proteins.fasta
+# Option settings: hmmsearch -o results/HMM_results_adj_pos --domtblout results/HMM_domtblout_adj_pos models/model_adjusted.hmm data/positive_pfam_human_proteins.fasta 
+# Current dir:     /server2/2/2018/dsolimin/Desktop/beerprot
+# Date:            Wed Feb  5 14:05:29 2020
+# [ok]

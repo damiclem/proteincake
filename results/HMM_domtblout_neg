@@ -1,13 +1,19 @@
-#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
-# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
-#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+# ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+sp|Q6Q0C0|TRAF7_HUMAN -            670 msa.fasta            -          10534     0.072    8.1   0.2   1   1   2.8e-05     0.095    7.7   0.2 10171 10248   301   379   281   393 0.85 E3 ubiquitin-protein ligase TRAF7 OS=Homo sapiens OX=9606 GN=TRAF7 PE=1 SV=1
+sp|Q9Y6R1|S4A4_HUMAN  -           1079 msa.fasta            -          10534       1.1    4.1   5.7   1   1   0.00045       1.5    3.7   5.7  1873  1905  1004  1036   997  1043 0.88 Electrogenic sodium bicarbonate cotransporter 1 OS=Homo sapiens OX=9606 GN=SLC4A4 PE=1 SV=1
+sp|P13647|K2C5_HUMAN  -            590 msa.fasta            -          10534       3.2    2.6   3.4   1   1   0.00099       3.4    2.5   3.4 10101 10197   386   482   156   488 0.86 Keratin, type II cytoskeletal 5 OS=Homo sapiens OX=9606 GN=KRT5 PE=1 SV=3
+sp|P20226|TBP_HUMAN   -            339 msa.fasta            -          10534       4.4    2.2  12.3   1   1    0.0013       4.6    2.1  12.3   122   185    58   121    13   200 0.59 TATA-box-binding protein OS=Homo sapiens OX=9606 GN=TBP PE=1 SV=2
+sp|P19013|K2C4_HUMAN  -            534 msa.fasta            -          10534       5.4    1.9  10.0   1   1     0.002       6.8    1.5  10.0 10064 10197   328   465   268   475 0.76 Keratin, type II cytoskeletal 4 OS=Homo sapiens OX=9606 GN=KRT4 PE=1 SV=4
+sp|P35908|K22E_HUMAN  -            639 msa.fasta            -          10534       8.3    1.2   6.3   1   1    0.0031        11    0.9   6.3 10073 10197   364   492   306   510 0.76 Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens OX=9606 GN=KRT2 PE=1 SV=2
 #
 # Program:         hmmsearch
 # Version:         3.3 (Nov 2019)
 # Pipeline mode:   SEARCH
-# Query file:      model.hmm
-# Target file:     negative_pfam_human_proteins.fasta
-# Option settings: hmmsearch -o HMM_results_neg --domtblout HMM_domtblout_neg model.hmm negative_pfam_human_proteins.fasta 
-# Current dir:     /server2/2/2018/dsolimin/Desktop/beerprot/data
-# Date:            Tue Feb  4 18:24:47 2020
+# Query file:      models/model.hmm
+# Target file:     data/negative_pfam_complete.fasta
+# Option settings: hmmsearch -o results/HMM_results_neg --domtblout results/HMM_domtblout_neg models/model.hmm data/negative_pfam_complete.fasta 
+# Current dir:     /server2/2/2018/dsolimin/Desktop/beerprot
+# Date:            Wed Feb  5 14:18:32 2020
 # [ok]
