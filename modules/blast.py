@@ -23,8 +23,8 @@ def parse_xml_job_result(job_result):
     for i in range(len(hits_in)):
         # Get hit attributes
         hit_attr = {'database': str(hits_in[i]['@database']),
-                    'id': str(hits_in[i]['@id']), 
-                    'ac': str(hits_in[i]['@ac']), 
+                    'id': str(hits_in[i]['@id']),
+                    'ac': str(hits_in[i]['@ac']),
                     'description': str(hits_in[i]['@description'])}
         # Get hit content
         hits_in[i] = hits_in[i]['alignments']['alignment']
@@ -47,17 +47,17 @@ def parse_xml_job_result(job_result):
                                 'pattern_seq': str(hit['pattern']),
                                 'match_seq': str(hit['matchSeq']['#text']),
                                 'match_start': int(hit['matchSeq']['@start']),
-                                'match_end': int(hit['matchSeq']['@end'])}, 
+                                'match_end': int(hit['matchSeq']['@end'])},
                              # Add hit attributes
                              **hit_attr})
     # Return hits
     return hits_out
 
-        
+
 # Make parameters request
 def get_parameters():
     # Retrieve web service results
-    res = req.get('/'.join([BASE_URL, 'parameters']), 
+    res = req.get('/'.join([BASE_URL, 'parameters']),
                   headers={'Content-type': 'application/json',
                            'Accept': 'application/json'})
     # Return tuple (is status code '200 OK'?, result content, result object)
@@ -75,10 +75,10 @@ def run_job(email, sequence, params={}):
     params['email'] = email
     params['sequence'] = sequence
     # Make request
-    res = req.post('/'.join([BASE_URL, 'run']), 
+    res = req.post('/'.join([BASE_URL, 'run']),
                            headers={'Content-type': 'application/x-www-form-urlencoded',
-                                    'Accept': 'text/plain'}, 
-                           params=params)
+                                    'Accept': 'text/plain'},
+                           data=params)
     # Return result
     return res.status_code == 200, res.text, res
 

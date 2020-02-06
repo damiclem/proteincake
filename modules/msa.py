@@ -19,11 +19,12 @@ def run_job(email, sequence, algorithm=CLUSTALO, params={}):
     # Set mandatory parameters
     params['email'] = email
     params['sequence'] = sequence
+    # Debug
     # Make api request to clustal omega endpoint
     response = req.post('/'.join([BASE_URL, algorithm, 'run']), headers={
-        'Content-type': 'application/x-www-form-urlencoded',
-        'Accept': 'text/plain',
-    }, params=params)
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Accept': 'text/plain'
+    }, data=params)
     # Retrieve result
     return response.status_code == 200, response.text, response
 
