@@ -1,0 +1,289 @@
+PSIBLAST 2.8.1+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen F.
+Altschul, John C. Wootton, E. Michael Gertz, Richa Agarwala,
+Aleksandr Morgulis, Alejandro A. Schaffer, and Yi-Kuo Yu (2005)
+"Protein database searches using compositionally adjusted
+substitution matrices", FEBS J. 272:5101-5109.
+
+
+Reference for composition-based statistics starting in round 2:
+Alejandro A. Schaffer, L. Aravind, Thomas L. Madden, Sergei
+Shavirin, John L. Spouge, Yuri I. Wolf, Eugene V. Koonin, and
+Stephen F. Altschul (2001), "Improving the accuracy of PSI-BLAST
+protein database searches with composition-based statistics and
+other refinements", Nucleic Acids Res. 29:2994-3005.
+
+
+
+Database: data/all_pfam.fasta
+           20,367 sequences; 11,357,410 total letters
+
+Results from round 1
+
+
+Query= 
+Length=284
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Q8N3X1  Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4...  53.9    5e-08
+Q96J02  E3 ubiquitin-protein ligase Itchy homolog OS=Homo sapiens...  52.4    1e-07
+O00308  NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapie...  52.0    2e-07
+Q9H0M0  NEDD4-like E3 ubiquitin-protein ligase WWP1 OS=Homo sapie...  50.5    6e-07
+Q76N89  E3 ubiquitin-protein ligase HECW1 OS=Homo sapiens OX=9606...  47.8    5e-06
+Q9H4Z3  mRNA (2'-O-methyladenosine-N(6)-)-methyltransferase OS=Ho...  46.6    9e-06
+Q13526  Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 OS...  43.1    3e-05
+Q6ZUM4  Rho GTPase-activating protein 27 OS=Homo sapiens OX=9606 ...  44.7    4e-05
+Q9BYW2  Histone-lysine N-methyltransferase SETD2 OS=Homo sapiens ...  42.4    2e-04
+
+
+>Q8N3X1 Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 
+SV=3
+Length=1017
+
+ Score = 53.9 bits (126),  Expect = 5e-08, Method: Composition-based stats.
+ Identities = 14/61 (23%), Positives = 23/61 (38%), Gaps = 0/61 (0%)
+
+Query  71   PAGWRPLFDQENQRWYYLEEDSGRTQWEAPGYNAPSPPMGGFAPPVGPPPGHAHASYGPP  130
+            P GW   +D++++R++Y+ E SG +QWE P                              
+Sbjct  598  PKGWSCHWDRDHRRYFYVNEQSGESQWEFPDGEEEEEESQAQENRDETLAKQTLKDKTGT  657
+
+Query  131  D  131
+            D
+Sbjct  658  D  658
+
+
+>Q96J02 E3 ubiquitin-protein ligase Itchy homolog OS=Homo sapiens OX=9606 
+GN=ITCH PE=1 SV=2
+Length=903
+
+ Score = 52.4 bits (122),  Expect = 1e-07, Method: Composition-based stats.
+ Identities = 28/235 (12%), Positives = 52/235 (22%), Gaps = 7/235 (3%)
+
+Query  17   GDKKQDQPPQNQQSSSGYGYHGGYGNDRPPSPAAQYHAAPPQPAYQPPSDKPPLPAGWRP  76
+                +                                +    P    P  + PLP GW  
+Sbjct  275  SATSESDGSSTGSLPPTNTNTNTSEGATSGLIIPLTISGGSGPRPLNPVTQAPLPPGWEQ  334
+
+Query  77   LFDQENQRWYYLEEDSGRTQWEAPGYNAPSPPMGGFAPPVGPPPGHAHASYGPPDGPPPS  136
+              D ++ R YY++    RT W+ P    P PP             +            P+
+Sbjct  335  RVD-QHGRVYYVDHVEKRTTWDRPE---PLPPGWERRVDNMGRIYYVDHFTRTTTWQRPT  390
+
+Query  137  YGQGQHGAPDGPPPGRFEADYGGHAPQEKQSGGKGGMLLGAAGGLAAGAAGGALLHRMNS  196
+                ++         + +   G      ++       L   +        G         
+Sbjct  391  LESVRNYEQWQLQRSQLQ---GAMQQFNQRFIYGNQDLFATSQSKEFDPLGPLPPGWEKR  447
+
+Query  197  DRHDQDENYASYGQQIPPSESYGHATATEEESGRHDENQESSSSSSSSSDDRGRR  251
+               +    + ++  +I   E         E+          +        D  RR
+Sbjct  448  TDSNGRVYFVNHNTRITQWEDPRSQGQLNEKPLPEGWEMRFTVDGIPYFVDHNRR  502
+
+
+>O00308 NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapiens OX=9606 
+GN=WWP2 PE=1 SV=2
+Length=870
+
+ Score = 52.0 bits (121),  Expect = 2e-07, Method: Composition-based stats.
+ Identities = 36/271 (13%), Positives = 64/271 (24%), Gaps = 13/271 (5%)
+
+Query  1    MSFLKNFTKDLDRFGLGDKKQDQPPQNQQSSSGYGYHGGYGNDRPPSPAAQYHAA--PPQ  58
+             S L N T + +     D ++          +         N       A       P  
+Sbjct  227  HSGLANGTVNDEPTTATDPEEPSVVGVTSPPAAPLSVTPNPNTTSLPAPATPAEGEEPST  286
+
+Query  59   PA----YQPPSDKPPLPAGWRPLFDQENQRWYYLEEDSGRTQWEAPGYNAPSPPMGGFAP  114
+                           LPAGW         R YY++ ++  T WE P              
+Sbjct  287  SGTQQLPAAAQAPDALPAGWEQRELPN-GRVYYVDHNTKTTTWERPLPPGWEKRTDPRGR  345
+
+Query  115  PVGPPPGHAHAS-YGPPDGPPPSYGQGQHGAPDGPPPGRFEADYGGHAPQEKQSGGKGGM  173
+                       +   P      +Y Q Q          +  +       Q   +      
+Sbjct  346  FYYVDHNTRTTTWQRPTAEYVRNYEQWQSQRNQLQGAMQHFSQ--RFLYQSSSASTDHDP  403
+
+Query  174  LLGAAGGLAAGAAGGALLHRMNSDRHDQDENYASYGQQIPPSESY---GHATATEEESGR  230
+            L     G       G + +  ++ R  Q E+  + G    P+         T+       
+Sbjct  404  LGPLPPGWEKRQDNGRVYYVNHNTRTTQWEDPRTQGMIQEPALPPGWEMKYTSEGVRYFV  463
+
+Query  231  HDENQESSSSSSSSSDDRGRRDERDESSSSS  261
+                + ++        + G +     +   S
+Sbjct  464  DHNTRTTTFKDPRPGFESGTKQGSPGAYDRS  494
+
+
+ Score = 48.1 bits (111),  Expect = 3e-06, Method: Composition-based stats.
+ Identities = 21/217 (10%), Positives = 40/217 (18%), Gaps = 4/217 (2%)
+
+Query  20   KQDQPPQNQQSSSGYGYHGGYGNDRPPSPAAQYHAAPPQPAYQPPSDKPPLPAGWRPLFD  79
+            ++      QQ  +                             +  + + PLP GW    D
+Sbjct  282  EEPSTSGTQQLPAAAQAPDALPAGWEQRELPNGRVYYVDHNTKTTTWERPLPPGWEKRTD  341
+
+Query  80   QENQRWYYLEEDSGRTQWEAPGYNA---PSPPMGGFAPPVGPPPGHAHASYGPPDGPPPS  136
+                R+YY++ ++  T W+ P                   G     +             
+Sbjct  342  PR-GRFYYVDHNTRTTTWQRPTAEYVRNYEQWQSQRNQLQGAMQHFSQRFLYQSSSASTD  400
+
+Query  137  YGQGQHGAPDGPPPGRFEADYGGHAPQEKQSGGKGGMLLGAAGGLAAGAAGGALLHRMNS  196
+            +       P           Y  +                                    
+Sbjct  401  HDPLGPLPPGWEKRQDNGRVYYVNHNTRTTQWEDPRTQGMIQEPALPPGWEMKYTSEGVR  460
+
+Query  197  DRHDQDENYASYGQQIPPSESYGHATATEEESGRHDE  233
+               D +    ++    P  ES     +          
+Sbjct  461  YFVDHNTRTTTFKDPRPGFESGTKQGSPGAYDRSFRW  497
+
+
+>Q9H0M0 NEDD4-like E3 ubiquitin-protein ligase WWP1 OS=Homo sapiens OX=9606 
+GN=WWP1 PE=1 SV=1
+Length=922
+
+ Score = 50.5 bits (117),  Expect = 6e-07, Method: Composition-based stats.
+ Identities = 29/259 (11%), Positives = 50/259 (19%), Gaps = 14/259 (5%)
+
+Query  23   QPPQNQQSSSGYGYHGGYGNDRPPSPAAQYHAAPPQPAYQPPSDKPPLPAGWRPLFDQEN  82
+            +                                 P       ++   LP+GW    D   
+Sbjct  304  ESEARSILEPDTSNSRSSSAFEAAKSRQPDGCMDPVRQQSGNANTETLPSGWEQRKDPHG  363
+
+Query  83   QRWYYLEEDSGRTQWEAPGYNAPSPPMGGFAPPVGPPPGHAHASYGPPDGPPPSYGQGQH  142
+            +  YY++ ++  T WE P    P                H   +         S    + 
+Sbjct  364  RT-YYVDHNTRTTTWERPQPLPPGWERRVDDRRRVYYVDHNTRTTTWQRPTMESVRNFEQ  422
+
+Query  143  GAPDGPPPGRFEADYGGHAPQEKQSGGKGGMLLGAAGGLAAGAAGGALLHRMNSDRHDQD  202
+                            G   Q  Q       +L A         G               
+Sbjct  423  WQSQRNQLQ-------GAMQQFNQRYLYSASMLAAEN----DPYGPLPPGWEKRVDSTDR  471
+
+Query  203  ENYASYGQQIPPSESYGHATATEEESGRHDENQESSSSSSSSSDDRGRR--DERDESSSS  260
+              + ++  +    E         EE          +        D   R    +D  +  
+Sbjct  472  VYFVNHNTKTTQWEDPRTQGLQNEEPLPEGWEIRYTREGVRYFVDHNTRTTTFKDPRNGK  531
+
+Query  261  SSDDDRREDRYDDDRYDSG  279
+            SS          +  +   
+Sbjct  532  SSVTKGGPQIAYERGFRWK  550
+
+
+>Q76N89 E3 ubiquitin-protein ligase HECW1 OS=Homo sapiens OX=9606 GN=HECW1 
+PE=1 SV=3
+Length=1606
+
+ Score = 47.8 bits (110),  Expect = 5e-06, Method: Composition-based stats.
+ Identities = 22/163 (13%), Positives = 44/163 (27%), Gaps = 2/163 (1%)
+
+Query  7    FTKDLDRFGLGDKKQDQPPQNQQSSSGYGYHGGYGNDRPPSPAAQYHAAPPQPAYQPPSD  66
+            +  +L       ++  +  ++  +       G         P +Q  +  P+  + P  D
+Sbjct  769  WQDELAAPSGHVERSPEGLESPVAGPSNRREGECPILHNSQPVSQLPSLRPEHHHYPTID  828
+
+Query  67   KPPLPAGWRPLFDQENQRWYYLEEDSGRTQWEAPGYNAPSPPMGGFAPPVGPPPGHAHAS  126
+            +P LP  W    D  + R +Y++  +  T W+ P   A    M            +    
+Sbjct  829  EP-LPPNWEARIDS-HGRVFYVDHVNRTTTWQRPTAAATPDGMRRSGSIQQMEQLNRRYQ  886
+
+Query  127  YGPPDGPPPSYGQGQHGAPDGPPPGRFEADYGGHAPQEKQSGG  169
+                        +          P       G  +  E     
+Sbjct  887  NIQRTIATERSEEDSGSQSCEQAPAGGGGGGGSDSEAESSQSS  929
+
+
+>Q9H4Z3 mRNA (2'-O-methyladenosine-N(6)-)-methyltransferase OS=Homo sapiens 
+OX=9606 GN=PCIF1 PE=1 SV=1
+Length=704
+
+ Score = 46.6 bits (107),  Expect = 9e-06, Method: Composition-based stats.
+ Identities = 27/230 (12%), Positives = 44/230 (19%), Gaps = 11/230 (5%)
+
+Query  35   GYHGGYGNDRPPSPAAQYHAAPPQPAYQPPSDKPPLPA-----GWRPLFDQENQRWYYLE  89
+                              + + P    +P      LP      GW   + +   R YY  
+Sbjct  6    HGSPREEASLLSHSPGTSNQSQPCS-PKPIRLVQDLPEELVHAGWEKCWSRRENRPYYFN  64
+
+Query  90   EDSGRTQWEAPGYNAPSPPMGGFAPPVGPPPGHAHASYGPPDGPPPSYGQGQHGAPDGPP  149
+              + ++ WE P                 P P  +     PP    P   Q     P G  
+Sbjct  65   RFTNQSLWEMPVLGQHDVISDPLGLNATPLPQDSSLVETPPAENKPRKRQLSEEQPSGNG  124
+
+Query  150  PGR-----FEADYGGHAPQEKQSGGKGGMLLGAAGGLAAGAAGGALLHRMNSDRHDQDEN  204
+              +          G   P      G   + +          A       +  D   Q   
+Sbjct  125  VKKPKIEIPVTPTGQSVPSSPSIPGTPTLKMWGTSPEDKQQAALLRPTEVYWDLDIQTNA  184
+
+Query  205  YASYGQQIPPSESYGHATATEEESGRHDENQESSSSSSSSSDDRGRRDER  254
+               +         +        +                   +  R    
+Sbjct  185  VIKHRGPSEVLPPHPEVELLRSQLILKLRQHYRELCQQREGIEPPRESFN  234
+
+
+>Q13526 Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 OS=Homo 
+sapiens OX=9606 GN=PIN1 PE=1 SV=1
+Length=163
+
+ Score = 43.1 bits (98),  Expect = 3e-05, Method: Composition-based stats.
+ Identities = 17/72 (24%), Positives = 24/72 (33%), Gaps = 0/72 (0%)
+
+Query  69   PLPAGWRPLFDQENQRWYYLEEDSGRTQWEAPGYNAPSPPMGGFAPPVGPPPGHAHASYG  128
+             LP GW     + + R YY    +  +QWE P  N+ S    G   P      H    + 
+Sbjct  6    KLPPGWEKRMSRSSGRVYYFNHITNASQWERPSGNSSSGGKNGQGEPARVRCSHLLVKHS  65
+
+Query  129  PPDGPPPSYGQG  140
+                P     + 
+Sbjct  66   QSRRPSSWRQEK  77
+
+
+>Q6ZUM4 Rho GTPase-activating protein 27 OS=Homo sapiens OX=9606 GN=ARHGAP27 
+PE=1 SV=3
+Length=889
+
+ Score = 44.7 bits (102),  Expect = 4e-05, Method: Composition-based stats.
+ Identities = 32/259 (12%), Positives = 64/259 (25%), Gaps = 25/259 (10%)
+
+Query  22   DQPPQNQQSSSGYGYHGGYGNDRPPSPAAQYHAAPPQPAYQPPSDKPPLPAGWRPLFDQE  81
+            +           Y               A   AA P  +         L   W   +D+E
+Sbjct  253  ETHTDAGTGRPYYYNPDTGVTTWESPFEAAEGAASPATSPASVDSHVSLETEWGQYWDEE  312
+
+Query  82   NQRWYYLEEDSGRTQWEAPGYNAPSPPMGGFAPPVGPPPGHAHASYGPPDGPPPSYGQGQ  141
+            ++R ++    +G T W                 P          S G P  P P   +  
+Sbjct  313  SRRVFFYNPLTGETAW----------EDEAENEPEEELEMQPGLSPGSPGDPRPPTPETD  362
+
+Query  142  HGAPDGPPPGRFEADYGGHAPQEKQSGGKGGMLLGAAGGLAAGAAGGALLHRMNSDRHDQ  201
+            +       P    +  G                 G  G  +           ++ D+   
+Sbjct  363  YPESLTSYPEEDYSPVGSF---------------GEPGPTSPLTTPPGWSCHVSQDKQML  407
+
+Query  202  DENYASYGQQIPPSESYGHATATEEESGRHDENQESSSSSSSSSDDRGRRDERDESSSSS  261
+              N+ +  Q +   + +G       E              +  S  +  +D    + +S 
+Sbjct  408  YTNHFTQEQWVRLEDPHGKPYFYNPEDSSVRWELPQVPVPAPRSIHKSSQDGDTPAQASP  467
+
+Query  262  SDDDRREDRYDDDRYDSGS  280
+             ++    +  +   ++  S
+Sbjct  468  PEEKVPAELDEVGSWEEVS  486
+
+
+>Q9BYW2 Histone-lysine N-methyltransferase SETD2 OS=Homo sapiens OX=9606 
+GN=SETD2 PE=1 SV=3
+Length=2564
+
+ Score = 42.4 bits (96),  Expect = 2e-04, Method: Composition-based stats.
+ Identities = 13/70 (19%), Positives = 23/70 (33%), Gaps = 1/70 (1%)
+
+Query  70    LPAGWRPLFDQENQRWYYLEEDSGRTQWEAPGYNAPSPPMGGFAPPVGPPPGHAHASYGP  129
+             LP  W+   D E + +YY    + +TQW+ P + +P                  +     
+Sbjct  2391  LPPNWKTARDPEGKIYYYH-VITRQTQWDPPTWESPGDDASLEHEAEMDLGTPTYDENPM  2449
+
+Query  130   PDGPPPSYGQ  139
+                  P   +
+Sbjct  2450  KASKKPKTAE  2459
+
+
+
+Lambda      K        H        a         alpha
+   0.318   0.0788    0.189    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0241    0.140     1.90     42.6     43.6 
+
+Effective search space used: 1741228584
+
+
+  Database: data/all_pfam.fasta
+    Posted date:  Feb 6, 2020  4:32 PM
+  Number of letters in database: 11,357,410
+  Number of sequences in database:  20,367
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
