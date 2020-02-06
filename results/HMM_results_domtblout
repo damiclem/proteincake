@@ -29,5 +29,5 @@ sp|P19013|K2C4_HUMAN  -            534 msa                  -          10356    
 # Target file:     data/all_pfam.fasta
 # Option settings: hmmsearch -o results/HMM_results --domtblout results/HMM_results_domtblout models/model.hmm data/all_pfam.fasta 
 # Current dir:     /media/my_data/Documenti/Data_Science/Biological_Data/beerprot
-# Date:            Thu Feb  6 15:51:19 2020
+# Date:            Thu Feb  6 18:03:38 2020
 # [ok]
