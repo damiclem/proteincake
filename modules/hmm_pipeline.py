@@ -4,7 +4,7 @@ Pipeline HMM
 import os
 import pandas as pd
 import argparse
-import parser as prs
+import parser_lib as prs
 
 """
 Pipeline that start from a MSA file, build an HMM model and test it using a test set. Requires MSA
@@ -40,16 +40,20 @@ def hmm_pipeline(msa_path, test_set_path, hmm_model_path, out_file_path, domtblo
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--msa_path', type=str, default='data/msa.fasta')
-    parser.add_argument('--test_set_path', type=str, default='data/all_pfam.fasta')
-    parser.add_argument('--hmm_model_path', type=str, default='models/model.hmm')
-    parser.add_argument('--out_file_path', type=str, default='results/HMM_results')
-    parser.add_argument('--domtblout_path', type=str, default='results/HMM_results_domtblout')
-    parser.add_argument('--df_out_path', type=str, default='results/HMM_df.csv')
-    parser.add_argument('--evalue', type=float, default=0.005)
 
+    # 1.Define arguments
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--msa_path',       type=str,   default='data/msa.fasta')
+    parser.add_argument('--test_set_path',  type=str,   default='data/all_pfam.fasta')
+    parser.add_argument('--hmm_model_path', type=str,   default='models/model.hmm')
+    parser.add_argument('--out_file_path',  type=str,   default='results/HMM_results')
+    parser.add_argument('--domtblout_path', type=str,   default='results/HMM_results_domtblout')
+    parser.add_argument('--df_out_path',    type=str,   default='results/HMM_df.csv')
+    parser.add_argument('--evalue',         type=float, default=0.005)
+
+    # 2.Define dictionary of args
     args = parser.parse_args()
 
+    # 3.Run Pipeline
     hmm_pipeline(args.msa_path, args.test_set_path, args.hmm_model_path, args.out_file_path,
                  args.domtblout_path, args.df_out_path, args.evalue)

@@ -4,7 +4,7 @@ Pipeline PSSM
 import os
 import pandas as pd
 import argparse
-import parser as prs
+import parser_lib as prs
 
 def pssm_pipeline(pfam_path, model_path, out_results_path, df_out_path,
                   # outfmt=6,
@@ -14,14 +14,10 @@ def pssm_pipeline(pfam_path, model_path, out_results_path, df_out_path,
     Required files: the MSA fasta file and the test set fasta file
 
     Input file:
-    1. msa_path:       the path of the msa.fasta file (file required). str
-    2. test_set_path:  the path of the test_set (file required). str
-    3. hmm_model_path: the path where we save the HMM model (file generated). str
-    4. out_file_path:  the path where we save the first result table (file generated). str
-    5. domtblout_path: the path where we save the second result table (file generated). str
-    6. df_out_path:    the path where to save the final DataFrame (file generated). str
-    7. evalue:         the maximum e-value that a protein/domain need to have in order to be inserted in the final DataFrame.
-                       Default is 0.05. float
+    1. pfam_path:           the path of the test set(file required). str
+    2. model_path:          the path where we save the PSSM model (file generated). str
+    3. out_results_path:    the path where we save the PSSM results (file generated). str
+    4. df_out_path:         the path where we save the DataFrame (file generated). str
     """
     # 1. Build database
     os.system('makeblastdb -dbtype prot -in {} -parse_seqids'.format(pfam_path))
@@ -36,19 +32,23 @@ def pssm_pipeline(pfam_path, model_path, out_results_path, df_out_path,
     print('Results saved')
 
 
-
+### MAIN
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--pfam_path', type=str, default='data/all_pfam.fasta')
-    parser.add_argument('--model_path', type=str, default='models/model.pssm')
-    parser.add_argument('--out_results_path', type=str, default='results/PSSM_results.txt')
-    parser.add_argument('--df_out_path', type=str, default='results/PSSM_df.csv')
-    # parser.add_argument('--outfmt', type=int, default=6)
-    parser.add_argument('--num_iteration', type=int, default=3)
-    parser.add_argument('--evalue', type=float, default=0.005)
 
+    # 1. Define the arguments
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--pfam_path',          type=str,   default='data/all_pfam.fasta')
+    parser.add_argument('--model_path',         type=str,   default='models/model.pssm')
+    parser.add_argument('--out_results_path',   type=str,   default='results/PSSM_results.txt')
+    parser.add_argument('--df_out_path',        type=str,   default='results/PSSM_df.csv')
+    # parser.add_argument('--outfmt', type=int, default=6)
+    parser.add_argument('--num_iteration',      type=int,   default=1)
+    parser.add_argument('--evalue',             type=float, default=0.001)
+
+    # 2. Generate dictionary of args
     args = parser.parse_args()
 
+    # 3. Run the pipeline
     pssm_pipeline(args.pfam_path, args.model_path, args.out_results_path,
                   args.df_out_path,
                   # args.outfmt,
