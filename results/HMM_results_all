@@ -1,0 +1,382 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.2.1 (June 2018); http://hmmer.org/
+# Copyright (C) 2018 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  models/model.hmm
+# target sequence database:        data/all_pfam.fasta
+# output directed to file:         results/HMM_results_all
+# per-dom hits tabular output:     results/HMM_domtblout_all
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       msa.fasta  [M=10534]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence              Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------              -----------
+    4.4e-07   25.4   0.1    4.4e-07   25.4   0.1    1.0  1  sp|Q13526|PIN1_HUMAN   Peptidyl-prolyl cis-trans isomerase NI
+    6.8e-07   24.8  10.6    8.4e-07   24.5  10.6    1.0  1  sp|O60861|GAS7_HUMAN   Growth arrest-specific protein 7 OS=Ho
+    2.2e-06   23.1  57.3    3.2e-05   19.2  40.4    2.1  2  sp|Q8N3X1|FNBP4_HUMAN  Formin-binding protein 4 OS=Homo sapie
+    5.4e-05   18.5   0.1    5.4e-05   18.5   0.1    1.0  1  sp|O15428|PINL_HUMAN   Putative PIN1-like protein OS=Homo sap
+    5.5e-05   18.4  13.8     0.0034   12.5   2.0    3.0  2  sp|Q96J02|ITCH_HUMAN   E3 ubiquitin-protein ligase Itchy homo
+     0.0011   14.2   2.9     0.0012   14.0   2.9    1.0  1  sp|Q9H4Z3|CAPAM_HUMAN  mRNA (2'-O-methyladenosine-N(6)-)-meth
+     0.0011   14.2   3.1     0.0011   14.2   3.1    1.1  1  sp|Q9H4B6|SAV1_HUMAN   Protein salvador homolog 1 OS=Homo sap
+  ------ inclusion threshold ------
+      0.016   10.2   2.7       0.25    6.3   3.0    2.0  1  sp|Q9HAU4|SMUF2_HUMAN  E3 ubiquitin-protein ligase SMURF2 OS=
+      0.036    9.1  28.7        0.1    7.6   8.1    3.5  3  sp|O00308|WWP2_HUMAN   NEDD4-like E3 ubiquitin-protein ligase
+      0.072    8.1   0.2      0.096    7.7   0.2    1.0  1  sp|Q6Q0C0|TRAF7_HUMAN  E3 ubiquitin-protein ligase TRAF7 OS=H
+       0.39    5.7   0.0       0.33    5.9   0.0    1.0  1  sp|Q9NZC7|WWOX_HUMAN   WW domain-containing oxidoreductase OS
+        1.1    4.1   5.7        1.5    3.7   5.7    1.0  1  sp|Q9Y6R1|S4A4_HUMAN   Electrogenic sodium bicarbonate cotran
+        3.2    2.6   3.4        3.4    2.5   3.4    1.2  1  sp|P13647|K2C5_HUMAN   Keratin, type II cytoskeletal 5 OS=Hom
+        4.4    2.2  12.3        4.6    2.1  12.3    1.0  1  sp|P20226|TBP_HUMAN    TATA-box-binding protein OS=Homo sapie
+        5.4    1.9  10.0        6.9    1.5  10.0    1.1  1  sp|P19013|K2C4_HUMAN   Keratin, type II cytoskeletal 4 OS=Hom
+        8.3    1.2   6.3         11    0.9   6.3    1.1  1  sp|P35908|K22E_HUMAN   Keratin, type II cytoskeletal 2 epider
+
+
+Domain annotation for each sequence (and alignments):
+>> sp|Q13526|PIN1_HUMAN  Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 OS=Homo sapiens OX=9606 GN=PIN1 PE=1 SV=
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   25.4   0.1   3.5e-10   4.4e-07    9391    9473 ..       3      87 ..       1     150 [. 0.58
+
+  Alignments for each domain:
+  == domain 1  score: 25.4 bits;  conditional E-value: 3.5e-10
+             msa.fasta 9391 kkppvPegWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelpesprvssspagepps.......yereevqlasdsdekkpeaprep 9470
+                            ++ ++P+gW+++    + r yY+n+ T+ sqWe+P++++++  ++ +     gep          ++++++++s+  ++k ++++e+
+  sp|Q13526|PIN1_HUMAN    3 DEEKLPPGWEKRMSRSSGRVYYFNHITNASQWERPSGNSSSGGKNGQ-----GEPARvrcshllVKHSQSRRPSSWRQEKITRTKEE 84  
+                            6789**********************************998754432.....22222222234422222222222222222222222 PP
+
+             msa.fasta 9471 ela 9473
+                            +l+
+  sp|Q13526|PIN1_HUMAN   85 ALE 87  
+                            222 PP
+
+>> sp|O60861|GAS7_HUMAN  Growth arrest-specific protein 7 OS=Homo sapiens OX=9606 GN=GAS7 PE=1 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   24.5  10.6   6.6e-10   8.4e-07    9381    9635 ..      66     394 ..      51     468 .. 0.36
+
+  Alignments for each domain:
+  == domain 1  score: 24.5 bits;  conditional E-value: 6.6e-10
+             msa.fasta 9381 appsgppppskkppvPegWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelpespr..............vssspageppsyereev 9453
+                             pp +p ++s++  +P+gW+     + +r yYvn++T+++ We+P+++   p+sp               +s +pa++p++ + +  
+  sp|O60861|GAS7_HUMAN   66 VPP-PPGEESQTVILPPGWQSYLSPQGRR-YYVNTTTNETTWERPSSSPGIPASPGshrsslpptvngyhASGTPAHPPETAHMSVR 150 
+                            344.566667899******9988888777.89****************999988774434444444443333333333333211111 PP
+
+             msa.fasta 9454 qlasdsdek.....kpeaprep....elaaeesp..................pepeaesdseye............elpkpeasfpe 9501
+                            +  s+ d++     +p++++++    +                         p          +            +        p+
+  sp|O60861|GAS7_HUMAN  151 K--STGDSQnlgssSPSKKQSKentiT------IncvtfphpdtmpeqqllkP----------TewsycdyfwadkK-------DPQ 212 
+                            1..223333222221111111111121......02222211111111111110..........01112222222210.......111 PP
+
+             msa.fasta 9502 .eekvegkrgllgk.lldkaqsessses.........eddpvdyqg.....gtkslaspesld.qmpyatq................ 9555
+                             +  v g + ll+k l +k+ +++ s +         e    dy +      ++slas+e+++  + +a+                 
+  sp|O60861|GAS7_HUMAN  213 gNGTVAGFELLLQKqLKGKQMQKEMS-EfirerikieE----DYAKnlaklSQNSLASQEEGSlGEAWAQVkksladeaevhlkfsa 294 
+                            11112221111111011111111111.12222222211....111111111112222221111211222221111111111111111 PP
+
+             msa.fasta 9556 ...............aktkkgvsngmgsaagglgkgllggal.lsdaisdqeeqeqq....tisdyaesyeslreedwatdddrksd 9622
+                                           +++k+   ++  +    l k l+   + +++a +    ++q+    ++++ + + ++++eed ++   rks 
+  sp|O60861|GAS7_HUMAN  295 klhsevekplmnfreNFKKDM--KKCDHHIADLRKQLASRYAsVEKARKALT-ERQRdlemKTQQLEIKLSNKTEEDIKKA-RRKST 377 
+                            122222222332222111111..11111111111111111110111111111.1111122222233333333555666544.35666 PP
+
+             msa.fasta 9623 qdgdslgpi....nkas 9635
+                            q+gd+l       n+a+
+  sp|O60861|GAS7_HUMAN  378 QAGDDLMRCvdlyNQAQ 394 
+                            66666552212222222 PP
+
+>> sp|Q8N3X1|FNBP4_HUMAN  Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    2.4  24.1    0.0029       3.7    9397    9596 ..     218     504 ..      27     556 .. 0.36
+   2 !   19.2  40.4   2.5e-08   3.2e-05    9238    9617 ..     365     985 ..     334    1015 .. 0.40
+
+  Alignments for each domain:
+  == domain 1  score: 2.4 bits;  conditional E-value: 0.0029
+              msa.fasta 9397 egWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelpesprvssspagepps..........yereevqlasdsdek.......kpe 9465
+                              +W+  wd++   +yY n++T++  We P+  +++ +  + + +p++ p +          y++e++ + s   +k       ++ 
+  sp|Q8N3X1|FNBP4_HUMAN  218 GDWQEVWDENTGCYYYWNTQTNEVTWELPQYLATQVQGLQ-HYQPSSVPGAetsfvvntdiYSKEKTISVS--SSKsgpviakREV 300 
+                             59*****************************999764433.334444443333356655543322222222..2222344432111 PP
+
+              msa.fasta 9466 aprep......elaa.eesp......................................pepeaesdseyeelpkp........... 9495
+                             ++  +      +l   ee +                                      +               +           
+  sp|Q8N3X1|FNBP4_HUMAN  301 KK--EvnegiqALSNsEE-EkkgvaasllapllpegikeeeerwrrkvickeepvsevK---------------Etsttveeatti 368 
+                             11..12232322222211.1234444455555544444333334444443322222110...............011111111111 PP
+
+              msa.fasta 9496 ...e...................asfpeeekvegkrgllgklldkaqsessseseddpvdyqggt.............kslas... 9543
+                                +                   +s ++ee++e++   l+ +l++++ e                                 s   
+  sp|Q8N3X1|FNBP4_HUMAN  369 vkpQeimldniedpsqedlcsvvQSGESEEEEEQDTLELELVLERKKAELR-------------AleegdgsvsgsspR---Sdis 438 
+                             211011111111111112221111111111122221112222222211111.............011111122211111...0222 PP
+
+              msa.fasta 9544 .pesld........qmpyatq...........aktkkgvs...ngmgsaagglgkgllggallsdaisdqeeqeqq 9596
+                              p+s+d                          + + +++s   +  + +    g+  + ga  s+ i++++++e +
+  sp|Q8N3X1|FNBP4_HUMAN  439 qPASQDgmrrlmskR-----GkwkmfvratspE-STSRSSsktGRDTPE---NGET-AIGAENSEKIDENSDKEME 504 
+                             122222233333321.....0233334433321.111111011122222...2222.2233333333333222111 PP
+
+  == domain 2  score: 19.2 bits;  conditional E-value: 2.5e-08
+              msa.fasta 9238 ptpqtkpeevlla...........spvfsgesqhtptdidiaalqqlhgqppnlqpl............................. 9283
+                             +t+  kp+e++l+           s v+sges++++++ + ++   l++++++l+ l                             
+  sp|Q8N3X1|FNBP4_HUMAN  365 ATTIVKPQEIMLDniedpsqedlcSVVQSGESEEEEEQDTLELELVLERKKAELRALeegdgsvsgssprsdisqpasqdgmrrlm 450 
+                             23344666666666777777777766666666655543333322223333444555555566665555555555444444444444 PP
+
+              msa.fasta 9284 ...................epilnedvelktsp.............gaagl..askledrseeeysvpasevsvrereladkveda 9335
+                                                                           +a g   + k +++s++e++v++s+++++  + + kve++
+  sp|Q8N3X1|FNBP4_HUMAN  451 skrgkwkmfvratspestsR------------SssktgrdtpengeTAIGAenSEKIDENSDKEMEVEESPEKIKV-QTTPKVEEE 523 
+                             44444443333222211110............01111112222221111112235555555566666665555543.344444432 PP
+
+              msa.fasta 9336 hrpvtpevylqdvelpaspe................ikpqdi..........kvl..mdqppq..spsvgyssspappsgppppsk 9391
+                             +                  +                i+ q+i          + +  +d + +   ++   + + +  +++ ++ +
+  sp|Q8N3X1|FNBP4_HUMAN  524 QDLKF--------------QigelantltskfeflgINRQSIsnfhvlllqtE-TriADWR-EgaLNGNYLKRKLQDAAEQLKQYE 593 
+                             22211..............0111122222233344444444444444443221.0222222.122222212222222233333345 PP
+
+              msa.fasta 9392 kppvPegWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelpesprvssspageppsyereevqlasdsdek..kpeaprepelaae 9475
+                                 P+gW  +wd  ++r++Yvn++ g+sqWe P +e+e++es++++++++   ++    + ++++ +d++  +++++++ +l +e
+  sp|Q8N3X1|FNBP4_HUMAN  594 INATPKGWSCHWDRDHRRYFYVNEQSGESQWEFPDGEEEEEESQAQENRDETLAKQ----TLKDKTGTDSNstESSETSTGSLCKE 675 
+                             6789**********************************988655432222222222....22222222222112222222233332 PP
+
+              msa.fasta 9476 es..p.......................................................pepeaesdseye.........elpkp 9495
+                             +   +                                                       +          +         e   +
+  sp|Q8N3X1|FNBP4_HUMAN  676 SFsgQvsssslmpltpfwtllqsnvpvlqpplplemppppppppesppppppppppaedgE---------IQevemedegsE---E 749 
+                             2222122333444555666666666677777777777788888888888887655444331.........331222222212...0 PP
+
+              msa.fasta 9496 .........e...........asfpeeekvegkrgllgklldkaqsessses.................................. 9527
+                                      +           +              +++ +d++ s+sss++                                  
+  sp|Q8N3X1|FNBP4_HUMAN  750 ppapgteedTplkpsaqttvvT--------------SQSSVDSTISSSSSTKgikrkateistavvqrsatigsspvlysqsaiat 821 
+                             2222332220222222222220..............22222222222222222333344444444444456666666766666666 PP
+
+              msa.fasta 9528 ..............................eddpvdyqggt............................................. 9538
+                                                           +                                                       
+  sp|Q8N3X1|FNBP4_HUMAN  822 ghqaagignqatgighqtipvslpaagmghQ---------Argmslqsnylglaaapaimsyaecsvpigvtapslqpvqargavp 898 
+                             6555555554444444433333333333320.........0222233333333334444333333344443333333333333333 PP
+
+              msa.fasta 9539 .....kslas........pesldqmpyatq..........aktkkgvsngmgsaagglgkgllggallsdaisdqee.qeqq...t 9597
+                                  +   +        p          +          +ktkkg++   +++    +     + l+++  s q+e +e++    
+  sp|Q8N3X1|FNBP4_HUMAN  899 tatiiE---PppppppppP----------PpppapkmpppEKTKKGRK-DKAKK--SKT---KMPSLVKKWQSIQRElDEEDnssS 965 
+                             333321...0222222220..........0122222232222222221.11111..111...122222222222222111111111 PP
+
+              msa.fasta 9598 isdyaesyeslreedwatdd 9617
+                              ++ +es+ ++r e+w++++
+  sp|Q8N3X1|FNBP4_HUMAN  966 SEEDRESTAQKRIEEWKQQQ 985 
+                             12222333334445555443 PP
+
+>> sp|O15428|PINL_HUMAN  Putative PIN1-like protein OS=Homo sapiens OX=9606 GN=PIN1P1 PE=5 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   18.5   0.1   4.2e-08   5.4e-05    9391    9433 ..       3      45 ..       1      95 [. 0.82
+
+  Alignments for each domain:
+  == domain 1  score: 18.5 bits;  conditional E-value: 4.2e-08
+             msa.fasta 9391 kkppvPegWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelpe 9433
+                            ++ ++P+gW+++    + r yY+n+ T+ sqWe+P++++++  
+  sp|O15428|PINL_HUMAN    3 DEEKLPPGWEKRMSRPSGRGYYFNHITNPSQWERPSGNSSSGG 45  
+                            6789********************************9988654 PP
+
+>> sp|Q96J02|ITCH_HUMAN  E3 ubiquitin-protein ligase Itchy homolog OS=Homo sapiens OX=9606 GN=ITCH PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    3.8   8.0    0.0011       1.5    9385    9428 ..     319     360 ..     248     416 .. 0.78
+   2 !   12.5   2.0   2.7e-06    0.0034    9362    9435 ..     408     479 ..     393     517 .. 0.75
+
+  Alignments for each domain:
+  == domain 1  score: 3.8 bits;  conditional E-value: 0.0011
+             msa.fasta 9385 gppppskkppvPegWkaqwddeyqrWyYvnlaTgrsqWeaPeee 9428
+                            + +p  ++ p+P+gW+++ d ++ r yYv++  +r+ W++Pe  
+  sp|Q96J02|ITCH_HUMAN  319 PLNP-VTQAPLPPGWEQRVD-QHGRVYYVDHVEKRTTWDRPEPL 360 
+                            4444.467889999988865.57788899999999999998754 PP
+
+  == domain 2  score: 12.5 bits;  conditional E-value: 2.7e-06
+             msa.fasta 9362 kvlmdqppqspsvgyssspappsgppppskkppvPegWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelpesp 9435
+                            + +m+q +q+  +g++  +a   + ++  +  p+P+gW+++ d +  r y+vn++T+ +qWe P+++ +l+e+p
+  sp|Q96J02|ITCH_HUMAN  408 QGAMQQFNQRFIYGNQDLFATS-QSKEFDPLGPLPPGWEKRTDSN-GRVYFVNHNTRITQWEDPRSQGQLNEKP 479 
+                            4446555554444566666666.444555678********97765.68899***************99988654 PP
+
+>> sp|Q9H4Z3|CAPAM_HUMAN  mRNA (2'-O-methyladenosine-N(6)-)-methyltransferase OS=Homo sapiens OX=9606 GN=PCIF1 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.0   2.9   9.2e-07    0.0012    9376    9479 ..      24     158 ..       3     334 .. 0.66
+
+  Alignments for each domain:
+  == domain 1  score: 14.0 bits;  conditional E-value: 9.2e-07
+              msa.fasta 9376 yssspappsgpppps..kkppvPegWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelpespr.........vssspageppsyer 9450
+                             ++s+p +p++    +  ++  v  gW++ w  + +r yY+n  T++s We P   ++   s+          ++ss  + pp+   
+  sp|Q9H4Z3|CAPAM_HUMAN   24 NQSQPCSPKPIRLVQdlPEELVHAGWEKCWSRRENRPYYFNRFTNQSLWEMPVLGQHDVISDPlglnatplpQDSSLVETPPAE-- 107 
+                             233333332333222003345778*****************************9999775544676666665333333333332.. PP
+
+              msa.fasta 9451 eevqlasdsdek.kpeaprepelaaeesp.....................p 9479
+                             +++++++ s+e+ + +  ++p+++ +  p                     +
+  sp|Q9H4Z3|CAPAM_HUMAN  108 NKPRKRQLSEEQpSGNGVKKPKIEIPVTPtgqsvpsspsipgtptlkmwgT 158 
+                             122222222233222222233555533321122223333333333433331 PP
+
+>> sp|Q9H4B6|SAV1_HUMAN  Protein salvador homolog 1 OS=Homo sapiens OX=9606 GN=SAV1 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.2   3.1   8.3e-07    0.0011    9363    9474 ..     167     275 ..       4     381 .. 0.58
+
+  Alignments for each domain:
+  == domain 1  score: 14.2 bits;  conditional E-value: 8.3e-07
+             msa.fasta 9363 vlmdqppq..spsvgyssspappsgppppskkppvPegWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelpespr.vssspagepp 9446
+                            ++m q++    +++g  + +   +  ++ s++ p+P+gW   w  + ++ yY++++T+++ W +P e + lp+  + v+ss+ g   
+  sp|Q9H4B6|SAV1_HUMAN  167 QRMPQNQGrhASGIGRVAATSLGNLTNHGSEDLPLPPGWSVDWTMRGRK-YYIDHNTNTTHWSHPLEREGLPPGWErVESSEFGTY- 251 
+                            23444442233344444444455677888999************99877.79**************99998854332433333321. PP
+
+             msa.fasta 9447 syereevqlasdsdekkpeaprepelaa 9474
+                             y ++++++a   + ++p ap++p+ ++
+  sp|Q9H4B6|SAV1_HUMAN  252 -YVDHTNKKA---QYRHPCAPSVPRYDQ 275 
+                            .211111111...112344444443222 PP
+
+>> sp|Q9HAU4|SMUF2_HUMAN  E3 ubiquitin-protein ligase SMURF2 OS=Homo sapiens OX=9606 GN=SMURF2 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    6.3   3.0    0.0002      0.25    9395    9491 ..     159     292 ..     153     430 .. 0.37
+
+  Alignments for each domain:
+  == domain 1  score: 6.3 bits;  conditional E-value: 0.0002
+              msa.fasta 9395 vPegWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelpespr.......vssspagepps...yereevqla...sdsdekkpeap 9467
+                             +P+gW+ +    + r  Y+n+ T+++qWe+P+ ++++ +sp         +++p + ++     ++++++la    +s++++++ +
+  sp|Q9HAU4|SMUF2_HUMAN  159 LPDGWEER-RTASGRIQYLNHITRTTQWERPTRPASEYSSPGrplscfvDENTPISGTNGatcGQSSDPRLAerrVRSQRHRNYMS 243 
+                             67777666.44556666777777777777777777766555555544432222222222222211111111111111111122222 PP
+
+              msa.fasta 9468 repelaaees.ppepeaesdseye.........................e 9491
+                             r+ +l ++ + p+ +e++++++++                         +
+  sp|Q9HAU4|SMUF2_HUMAN  244 RT-HLHTPPDlPEGYEQRTTQQGQvyflhtqtgvstwhdprvprdlsniN 292 
+                             22.23332222111111111111122222222222222222222222220 PP
+
+>> sp|O00308|WWP2_HUMAN  NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapiens OX=9606 GN=WWP2 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -0.5  16.7     0.021        27    9380    9435 ..     321     371 ..     161     397 .. 0.61
+   2 ?    7.6   8.1   8.2e-05       0.1    9371    9433 ..     387     443 ..     368     476 .. 0.65
+   3 ?    1.5   0.2    0.0055         7    9391    9432 ..     442     482 ..     436     503 .. 0.80
+
+  Alignments for each domain:
+  == domain 1  score: -0.5 bits;  conditional E-value: 0.021
+             msa.fasta 9380 pappsgppppskkppvPegWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelpesp 9435
+                                 + + ++ + p+P+gW+++ d +  r+yYv+++T+++ W++P++e  ++ ++
+  sp|O00308|WWP2_HUMAN  321 H----NTKTTTWERPLPPGWEKRTDPR-GRFYYVDHNTRTTTWQRPTAEYVRNYEQ 371 
+                            2....2222334567888888886655.6788888888888888888887765332 PP
+
+  == domain 2  score: 7.6 bits;  conditional E-value: 8.2e-05
+             msa.fasta 9371 spsvgyssspappsgppppskkppvPegWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelpe 9433
+                            s++  y+ss a++   +p     p+P+gW+++ d+   r yYvn++T+++qWe P+ + + +e
+  sp|O00308|WWP2_HUMAN  387 SQRFLYQSSSAST-DHDP---LGPLPPGWEKRQDN--GRVYYVNHNTRTTQWEDPRTQGMIQE 443 
+                            2222344555444.3444...379*******9775..699***************99987654 PP
+
+  == domain 3  score: 1.5 bits;  conditional E-value: 0.0055
+             msa.fasta 9391 kkppvPegWkaqwddeyqrWyYvnlaTgrsqWeaPeeevelp 9432
+                            ++p +P+gW+ ++  e  r y+v+++T+++ +  P+   e+ 
+  sp|O00308|WWP2_HUMAN  442 QEPALPPGWEMKYTSEGVR-YFVDHNTRTTTFKDPRPGFESG 482 
+                            689*************999.67***********998776644 PP
+
+>> sp|Q6Q0C0|TRAF7_HUMAN  E3 ubiquitin-protein ligase TRAF7 OS=Homo sapiens OX=9606 GN=TRAF7 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    7.7   0.2   7.5e-05     0.096   10171   10248 ..     301     379 ..     281     393 .. 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 7.7 bits;  conditional E-value: 7.5e-05
+              msa.fasta 10171 ytkaiaekdaqiahlraqldaqaariselqkeienqeqifrspepsgaddfld.lhdvdyfdqrlsqlcahvqqwvlrf 10248
+                                 a+a+kd +ia lr+ l   +++i +l+k +e + +++   + + ++d ++ + d  ++++ ls++ a++   +l  
+  sp|Q6Q0C0|TRAF7_HUMAN   301 MHVALAQKDQEIAFLRSMLGKLSEKIDQLEKSLELKFDVLDENQSKLSEDLMEfRRDASMLNDELSHINARLNMGILGS 379  
+                              4569************************************************95679**********999887766655 PP
+
+>> sp|Q9NZC7|WWOX_HUMAN  WW domain-containing oxidoreductase OS=Homo sapiens OX=9606 GN=WWOX PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    5.9   0.0   0.00026      0.33    9391    9435 ..      14      57 ..       4     317 .. 0.78
+
+  Alignments for each domain:
+  == domain 1  score: 5.9 bits;  conditional E-value: 0.00026
+             msa.fasta 9391 kkppvPegWkaqwddeyqrW.yYvnlaTgrsqWeaPeeevelpesp 9435
+                            ++ ++P+gW+ +       W yY n++ +++qWe+P+  + +++  
+  sp|Q9NZC7|WWOX_HUMAN   14 SEDELPPGWEER--TTKDGWvYYANHTEEKTQWEHPKTGKRKRVAG 57  
+                            56799****998..4555673677777789******9988866533 PP
+
+>> sp|Q9Y6R1|S4A4_HUMAN  Electrogenic sodium bicarbonate cotransporter 1 OS=Homo sapiens OX=9606 GN=SLC4A4 PE=1 SV=1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.7   5.7    0.0012       1.5    1873    1905 ..    1004    1036 ..     997    1043 .. 0.88
+
+  Alignments for each domain:
+  == domain 1  score: 3.7 bits;  conditional E-value: 0.0012
+             msa.fasta 1873 dipvakakeekeeekkkkkkkkshdsnnagsds 1905
+                            d+   k k++ke+ekkkkkkk s ds+n  sd 
+  sp|Q9Y6R1|S4A4_HUMAN 1004 DVIPEKDKKKKEDEKKKKKKKGSLDSDNDDSDC 1036
+                            6666799**********************9996 PP
+
+>> sp|P13647|K2C5_HUMAN  Keratin, type II cytoskeletal 5 OS=Homo sapiens OX=9606 GN=KRT5 PE=1 SV=3
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.5   3.4    0.0026       3.4   10101   10197 ..     386     482 ..     156     488 .. 0.86
+
+  Alignments for each domain:
+  == domain 1  score: 2.5 bits;  conditional E-value: 0.0026
+             msa.fasta 10101 ladknieienlqreiqetretcdrleetyegfksstaaiaak.hsdkvreleeqvrkaaeelaaaqggheqytkaiaekdaqiah 10184
+                             +++ n  i+ l+ ei++ ++ c +l++   + ++    +a k  ++k++elee+ +ka +++a     +++  ++    d +ia 
+  sp|P13647|K2C5_HUMAN   386 ISEMNRMIQRLRAEIDNVKKQCANLQNAIADAEQ-RGELALKdARNKLAELEEALQKAKQDMARLLREYQELMNTKLALDVEIAT 469  
+                             5677888999999999999999999999998877.4555655157899*********9999999998888888888889999999 PP
+
+             msa.fasta 10185 lraqldaqaaris 10197
+                              r  l+ +  r+s
+  sp|P13647|K2C5_HUMAN   470 YRKLLEGEECRLS 482  
+                             9999999998886 PP
+
+>> sp|P20226|TBP_HUMAN  TATA-box-binding protein OS=Homo sapiens OX=9606 GN=TBP PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.1  12.3    0.0036       4.6     122     185 ..      58     121 ..      13     200 .. 0.59
+
+  Alignments for each domain:
+  == domain 1  score: 2.1 bits;  conditional E-value: 0.0036
+            msa.fasta 122 hhdkeyqqhkdqpkdqyhqpkdqyndhqqyepqheyqrpeyvpqnqyapsdqttprpyvaqpqy 185
+                          +++++ qq+++q ++q +q ++q +++qq + q++ q+       q + s+q+t       pq 
+  sp|P20226|TBP_HUMAN  58 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQAVAAAAVQQSTSQQATQGTSGQAPQL 121
+                          1111111111111111111111111122222222222222222223333333333333333333 PP
+
+>> sp|P19013|K2C4_HUMAN  Keratin, type II cytoskeletal 4 OS=Homo sapiens OX=9606 GN=KRT4 PE=1 SV=4
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.5  10.0    0.0054       6.9   10064   10197 ..     328     465 ..     268     475 .. 0.76
+
+  Alignments for each domain:
+  == domain 1  score: 1.5 bits;  conditional E-value: 0.0054
+             msa.fasta 10064 dlerqlaqllaenaalqkak.ndaetelsqrn...selssiladknieienlqreiqetretcdrleetye.gfksstaaiaakh 10143
+                             ++e+ +++  ae+ al ++k ++++ ++ q      +  s +a+ n  i+ l+ ei++ ++ c++l+     + +    a+   h
+  sp|P19013|K2C4_HUMAN   328 QYEEIAQRSKAEAEALYQTKvQQLQISVDQHGdnlKNTKSEIAELNRMIQRLRAEIENIKKQCQTLQVSVAdAEQRGENALKDAH 412  
+                             4444455555666666554413445555554400144568899************************998845566788999999 PP
+
+             msa.fasta 10144 sdkvreleeqvrkaaeelaaaqggheqytkaiaekdaqiahlraqldaqaaris 10197
+                             s++v ele + ++a eela     +++        d +ia  r  l+ +  r+s
+  sp|P19013|K2C4_HUMAN   413 SKRV-ELEAALQQAKEELARMLREYQELMSVKLALDIEIATYRKLLEGEEYRMS 465  
+                             9988.68*************999988888888889***********99999987 PP
+
+>> sp|P35908|K22E_HUMAN  Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens OX=9606 GN=KRT2 PE=1 SV=2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.9   6.3    0.0084        11   10073   10197 ..     364     492 ..     306     510 .. 0.76
+
+  Alignments for each domain:
+  == domain 1  score: 0.9 bits;  conditional E-value: 0.0084
+             msa.fasta 10073 laenaalqkak.ndaetelsqrnselssi...ladknieienlqreiqetretcdrleetyegfksstaaiaakhsdkvreleeq 10153
+                               e+ al + k +++++++++    l  i   +++ n  i+ lq ei + ++ c+++++   + ++         ++k+++lee+
+  sp|P35908|K22E_HUMAN   364 KEEAEALYHSKyEELQVTVGRHGDSLKEIkieISELNRVIQRLQGEIAHVKKQCKNVQDAIADAEQRGEHALKDARNKLNDLEEA 448  
+                             334444444441445555555555555552225678999**********************9988866666666789******** PP
+
+             msa.fasta 10154 vrkaaeelaaaqggheqytkaiaekdaqiahlraqldaqaaris 10197
+                              ++a e+la     +++  +     d +ia  r  l+ +  r+s
+  sp|P35908|K22E_HUMAN   449 LQQAKEDLARLLRDYQELMNVKLALDVEIATYRKLLEGEECRMS 492  
+                             **********999999999999999************9999997 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (10534 nodes)
+Target sequences:                      20367  (11357410 residues searched)
+Passed MSV filter:                      3338  (0.163893); expected 407.3 (0.02)
+Passed bias filter:                      845  (0.0414887); expected 407.3 (0.02)
+Passed Vit filter:                       237  (0.0116365); expected 20.4 (0.001)
+Passed Fwd filter:                        62  (0.00304414); expected 0.2 (1e-05)
+Initial search space (Z):              20367  [actual number of targets]
+Domain search space  (domZ):              16  [number of targets reported over threshold]
+# CPU time: 45.94u 0.80s 00:00:46.73 Elapsed: 00:00:23.74
+# Mc/sec: 5038.50
+//
+[ok]

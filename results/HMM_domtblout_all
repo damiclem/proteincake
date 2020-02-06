@@ -1,0 +1,33 @@
+#                                                                             --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name         accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+# ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+sp|Q13526|PIN1_HUMAN  -            163 msa.fasta            -          10534   4.4e-07   25.4   0.1   1   1   3.5e-10   4.4e-07   25.4   0.1  9391  9473     3    87     1   150 0.58 Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 OS=Homo sapiens OX=9606 GN=PIN1 PE=1 SV=1
+sp|O60861|GAS7_HUMAN  -            476 msa.fasta            -          10534   6.8e-07   24.8  10.6   1   1   6.6e-10   8.4e-07   24.5  10.6  9381  9635    66   394    51   468 0.36 Growth arrest-specific protein 7 OS=Homo sapiens OX=9606 GN=GAS7 PE=1 SV=3
+sp|Q8N3X1|FNBP4_HUMAN -           1017 msa.fasta            -          10534   2.2e-06   23.1  57.3   1   2    0.0029       3.7    2.4  24.1  9397  9596   218   504    27   556 0.36 Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 SV=3
+sp|Q8N3X1|FNBP4_HUMAN -           1017 msa.fasta            -          10534   2.2e-06   23.1  57.3   2   2   2.5e-08   3.2e-05   19.2  40.4  9238  9617   365   985   334  1015 0.40 Formin-binding protein 4 OS=Homo sapiens OX=9606 GN=FNBP4 PE=1 SV=3
+sp|O15428|PINL_HUMAN  -            100 msa.fasta            -          10534   5.4e-05   18.5   0.1   1   1   4.2e-08   5.4e-05   18.5   0.1  9391  9433     3    45     1    95 0.82 Putative PIN1-like protein OS=Homo sapiens OX=9606 GN=PIN1P1 PE=5 SV=1
+sp|Q96J02|ITCH_HUMAN  -            903 msa.fasta            -          10534   5.5e-05   18.4  13.8   1   2    0.0011       1.5    3.8   8.0  9385  9428   319   360   248   416 0.78 E3 ubiquitin-protein ligase Itchy homolog OS=Homo sapiens OX=9606 GN=ITCH PE=1 SV=2
+sp|Q96J02|ITCH_HUMAN  -            903 msa.fasta            -          10534   5.5e-05   18.4  13.8   2   2   2.7e-06    0.0034   12.5   2.0  9362  9435   408   479   393   517 0.75 E3 ubiquitin-protein ligase Itchy homolog OS=Homo sapiens OX=9606 GN=ITCH PE=1 SV=2
+sp|Q9H4Z3|CAPAM_HUMAN -            704 msa.fasta            -          10534    0.0011   14.2   2.9   1   1   9.2e-07    0.0012   14.0   2.9  9376  9479    24   158     3   334 0.66 mRNA (2'-O-methyladenosine-N(6)-)-methyltransferase OS=Homo sapiens OX=9606 GN=PCIF1 PE=1 SV=1
+sp|Q9H4B6|SAV1_HUMAN  -            383 msa.fasta            -          10534    0.0011   14.2   3.1   1   1   8.3e-07    0.0011   14.2   3.1  9363  9474   167   275     4   381 0.58 Protein salvador homolog 1 OS=Homo sapiens OX=9606 GN=SAV1 PE=1 SV=2
+sp|Q9HAU4|SMUF2_HUMAN -            748 msa.fasta            -          10534     0.016   10.2   2.7   1   1    0.0002      0.25    6.3   3.0  9395  9491   159   292   153   430 0.37 E3 ubiquitin-protein ligase SMURF2 OS=Homo sapiens OX=9606 GN=SMURF2 PE=1 SV=1
+sp|O00308|WWP2_HUMAN  -            870 msa.fasta            -          10534     0.036    9.1  28.7   1   3     0.021        27   -0.5  16.7  9380  9435   321   371   161   397 0.61 NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapiens OX=9606 GN=WWP2 PE=1 SV=2
+sp|O00308|WWP2_HUMAN  -            870 msa.fasta            -          10534     0.036    9.1  28.7   2   3   8.2e-05       0.1    7.6   8.1  9371  9433   387   443   368   476 0.65 NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapiens OX=9606 GN=WWP2 PE=1 SV=2
+sp|O00308|WWP2_HUMAN  -            870 msa.fasta            -          10534     0.036    9.1  28.7   3   3    0.0055         7    1.5   0.2  9391  9432   442   482   436   503 0.80 NEDD4-like E3 ubiquitin-protein ligase WWP2 OS=Homo sapiens OX=9606 GN=WWP2 PE=1 SV=2
+sp|Q6Q0C0|TRAF7_HUMAN -            670 msa.fasta            -          10534     0.072    8.1   0.2   1   1   7.5e-05     0.096    7.7   0.2 10171 10248   301   379   281   393 0.85 E3 ubiquitin-protein ligase TRAF7 OS=Homo sapiens OX=9606 GN=TRAF7 PE=1 SV=1
+sp|Q9NZC7|WWOX_HUMAN  -            414 msa.fasta            -          10534      0.39    5.7   0.0   1   1   0.00026      0.33    5.9   0.0  9391  9435    14    57     4   317 0.78 WW domain-containing oxidoreductase OS=Homo sapiens OX=9606 GN=WWOX PE=1 SV=1
+sp|Q9Y6R1|S4A4_HUMAN  -           1079 msa.fasta            -          10534       1.1    4.1   5.7   1   1    0.0012       1.5    3.7   5.7  1873  1905  1004  1036   997  1043 0.88 Electrogenic sodium bicarbonate cotransporter 1 OS=Homo sapiens OX=9606 GN=SLC4A4 PE=1 SV=1
+sp|P13647|K2C5_HUMAN  -            590 msa.fasta            -          10534       3.2    2.6   3.4   1   1    0.0026       3.4    2.5   3.4 10101 10197   386   482   156   488 0.86 Keratin, type II cytoskeletal 5 OS=Homo sapiens OX=9606 GN=KRT5 PE=1 SV=3
+sp|P20226|TBP_HUMAN   -            339 msa.fasta            -          10534       4.4    2.2  12.3   1   1    0.0036       4.6    2.1  12.3   122   185    58   121    13   200 0.59 TATA-box-binding protein OS=Homo sapiens OX=9606 GN=TBP PE=1 SV=2
+sp|P19013|K2C4_HUMAN  -            534 msa.fasta            -          10534       5.4    1.9  10.0   1   1    0.0054       6.9    1.5  10.0 10064 10197   328   465   268   475 0.76 Keratin, type II cytoskeletal 4 OS=Homo sapiens OX=9606 GN=KRT4 PE=1 SV=4
+sp|P35908|K22E_HUMAN  -            639 msa.fasta            -          10534       8.3    1.2   6.3   1   1    0.0084        11    0.9   6.3 10073 10197   364   492   306   510 0.76 Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens OX=9606 GN=KRT2 PE=1 SV=2
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      models/model.hmm
+# Target file:     data/all_pfam.fasta
+# Option settings: hmmsearch -o results/HMM_results_all --domtblout results/HMM_domtblout_all models/model.hmm data/all_pfam.fasta 
+# Current dir:     /media/my_data/Documenti/Data_Science/Biological_Data/beerprot
+# Date:            Thu Feb  6 10:02:36 2020
+# [ok]
