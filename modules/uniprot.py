@@ -54,6 +54,7 @@ def get_proteins(proteins_id, batch_size=100, format='fasta', params={}):
 
 # Define function for making a generic query
 def make_query(query, params={}):
+<<<<<<< HEAD
     """
     Executes a generic query in UniProt, by using official APIs.
     UniProt's official query API info: https://www.uniprot.org/help/api_queries
@@ -67,6 +68,8 @@ def make_query(query, params={}):
     3. response: response object, useful for debug purposes
     """
 
+=======
+>>>>>>> 1f48b84c5ea7c9cb3686aafb0a817c5ae494452e
     # Define params
     params = {**{
         'sort': 'score',
@@ -79,7 +82,11 @@ def make_query(query, params={}):
     # Make query
     response = req.get('/'.join([BASE_URL, 'uniprot']),
                         headers={'Accept': 'text/plain'},
+<<<<<<< HEAD
                         params=params)
+=======
+                        params = params)
+>>>>>>> 1f48b84c5ea7c9cb3686aafb0a817c5ae494452e
     # Get result
     result = response.text
     status = (response.status_code == 200)
