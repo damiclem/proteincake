@@ -59,7 +59,7 @@ def run_clustalo(email, sequence, params={}):
 
 # Wrapper for MUSCLE omega multiple sequence alignment algorithm
 def run_muscle(email, sequence, params={}):
-    return run_job(email=email, sequence=sequence, algorithm=MUSLCE, params={**{
+    return run_job(email=email, sequence=sequence, algorithm=MUSCLE, params={**{
         # Default parameters
         'format': 'fasta'
     }, **params})

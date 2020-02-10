@@ -25,25 +25,35 @@ def get_protein(protein_id, database='uniref', params={}):
     return res.status_code == 200, res.text, res
 
 
-# Define function for retrieving protein batches
-def get_proteins(proteins_id, batch_size=100, format='fasta', params={}):
+# Define function for retrieving mapping entries batches
+def map_ids(ids, from_db='NF90', to_db='NF90', out_format='fasta', batch_size=100, params={}):
+    """
+    Maps batches of entries from <from_db> to <to_db>, formatted as <out_format> format
+    Note that GET action cannot handle too many data, hence query must be splitted in batches
+    More information about this api can be found at https://www.uniprot.org/help/api_idmapping
+    Input:
+    1. ids:     batch of some database IDs (e.g. Pfam, UniProtKB, ...)
+    2. format:  output format
+    3. params:  extra parameters to be used in query
+    Output:
+    1. Mapping <from> -> <to>, retrieved as specified by <format>
+    """
     # Define output container
     out = ''
     # Define number of proteins id
-    num_proteins = len(proteins_id)
+    num_ids = len(ids)
     # Loop through each batch
-    for i in range(0, num_proteins, batch_size):
-        # Define protein ids batch
-        batch = proteins_id[i:min((i+batch_size), num_proteins)]
+    for i in range(0, num_ids, batch_size):
+        # Define ids batch
+        batch_ids = ids[i:min((i+batch_size), num_ids)]
         # Make API request
         res = req.get('/'.join([BASE_URL, 'uploadlists']),
-                        headers={'Accept': 'text/x-fasta'},
-                        params={**{'format': format,
-                                    'from': 'NF90',
-                                    'to': 'NF90',
-                                    'query': ' '.join(batch)},
-                                # User defined parameters
-                                **params})
+                      params={**params, **{
+                        'from': from_db,
+                        'to': to_db,
+                        'format': out_format,
+                        'query': ' '.join(batch_ids)
+                      }})
         # Check result
         if res.status_code != 200: break
         # Store results
@@ -58,13 +68,14 @@ def make_query(query, params={}):
     Executes a generic query in UniProt, by using official APIs.
     UniProt's official query API info: https://www.uniprot.org/help/api_queries
     Retrievable data columns: https://www.uniprot.org/help/uniprotkb_column_names
+    More in depth documentation for database(...) parameter: https://www.uniprot.org/docs/dbxref
     Input:
-    1. query: search query, formatted with UniProt Standards
-    2. params: other search parameters, which are concatenated after query
+        1. query:       search query, formatted with UniProt Standards
+        2. params:      other search parameters, which are concatenated after query
     Output:
-    1. status: did the request return a 200 OK status code? 1|0
-    2. result: result of the query (reliable only if status==1)
-    3. response: response object, useful for debug purposes
+        1. status:      did the request return a 200 OK status code? 1|0
+        2. result:      result of the query (reliable only if status==1)
+        3. response:    response object, useful for debug purposes
     """
 
     # Define params
@@ -94,7 +105,7 @@ def make_query(query, params={}):
 if __name__ == '__main__':
 
     # Test multiple sequences retrieval trhough fasta
-    status, result, response = get_proteins(['UniRef90_P43582', 'UniRef90_J8Q8J2', 'UniRef90_J5RH20'])
+    status, result, response = map_ids(['UniRef90_P43582', 'UniRef90_J8Q8J2', 'UniRef90_J5RH20'])
     # Check status
     assert status, 'Error while retrieving fasta result'
     # Check fasta format
