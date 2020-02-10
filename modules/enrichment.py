@@ -145,8 +145,31 @@ def enrich(df1, df2, ontology, col_name_go = 'go_id', col_name_descr='go_descr')
         depth_.append(depth[go_id])
     df['depth'] = depth_
     df[col_name_descr] = labels_
-    # 5. Return dataframe
+    # 5. Assign to every GO term the minimum pvalue between its pvalue and its children ones
+    df = transmit_pvalue(df, ontology)
+    # 6. Return dataframe
     return df
+
+"""
+Function that assign to every GO terms the minimum p-value between its own p-value and the p-values of their children.
+"""
+def transmit_pvalue(enrichment, ontology):
+    # 1. Get the children of every GO term
+    children_dict = get_children(ontology)
+    # 2. For every GO in our enrichment dataset we assign to it the minimum p-value of its children
+    for go_id in enrichment.index:
+        # Check if the GO term has child
+        if children_dict.get(go_id):
+            # Retrieve the set of the p-values of all its children
+            pvalues = enrichment['p-value'][enrichment.index.isin(children_dict[go_id])]
+            # Check we have some children in the dataset. Otherwise we have an empy set 'pvalues'
+            if list(pvalues.values):
+                # Check if the mimimum pvalue is actually lower than the ancestor one
+                min_pvalue = pvalues.min()
+                if min_pvalue < enrichment['p-value'][enrichment.index == go_id].values[0]:
+                    # If all the conditions are True we assign the minimum pvalue
+                    enrichment['p-value'][enrichment.index == go_id] = min_pvalue
+    return enrichment
 
 """
 Filter the enrich dataframe by taking out GO_terms with high p-value or high depth
@@ -171,8 +194,8 @@ if __name__ == '__main__':
         ### Path of the file containing the ontology graph structure
         parser.add_argument('--ontology_path',        type=str,   default='data/go/go.json.gz')
         ### Paths of the two dataframe that must be compared
-        parser.add_argument('--original_df_path',     type=str,   default='data/go.csv')
-        parser.add_argument('--background_df_path',   type=str,   default='data/go_positive.csv')
+        parser.add_argument('--original_df_path',     type=str,   default='data/go_posiitve.csv')
+        parser.add_argument('--background_df_path',   type=str,   default='data/go.csv')
         ### Out directory of the results and of the WordCloud
         parser.add_argument('--out_path',             type=str)
         parser.add_argument('--out_wordcloud',        type=str)
