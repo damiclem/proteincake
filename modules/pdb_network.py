@@ -64,7 +64,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     ### Paths of the two dataframe that must be compared
     parser.add_argument('--original_df_path',     type=str,   default='data/human_in_PF00397.csv')
-    parser.add_argument('--go_df_path',           type=str,   default='data/go.csv')
+    parser.add_argument('--go_df_path',           type=str,   default='data/go/go.csv')
     parser.add_argument('--mapping_df_path',      type=str,   default='data/pdb_data/pdb_chain_uniprot.tsv')
     parser.add_argument('--human_df_path',        type=str,   default='data/human.csv')
     ### Out directory of the results and of the WordCloud
