@@ -1,0 +1,172 @@
+,entry_ac,go_id,go_descr
+49616,Q9HCE7,0030424,axon
+49617,Q9HCE7,0005623,cell
+49618,Q9HCE7,0005737,cytoplasm
+49619,Q9HCE7,0005829,cytosol
+49620,Q9HCE7,0070062,extracellular exosome
+49621,Q9HCE7,0043025,neuronal cell body
+49622,Q9HCE7,0005654,nucleoplasm
+49623,Q9HCE7,0005886,plasma membrane
+49624,Q9HCE7,0048185,activin binding
+49625,Q9HCE7,0070411,I-SMAD binding
+49626,Q9HCE7,0005543,phospholipid binding
+49627,Q9HCE7,0070412,R-SMAD binding
+49628,Q9HCE7,0061630,ubiquitin protein ligase activity
+49629,Q9HCE7,0004842,ubiquitin-protein transferase activity
+49630,Q9HCE7,0030509,BMP signaling pathway
+49631,Q9HCE7,0030154,cell differentiation
+49632,Q9HCE7,0007398,ectoderm development
+49633,Q9HCE7,0061736,engulfment of target by autophagosome
+49634,Q9HCE7,0030514,negative regulation of BMP signaling pathway
+49635,Q9HCE7,0030279,negative regulation of ossification
+49636,Q9HCE7,0030512,negative regulation of transforming growth factor beta receptor signaling pathway
+49637,Q9HCE7,0061734,parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization
+49638,Q9HCE7,1903861,positive regulation of dendrite extension
+49639,Q9HCE7,0045732,positive regulation of protein catabolic process
+49640,Q9HCE7,2000060,positive regulation of ubiquitin-dependent protein catabolic process
+49641,Q9HCE7,0043161,proteasome-mediated ubiquitin-dependent protein catabolic process
+49642,Q9HCE7,0006611,protein export from nucleus
+49643,Q9HCE7,0034394,protein localization to cell surface
+49644,Q9HCE7,0072659,protein localization to plasma membrane
+49645,Q9HCE7,0000209,protein polyubiquitination
+49646,Q9HCE7,0071211,protein targeting to vacuole involved in autophagy
+49647,Q9HCE7,0016567,protein ubiquitination
+49648,Q9HCE7,0032801,receptor catabolic process
+49649,Q9HCE7,0061753,substrate localization to autophagosome
+49650,Q9HCE7,0007179,transforming growth factor beta receptor signaling pathway
+49651,Q9HCE7,0006511,ubiquitin-dependent protein catabolic process
+49652,Q9HCE7,0030579,ubiquitin-dependent SMAD protein catabolic process
+49653,Q9HCE7,0060071,"Wnt signaling pathway, planar cell polarity pathway"
+64524,Q9HAU4,0005737,cytoplasm
+64525,Q9HAU4,0005829,cytosol
+64526,Q9HAU4,0045121,membrane raft
+64527,Q9HAU4,0016607,nuclear speck
+64528,Q9HAU4,0005654,nucleoplasm
+64529,Q9HAU4,0005634,nucleus
+64530,Q9HAU4,0005886,plasma membrane
+64531,Q9HAU4,0000151,ubiquitin ligase complex
+64532,Q9HAU4,0042802,identical protein binding
+64533,Q9HAU4,0046332,SMAD binding
+64534,Q9HAU4,0005160,transforming growth factor beta receptor binding
+64535,Q9HAU4,0061630,ubiquitin protein ligase activity
+64536,Q9HAU4,0004842,ubiquitin-protein transferase activity
+64537,Q9HAU4,0030509,BMP signaling pathway
+64538,Q9HAU4,0030514,negative regulation of BMP signaling pathway
+64539,Q9HAU4,0000122,negative regulation of transcription by RNA polymerase II
+64540,Q9HAU4,0045892,"negative regulation of transcription, DNA-templated"
+64541,Q9HAU4,0030512,negative regulation of transforming growth factor beta receptor signaling pathway
+64542,Q9HAU4,0090263,positive regulation of canonical Wnt signaling pathway
+64543,Q9HAU4,0045732,positive regulation of protein catabolic process
+64544,Q9HAU4,1901165,positive regulation of trophoblast cell migration
+64545,Q9HAU4,0043161,proteasome-mediated ubiquitin-dependent protein catabolic process
+64546,Q9HAU4,0016579,protein deubiquitination
+64547,Q9HAU4,0000209,protein polyubiquitination
+64548,Q9HAU4,0016567,protein ubiquitination
+64549,Q9HAU4,0017015,regulation of transforming growth factor beta receptor signaling pathway
+64550,Q9HAU4,0006511,ubiquitin-dependent protein catabolic process
+64551,Q9HAU4,0030579,ubiquitin-dependent SMAD protein catabolic process
+64552,Q9HAU4,0060071,"Wnt signaling pathway, planar cell polarity pathway"
+146293,Q9H0M0,0005737,cytoplasm
+146294,Q9H0M0,0005829,cytosol
+146295,Q9H0M0,0070062,extracellular exosome
+146296,Q9H0M0,0005634,nucleus
+146297,Q9H0M0,0005886,plasma membrane
+146298,Q9H0M0,0000151,ubiquitin ligase complex
+146299,Q9H0M0,0061630,ubiquitin protein ligase activity
+146300,Q9H0M0,0004842,ubiquitin-protein transferase activity
+146301,Q9H0M0,0007417,central nervous system development
+146302,Q9H0M0,0034220,ion transmembrane transport
+146303,Q9H0M0,0045892,"negative regulation of transcription, DNA-templated"
+146304,Q9H0M0,0045732,positive regulation of protein catabolic process
+146305,Q9H0M0,0043161,proteasome-mediated ubiquitin-dependent protein catabolic process
+146306,Q9H0M0,0000209,protein polyubiquitination
+146307,Q9H0M0,0016567,protein ubiquitination
+146308,Q9H0M0,0007165,signal transduction
+146309,Q9H0M0,0006511,ubiquitin-dependent protein catabolic process
+146310,Q9H0M0,0046718,viral entry into host cell
+162309,Q96PU5,0005623,cell
+162310,Q96PU5,0005737,cytoplasm
+162311,Q96PU5,0005829,cytosol
+162312,Q96PU5,0070062,extracellular exosome
+162313,Q96PU5,0005794,Golgi apparatus
+162314,Q96PU5,0005771,multivesicular body
+162315,Q96PU5,0005654,nucleoplasm
+162316,Q96PU5,0044325,ion channel binding
+162317,Q96PU5,0019870,potassium channel inhibitor activity
+162318,Q96PU5,0015459,potassium channel regulator activity
+162319,Q96PU5,0019871,sodium channel inhibitor activity
+162320,Q96PU5,0017080,sodium channel regulator activity
+162321,Q96PU5,0061630,ubiquitin protein ligase activity
+162322,Q96PU5,0004842,ubiquitin-protein transferase activity
+162323,Q96PU5,0006883,cellular sodium ion homeostasis
+162324,Q96PU5,0007588,excretion
+162325,Q96PU5,0034220,ion transmembrane transport
+162326,Q96PU5,1901380,negative regulation of potassium ion transmembrane transport
+162327,Q96PU5,1901017,negative regulation of potassium ion transmembrane transporter activity
+162328,Q96PU5,2000009,negative regulation of protein localization to cell surface
+162329,Q96PU5,1902306,negative regulation of sodium ion transmembrane transport
+162330,Q96PU5,2000650,negative regulation of sodium ion transmembrane transporter activity
+162331,Q96PU5,0000122,negative regulation of transcription by RNA polymerase II
+162332,Q96PU5,2001288,positive regulation of caveolin-mediated endocytosis
+162333,Q96PU5,1903861,positive regulation of dendrite extension
+162334,Q96PU5,0045807,positive regulation of endocytosis
+162335,Q96PU5,0045732,positive regulation of protein catabolic process
+162336,Q96PU5,0043161,proteasome-mediated ubiquitin-dependent protein catabolic process
+162337,Q96PU5,0070936,protein K48-linked ubiquitination
+162338,Q96PU5,0006513,protein monoubiquitination
+162339,Q96PU5,0000209,protein polyubiquitination
+162340,Q96PU5,0016567,protein ubiquitination
+162341,Q96PU5,0048814,regulation of dendrite morphogenesis
+162342,Q96PU5,0034765,regulation of ion transmembrane transport
+162343,Q96PU5,0003254,regulation of membrane depolarization
+162344,Q96PU5,0042391,regulation of membrane potential
+162345,Q96PU5,0060306,regulation of membrane repolarization
+162346,Q96PU5,1901016,regulation of potassium ion transmembrane transporter activity
+162347,Q96PU5,0042176,regulation of protein catabolic process
+162348,Q96PU5,0031647,regulation of protein stability
+162349,Q96PU5,0010038,response to metal ion
+162350,Q96PU5,0006814,sodium ion transport
+162351,Q96PU5,0006511,ubiquitin-dependent protein catabolic process
+162352,Q96PU5,0086005,ventricular cardiac muscle cell action potential
+162353,Q96PU5,0019058,viral life cycle
+162354,Q96PU5,0030104,water homeostasis
+238923,Q96J02,0005737,cytoplasm
+238924,Q96J02,0005829,cytosol
+238925,Q96J02,0031901,early endosome membrane
+238926,Q96J02,0070062,extracellular exosome
+238927,Q96J02,0043231,intracellular membrane-bounded organelle
+238928,Q96J02,0016020,membrane
+238929,Q96J02,0005654,nucleoplasm
+238930,Q96J02,0005886,plasma membrane
+238931,Q96J02,0032991,protein-containing complex
+238932,Q96J02,1990763,arrestin family protein binding
+238933,Q96J02,0045236,CXCR chemokine receptor binding
+238934,Q96J02,0043021,ribonucleoprotein complex binding
+238935,Q96J02,0061630,ubiquitin protein ligase activity
+238936,Q96J02,0044389,ubiquitin-like protein ligase binding
+238937,Q96J02,0004842,ubiquitin-protein transferase activity
+238938,Q96J02,0006915,apoptotic process
+238939,Q96J02,0051607,defense response to virus
+238940,Q96J02,0006954,inflammatory response
+238941,Q96J02,0045087,innate immune response
+238942,Q96J02,0043066,negative regulation of apoptotic process
+238943,Q96J02,0050687,negative regulation of defense response to virus
+238944,Q96J02,0046329,negative regulation of JNK cascade
+238945,Q96J02,0032088,negative regulation of NF-kappaB transcription factor activity
+238946,Q96J02,0032480,negative regulation of type I interferon production
+238947,Q96J02,0007219,Notch signaling pathway
+238948,Q96J02,0070423,nucleotide-binding oligomerization domain containing signaling pathway
+238949,Q96J02,0045732,positive regulation of protein catabolic process
+238950,Q96J02,2000646,positive regulation of receptor catabolic process
+238951,Q96J02,0043161,proteasome-mediated ubiquitin-dependent protein catabolic process
+238952,Q96J02,0051865,protein autoubiquitination
+238953,Q96J02,0035519,protein K29-linked ubiquitination
+238954,Q96J02,0070936,protein K48-linked ubiquitination
+238955,Q96J02,0070534,protein K63-linked ubiquitination
+238956,Q96J02,0000209,protein polyubiquitination
+238957,Q96J02,0016567,protein ubiquitination
+238958,Q96J02,0001558,regulation of cell growth
+238959,Q96J02,1902036,regulation of hematopoietic stem cell differentiation
+238960,Q96J02,0090085,regulation of protein deubiquitination
+238961,Q96J02,0006511,ubiquitin-dependent protein catabolic process
+238962,Q96J02,0046718,viral entry into host cell

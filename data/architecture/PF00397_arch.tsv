@@ -1,0 +1,150 @@
+,entry_ac,go_id,go_descr
+5008,Q9BTA9,0016607,nuclear speck
+5009,Q9BTA9,0005654,nucleoplasm
+5010,Q9BTA9,0005634,nucleus
+5011,Q9BTA9,0005681,spliceosomal complex
+5012,Q9BTA9,0003682,chromatin binding
+5013,Q9BTA9,0000993,RNA polymerase II complex binding
+5014,Q9BTA9,0006974,cellular response to DNA damage stimulus
+5015,Q9BTA9,0044783,G1 DNA damage checkpoint
+5016,Q9BTA9,0071894,histone H2B conserved C-terminal lysine ubiquitination
+5017,Q9BTA9,0010390,histone monoubiquitination
+5018,Q9BTA9,0032435,negative regulation of proteasomal ubiquitin-dependent protein catabolic process
+5019,Q9BTA9,0016239,positive regulation of macroautophagy
+5020,Q9BTA9,0045893,"positive regulation of transcription, DNA-templated"
+5021,Q9BTA9,0016567,protein ubiquitination
+9645,Q9GZV5,0005737,cytoplasm
+9646,Q9GZV5,0005829,cytosol
+9647,Q9GZV5,0016604,nuclear body
+9648,Q9GZV5,0005654,nucleoplasm
+9649,Q9GZV5,0005634,nucleus
+9650,Q9GZV5,0005667,transcription factor complex
+9651,Q9GZV5,0042803,protein homodimerization activity
+9652,Q9GZV5,0003713,transcription coactivator activity
+9653,Q9GZV5,0003714,transcription corepressor activity
+9654,Q9GZV5,0060271,cilium assembly
+9655,Q9GZV5,0032835,glomerulus development
+9656,Q9GZV5,0003015,heart process
+9657,Q9GZV5,0035329,hippo signaling
+9658,Q9GZV5,0060993,kidney morphogenesis
+9659,Q9GZV5,0048762,mesenchymal cell differentiation
+9660,Q9GZV5,0035264,multicellular organism growth
+9661,Q9GZV5,0090090,negative regulation of canonical Wnt signaling pathway
+9662,Q9GZV5,0045599,negative regulation of fat cell differentiation
+9663,Q9GZV5,0006469,negative regulation of protein kinase activity
+9664,Q9GZV5,0001933,negative regulation of protein phosphorylation
+9665,Q9GZV5,0000122,negative regulation of transcription by RNA polymerase II
+9666,Q9GZV5,0001649,osteoblast differentiation
+9667,Q9GZV5,0008284,positive regulation of cell population proliferation
+9668,Q9GZV5,0010718,positive regulation of epithelial to mesenchymal transition
+9669,Q9GZV5,0045944,positive regulation of transcription by RNA polymerase II
+9670,Q9GZV5,0016567,protein ubiquitination
+9671,Q9GZV5,0072307,regulation of metanephric nephron tubule epithelial cell differentiation
+9672,Q9GZV5,0060390,regulation of SMAD protein signal transduction
+9673,Q9GZV5,0006355,"regulation of transcription, DNA-templated"
+9674,Q9GZV5,0031146,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+9675,Q9GZV5,0017145,stem cell division
+9676,Q9GZV5,0001894,tissue homeostasis
+9677,Q9GZV5,0006367,transcription initiation from RNA polymerase II promoter
+26666,Q8N3X1,0016607,nuclear speck
+32501,O15428,0005829,cytosol
+32502,O15428,0005634,nucleus
+32503,O15428,0003755,peptidyl-prolyl cis-trans isomerase activity
+43021,Q6AWC2,0005829,cytosol
+43022,Q6AWC2,0019900,kinase binding
+43023,Q6AWC2,0060090,molecular adaptor activity
+43024,Q6AWC2,0035331,negative regulation of hippo signaling
+43025,Q6AWC2,0046621,negative regulation of organ growth
+43026,Q6AWC2,0000122,negative regulation of transcription by RNA polymerase II
+139389,P46937,0005737,cytoplasm
+139390,P46937,0005829,cytosol
+139391,P46937,0016020,membrane
+139392,P46937,0005654,nucleoplasm
+139393,P46937,0005634,nucleus
+139394,P46937,0071148,TEAD-1-YAP complex
+139395,P46937,0071149,TEAD-2-YAP complex
+139396,P46937,0033613,activating transcription factor binding
+139397,P46937,0003682,chromatin binding
+139398,P46937,0070064,proline-rich region binding
+139399,P46937,0008022,protein C-terminus binding
+139400,P46937,0046982,protein heterodimerization activity
+139401,P46937,0000978,RNA polymerase II cis-regulatory region sequence-specific DNA binding
+139402,P46937,0003713,transcription coactivator activity
+139403,P46937,0003714,transcription corepressor activity
+139404,P46937,0044212,transcription regulatory region DNA binding
+139405,P46937,0060449,bud elongation involved in lung branching
+139406,P46937,0061026,cardiac muscle tissue regeneration
+139407,P46937,0000902,cell morphogenesis
+139408,P46937,0008283,cell population proliferation
+139409,P46937,0006974,cellular response to DNA damage stimulus
+139410,P46937,0071480,cellular response to gamma radiation
+139411,P46937,0071300,cellular response to retinoic acid
+139412,P46937,0060242,contact inhibition
+139413,P46937,0003143,embryonic heart tube morphogenesis
+139414,P46937,0003015,heart process
+139415,P46937,0035329,hippo signaling
+139416,P46937,0030216,keratinocyte differentiation
+139417,P46937,0048368,lateral mesoderm development
+139418,P46937,0060487,lung epithelial cell differentiation
+139419,P46937,0030857,negative regulation of epithelial cell differentiation
+139420,P46937,2001237,negative regulation of extrinsic apoptotic signaling pathway
+139421,P46937,2000737,negative regulation of stem cell differentiation
+139422,P46937,0030903,notochord development
+139423,P46937,0048339,paraxial mesoderm development
+139424,P46937,0090263,positive regulation of canonical Wnt signaling pathway
+139425,P46937,0060045,positive regulation of cardiac muscle cell proliferation
+139426,P46937,0033148,positive regulation of intracellular estrogen receptor signaling pathway
+139427,P46937,1902459,positive regulation of stem cell population maintenance
+139428,P46937,0045944,positive regulation of transcription by RNA polymerase II
+139429,P46937,0045893,"positive regulation of transcription, DNA-templated"
+139430,P46937,0050847,progesterone receptor signaling pathway
+139431,P46937,0065003,protein-containing complex assembly
+139432,P46937,1902036,regulation of hematopoietic stem cell differentiation
+139433,P46937,0010837,regulation of keratinocyte proliferation
+139434,P46937,0072307,regulation of metanephric nephron tubule epithelial cell differentiation
+139435,P46937,0050767,regulation of neurogenesis
+139436,P46937,0072091,regulation of stem cell proliferation
+139437,P46937,0032570,response to progesterone
+139438,P46937,0035019,somatic stem cell population maintenance
+139439,P46937,0001894,tissue homeostasis
+139440,P46937,0006367,transcription initiation from RNA polymerase II promoter
+139441,P46937,0001570,vasculogenesis
+145417,Q9H4B6,0005737,cytoplasm
+145418,Q9H4B6,0005829,cytosol
+145419,Q9H4B6,0005634,nucleus
+145420,Q9H4B6,0042802,identical protein binding
+145421,Q9H4B6,0060090,molecular adaptor activity
+145422,Q9H4B6,0006915,apoptotic process
+145423,Q9H4B6,0001942,hair follicle development
+145424,Q9H4B6,0035329,hippo signaling
+145425,Q9H4B6,0060575,intestinal epithelial cell differentiation
+145426,Q9H4B6,0030216,keratinocyte differentiation
+145427,Q9H4B6,0060487,lung epithelial cell differentiation
+145428,Q9H4B6,0060044,negative regulation of cardiac muscle cell proliferation
+145429,Q9H4B6,0050680,negative regulation of epithelial cell proliferation
+145430,Q9H4B6,0043065,positive regulation of apoptotic process
+145431,Q9H4B6,0051091,positive regulation of DNA-binding transcription factor activity
+145432,Q9H4B6,0045600,positive regulation of fat cell differentiation
+145433,Q9H4B6,0050821,protein stabilization
+145434,Q9H4B6,2000036,regulation of stem cell population maintenance
+145435,Q9H4B6,0007165,signal transduction
+145436,Q9H4B6,0060412,ventricular septum morphogenesis
+159561,Q8IX03,0005737,cytoplasm
+159562,Q8IX03,0005829,cytosol
+159563,Q8IX03,0005634,nucleus
+159564,Q8IX03,0048471,perinuclear region of cytoplasm
+159565,Q8IX03,0032991,protein-containing complex
+159566,Q8IX03,0032587,ruffle membrane
+159567,Q8IX03,0019900,kinase binding
+159568,Q8IX03,0060090,molecular adaptor activity
+159569,Q8IX03,0003713,transcription coactivator activity
+159570,Q8IX03,0016477,cell migration
+159571,Q8IX03,0030010,establishment of cell polarity
+159572,Q8IX03,0035329,hippo signaling
+159573,Q8IX03,0035331,negative regulation of hippo signaling
+159574,Q8IX03,0046621,negative regulation of organ growth
+159575,Q8IX03,0000122,negative regulation of transcription by RNA polymerase II
+159576,Q8IX03,0043410,positive regulation of MAPK cascade
+159577,Q8IX03,0007221,positive regulation of transcription of Notch receptor target
+159578,Q8IX03,0035330,regulation of hippo signaling
+159579,Q8IX03,0032386,regulation of intracellular transport
