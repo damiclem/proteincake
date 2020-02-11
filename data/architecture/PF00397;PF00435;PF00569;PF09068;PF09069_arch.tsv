@@ -1,10 +1,10 @@
-,entry_ac,go_id,go_descr
-256702,Q13474,0030054,cell junction
-256703,Q13474,0030425,dendrite
-256704,Q13474,0098978,glutamatergic synapse
-256705,Q13474,0043204,perikaryon
-256706,Q13474,0005886,plasma membrane
-256707,Q13474,0014069,postsynaptic density
-256708,Q13474,0008270,zinc ion binding
-256709,Q13474,0007417,central nervous system development
-256710,Q13474,0050808,synapse organization
+	entry_ac	go_id	go_descr
+256702	Q13474	0030054	cell junction
+256703	Q13474	0030425	dendrite
+256704	Q13474	0098978	glutamatergic synapse
+256705	Q13474	0043204	perikaryon
+256706	Q13474	0005886	plasma membrane
+256707	Q13474	0014069	postsynaptic density
+256708	Q13474	0008270	zinc ion binding
+256709	Q13474	0007417	central nervous system development
+256710	Q13474	0050808	synapse organization

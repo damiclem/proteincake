@@ -1,34 +1,34 @@
-,entry_ac,go_id,go_descr
-81225,O14776,0005654,nucleoplasm
-81226,O14776,0005634,nucleus
-81227,O14776,0042802,identical protein binding
-81228,O14776,0070064,proline-rich region binding
-81229,O14776,0003723,RNA binding
-81230,O14776,0001103,RNA polymerase II repressing transcription factor binding
-81231,O14776,0003713,transcription coactivator activity
-81232,O14776,0003714,transcription corepressor activity
-81233,O14776,0000122,negative regulation of transcription by RNA polymerase II
-81234,O14776,0006366,transcription by RNA polymerase II
-154934,O75400,0005829,cytosol
-154935,O75400,0016020,membrane
-154936,O75400,0016363,nuclear matrix
-154937,O75400,0016607,nuclear speck
-154938,O75400,0005654,nucleoplasm
-154939,O75400,0005685,U1 snRNP
-154940,O75400,0071004,U2-type prespliceosome
-154941,O75400,0070064,proline-rich region binding
-154942,O75400,0003723,RNA binding
-154943,O75400,0007049,cell cycle
-154944,O75400,0051301,cell division
-154945,O75400,0016477,cell migration
-154946,O75400,0007010,cytoskeleton organization
-154947,O75400,0045292,"mRNA cis splicing, via spliceosome"
-154948,O75400,0000398,"mRNA splicing, via spliceosome"
-154949,O75400,0008360,regulation of cell shape
-154950,O75400,0032465,regulation of cytokinesis
-161037,Q6NWY9,0016607,nuclear speck
-161038,Q6NWY9,0005685,U1 snRNP
-161039,Q6NWY9,0071004,U2-type prespliceosome
-161040,Q6NWY9,0003723,RNA binding
-161041,Q6NWY9,0045292,"mRNA cis splicing, via spliceosome"
-161042,Q6NWY9,0000398,"mRNA splicing, via spliceosome"
+	entry_ac	go_id	go_descr
+81225	O14776	0005654	nucleoplasm
+81226	O14776	0005634	nucleus
+81227	O14776	0042802	identical protein binding
+81228	O14776	0070064	proline-rich region binding
+81229	O14776	0003723	RNA binding
+81230	O14776	0001103	RNA polymerase II repressing transcription factor binding
+81231	O14776	0003713	transcription coactivator activity
+81232	O14776	0003714	transcription corepressor activity
+81233	O14776	0000122	negative regulation of transcription by RNA polymerase II
+81234	O14776	0006366	transcription by RNA polymerase II
+154934	O75400	0005829	cytosol
+154935	O75400	0016020	membrane
+154936	O75400	0016363	nuclear matrix
+154937	O75400	0016607	nuclear speck
+154938	O75400	0005654	nucleoplasm
+154939	O75400	0005685	U1 snRNP
+154940	O75400	0071004	U2-type prespliceosome
+154941	O75400	0070064	proline-rich region binding
+154942	O75400	0003723	RNA binding
+154943	O75400	0007049	cell cycle
+154944	O75400	0051301	cell division
+154945	O75400	0016477	cell migration
+154946	O75400	0007010	cytoskeleton organization
+154947	O75400	0045292	mRNA cis splicing, via spliceosome
+154948	O75400	0000398	mRNA splicing, via spliceosome
+154949	O75400	0008360	regulation of cell shape
+154950	O75400	0032465	regulation of cytokinesis
+161037	Q6NWY9	0016607	nuclear speck
+161038	Q6NWY9	0005685	U1 snRNP
+161039	Q6NWY9	0071004	U2-type prespliceosome
+161040	Q6NWY9	0003723	RNA binding
+161041	Q6NWY9	0045292	mRNA cis splicing, via spliceosome
+161042	Q6NWY9	0000398	mRNA splicing, via spliceosome

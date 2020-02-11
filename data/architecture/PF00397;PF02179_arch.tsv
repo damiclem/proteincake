@@ -1,39 +1,39 @@
-,entry_ac,go_id,go_descr
-216513,O95817,0016235,aggresome
-216514,O95817,0005623,cell
-216515,O95817,0101031,chaperone complex
-216516,O95817,0005737,cytoplasm
-216517,O95817,0005829,cytosol
-216518,O95817,0043005,neuron projection
-216519,O95817,0005634,nucleus
-216520,O95817,0005886,plasma membrane
-216521,O95817,0001725,stress fiber
-216522,O95817,0030018,Z disc
-216523,O95817,0000774,adenyl-nucleotide exchange factor activity
-216524,O95817,0045296,cadherin binding
-216525,O95817,0051087,chaperone binding
-216526,O95817,0045505,dynein intermediate chain binding
-216527,O95817,0044877,protein-containing complex binding
-216528,O95817,0070842,aggresome assembly
-216529,O95817,0000045,autophagosome assembly
-216530,O95817,0007420,brain development
-216531,O95817,0034605,cellular response to heat
-216532,O95817,0071260,cellular response to mechanical stimulus
-216533,O95817,0034620,cellular response to unfolded protein
-216534,O95817,0061684,chaperone-mediated autophagy
-216535,O95817,0072321,chaperone-mediated protein transport
-216536,O95817,0097192,extrinsic apoptotic signaling pathway in absence of ligand
-216537,O95817,0008625,extrinsic apoptotic signaling pathway via death domain receptors
-216538,O95817,0046716,muscle cell cellular homeostasis
-216539,O95817,0043066,negative regulation of apoptotic process
-216540,O95817,1903215,negative regulation of protein targeting to mitochondrion
-216541,O95817,0010664,negative regulation of striated muscle cell apoptotic process
-216542,O95817,0097201,negative regulation of transcription from RNA polymerase II promoter in response to stress
-216543,O95817,1905337,positive regulation of aggrephagy
-216544,O95817,0046827,positive regulation of protein export from nucleus
-216545,O95817,0042307,positive regulation of protein import into nucleus
-216546,O95817,0006457,protein folding
-216547,O95817,0050821,protein stabilization
-216548,O95817,0098840,protein transport along microtubule
-216549,O95817,1900034,regulation of cellular response to heat
-216550,O95817,0021510,spinal cord development
+	entry_ac	go_id	go_descr
+216513	O95817	0016235	aggresome
+216514	O95817	0005623	cell
+216515	O95817	0101031	chaperone complex
+216516	O95817	0005737	cytoplasm
+216517	O95817	0005829	cytosol
+216518	O95817	0043005	neuron projection
+216519	O95817	0005634	nucleus
+216520	O95817	0005886	plasma membrane
+216521	O95817	0001725	stress fiber
+216522	O95817	0030018	Z disc
+216523	O95817	0000774	adenyl-nucleotide exchange factor activity
+216524	O95817	0045296	cadherin binding
+216525	O95817	0051087	chaperone binding
+216526	O95817	0045505	dynein intermediate chain binding
+216527	O95817	0044877	protein-containing complex binding
+216528	O95817	0070842	aggresome assembly
+216529	O95817	0000045	autophagosome assembly
+216530	O95817	0007420	brain development
+216531	O95817	0034605	cellular response to heat
+216532	O95817	0071260	cellular response to mechanical stimulus
+216533	O95817	0034620	cellular response to unfolded protein
+216534	O95817	0061684	chaperone-mediated autophagy
+216535	O95817	0072321	chaperone-mediated protein transport
+216536	O95817	0097192	extrinsic apoptotic signaling pathway in absence of ligand
+216537	O95817	0008625	extrinsic apoptotic signaling pathway via death domain receptors
+216538	O95817	0046716	muscle cell cellular homeostasis
+216539	O95817	0043066	negative regulation of apoptotic process
+216540	O95817	1903215	negative regulation of protein targeting to mitochondrion
+216541	O95817	0010664	negative regulation of striated muscle cell apoptotic process
+216542	O95817	0097201	negative regulation of transcription from RNA polymerase II promoter in response to stress
+216543	O95817	1905337	positive regulation of aggrephagy
+216544	O95817	0046827	positive regulation of protein export from nucleus
+216545	O95817	0042307	positive regulation of protein import into nucleus
+216546	O95817	0006457	protein folding
+216547	O95817	0050821	protein stabilization
+216548	O95817	0098840	protein transport along microtubule
+216549	O95817	1900034	regulation of cellular response to heat
+216550	O95817	0021510	spinal cord development

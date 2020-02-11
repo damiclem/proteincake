@@ -1,52 +1,52 @@
-,entry_ac,go_id,go_descr
-110027,Q13526,0005737,cytoplasm
-110028,Q13526,0005829,cytosol
-110029,Q13526,0098978,glutamatergic synapse
-110030,Q13526,0030496,midbody
-110031,Q13526,0005739,mitochondrion
-110032,Q13526,0043005,neuron projection
-110033,Q13526,0016607,nuclear speck
-110034,Q13526,0005654,nucleoplasm
-110035,Q13526,0005634,nucleus
-110036,Q13526,0099524,postsynaptic cytosol
-110037,Q13526,0008013,beta-catenin binding
-110038,Q13526,0016859,cis-trans isomerase activity
-110039,Q13526,0032794,GTPase activating protein binding
-110040,Q13526,0031434,mitogen-activated protein kinase kinase binding
-110041,Q13526,0003774,motor activity
-110042,Q13526,0003755,peptidyl-prolyl cis-trans isomerase activity
-110043,Q13526,0051219,phosphoprotein binding
-110044,Q13526,0050815,phosphoserine residue binding
-110045,Q13526,0050816,phosphothreonine residue binding
-110046,Q13526,0048156,tau protein binding
-110047,Q13526,0007049,cell cycle
-110048,Q13526,1902430,negative regulation of amyloid-beta formation
-110049,Q13526,2000146,negative regulation of cell motility
-110050,Q13526,0070373,negative regulation of ERK1 and ERK2 cascade
-110051,Q13526,0043524,negative regulation of neuron apoptotic process
-110052,Q13526,0032091,negative regulation of protein binding
-110053,Q13526,0042177,negative regulation of protein catabolic process
-110054,Q13526,0030512,negative regulation of transforming growth factor beta receptor signaling pathway
-110055,Q13526,0032480,negative regulation of type I interferon production
-110056,Q13526,0030182,neuron differentiation
-110057,Q13526,0090263,positive regulation of canonical Wnt signaling pathway
-110058,Q13526,0061051,positive regulation of cell growth involved in cardiac muscle cell development
-110059,Q13526,0043547,positive regulation of GTPase activity
-110060,Q13526,0043525,positive regulation of neuron apoptotic process
-110061,Q13526,0032092,positive regulation of protein binding
-110062,Q13526,0035307,positive regulation of protein dephosphorylation
-110063,Q13526,0001934,positive regulation of protein phosphorylation
-110064,Q13526,0045944,positive regulation of transcription by RNA polymerase II
-110065,Q13526,0051443,positive regulation of ubiquitin-protein transferase activity
-110066,Q13526,0000413,protein peptidyl-prolyl isomerization
-110067,Q13526,0050821,protein stabilization
-110068,Q13526,0032465,regulation of cytokinesis
-110069,Q13526,0010468,regulation of gene expression
-110070,Q13526,0007088,regulation of mitotic nuclear division
-110071,Q13526,0060393,regulation of pathway-restricted SMAD protein phosphorylation
-110072,Q13526,1900180,regulation of protein localization to nucleus
-110073,Q13526,0001932,regulation of protein phosphorylation
-110074,Q13526,0031647,regulation of protein stability
-110075,Q13526,1901796,regulation of signal transduction by p53 class mediator
-110076,Q13526,0001666,response to hypoxia
-110077,Q13526,0050808,synapse organization
+	entry_ac	go_id	go_descr
+110027	Q13526	0005737	cytoplasm
+110028	Q13526	0005829	cytosol
+110029	Q13526	0098978	glutamatergic synapse
+110030	Q13526	0030496	midbody
+110031	Q13526	0005739	mitochondrion
+110032	Q13526	0043005	neuron projection
+110033	Q13526	0016607	nuclear speck
+110034	Q13526	0005654	nucleoplasm
+110035	Q13526	0005634	nucleus
+110036	Q13526	0099524	postsynaptic cytosol
+110037	Q13526	0008013	beta-catenin binding
+110038	Q13526	0016859	cis-trans isomerase activity
+110039	Q13526	0032794	GTPase activating protein binding
+110040	Q13526	0031434	mitogen-activated protein kinase kinase binding
+110041	Q13526	0003774	motor activity
+110042	Q13526	0003755	peptidyl-prolyl cis-trans isomerase activity
+110043	Q13526	0051219	phosphoprotein binding
+110044	Q13526	0050815	phosphoserine residue binding
+110045	Q13526	0050816	phosphothreonine residue binding
+110046	Q13526	0048156	tau protein binding
+110047	Q13526	0007049	cell cycle
+110048	Q13526	1902430	negative regulation of amyloid-beta formation
+110049	Q13526	2000146	negative regulation of cell motility
+110050	Q13526	0070373	negative regulation of ERK1 and ERK2 cascade
+110051	Q13526	0043524	negative regulation of neuron apoptotic process
+110052	Q13526	0032091	negative regulation of protein binding
+110053	Q13526	0042177	negative regulation of protein catabolic process
+110054	Q13526	0030512	negative regulation of transforming growth factor beta receptor signaling pathway
+110055	Q13526	0032480	negative regulation of type I interferon production
+110056	Q13526	0030182	neuron differentiation
+110057	Q13526	0090263	positive regulation of canonical Wnt signaling pathway
+110058	Q13526	0061051	positive regulation of cell growth involved in cardiac muscle cell development
+110059	Q13526	0043547	positive regulation of GTPase activity
+110060	Q13526	0043525	positive regulation of neuron apoptotic process
+110061	Q13526	0032092	positive regulation of protein binding
+110062	Q13526	0035307	positive regulation of protein dephosphorylation
+110063	Q13526	0001934	positive regulation of protein phosphorylation
+110064	Q13526	0045944	positive regulation of transcription by RNA polymerase II
+110065	Q13526	0051443	positive regulation of ubiquitin-protein transferase activity
+110066	Q13526	0000413	protein peptidyl-prolyl isomerization
+110067	Q13526	0050821	protein stabilization
+110068	Q13526	0032465	regulation of cytokinesis
+110069	Q13526	0010468	regulation of gene expression
+110070	Q13526	0007088	regulation of mitotic nuclear division
+110071	Q13526	0060393	regulation of pathway-restricted SMAD protein phosphorylation
+110072	Q13526	1900180	regulation of protein localization to nucleus
+110073	Q13526	0001932	regulation of protein phosphorylation
+110074	Q13526	0031647	regulation of protein stability
+110075	Q13526	1901796	regulation of signal transduction by p53 class mediator
+110076	Q13526	0001666	response to hypoxia
+110077	Q13526	0050808	synapse organization

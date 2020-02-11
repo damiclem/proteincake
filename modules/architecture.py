@@ -36,7 +36,7 @@ def main(original_arch_path, ds_gene_ontology_path, base_path):
     # Save tsv files for each architecture
     for arch in arch_list:
         go_arch_df = select_architecture(arch=arch, arch_df=original_arch, go_df=ds_gene_ontology)
-        go_arch_df.to_csv(base_path+arch+'_arch.tsv')
+        go_arch_df.to_csv(base_path+arch+'_arch.tsv', sep='\t')
 
 
 
@@ -46,7 +46,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
 
     parser.add_argument('--original_df_path',     type=str,   default='data/architectures_in_original.tsv')
-    parser.add_argument('--go_df_path',           type=str,   default='data/go.csv')
+    parser.add_argument('--go_df_path',           type=str,   default='data/go/go.csv')
     parser.add_argument('--out_fold_path',        type=str,   default='data/architecture/')
 
     # Define dictionary of args

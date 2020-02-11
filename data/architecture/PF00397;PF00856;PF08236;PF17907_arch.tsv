@@ -1,38 +1,38 @@
-,entry_ac,go_id,go_descr
-59074,Q9BYW2,0005694,chromosome
-59075,Q9BYW2,0005654,nucleoplasm
-59076,Q9BYW2,0005634,nucleus
-59077,Q9BYW2,0043014,alpha-tubulin binding
-59078,Q9BYW2,0046975,histone methyltransferase activity (H3-K36 specific)
-59079,Q9BYW2,0018024,histone-lysine N-methyltransferase activity
-59080,Q9BYW2,0046872,metal ion binding
-59081,Q9BYW2,0016279,protein-lysine N-methyltransferase activity
-59082,Q9BYW2,0001525,angiogenesis
-59083,Q9BYW2,0035441,cell migration involved in vasculogenesis
-59084,Q9BYW2,0060977,coronary vasculature morphogenesis
-59085,Q9BYW2,0051607,defense response to virus
-59086,Q9BYW2,0048701,embryonic cranial skeleton morphogenesis
-59087,Q9BYW2,0060669,embryonic placenta morphogenesis
-59088,Q9BYW2,0035987,endodermal cell differentiation
-59089,Q9BYW2,0030900,forebrain development
-59090,Q9BYW2,0097676,histone H3-K36 dimethylation
-59091,Q9BYW2,0097198,histone H3-K36 trimethylation
-59092,Q9BYW2,0048332,mesoderm morphogenesis
-59093,Q9BYW2,1902850,microtubule cytoskeleton organization involved in mitosis
-59094,Q9BYW2,0006298,mismatch repair
-59095,Q9BYW2,0001763,morphogenesis of a branching structure
-59096,Q9BYW2,0001843,neural tube closure
-59097,Q9BYW2,0034728,nucleosome organization
-59098,Q9BYW2,0018026,peptidyl-lysine monomethylation
-59099,Q9BYW2,0018023,peptidyl-lysine trimethylation
-59100,Q9BYW2,0060039,pericardium development
-59101,Q9BYW2,0032727,positive regulation of interferon-alpha production
-59102,Q9BYW2,0032465,regulation of cytokinesis
-59103,Q9BYW2,0010569,regulation of double-strand break repair via homologous recombination
-59104,Q9BYW2,0010793,regulation of mRNA export from nucleus
-59105,Q9BYW2,1905634,regulation of protein localization to chromatin
-59106,Q9BYW2,0006355,"regulation of transcription, DNA-templated"
-59107,Q9BYW2,0034340,response to type I interferon
-59108,Q9BYW2,0048864,stem cell development
-59109,Q9BYW2,0048863,stem cell differentiation
-59110,Q9BYW2,0006368,transcription elongation from RNA polymerase II promoter
+	entry_ac	go_id	go_descr
+59074	Q9BYW2	0005694	chromosome
+59075	Q9BYW2	0005654	nucleoplasm
+59076	Q9BYW2	0005634	nucleus
+59077	Q9BYW2	0043014	alpha-tubulin binding
+59078	Q9BYW2	0046975	histone methyltransferase activity (H3-K36 specific)
+59079	Q9BYW2	0018024	histone-lysine N-methyltransferase activity
+59080	Q9BYW2	0046872	metal ion binding
+59081	Q9BYW2	0016279	protein-lysine N-methyltransferase activity
+59082	Q9BYW2	0001525	angiogenesis
+59083	Q9BYW2	0035441	cell migration involved in vasculogenesis
+59084	Q9BYW2	0060977	coronary vasculature morphogenesis
+59085	Q9BYW2	0051607	defense response to virus
+59086	Q9BYW2	0048701	embryonic cranial skeleton morphogenesis
+59087	Q9BYW2	0060669	embryonic placenta morphogenesis
+59088	Q9BYW2	0035987	endodermal cell differentiation
+59089	Q9BYW2	0030900	forebrain development
+59090	Q9BYW2	0097676	histone H3-K36 dimethylation
+59091	Q9BYW2	0097198	histone H3-K36 trimethylation
+59092	Q9BYW2	0048332	mesoderm morphogenesis
+59093	Q9BYW2	1902850	microtubule cytoskeleton organization involved in mitosis
+59094	Q9BYW2	0006298	mismatch repair
+59095	Q9BYW2	0001763	morphogenesis of a branching structure
+59096	Q9BYW2	0001843	neural tube closure
+59097	Q9BYW2	0034728	nucleosome organization
+59098	Q9BYW2	0018026	peptidyl-lysine monomethylation
+59099	Q9BYW2	0018023	peptidyl-lysine trimethylation
+59100	Q9BYW2	0060039	pericardium development
+59101	Q9BYW2	0032727	positive regulation of interferon-alpha production
+59102	Q9BYW2	0032465	regulation of cytokinesis
+59103	Q9BYW2	0010569	regulation of double-strand break repair via homologous recombination
+59104	Q9BYW2	0010793	regulation of mRNA export from nucleus
+59105	Q9BYW2	1905634	regulation of protein localization to chromatin
+59106	Q9BYW2	0006355	regulation of transcription, DNA-templated
+59107	Q9BYW2	0034340	response to type I interferon
+59108	Q9BYW2	0048864	stem cell development
+59109	Q9BYW2	0048863	stem cell differentiation
+59110	Q9BYW2	0006368	transcription elongation from RNA polymerase II promoter
