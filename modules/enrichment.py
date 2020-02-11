@@ -6,8 +6,12 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+from tqdm import tqdm
 from scipy.stats import fisher_exact
 from wordcloud import WordCloud
+
+import warnings
+warnings.filterwarnings("ignore")
 
 """
 Perform Fisher test. An Odd-Ratio above 77 tells us the GO prefers the first dataframe (p-value < 0.05),
@@ -25,7 +29,9 @@ def fisher_test(df1, df2, col_name_go = 'go_id'):
         # Compute the intersaction of the GO terms
         key_intersection = set(dict1.keys()).intersection(set(dict2.keys()))
 
-        for key in key_intersection:
+        for key in tqdm(key_intersection, ncols=100,
+                        bar_format='{l_bar}{bar:40}{r_bar}{bar:-40b}',
+                        desc='Fisher Test      '):
         ### 1. Set frequencies
         # Number of occurrences of the specific GO term in DF1
             tp = dict1[key]
@@ -110,7 +116,9 @@ def get_depth(ontology):
     roots = set(nodes) - set(parents.keys())
     # Init the dictionary
     depth = {}
-    for node in nodes:
+    for node in tqdm(nodes, ncols=100,
+                     bar_format='{l_bar}{bar:40}{r_bar}{bar:-40b}',
+                     desc='Depth            '):
         c = 0
         # Get parents of the node, return None if node is a root
         node_parents = parents.get(node)
@@ -157,7 +165,9 @@ def transmit_pvalue(enrichment, ontology):
     # 1. Get the children of every GO term
     children_dict = get_children(ontology)
     # 2. For every GO in our enrichment dataset we assign to it the minimum p-value of its children
-    for go_id in enrichment.index:
+    for go_id in tqdm(enrichment.index, ncols=100,
+                      bar_format='{l_bar}{bar:40}{r_bar}{bar:-40b}',
+                      desc='Propagate p-value'):
         # Check if the GO term has child
         if children_dict.get(go_id):
             # Retrieve the set of the p-values of all its children
