@@ -194,8 +194,8 @@ if __name__ == '__main__':
         ### Path of the file containing the ontology graph structure
         parser.add_argument('--ontology_path',        type=str,   default='data/go/go.json.gz')
         ### Paths of the two dataframe that must be compared
-        parser.add_argument('--original_df_path',     type=str,   default='data/go_positve.csv')
-        parser.add_argument('--background_df_path',   type=str,   default='data/go.csv')
+        parser.add_argument('--original_df_path',     type=str,   default='data/go/go_positive.csv')
+        parser.add_argument('--background_df_path',   type=str,   default='data/go/go.csv')
         ### Out directory of the results and of the WordCloud
         parser.add_argument('--out_path',             type=str)
         parser.add_argument('--out_wordcloud',        type=str)
