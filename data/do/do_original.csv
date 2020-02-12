@@ -1,0 +1,164 @@
+	entry_ac	do_id	name	descr
+36553	O00213	10652	Alzheimer's disease	A tauopathy that is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability and results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
+16395	O00213	1307	dementia	A cognitive disorder resulting from a loss of brain function affecting memory, thinking, language, judgement and behavior.
+6932	O00213	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+23289	O00308	0080322	polycystic kidney disease	
+13521	O00308	10763	hypertension	An artery disease characterized by chronic elevated blood pressure in the arteries.
+18842	O00308	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+3332	O00308	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+22543	O00308	9970	obesity	An overnutrition that is characterized by excess body fat, traditionally defined as an elevated ratio of weight to height (specifically 30 kilograms per meter squared), has_material_basis_in a multifactorial etiology related to excess nutrition intake, decreased caloric utilization, and genetic susceptibility, and possibly medications and certain disorders of metabolism, endocrine function, and mental illness.
+34258	O14776	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+29054	O14776	1289	neurodegenerative disease	A central nervous system disease that results in the progressive deterioration of function or structure of neurons.
+2819	O14776	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+9499	O15428	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+11188	O60861	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+21203	O60861	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
+17651	O60861	9119	acute myeloid leukemia	A myeloid leukemia that is characterized by the rapid growth of abnormal white blood cells that accumulate in the bone marrow and interfere with the production of normal blood cells.
+37892	O75400	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
+23306	O75400	0080322	polycystic kidney disease	
+18891	O75400	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+34315	O75400	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+33869	O75400	14250	Down syndrome	A chromosomal disease that is characterized by flat-looking facial features and weak muscle tone (hypotonia) in infancy and is caused by trisomy of all or a critical portion of chromosome 21 and is associated with intellectual disability.
+3440	O75400	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+30306	O75400	3852	Peutz-Jeghers syndrome	
+30962	O75400	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
+842	O75554	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+11953	O75554	3312	bipolar disorder	A mood disorder that involves alternating periods of mania and depression.
+12304	O75554	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
+280	O75554	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
+41114	O95817	0050700	cardiomyopathy	A heart disease and a myopathy that is characterized by deterioration of the function of the heart muscle.
+32398	O95817	0080307	myofibrillar myopathy	A myopathy that is characterized by slowly progressive muscle weakness that can involve both proximal muscles and distal muscles.
+2357	O95817	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+14804	O95817	1909	melanoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from melanocytes which are found in skin, the bowel and the eye.
+30588	O95817	2841	asthma	A bronchial disease that is characterized by chronic inflammation and narrowing of the airways, which is caused by a combination of environmental and genetic factors. The disease has_symptom recurring periods of wheezing (a whistling sound while breathing), has_symptom chest tightness, has_symptom shortness of breath, has_symptom mucus production and has_symptom coughing. The symptoms appear due to a variety of triggers such as allergens, irritants, respiratory infections, weather changes, exercise, stress, reflux disease, medications, foods and emotional anxiety.
+37437	O95817	423	myopathy	A muscular disease in which the muscle fibers do not function resulting in muscular weakness.
+44539	O95817	7319	axonal neuropathy	
+16637	O95817	870	neuropathy	A nervous system disease that is located_in nerves or nerve cells.
+30868	O95817	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
+32414	P11532	11723	Duchenne muscular dystrophy	A muscular dystrophy that has_material_basis_in X-linked mutations in the DMD gene found on the X chromosome. It is characterized by rapidly progressing muscle weakness and muscle atrophy initially involving the lower extremities and eventually affecting the whole body. It affects males whereas females can be carriers. The symptoms start before the age of six and may appear at infancy.
+41023	P11532	12930	dilated cardiomyopathy	An intrinsic cardiomyopathy that is characterized by an an enlarged heart and damage to the myocardium causing the heart to pump blood inefficiently.
+2529	P11532	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+41276	P11532	6000	congestive heart failure	A heart disease that is characterized by any structural or functional cardiac disorder that impairs the ability of the heart to fill with or pump a sufficient amount of blood throughout the body.
+46728	P11532	9883	Becker muscular dystrophy	A muscular dystrophy that involves slowly worsening muscle weakness of the legs and pelvis, and has_material_basis in X-linked recessive inheritance of mutation in the dystrophin gene on chromosome Xp21.
+30882	P11532	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
+17813	P46934	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+934	P46934	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+30000	P46934	8566	herpes simplex	A viral infectious disease that results_in_formation_of lesions, located_in mouth, located_in face, located_in genitalia, or located_in hands, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which are transmitted_by direct contact with an active lesion or body fluid of an infected person.
+45828	P46937	10017	multiple endocrine neoplasia type 1	An autosomal dominant disease that has_material_basis_in a mutation in the MEN1 tumor suppressor gene and is characterized by over active endocrine glands frequently involving tumors of the parathyroid glands, the pituitary gland, and the pancreas.
+15890	P46937	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
+18664	P46937	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+34265	P46937	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+2885	P46937	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+44108	P46937	1749	squamous cell carcinoma	A carcinoma that derives_from squamous epithelial cells.
+26780	P46937	684	hepatocellular carcinoma	A liver carcinoma that has_material_basis_in undifferentiated hepatocytes and located_in the liver.
+32420	P46939	11723	Duchenne muscular dystrophy	A muscular dystrophy that has_material_basis_in X-linked mutations in the DMD gene found on the X chromosome. It is characterized by rapidly progressing muscle weakness and muscle atrophy initially involving the lower extremities and eventually affecting the whole body. It affects males whereas females can be carriers. The symptoms start before the age of six and may appear at infancy.
+19775	P46939	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+5588	P46939	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+12620	P46939	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
+31139	P46939	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
+42865	Q13526	0050771	pheochromocytoma	An endocrine organ benign neoplasm that arises within the adrenal medulla, releasing epinephrines and norepinephrines hormones that cause either episodic or persistent high blood pressure.
+1724	Q13526	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+45331	Q13526	2583	agammaglobulinemia	A B cell deficiency that is caused by a reduction in all types of gamma globulins.
+16999	Q13526	305	carcinoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+26761	Q13526	684	hepatocellular carcinoma	A liver carcinoma that has_material_basis_in undifferentiated hepatocytes and located_in the liver.
+18461	Q5TCQ9	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+33119	Q5TCQ9	1520	colon carcinoma	A colon cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+2370	Q5TCQ9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+15448	Q5TCQ9	219	colon cancer	A colorectal cancer that is located_in the colon.
+38763	Q6AWC2	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
+24254	Q6AWC2	0080322	polycystic kidney disease	
+35209	Q6AWC2	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+31845	Q6AWC2	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
+34357	Q6NWY9	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+3926	Q6NWY9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+26647	Q6ZUM4	1040	chronic lymphocytic leukemia	A lymphoblastic leukemia characterized by over production of B-cells and their accumulation in bone marrow and blood.
+28351	Q6ZUM4	1324	lung cancer	A respiratory system cancer that is located_in the lung.
+10539	Q6ZUM4	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+17452	Q6ZUM4	1793	pancreatic cancer	An endocrine gland cancer located_in the pancreas.
+9912	Q6ZWJ1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+40133	Q76N89	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
+7075	Q76N89	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+32493	Q76N89	332	amyotrophic lateral sclerosis	A motor neuron disease that is characterized by muscle spasticity, rapidly progressive weakness due to muscle atrophy, difficulty in speaking, swallowing, and breathing.
+40112	Q86UL8	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
+7054	Q86UL8	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+36476	Q8IX03	10652	Alzheimer's disease	A tauopathy that is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability and results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
+32618	Q8IX03	12377	spinal muscular atrophy	A motor neuron disease that is a degenerative neuromuscular disease characterized by lower motor neuron degeneration associated with progressive muscle weakness and atrophy.
+2868	Q8IX03	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+45365	Q8IX03	8712	neurofibromatosis	
+18210	Q8N3X1	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+1824	Q8N3X1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+37729	Q92870	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
+23075	Q92870	0080322	polycystic kidney disease	
+17974	Q92870	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+34140	Q92870	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+1292	Q92870	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+30789	Q92870	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
+33509	Q96J02	0050886	Troyer syndrome	A hereditary spastic paraplegia that is characterized by spasticity of the leg muscles, progressive muscle weakness, paraplegia, muscle wasting in the hands and feet (distal amyotrophy), small stature, developmental delay, learning disorders, speech difficulties (dysarthria), and mood swings, and has_material_basis_in a mutation of the SPG20 gene.
+14328	Q96J02	10283	prostate cancer	A male reproductive organ cancer that is located_in the prostate.
+20376	Q96J02	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+10436	Q96J02	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+26021	Q96J02	8469	influenza	A viral infectious disease that results in infection, located in respiratory tract, has_material_basis_in Influenzavirus A, has_material_basis_in Influenzavirus B, or has_material_basis_in Influenzavirus C, which are transmitted by droplet spread of oronasal secretions during coughing, sneezing, or talking from an infected person. It is a highly contagious disease that affects birds and mammals and has symptom chills, has symptom fever, has symptom sore throat, has symptom runny nose, has symptom muscle pains, has symptom severe headache, has symptom cough, and has symptom weakness.
+30064	Q96J02	8566	herpes simplex	A viral infectious disease that results_in_formation_of lesions, located_in mouth, located_in face, located_in genitalia, or located_in hands, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which are transmitted_by direct contact with an active lesion or body fluid of an infected person.
+13788	Q96J02	8778	Crohn's disease	An intestinal disease that involves inflammation located_in intestine.
+22727	Q96J02	9970	obesity	An overnutrition that is characterized by excess body fat, traditionally defined as an elevated ratio of weight to height (specifically 30 kilograms per meter squared), has_material_basis_in a multifactorial etiology related to excess nutrition intake, decreased caloric utilization, and genetic susceptibility, and possibly medications and certain disorders of metabolism, endocrine function, and mental illness.
+41545	Q96PU5	0050454	periventricular nodular heterotopia	A congenital nervous system abnormality characterized by non proper migration of neurons during the early development of the fetal brain.
+42090	Q96PU5	0050477	Liddle syndrome	A renal tubular transport disease that is characterized by hypertension and hypokalemia caused by dysregulation of epithelial sodium channels causing over expression of the channel.
+14021	Q96PU5	10283	prostate cancer	A male reproductive organ cancer that is located_in the prostate.
+13497	Q96PU5	10763	hypertension	An artery disease characterized by chronic elevated blood pressure in the arteries.
+17825	Q96PU5	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+961	Q96PU5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+11985	Q96PU5	3312	bipolar disorder	A mood disorder that involves alternating periods of mania and depression.
+40676	Q96PU5	674	cleft palate	An orofacial cleft characterized by a fissure of the soft and/or hard palate, due to faulty fusion of the two plates of the skull that form the hard palate.
+22494	Q96PU5	9970	obesity	An overnutrition that is characterized by excess body fat, traditionally defined as an elevated ratio of weight to height (specifically 30 kilograms per meter squared), has_material_basis_in a multifactorial etiology related to excess nutrition intake, decreased caloric utilization, and genetic susceptibility, and possibly medications and certain disorders of metabolism, endocrine function, and mental illness.
+43019	Q96QZ7	0050851	glomerulosclerosis	A glomerulonephritis that is characterized by hardening of the glomerulus in the kidney.
+33116	Q96QZ7	1520	colon carcinoma	A colon cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+2251	Q96QZ7	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+15795	Q9BTA9	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
+17807	Q9BTA9	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+917	Q9BTA9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+16312	Q9BYW2	0060041	autism spectrum disorder	A pervasive developmental disorder that is a spectrum of psychological conditions. The disease has_symptom widespread abnormalities of social interactions and communication, has_symptom severely restricted interests and has_symptom highly repetitive behavior.
+15935	Q9BYW2	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
+19092	Q9BYW2	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+35998	Q9BYW2	12603	acute leukemia	A leukemia that occurs when a hematopoietic stem cell undergoes malignant transformation into a primitive, undifferentiated cell with abnormal longevity. These lymphocytes (acute lymphocytic leukemia [ALL]) or myeloid cells (acute myelocytic leukemia [AML]) proliferate abnormally, replacing normal marrow tissue and hematopoietic cells and inducing anemia, thrombocytopenia, and granulocytopenia.
+34354	Q9BYW2	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+43044	Q9BYW2	14731	Weaver syndrome	A syndrome that is characterized by prenatal and postnatal overgrowth, accelerated osseous maturation, characteristic craniofacial appearance, and developmental delay and has_material_basis_in heterozygous mutation in the EZH2 gene on chromosome 7q36.
+42750	Q9BYW2	14748	Sotos syndrome	An autosomal recessive disease that occurs rarely and is characterized by excessive physical growth during the first 2 to 3 years of life.
+3906	Q9BYW2	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+42214	Q9BYW2	263	kidney cancer	A urinary system cancer that is located_in the kidney.
+43532	Q9BYW2	4467	clear cell renal cell carcinoma	A renal cell carcinoma that has_material_basis_in cells that appear very pale or clear when examined under microscope.
+14549	Q9BYW2	9256	colorectal cancer	A large intestine cancer that is located_in the colon and/or located_in the rectum.
+22555	Q9BYW2	9970	obesity	An overnutrition that is characterized by excess body fat, traditionally defined as an elevated ratio of weight to height (specifically 30 kilograms per meter squared), has_material_basis_in a multifactorial etiology related to excess nutrition intake, decreased caloric utilization, and genetic susceptibility, and possibly medications and certain disorders of metabolism, endocrine function, and mental illness.
+3185	Q9GZV5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+33510	Q9H0M0	0050886	Troyer syndrome	A hereditary spastic paraplegia that is characterized by spasticity of the leg muscles, progressive muscle weakness, paraplegia, muscle wasting in the hands and feet (distal amyotrophy), small stature, developmental delay, learning disorders, speech difficulties (dysarthria), and mood swings, and has_material_basis_in a mutation of the SPG20 gene.
+20377	Q9H0M0	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+10437	Q9H0M0	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+17155	Q9H0M0	305	carcinoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+4270	Q9H4B6	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+18538	Q9H4Z3	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+2571	Q9H4Z3	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+18727	Q9HAU0	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+3038	Q9HAU0	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+11342	Q9HAU4	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+39955	Q9HCE7	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
+3714	Q9HCE7	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+14282	Q9NZC7	10283	prostate cancer	A male reproductive organ cancer that is located_in the prostate.
+20192	Q9NZC7	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+28304	Q9NZC7	1324	lung cancer	A respiratory system cancer that is located_in the lung.
+8346	Q9NZC7	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+17436	Q9NZC7	1793	pancreatic cancer	An endocrine gland cancer located_in the pancreas.
+26420	Q9NZC7	1826	epilepsy	A brain disease that is characterized by the occurrance of at least two unprovoked seizures resulting from a persistent epileptogenic abnormality of the brain that is able to spontaneously generate paroxysmal activity and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions.
+16829	Q9NZC7	2394	ovarian cancer	A female reproductive organ cancer that is located_in the ovary.
+17111	Q9NZC7	305	carcinoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+15344	Q9NZC7	3459	breast carcinoma	A breast cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+37639	Q9NZC7	3717	gastric adenocarcinoma	A stomach carcinoma that derives_from epithelial cells of glandular origin.
+39465	Q9NZC7	4074	pancreatic adenocarcinoma	A pancreatic carcinoma that derives_from epithelial cells of glandular origin.
+44344	Q9NZC7	8466	retinal degeneration	A retinal disease that is characterized by deterioration of the retina caused by the progressive and eventual death of the cells of the retina.
+33722	Q9NZC7	9538	multiple myeloma	A myeloid neoplasm that is located in the plasma cells in bone marrow.
+37937	Q9P2P5	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
+23366	Q9P2P5	0080322	polycystic kidney disease	
+15943	Q9P2P5	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
+34369	Q9P2P5	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+4065	Q9P2P5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+15492	Q9P2P5	219	colon cancer	A colorectal cancer that is located_in the colon.
+27760	Q9P2P5	540	strabismus	
+31014	Q9P2P5	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
