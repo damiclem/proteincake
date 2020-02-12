@@ -1,0 +1,93 @@
+	entry_ac	go_id	go_descr
+142703	O00308	0005737	cytoplasm
+142704	O00308	0005829	cytosol
+142705	O00308	0070062	extracellular exosome
+142706	O00308	0016020	membrane
+142707	O00308	0005634	nucleus
+142708	O00308	0000151	ubiquitin ligase complex
+142709	O00308	0001085	RNA polymerase II transcription factor binding
+142710	O00308	0008134	transcription factor binding
+142711	O00308	0061630	ubiquitin protein ligase activity
+142712	O00308	0004842	ubiquitin-protein transferase activity
+142713	O00308	0006464	cellular protein modification process
+142714	O00308	0006858	extracellular transport
+142715	O00308	0043433	negative regulation of DNA-binding transcription factor activity
+142716	O00308	0010629	negative regulation of gene expression
+142717	O00308	0045746	negative regulation of Notch signaling pathway
+142718	O00308	0051224	negative regulation of protein transport
+142719	O00308	0000122	negative regulation of transcription by RNA polymerase II
+142720	O00308	0045892	negative regulation of transcription, DNA-templated
+142721	O00308	0032410	negative regulation of transporter activity
+142722	O00308	0045732	positive regulation of protein catabolic process
+142723	O00308	0045944	positive regulation of transcription by RNA polymerase II
+142724	O00308	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process
+142725	O00308	0051865	protein autoubiquitination
+142726	O00308	0070534	protein K63-linked ubiquitination
+142727	O00308	0000209	protein polyubiquitination
+142728	O00308	0016567	protein ubiquitination
+142729	O00308	0034765	regulation of ion transmembrane transport
+142730	O00308	0042391	regulation of membrane potential
+142731	O00308	1901016	regulation of potassium ion transmembrane transporter activity
+142732	O00308	0006511	ubiquitin-dependent protein catabolic process
+142733	O00308	0046718	viral entry into host cell
+174612	P46934	0016327	apicolateral plasma membrane
+174613	P46934	0005938	cell cortex
+174614	P46934	0000785	chromatin
+174615	P46934	0005737	cytoplasm
+174616	P46934	0005829	cytosol
+174617	P46934	0043197	dendritic spine
+174618	P46934	0070062	extracellular exosome
+174619	P46934	0098978	glutamatergic synapse
+174620	P46934	0005794	Golgi apparatus
+174621	P46934	0048471	perinuclear region of cytoplasm
+174622	P46934	0005886	plasma membrane
+174623	P46934	0099524	postsynaptic cytosol
+174624	P46934	0000151	ubiquitin ligase complex
+174625	P46934	0031698	beta-2 adrenergic receptor binding
+174626	P46934	0019899	enzyme binding
+174627	P46934	0035255	ionotropic glutamate receptor binding
+174628	P46934	0050815	phosphoserine residue binding
+174629	P46934	0050816	phosphothreonine residue binding
+174630	P46934	0070064	proline-rich region binding
+174631	P46934	0019904	protein domain specific binding
+174632	P46934	0070063	RNA polymerase binding
+174633	P46934	0019871	sodium channel inhibitor activity
+174634	P46934	0043130	ubiquitin binding
+174635	P46934	0061630	ubiquitin protein ligase activity
+174636	P46934	0002250	adaptive immune response
+174637	P46934	0048514	blood vessel morphogenesis
+174638	P46934	0034644	cellular response to UV
+174639	P46934	0044111	development involved in symbiotic interaction
+174640	P46934	0003197	endocardial cushion development
+174641	P46934	0042921	glucocorticoid receptor signaling pathway
+174642	P46934	0007041	lysosomal transport
+174643	P46934	2000650	negative regulation of sodium ion transmembrane transporter activity
+174644	P46934	0010766	negative regulation of sodium ion transport
+174645	P46934	0010768	negative regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage
+174646	P46934	0030948	negative regulation of vascular endothelial growth factor receptor signaling pathway
+174647	P46934	0007528	neuromuscular junction development
+174648	P46934	0031175	neuron projection development
+174649	P46934	0003151	outflow tract morphogenesis
+174650	P46934	0046824	positive regulation of nucleocytoplasmic transport
+174651	P46934	0014068	positive regulation of phosphatidylinositol 3-kinase signaling
+174652	P46934	0045732	positive regulation of protein catabolic process
+174653	P46934	0050847	progesterone receptor signaling pathway
+174654	P46934	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process
+174655	P46934	0070534	protein K63-linked ubiquitination
+174656	P46934	0006513	protein monoubiquitination
+174657	P46934	0000209	protein polyubiquitination
+174658	P46934	0006622	protein targeting to lysosome
+174659	P46934	0016567	protein ubiquitination
+174660	P46934	0032801	receptor catabolic process
+174661	P46934	0031623	receptor internalization
+174662	P46934	0048814	regulation of dendrite morphogenesis
+174663	P46934	0034765	regulation of ion transmembrane transport
+174664	P46934	0016241	regulation of macroautophagy
+174665	P46934	0042391	regulation of membrane potential
+174666	P46934	1901016	regulation of potassium ion transmembrane transporter activity
+174667	P46934	0050807	regulation of synapse organization
+174668	P46934	0051592	response to calcium ion
+174669	P46934	0042110	T cell activation
+174670	P46934	0019089	transmission of virus
+174671	P46934	0006511	ubiquitin-dependent protein catabolic process
+174672	P46934	0043162	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway

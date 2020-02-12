@@ -258,6 +258,6 @@ if __name__ == '__main__':
 
         ###
         if args.out_wordcloud:
-            plt.savefig(fig, args.out_wordcloud)
+            plt.savefig(args.out_wordcloud)
         else:
             plt.show()
