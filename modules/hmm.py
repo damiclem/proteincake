@@ -6,12 +6,18 @@
 # Dependencies
 import sys
 import subprocess
+import tempfile
 import pandas as pd
 import argparse
 
 
+# Available algorithms
+JACKHMMER = 'jackhmmer'
+HMMSEARCH = 'hmmsearch'
+
+
 # Parse HMM string result to Pandas DataFrame
-def parse(result):
+def parse(result, raw=False):
     """
     Input:
     1. PSSM result (string)
@@ -37,41 +43,84 @@ def parse(result):
         # Last column must be grouped together: it is the description
         result[i][num_cols] = ' '.join(result[i][num_cols:])
         result[i] = result[i][:num_cols]
-    # Turn result table into DataFrame Object and return it
-    return pd.DataFrame(result, columns=columns)
+    # Turn result table into DataFrame Object
+    result = pd.DataFrame(result, columns=columns)
+    # Format dataframe: return predicted sequence accession, start, end, 'evalue'
+    if not raw:
+        # Return subset of dataset columns
+        result = result[['target_name', 'align_from', 'align_to', 'dom_i_evalue']]
+        # Map columns
+        result.columns = ['entry_ac', 'seq_start', 'seq_end', 'e_value']
+    # Slice the returned dataset in order to retrieve only
+    return result
 
 
-# Run HMM script, return result
-def run(msa_path, test_path, model_path):
-    """
-    Creates and tests an HMM model
-    Input:
-    1. test_path:   path to test set (.fasta formatted)
-    1. msa_path:    path to multiple seuqence alignment file (.fasta formatted)
-    3. model_path:  path where we save the HMM model
-    4. out_path:    path where to save output
-    7. evalue:      maximum e-value threshold (default 0.05)
-    Output:
-    1. Text output retrieved from psiblast
-    """
+# Fit HMM model (use hmmbuild)
+def fit(msa_path, model_path):
     # Build the model
-    subprocess.run(['hmmbuild', model_path, msa_path],
-                   stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
-    # Test the model
-    out = subprocess.run(['hmmsearch',
+    out = subprocess.run(['hmmbuild', model_path, msa_path],
+                         stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+                         check=True)
+    return out.stdout.decode('utf-8')
+
+
+# Evaluate HMM model, return result
+def test(algorithm=HMMSEARCH, *args, **kwargs):
+    """
+    Test an HMM model
+    Input:
+        1. algorithm:       which algorithm to be used in evaluation
+        2. *args, **kwargs: other arguments passed to inner functions
+    Output:
+        1. text output retrieved from psiblast
+    """
+    # Test the given model
+    if algorithm == HMMSEARCH:
+        out = test_hmmsearch(*args, **kwargs)
+    elif algorithm == JACKHMMER:
+        out = test_jackhmmer(*args, **kwargs)
+    # Turn bytes output to string
+    return out.stdout.decode('utf-8')
+
+
+# Evaluate HMM model using hmmsearch (requires fit)
+def test_hmmsearch(model_path, test_path):
+    """
+    Input:
+        1. model_path:  path to fitted HMM model
+        2. test_path:   path to test set (.fasta formatted)
+    Output:
+        1. text output retrieved from psiblast
+    """
+    # Test the given model
+    return subprocess.run([HMMSEARCH,
                           '-o', '/dev/null',  # Output is silenced
                           '--domtblout', '/dev/stdout',  # Domtblout redirected to stdout
                           model_path, test_path],
-                         stdout=subprocess.PIPE, stderr=subprocess.PIPE,
-                         check=True)
-    # Turn bytes output to string
-    return out.stdout.decode('utf-8')
+                          stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+                          check=True)
+
+# Evaluate HMM model using jackhmmes (does not require fit)
+def test_jackhmmer(seq_path, test_path):
+    """
+    Input:
+        1. seq_in:      input sequence
+        2. test_path:   path to test set (.fasta formatted)
+    Output:
+        1. text output retrieved from psiblast
+    """
+    # Test the given model
+    return subprocess.run([JACKHMMER, '-o', '/dev/null', '--domtblout', '/dev/stdout', seq_path, test_path],
+                          stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=True)
 
 
 if __name__ == '__main__':
 
     # 1. Define arguments
     parser = argparse.ArgumentParser()
+    parser.add_argument('--algorithm',      type=str,   default=HMMSEARCH)
+    parser.add_argument('--fit',            type=str,   default=True)
+    parser.add_argument('--seq_path',       type=str,   default='data/domain.path')
     parser.add_argument('--msa_path',       type=str,   default='data/msa.fasta')
     parser.add_argument('--test_path',      type=str,   default='data/human.fasta')
     parser.add_argument('--model_path',     type=str,   default='models/model.hmm')
@@ -83,14 +132,34 @@ if __name__ == '__main__':
 
     # 3. Run HMM model test
     try:
-        # Get hmm result
-        hmm_result = run(args.msa_path, args.test_path, args.model_path,
-                         out_path=args.out_path, evalue=args.evalue)
-        hmm_result = parse(hmm_result)
+
+        # Define output container
+        hmm_out = None
+
+        # Case HMMSEARCH algorithm
+        if args.algorithm == HMMSEARCH:
+            # Fit the model if required
+            if args.fit:
+                fit(msa_path=args.msa_path, model_path=args.model_path)
+            # Evaluate the model
+            hmm_out = test(algorithm=HMMSEARCH, model_path=args.model_path, test_path=args.test_path)
+
+
+        # Case JACKHMMER algorithm
+        elif args.aglorithm == JCAKHMMER:
+            hmm_out = test(algorithm=JACKHMMER, seq_path=args.seq_path, test_path=args.test_path)
+
+        # Error: no algorithm has been chosen
+        else:
+            sys.exit('Error: no valid algorithm has been chosen')
+
+        # Parse output to pandas DataFrame object
+        hmm_out = parse(hmm_out)
+
         # Case out path has been set: write to file
         if args.out_path:
             # Write to file
-            hmm_result.to_csv(args.out_path, index=False, sep='\t')
+            hmm_out.to_csv(args.out_path, index=False, sep='\t')
         # Case out path has not been set: write to console
         else:
             print(hmm_result.to_string())
