@@ -13,6 +13,9 @@ from scipy.stats import fisher_exact
 from wordcloud import WordCloud
 
 #warnings.filterwarnings("ignore")
+pd.options.mode.chained_assignment = None
+
+
 
 """
 To retrieve the GO that are parents, we cycle over ontology["graphs"][0]["edges"] which is a list of dictionary.
@@ -170,6 +173,7 @@ def enrich(df1, df2, ontology, col_name_do = 'do_id', col_name_descr='name'):
     df = df[df.index.isin(do_found)]
     df['depth'] = depth_
     df[col_name_descr] = labels_
+    df = transmit_pvalue(df, ontology)
     # 5. Return dataframe
     return df
 
