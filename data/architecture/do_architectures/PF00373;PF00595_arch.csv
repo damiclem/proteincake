@@ -1,4 +1,4 @@
-	entry_ac	do_id	name	descr
-934	P46934	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-17813	P46934	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
-30000	P46934	8566	herpes simplex	A viral infectious disease that results_in_formation_of lesions, located_in mouth, located_in face, located_in genitalia, or located_in hands, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which are transmitted_by direct contact with an active lesion or body fluid of an infected person.
+	Unnamed: 0	entry_ac	do_id	name	descr
+934	934	P46934	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+17813	17813	P46934	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+30000	30000	P46934	8566	herpes simplex	A viral infectious disease that results_in_formation_of lesions, located_in mouth, located_in face, located_in genitalia, or located_in hands, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which are transmitted_by direct contact with an active lesion or body fluid of an infected person.

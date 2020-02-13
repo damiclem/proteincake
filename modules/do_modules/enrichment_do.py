@@ -1,6 +1,8 @@
 import json
 import gzip
 import argparse
+import warnings
+import sys
 
 import numpy as np
 import pandas as pd
@@ -10,8 +12,7 @@ from tqdm import tqdm
 from scipy.stats import fisher_exact
 from wordcloud import WordCloud
 
-import warnings
-warnings.filterwarnings("ignore")
+#warnings.filterwarnings("ignore")
 
 """
 To retrieve the GO that are parents, we cycle over ontology["graphs"][0]["edges"] which is a list of dictionary.
@@ -196,8 +197,8 @@ if __name__ == '__main__':
         ### Path of the file containing the ontology graph structure
         parser.add_argument('--ontology_path',        type=str,   default='data/do/do_ontology.csv')
         ### Paths of the two dataframe that must be compared
-        parser.add_argument('--original_df_path',     type=str,   default='data/do/do_original.csv')
-        parser.add_argument('--background_df_path',   type=str,   default='data/do/do.csv')
+        parser.add_argument('--target_path',     type=str,   default='data/do/do_original.csv')
+        parser.add_argument('--background_path',   type=str,   default='data/do/do.csv')
         ### Out directory of the results and of the WordCloud
         parser.add_argument('--out_path',             type=str)
         parser.add_argument('--out_wordcloud',        type=str)
@@ -215,8 +216,8 @@ if __name__ == '__main__':
         ontology = pd.read_csv(args.ontology_path, dtype=str, sep='\t', index_col=[0])
         ontology.index = ontology.do_id.values
         ### DF1 and DF2
-        original_do= pd.read_table(args.original_df_path, dtype=str, index_col = [0])
-        background_do= pd.read_table(args.background_df_path, dtype=str, index_col = [0])
+        original_do= pd.read_table(args.target_path, dtype=str, index_col = [0])
+        background_do= pd.read_table(args.background_path, dtype=str, index_col = [0])
 
         # 3. Compute the enrichness
         enrich_result = enrich(df1=original_do,
@@ -225,10 +226,19 @@ if __name__ == '__main__':
                                col_name_descr=args.col_name_descr,
                                col_name_do=args.col_name_do_id)
 
+        if ((enrich_result['p-value'] > args.p_value) | (enrich_result['depth'] > args.depth)).all():
+            warnings.warn('No object passed the filter. Returning non-filtered dataset.\nClosing...')
+            enrich_result['score'] = np.zeros((1, enrich_result.shape[0])).reshape(-1) - 1
+            if args.out_path:
+                enrich_result.to_csv(args.out_path, sep='\t')
+            else:
+                print(enrich_result)
+            sys.exit(1)
+
+
         # 4. Filter the results and create the WordCloud
         ### Results
         enrich_result = enrich_filter(df = enrich_result, max_depth=args.depth, max_pvalue=args.p_value)
-        print(enrich_result)
         ### WordCloud.
         wc = word_cloud(df=enrich_result, col_name=args.col_name_descr, col_score='score')
         fig = plt.imshow(wc, interpolation='bilinear')

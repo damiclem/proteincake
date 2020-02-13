@@ -19,13 +19,13 @@ if __name__ == '__main__':
     # 1. Define arguments
     parser = argparse.ArgumentParser()
     ### Paths of the two dataframe that must be compared
-    parser.add_argument('--original_df_path',     type=str,   default='data/results/ensemble.tsv')
-    parser.add_argument('--go_df_path',           type=str,   default='data/go/go.csv')
+    parser.add_argument('--original_path',        type=str,   default='data/results/ensemble.tsv')
+    parser.add_argument('--do_path',              type=str,   default='data/do/do.csv')
     parser.add_argument('--string_path',          type=str,   default='data/string/string.txt.gz')
-    parser.add_argument('--human_df_path',        type=str,   default='data/human.csv')
+    parser.add_argument('--human_path',           type=str,   default='data/human.csv')
     ### Out directory of the results and of the WordCloud
-    parser.add_argument('--out_path_target',      type=str,   default='data/string/string_target_go.csv')
-    parser.add_argument('--out_path_background',  type=str,   default='data/string/string_background_go.csv')
+    parser.add_argument('--out_path_target',      type=str,   default='data/string/string_target_do.csv')
+    parser.add_argument('--out_path_background',  type=str,   default='data/string/string_background_do.csv')
     ### Names of the columns of the input dataframe containing the GO_id
     parser.add_argument('--col_name_entry_ac',    type=str,   default='entry_ac')
     ### Minimum Combined Score of the interaction
@@ -36,17 +36,13 @@ if __name__ == '__main__':
 
     # 3. Load the required datasets
     # Human
-    human =  pd.read_csv(args.human_df_path, sep='\t')
+    human =  pd.read_csv(args.human_path, sep='\t')
     human = human[human.string_id.isna() == False] #Remove proteins with no STRING
     human.string_id = human.string_id.map(lambda x: str(x).replace(';', '').strip())
     # Original
-    original = pd.read_csv(args.original_df_path, sep='\t')
-    # Go
-    go = pd.read_csv(args.go_df_path, sep='\t', dtype={
-                    'entry_ac': np.unicode_,
-                    'go_id': np.unicode_,
-                    'go_descr': np.unicode_
-                     })
+    original = pd.read_csv(args.original_path, sep='\t')
+    # Do
+    do = pd.read_csv(args.do_path, sep='\t', dtype=str)
     # String
     string = load(args.string_path)
 
@@ -64,10 +60,10 @@ if __name__ == '__main__':
     original = human[human.string_id.isin(all_string_ids)]
 
     # 5. Get target and background and save it
-    # String target GO dataset
-    string_target_go = go[go.entry_ac.isin(original.entry_ac)]
-    string_target_go.to_csv(args.out_path_target, sep='\t')
+    # String target DO dataset
+    string_target_do = do[do.entry_ac.isin(original.entry_ac)]
+    string_target_do.to_csv(args.out_path_target, sep='\t')
 
-    # String background GO dataset
-    string_background_go = go[go.entry_ac.isin(human.entry_ac)]
-    string_background_go.to_csv(args.out_path_background, sep='\t')
+    # String background DO dataset
+    string_background_do = do[do.entry_ac.isin(human.entry_ac)]
+    string_background_do.to_csv(args.out_path_background, sep='\t')

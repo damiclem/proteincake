@@ -19,10 +19,10 @@ if __name__ == '__main__':
     # 1. Define arguments
     parser = argparse.ArgumentParser()
     ### Paths of the two dataframe that must be compared
-    parser.add_argument('--original_df_path',     type=str,   default='data/results/ensemble.tsv')
-    parser.add_argument('--go_df_path',           type=str,   default='data/go/go.csv')
+    parser.add_argument('--original_path',     type=str,   default='data/results/ensemble.tsv')
+    parser.add_argument('--go_path',           type=str,   default='data/go/go.csv')
     parser.add_argument('--string_path',          type=str,   default='data/string/string.txt.gz')
-    parser.add_argument('--human_df_path',        type=str,   default='data/human.csv')
+    parser.add_argument('--human_path',        type=str,   default='data/human.csv')
     ### Out directory of the results and of the WordCloud
     parser.add_argument('--out_path_target',      type=str,   default='data/string/string_target_go.csv')
     parser.add_argument('--out_path_background',  type=str,   default='data/string/string_background_go.csv')
@@ -36,13 +36,13 @@ if __name__ == '__main__':
 
     # 3. Load the required datasets
     # Human
-    human =  pd.read_csv(args.human_df_path, sep='\t')
+    human =  pd.read_csv(args.human_path, sep='\t')
     human = human[human.string_id.isna() == False] #Remove proteins with no STRING
     human.string_id = human.string_id.map(lambda x: str(x).replace(';', '').strip())
     # Original
-    original = pd.read_csv(args.original_df_path, sep='\t')
+    original = pd.read_csv(args.original_path, sep='\t')
     # Go
-    go = pd.read_csv(args.go_df_path, sep='\t', dtype={
+    go = pd.read_csv(args.go_path, sep='\t', dtype={
                     'entry_ac': np.unicode_,
                     'go_id': np.unicode_,
                     'go_descr': np.unicode_

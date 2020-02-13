@@ -1,12 +1,12 @@
-	entry_ac	do_id	name	descr
-4065	Q9P2P5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-7075	Q76N89	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-15492	Q9P2P5	219	colon cancer	A colorectal cancer that is located_in the colon.
-15943	Q9P2P5	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
-23366	Q9P2P5	0080322	polycystic kidney disease	
-27760	Q9P2P5	540	strabismus	
-31014	Q9P2P5	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
-32493	Q76N89	332	amyotrophic lateral sclerosis	A motor neuron disease that is characterized by muscle spasticity, rapidly progressive weakness due to muscle atrophy, difficulty in speaking, swallowing, and breathing.
-34369	Q9P2P5	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
-37937	Q9P2P5	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
-40133	Q76N89	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
+	Unnamed: 0	entry_ac	do_id	name	descr
+4065	4065	Q9P2P5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+7075	7075	Q76N89	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+15492	15492	Q9P2P5	219	colon cancer	A colorectal cancer that is located_in the colon.
+15943	15943	Q9P2P5	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
+23366	23366	Q9P2P5	0080322	polycystic kidney disease	
+27760	27760	Q9P2P5	540	strabismus	
+31014	31014	Q9P2P5	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
+32493	32493	Q76N89	332	amyotrophic lateral sclerosis	A motor neuron disease that is characterized by muscle spasticity, rapidly progressive weakness due to muscle atrophy, difficulty in speaking, swallowing, and breathing.
+34369	34369	Q9P2P5	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+37937	37937	Q9P2P5	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
+40133	40133	Q76N89	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.

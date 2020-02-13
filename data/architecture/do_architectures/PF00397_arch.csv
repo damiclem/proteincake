@@ -1,22 +1,22 @@
-	entry_ac	do_id	name	descr
-917	Q9BTA9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-1824	Q8N3X1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-2571	Q9H4Z3	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-2885	P46937	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-3185	Q9GZV5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-4270	Q9H4B6	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-9499	O15428	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-15795	Q9BTA9	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
-15890	P46937	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
-17807	Q9BTA9	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
-18210	Q8N3X1	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
-18538	Q9H4Z3	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
-18664	P46937	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
-24254	Q6AWC2	0080322	polycystic kidney disease	
-26780	P46937	684	hepatocellular carcinoma	A liver carcinoma that has_material_basis_in undifferentiated hepatocytes and located_in the liver.
-31845	Q6AWC2	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
-34265	P46937	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
-35209	Q6AWC2	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
-38763	Q6AWC2	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
-44108	P46937	1749	squamous cell carcinoma	A carcinoma that derives_from squamous epithelial cells.
-45828	P46937	10017	multiple endocrine neoplasia type 1	An autosomal dominant disease that has_material_basis_in a mutation in the MEN1 tumor suppressor gene and is characterized by over active endocrine glands frequently involving tumors of the parathyroid glands, the pituitary gland, and the pancreas.
+	Unnamed: 0	entry_ac	do_id	name	descr
+917	917	Q9BTA9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+1824	1824	Q8N3X1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+2571	2571	Q9H4Z3	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+2885	2885	P46937	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+3185	3185	Q9GZV5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+4270	4270	Q9H4B6	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+9499	9499	O15428	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+15795	15795	Q9BTA9	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
+15890	15890	P46937	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
+17807	17807	Q9BTA9	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+18210	18210	Q8N3X1	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+18538	18538	Q9H4Z3	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+18664	18664	P46937	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+24254	24254	Q6AWC2	0080322	polycystic kidney disease	
+26780	26780	P46937	684	hepatocellular carcinoma	A liver carcinoma that has_material_basis_in undifferentiated hepatocytes and located_in the liver.
+31845	31845	Q6AWC2	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
+34265	34265	P46937	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+35209	35209	Q6AWC2	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+38763	38763	Q6AWC2	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
+44108	44108	P46937	1749	squamous cell carcinoma	A carcinoma that derives_from squamous epithelial cells.
+45828	45828	P46937	10017	multiple endocrine neoplasia type 1	An autosomal dominant disease that has_material_basis_in a mutation in the MEN1 tumor suppressor gene and is characterized by over active endocrine glands frequently involving tumors of the parathyroid glands, the pituitary gland, and the pancreas.

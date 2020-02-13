@@ -1,15 +1,15 @@
-	entry_ac	do_id	name	descr
-961	Q96PU5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-3332	O00308	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-11985	Q96PU5	3312	bipolar disorder	A mood disorder that involves alternating periods of mania and depression.
-13497	Q96PU5	10763	hypertension	An artery disease characterized by chronic elevated blood pressure in the arteries.
-13521	O00308	10763	hypertension	An artery disease characterized by chronic elevated blood pressure in the arteries.
-14021	Q96PU5	10283	prostate cancer	A male reproductive organ cancer that is located_in the prostate.
-17825	Q96PU5	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
-18842	O00308	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
-22494	Q96PU5	9970	obesity	An overnutrition that is characterized by excess body fat, traditionally defined as an elevated ratio of weight to height (specifically 30 kilograms per meter squared), has_material_basis_in a multifactorial etiology related to excess nutrition intake, decreased caloric utilization, and genetic susceptibility, and possibly medications and certain disorders of metabolism, endocrine function, and mental illness.
-22543	O00308	9970	obesity	An overnutrition that is characterized by excess body fat, traditionally defined as an elevated ratio of weight to height (specifically 30 kilograms per meter squared), has_material_basis_in a multifactorial etiology related to excess nutrition intake, decreased caloric utilization, and genetic susceptibility, and possibly medications and certain disorders of metabolism, endocrine function, and mental illness.
-23289	O00308	0080322	polycystic kidney disease	
-40676	Q96PU5	674	cleft palate	An orofacial cleft characterized by a fissure of the soft and/or hard palate, due to faulty fusion of the two plates of the skull that form the hard palate.
-41545	Q96PU5	0050454	periventricular nodular heterotopia	A congenital nervous system abnormality characterized by non proper migration of neurons during the early development of the fetal brain.
-42090	Q96PU5	0050477	Liddle syndrome	A renal tubular transport disease that is characterized by hypertension and hypokalemia caused by dysregulation of epithelial sodium channels causing over expression of the channel.
+	Unnamed: 0	entry_ac	do_id	name	descr
+961	961	Q96PU5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+3332	3332	O00308	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+11985	11985	Q96PU5	3312	bipolar disorder	A mood disorder that involves alternating periods of mania and depression.
+13497	13497	Q96PU5	10763	hypertension	An artery disease characterized by chronic elevated blood pressure in the arteries.
+13521	13521	O00308	10763	hypertension	An artery disease characterized by chronic elevated blood pressure in the arteries.
+14021	14021	Q96PU5	10283	prostate cancer	A male reproductive organ cancer that is located_in the prostate.
+17825	17825	Q96PU5	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+18842	18842	O00308	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+22494	22494	Q96PU5	9970	obesity	An overnutrition that is characterized by excess body fat, traditionally defined as an elevated ratio of weight to height (specifically 30 kilograms per meter squared), has_material_basis_in a multifactorial etiology related to excess nutrition intake, decreased caloric utilization, and genetic susceptibility, and possibly medications and certain disorders of metabolism, endocrine function, and mental illness.
+22543	22543	O00308	9970	obesity	An overnutrition that is characterized by excess body fat, traditionally defined as an elevated ratio of weight to height (specifically 30 kilograms per meter squared), has_material_basis_in a multifactorial etiology related to excess nutrition intake, decreased caloric utilization, and genetic susceptibility, and possibly medications and certain disorders of metabolism, endocrine function, and mental illness.
+23289	23289	O00308	0080322	polycystic kidney disease	
+40676	40676	Q96PU5	674	cleft palate	An orofacial cleft characterized by a fissure of the soft and/or hard palate, due to faulty fusion of the two plates of the skull that form the hard palate.
+41545	41545	Q96PU5	0050454	periventricular nodular heterotopia	A congenital nervous system abnormality characterized by non proper migration of neurons during the early development of the fetal brain.
+42090	42090	Q96PU5	0050477	Liddle syndrome	A renal tubular transport disease that is characterized by hypertension and hypokalemia caused by dysregulation of epithelial sodium channels causing over expression of the channel.

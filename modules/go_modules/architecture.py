@@ -45,11 +45,11 @@ if __name__ == '__main__':
     # Define arguments
     parser = argparse.ArgumentParser()
 
-    parser.add_argument('--original_df_path',     type=str,   default='data/architecture/go_architectures/architecture_background.csv')
-    parser.add_argument('--go_df_path',           type=str,   default='data/go/go.csv')
-    parser.add_argument('--out_fold_path',        type=str,   default='data/architecture/go_architectures/')
+    parser.add_argument('--original_path',     type=str,   default='data/architecture/go_architectures/architecture_background.csv')
+    parser.add_argument('--go_path',           type=str,   default='data/go/go.csv')
+    parser.add_argument('--out_path',          type=str,   default='data/architecture/go_architectures/')
 
     # Define dictionary of args
     args = parser.parse_args()
 
-    main(args.original_df_path, args.go_df_path, args.out_fold_path)
+    main(args.original_path, args.go_path, args.out_path)
