@@ -31,16 +31,16 @@ Here is an example of the *modules* to launch to create all the dataset and to p
 To compare the 4 couple of datasets we first generate the data (in the first point the data is already generated and the path of it is set as deafult arguments), then we run the enrichment.
 
 #### First point
->python modules/go_modules/enrichment_go.py
+    - python modules/go_modules/enrichment_go.py
 
 #### Second point
->python modules/go_modules/pdb_network.py <br>
->python modules/go_modules/enrichment_go.py  --target_path "data/pdb_data/pdb_target_go.csv" --background_path "data/pdb_data/pdb_background_go.csv"
+    - python modules/go_modules/pdb_network.py
+    - python modules/go_modules/enrichment_go.py  --target_path "data/pdb_data/pdb_target_go.csv" --background_path "data/pdb_data/pdb_background_go.csv"
 
 #### Third point
->python modules/go_modules/architecture.py <br>
->python modules/go_modules/enrichment_go.py  --target_path "data/architecture/go_architectures/PF00397_arch.csv" --background_path "data/architecture/go_architectures/architecture_background.csv"
+    - python modules/go_modules/architecture.py
+    - python modules/go_modules/enrichment_go.py  --target_path "data/architecture/go_architectures/PF00397_arch.csv" --background_path "data/architecture/go_architectures/architecture_background.csv"
 
 #### Fourth point
->python modules/go_modules/string_network.py <br>
->python modules/go_modules/enrichment_go.py  --target_path "data/string/string_target_go.csv" --background_path "data/string/string_background_go.csv"
+    - python modules/go_modules/string_network.py
+    - python modules/go_modules/enrichment_go.py  --target_path "data/string/string_target_go.csv" --background_path "data/string/string_background_go.csv"
