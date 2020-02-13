@@ -1,0 +1,14 @@
+	entry_ac	do_id	name	descr
+8346	Q9NZC7	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+14282	Q9NZC7	10283	prostate cancer	A male reproductive organ cancer that is located_in the prostate.
+15344	Q9NZC7	3459	breast carcinoma	A breast cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+16829	Q9NZC7	2394	ovarian cancer	A female reproductive organ cancer that is located_in the ovary.
+17111	Q9NZC7	305	carcinoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+17436	Q9NZC7	1793	pancreatic cancer	An endocrine gland cancer located_in the pancreas.
+20192	Q9NZC7	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+26420	Q9NZC7	1826	epilepsy	A brain disease that is characterized by the occurrance of at least two unprovoked seizures resulting from a persistent epileptogenic abnormality of the brain that is able to spontaneously generate paroxysmal activity and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions.
+28304	Q9NZC7	1324	lung cancer	A respiratory system cancer that is located_in the lung.
+33722	Q9NZC7	9538	multiple myeloma	A myeloid neoplasm that is located in the plasma cells in bone marrow.
+37639	Q9NZC7	3717	gastric adenocarcinoma	A stomach carcinoma that derives_from epithelial cells of glandular origin.
+39465	Q9NZC7	4074	pancreatic adenocarcinoma	A pancreatic carcinoma that derives_from epithelial cells of glandular origin.
+44344	Q9NZC7	8466	retinal degeneration	A retinal disease that is characterized by deterioration of the retina caused by the progressive and eventual death of the cells of the retina.

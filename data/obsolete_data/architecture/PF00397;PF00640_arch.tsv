@@ -1,0 +1,62 @@
+	entry_ac	go_id	go_descr
+231966	O00213	0005737	cytoplasm
+231967	O00213	0043197	dendritic spine
+231968	O00213	0005783	endoplasmic reticulum
+231969	O00213	0030426	growth cone
+231970	O00213	1990812	growth cone filopodium
+231971	O00213	1990761	growth cone lamellipodium
+231972	O00213	0030027	lamellipodium
+231973	O00213	0044304	main axon
+231974	O00213	0043025	neuronal cell body
+231975	O00213	0016607	nuclear speck
+231976	O00213	0005654	nucleoplasm
+231977	O00213	0005634	nucleus
+231978	O00213	0048471	perinuclear region of cytoplasm
+231979	O00213	0005886	plasma membrane
+231980	O00213	0045211	postsynaptic membrane
+231981	O00213	0042734	presynaptic membrane
+231982	O00213	0032991	protein-containing complex
+231983	O00213	0045202	synapse
+231984	O00213	0001540	amyloid-beta binding
+231985	O00213	0003682	chromatin binding
+231986	O00213	0042393	histone binding
+231987	O00213	0070064	proline-rich region binding
+231988	O00213	0044877	protein-containing complex binding
+231989	O00213	0048156	tau protein binding
+231990	O00213	0008134	transcription factor binding
+231991	O00213	0031625	ubiquitin protein ligase binding
+231992	O00213	0006915	apoptotic process
+231993	O00213	0007409	axonogenesis
+231994	O00213	0007050	cell cycle arrest
+231995	O00213	0006974	cellular response to DNA damage stimulus
+231996	O00213	0006302	double-strand break repair
+231997	O00213	0043967	histone H4 acetylation
+231998	O00213	0030308	negative regulation of cell growth
+231999	O00213	0050760	negative regulation of thymidylate synthase biosynthetic process
+232000	O00213	0000122	negative regulation of transcription by RNA polymerase II
+232001	O00213	0043065	positive regulation of apoptotic process
+232002	O00213	0045739	positive regulation of DNA repair
+232003	O00213	0010976	positive regulation of neuron projection development
+232004	O00213	0050714	positive regulation of protein secretion
+232005	O00213	0045944	positive regulation of transcription by RNA polymerase II
+232006	O00213	0045893	positive regulation of transcription, DNA-templated
+232007	O00213	0006355	regulation of transcription, DNA-templated
+232008	O00213	0010039	response to iron ion
+232009	O00213	0007165	signal transduction
+255734	Q92870	0005737	cytoplasm
+255735	Q92870	0030426	growth cone
+255736	Q92870	0030027	lamellipodium
+255737	Q92870	0016020	membrane
+255738	Q92870	0005634	nucleus
+255739	Q92870	0045202	synapse
+255740	Q92870	0001540	amyloid-beta binding
+255741	Q92870	0008134	transcription factor binding
+255742	Q92870	0007411	axon guidance
+255743	Q92870	0007050	cell cycle arrest
+255744	Q92870	0030198	extracellular matrix organization
+255745	Q92870	0035556	intracellular signal transduction
+255746	Q92870	0043066	negative regulation of apoptotic process
+255747	Q92870	0030308	negative regulation of cell growth
+255748	Q92870	0001764	neuron migration
+255749	Q92870	0043065	positive regulation of apoptotic process
+255750	Q92870	0006355	regulation of transcription, DNA-templated
