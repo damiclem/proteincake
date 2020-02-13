@@ -1,0 +1,8 @@
+	entry_ac	do_id	name	descr
+5588	P46939	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+7709	P01906	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+12620	P46939	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
+12802	P01906	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
+19775	P46939	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+31139	P46939	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
+32420	P46939	11723	Duchenne muscular dystrophy	A muscular dystrophy that has_material_basis_in X-linked mutations in the DMD gene found on the X chromosome. It is characterized by rapidly progressing muscle weakness and muscle atrophy initially involving the lower extremities and eventually affecting the whole body. It affects males whereas females can be carriers. The symptoms start before the age of six and may appear at infancy.

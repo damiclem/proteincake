@@ -1,0 +1,47 @@
+	entry_ac	go_id	go_descr
+144998	P46939	0030054	cell junction
+144999	P46939	0030864	cortical actin cytoskeleton
+145000	P46939	0005737	cytoplasm
+145001	P46939	0005856	cytoskeleton
+145002	P46939	0016010	dystrophin-associated glycoprotein complex
+145003	P46939	0070062	extracellular exosome
+145004	P46939	0030175	filopodium
+145005	P46939	0031527	filopodium membrane
+145006	P46939	0030426	growth cone
+145007	P46939	0016020	membrane
+145008	P46939	0031594	neuromuscular junction
+145009	P46939	0005654	nucleoplasm
+145010	P46939	0005886	plasma membrane
+145011	P46939	0045211	postsynaptic membrane
+145012	P46939	0032991	protein-containing complex
+145013	P46939	0042383	sarcolemma
+145014	P46939	0003779	actin binding
+145015	P46939	0051015	actin filament binding
+145016	P46939	0005178	integrin binding
+145017	P46939	0019901	protein kinase binding
+145018	P46939	0017166	vinculin binding
+145019	P46939	0008270	zinc ion binding
+145020	P46939	0006936	muscle contraction
+145021	P46939	0007517	muscle organ development
+145022	P46939	0007528	neuromuscular junction development
+145023	P46939	0001954	positive regulation of cell-matrix adhesion
+145024	P46939	2000649	regulation of sodium ion transmembrane transporter activity
+145025	P46939	0014894	response to denervation involved in regulation of muscle adaptation
+185107	P01906	0030669	clathrin-coated endocytic vesicle membrane
+185108	P01906	0030666	endocytic vesicle membrane
+185109	P01906	0010008	endosome membrane
+185110	P01906	0012507	ER to Golgi transport vesicle membrane
+185111	P01906	0000139	Golgi membrane
+185112	P01906	0071556	integral component of lumenal side of endoplasmic reticulum membrane
+185113	P01906	0005887	integral component of plasma membrane
+185114	P01906	0005765	lysosomal membrane
+185115	P01906	0042613	MHC class II protein complex
+185116	P01906	0005886	plasma membrane
+185117	P01906	0032588	trans-Golgi network membrane
+185118	P01906	0030658	transport vesicle membrane
+185119	P01906	0032395	MHC class II receptor activity
+185120	P01906	0002250	adaptive immune response
+185121	P01906	0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II
+185122	P01906	0006955	immune response
+185123	P01906	0060333	interferon-gamma-mediated signaling pathway
+185124	P01906	0050852	T cell receptor signaling pathway

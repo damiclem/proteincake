@@ -1,0 +1,78 @@
+	entry_ac	go_id	go_descr
+142703	O00308	0005737	cytoplasm
+142704	O00308	0005829	cytosol
+142705	O00308	0070062	extracellular exosome
+142706	O00308	0016020	membrane
+142707	O00308	0005634	nucleus
+142708	O00308	0000151	ubiquitin ligase complex
+142709	O00308	0001085	RNA polymerase II transcription factor binding
+142710	O00308	0008134	transcription factor binding
+142711	O00308	0061630	ubiquitin protein ligase activity
+142712	O00308	0004842	ubiquitin-protein transferase activity
+142713	O00308	0006464	cellular protein modification process
+142714	O00308	0006858	extracellular transport
+142715	O00308	0043433	negative regulation of DNA-binding transcription factor activity
+142716	O00308	0010629	negative regulation of gene expression
+142717	O00308	0045746	negative regulation of Notch signaling pathway
+142718	O00308	0051224	negative regulation of protein transport
+142719	O00308	0000122	negative regulation of transcription by RNA polymerase II
+142720	O00308	0045892	negative regulation of transcription, DNA-templated
+142721	O00308	0032410	negative regulation of transporter activity
+142722	O00308	0045732	positive regulation of protein catabolic process
+142723	O00308	0045944	positive regulation of transcription by RNA polymerase II
+142724	O00308	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process
+142725	O00308	0051865	protein autoubiquitination
+142726	O00308	0070534	protein K63-linked ubiquitination
+142727	O00308	0000209	protein polyubiquitination
+142728	O00308	0016567	protein ubiquitination
+142729	O00308	0034765	regulation of ion transmembrane transport
+142730	O00308	0042391	regulation of membrane potential
+142731	O00308	1901016	regulation of potassium ion transmembrane transporter activity
+142732	O00308	0006511	ubiquitin-dependent protein catabolic process
+142733	O00308	0046718	viral entry into host cell
+162309	Q96PU5	0005623	cell
+162310	Q96PU5	0005737	cytoplasm
+162311	Q96PU5	0005829	cytosol
+162312	Q96PU5	0070062	extracellular exosome
+162313	Q96PU5	0005794	Golgi apparatus
+162314	Q96PU5	0005771	multivesicular body
+162315	Q96PU5	0005654	nucleoplasm
+162316	Q96PU5	0044325	ion channel binding
+162317	Q96PU5	0019870	potassium channel inhibitor activity
+162318	Q96PU5	0015459	potassium channel regulator activity
+162319	Q96PU5	0019871	sodium channel inhibitor activity
+162320	Q96PU5	0017080	sodium channel regulator activity
+162321	Q96PU5	0061630	ubiquitin protein ligase activity
+162322	Q96PU5	0004842	ubiquitin-protein transferase activity
+162323	Q96PU5	0006883	cellular sodium ion homeostasis
+162324	Q96PU5	0007588	excretion
+162325	Q96PU5	0034220	ion transmembrane transport
+162326	Q96PU5	1901380	negative regulation of potassium ion transmembrane transport
+162327	Q96PU5	1901017	negative regulation of potassium ion transmembrane transporter activity
+162328	Q96PU5	2000009	negative regulation of protein localization to cell surface
+162329	Q96PU5	1902306	negative regulation of sodium ion transmembrane transport
+162330	Q96PU5	2000650	negative regulation of sodium ion transmembrane transporter activity
+162331	Q96PU5	0000122	negative regulation of transcription by RNA polymerase II
+162332	Q96PU5	2001288	positive regulation of caveolin-mediated endocytosis
+162333	Q96PU5	1903861	positive regulation of dendrite extension
+162334	Q96PU5	0045807	positive regulation of endocytosis
+162335	Q96PU5	0045732	positive regulation of protein catabolic process
+162336	Q96PU5	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process
+162337	Q96PU5	0070936	protein K48-linked ubiquitination
+162338	Q96PU5	0006513	protein monoubiquitination
+162339	Q96PU5	0000209	protein polyubiquitination
+162340	Q96PU5	0016567	protein ubiquitination
+162341	Q96PU5	0048814	regulation of dendrite morphogenesis
+162342	Q96PU5	0034765	regulation of ion transmembrane transport
+162343	Q96PU5	0003254	regulation of membrane depolarization
+162344	Q96PU5	0042391	regulation of membrane potential
+162345	Q96PU5	0060306	regulation of membrane repolarization
+162346	Q96PU5	1901016	regulation of potassium ion transmembrane transporter activity
+162347	Q96PU5	0042176	regulation of protein catabolic process
+162348	Q96PU5	0031647	regulation of protein stability
+162349	Q96PU5	0010038	response to metal ion
+162350	Q96PU5	0006814	sodium ion transport
+162351	Q96PU5	0006511	ubiquitin-dependent protein catabolic process
+162352	Q96PU5	0086005	ventricular cardiac muscle cell action potential
+162353	Q96PU5	0019058	viral life cycle
+162354	Q96PU5	0030104	water homeostasis

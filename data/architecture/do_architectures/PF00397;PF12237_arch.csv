@@ -1,0 +1,8 @@
+	entry_ac	do_id	name	descr
+2079	O60828	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+15846	O60828	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
+16303	O60828	0060041	autism spectrum disorder	A pervasive developmental disorder that is a spectrum of psychological conditions. The disease has_symptom widespread abnormalities of social interactions and communication, has_symptom severely restricted interests and has_symptom highly repetitive behavior.
+17009	O60828	305	carcinoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+29016	O60828	1289	neurodegenerative disease	A central nervous system disease that results in the progressive deterioration of function or structure of neurons.
+44620	O60828	0050954	spinocerebellar ataxia type 1	An autosomal dominant cerebellar ataxia that is characterized by ataxia, dysarthria, dysphagia, dystonia and peripheral neuropathy that begins in early adulthood, has_material_basis_in the expanded (CAG)n trinucleotide repeat of ataxin-1 gene on chromosome 6p22.
+46305	O60828	0060179	Renpenning syndrome	An intellectual disability that is characterized by small head size (microcephaly), long narrow face, short stature, small testes, and intellectual deficit which follows X-linked inheritance and presents most often in males.

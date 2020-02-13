@@ -153,10 +153,14 @@ def enrich(df1, df2, ontology, col_name_do = 'do_id', col_name_descr='name'):
     # 2. Get Depth
     depth = get_depth(ontology)
     # 4. Update dataframe
-    labels_, depth_ = [], []
-    for do_id in df.index:
-        labels_.append(ontology[col_name_descr][ontology[col_name_do] == do_id].values[0])
-        depth_.append(depth[do_id])
+    labels_, depth_ , go_found= [], [], []
+    for go_id in df.index:
+         if depth.get(go_id):
+            go_found.append(go_id)
+            labels_.append(ontology[col_name][ontology[col_id] == go_id].values[0])
+            depth_.append(depth[go_id])
+
+    df = df[df.index.isin(go_found)]
     df['depth'] = depth_
     df[col_name_descr] = labels_
     # 5. Return dataframe

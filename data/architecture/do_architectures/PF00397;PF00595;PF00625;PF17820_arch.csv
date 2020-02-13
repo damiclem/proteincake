@@ -1,0 +1,7 @@
+	entry_ac	do_id	name	descr
+2370	Q5TCQ9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+7054	Q86UL8	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+15448	Q5TCQ9	219	colon cancer	A colorectal cancer that is located_in the colon.
+18461	Q5TCQ9	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+33119	Q5TCQ9	1520	colon carcinoma	A colon cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+40112	Q86UL8	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
