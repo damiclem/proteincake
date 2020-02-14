@@ -71,7 +71,7 @@ The enrichment has been done by using the following datasets: <br>
     - python modules/go_modules/pdb_network.py
     - python modules/go_modules/enrichment_go.py  --target_path "data/pdb_data/pdb_target_go.csv" --background_path "data/pdb_data/pdb_background_go.csv"
 
-#### 2.1.c STRING Network
+#### 2.1.d STRING Network
 For the STRING part, the enrichment has been done by using the following datasets: <br>
 - *Target*: Original plus the direct interactors found in the STRING database <br>
 - *Background*: All human proteome on SwissProt intersected with the STRING database.
@@ -82,7 +82,7 @@ Note that we considered a protein as a direct interactor with one in the origina
     - python modules/go_modules/string_network.py
     - python modules/go_modules/enrichment_go.py  --target_path "data/string/string_target_go.csv" --background_path "data/string/string_background_go.csv" 
     
-#### 2.1.d: Note on the Enrichment part
+#### 2.1.e: Note on the Enrichment part
 Note 1: <br>
 The code showed above produced is an example of the *GO* part, to perform the *DO* part just change the *go* to *do*. E.g:
 
