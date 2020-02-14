@@ -42,7 +42,7 @@ Moreover, we decided to transmit the p-value of a children to its parents, in or
 
 For each *GO/DO* term that passed the filter, we annoted its *GO/DO id*, *p-value*, *depth*, *description* and *Score*, with Score being the natural logarithm of 1 over p-value, *ln(1/p-value)*. The score is used to generate the *WordCloud*, such that the description of the GO/DO terms with lower *p-value* would appear with a bigger font.  
 
-#### 2.1.a: Original
+#### 2.1.a Original
 The enrichment has been done by using the following datasets: <br>
 - *Target*: Original <br>
 - *Background*: All human proteome on SwissProt
@@ -61,7 +61,7 @@ The code used for creating all the architecture datasets and performing the enri
     - python modules/go_modules/architecture.py
     - python modules/go_modules/enrichment_go.py  --target_path "data/architecture/go_architectures/PF00397_arch.csv" --background_path "data/architecture/go_architectures/architecture_background.csv"    
 
-#### 2.1.c: PDB Network
+#### 2.1.c PDB Network
 The enrichment has been done by using the following datasets: <br>
 - *Target*: Original (with a PDB) plus other human proteins which are found as chain in the same PDB <br>
 - *Background*: All human proteome on SwissProt with a PDB
@@ -71,7 +71,7 @@ The enrichment has been done by using the following datasets: <br>
     - python modules/go_modules/pdb_network.py
     - python modules/go_modules/enrichment_go.py  --target_path "data/pdb_data/pdb_target_go.csv" --background_path "data/pdb_data/pdb_background_go.csv"
 
-#### 2.1.c: PDB Network
+#### 2.1.c STRING Network
 For the STRING part, the enrichment has been done by using the following datasets: <br>
 - *Target*: Original plus the direct interactors found in the STRING database <br>
 - *Background*: All human proteome on SwissProt intersected with the STRING database.
