@@ -52,11 +52,11 @@ The enrichment has been done by using the following datasets: <br>
     - python modules/go_modules/enrichment_go.py
     
 #### 2.1.b Architectures
-For the enrichment this time we have a set of *target dataset*, one for every architecture, where an architecture is characterized by the unordered set of *PFAM domains*. In summary: <br>
+For the enrichment this time we have a set of *target datasets*, one for every architecture, where an architecture is characterized by the unordered set of *PFAM domains*. In summary: <br>
 - *Target*: Set of original proteins that share the same PFAM domains (e.g. PF00169, PF00397) <br>
 - *Background*: Original dataset.
 
-The code used for creating all the architecture datasets and performing the enrichment on one single target datsset (in this case the dataset characterized by all the proteins belonging only to *PF00397*) is:
+The code used for creating all the architecture datasets and performing the enrichment on one single target dataset (in this case the dataset characterized by all the proteins belonging only to *PF00397*) is:
 
     - python modules/go_modules/architecture.py
     - python modules/go_modules/enrichment_go.py  --target_path "data/architecture/go_architectures/PF00397_arch.csv" --background_path "data/architecture/go_architectures/architecture_background.csv"    
@@ -79,6 +79,7 @@ For the STRING part, the enrichment has been done by using the following dataset
 Note that we considered a protein as a direct interactor with one in the original dataset if the **Combined Score** is higher than 700, in other words, only if the probability of observing an interaction between these two proteins, taking into consideration the *prior probability* of observing a random interaction, is above 0.70.    
  
  The code used for creating the STRING datasets and displaying the enrichment results is:
+ 
     - python modules/go_modules/string_network.py
     - python modules/go_modules/enrichment_go.py  --target_path "data/string/string_target_go.csv" --background_path "data/string/string_background_go.csv" 
     
