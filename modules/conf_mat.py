@@ -37,10 +37,10 @@ def compute(positive, negative, pred_positive, pred_negative):
     conf_mat[0, 0], conf_mat[0, 1] = fn, tn
 
     # Compute statistics
-    precision = tp/(tp+fp)
-    recall = tp/(tp+fn)
-    accuracy = (tp+tn)/(tp+fp+fn+tn)
-    weighted_accuracy = (tp/(tp+fn) + tn/(tn+fp))/2
+    precision = tp/(tp+fp) if tp+fp != 0 else None
+    recall = tp/(tp+fn) if tp+fn != 0 else None
+    accuracy = (tp+tn)/(tp+fp+fn+tn) if tp+fp+fn+tn != 0 else None
+    weighted_accuracy = (tp/(tp+fn) + tn/(tn+fp))/2 if (tp+fn != 0) and (tn+fp != 0) else None
 
     # Return either the matrix and the statistics
     return conf_mat, precision, recall, accuracy, weighted_accuracy

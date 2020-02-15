@@ -2,6 +2,7 @@
 ### PSSM ###
 ############
 
+
 # Dependencies
 import sys
 import subprocess
@@ -18,7 +19,7 @@ def parse(result, raw=False):
     - PSSM result, formatted as Pandas DataFrame
     """
     # Create DataFrame
-    result = pd.DataFrame([row.split('\t') for row in result.split('\n') if row != ''])
+    result = pd.DataFrame([row.split('\t') for row in result.split('\n') if row != ''][:-1])
     # Set column names
     result.columns = ['query_acc_ver', 'subject_acc_ver', 'perc_identity',
                       'align_length', 'mismatches', 'gap_opens', 'q_start', 'q_end',
