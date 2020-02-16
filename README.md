@@ -69,7 +69,7 @@ The enrichment has been done by using the following datasets: <br>
  The code used for creating the PDB datasets and displaying the enrichment results is:
  
     - python modules/go_modules/pdb_network.py
-    - python modules/go_modules/enrichment_go.py  --target_path "data/pdb_data/pdb_target_go.csv" --background_path "data/pdb_data/pdb_background_go.csv"
+    - python modules/go_modules/enrichment_go.py  --target_path "data/pdb/pdb_target_go.csv" --background_path "data/pdb/pdb_background_go.csv"
 
 #### 2.1.d STRING Network
 For the STRING part, the enrichment has been done by using the following datasets: <br>
