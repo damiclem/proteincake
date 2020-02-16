@@ -27,7 +27,7 @@
 ## Part Two
 
 ### 2.1 Annotation Enrichment
-In this section we have performed Enrichment, using first the **GO** and secondly the **DO** terms, on all the four kind of datasets: *Original*, *PDB Network*, *Architectures*, *STRING Network*.
+In this section we have performed Enrichment, using first the **GO** and secondly the **DO** terms, on all the four kind of datasets: *Original*, *PDB Network*, *Architectures*, *STRING Network*. All the results are inside the paths *results/go_enrichment* and *results/do_enrichment*.
 
 **Method:** <br>
 The enrichments, measured by using the *Fisher Test*, is done by measuring the **Odd Ratio** of the presence of a *GO/DO* w.r.t two datasets, in other words by comparing how much a *GO/DO* term is present in a dataset, the *target dataset*, w.r.t. another dataset, the *background dataset*.
@@ -59,7 +59,15 @@ For the enrichment this time we have a set of *target datasets*, one for every a
 The code used for creating all the architecture datasets and performing the enrichment on one single target dataset (in this case the dataset characterized by all the proteins belonging only to *PF00397*) is:
 
     - python modules/go_modules/architecture.py
-    - python modules/go_modules/enrichment_go.py  --target_path "data/architecture/go_architectures/PF00397_arch.csv" --background_path "data/architecture/go_architectures/architecture_background.csv"    
+    - python modules/go_modules/enrichment_go.py  --target_path "data/architecture/go_architectures/PF00397_arch.csv" --background_path "data/architecture/go_architectures/architecture_background.csv"
+    
+If you want to run the enrichment tests on all the *target datasets* you can run:
+
+    - python modules/go_modules/architecture.py
+    - python modules/go_modules/test_all_architectures.py
+    
+Be aware that this script will not display the results but it will save them in a folder (*default: results/go_enrichment/2_architectures*). Please see the scipt to see all the arguments.
+    
 
 #### 2.1.c PDB Network
 The enrichment has been done by using the following datasets: <br>
