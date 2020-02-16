@@ -1,6 +1,8 @@
 import json
 import gzip
 import argparse
+import sys
+import warnings
 
 import numpy as np
 import pandas as pd
@@ -10,8 +12,8 @@ from tqdm import tqdm
 from scipy.stats import fisher_exact
 from wordcloud import WordCloud
 
-import warnings
-warnings.filterwarnings("ignore")
+
+pd.options.mode.chained_assignment = None
 
 """
 Perform Fisher test. An Odd-Ratio above 77 tells us the GO prefers the first dataframe (p-value < 0.05),
@@ -189,7 +191,7 @@ def transmit_pvalue(enrichment, ontology):
 Filter the enrich dataframe by taking out GO_terms with high p-value or high depth
 """
 def enrich_filter(df, max_pvalue=0.05, max_depth=5):
-    df_filter = df[(df['p-value'] < max_pvalue) & (df['depth'] < max_depth)]
+    df_filter = df[(df['p-value'] < max_pvalue) & (df['depth'] <= max_depth)]
     df_filter['score'] = np.log(1/df['p-value'])
     return df_filter
 
@@ -244,6 +246,15 @@ if __name__ == '__main__':
                                ontology=ontology,
                                col_name_descr=args.col_name_descr,
                                col_name_go=args.col_name_go_id)
+
+        if ((enrich_result['p-value'] > args.p_value) | (enrich_result['depth'] > args.depth)).all():
+            warnings.warn('No object passed the filter. Returning non-filtered dataset.\nClosing...')
+            enrich_result['score'] = np.zeros((1, enrich_result.shape[0])).reshape(-1) - 1
+            if args.out_path:
+                enrich_result.to_csv(args.out_path, sep='\t')
+            else:
+                print(enrich_result)
+            sys.exit(1)
 
         # 4. Filter the results and create the WordCloud
         ### Results

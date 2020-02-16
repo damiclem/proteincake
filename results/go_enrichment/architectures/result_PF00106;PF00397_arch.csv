@@ -1,0 +1,27 @@
+	OddRatio	p-value	depth	go_descr	score
+0048037	39.16	0.051046952118126314	2	cofactor binding	-1.0
+0090575	39.16	0.051046952118126314	4	RNA polymerase II transcription factor complex	-1.0
+0050662	39.16	0.051046952118126314	3	coenzyme binding	-1.0
+0005634	1.6643478260869564	0.4705043913952728	5	nucleus	-1.0
+0016491	39.16	0.051046952118126314	2	oxidoreductase activity	-1.0
+0005654	1.8266666666666667	0.441358066671927	2	nucleoplasm	-1.0
+0055114	39.16	0.051046952118126314	2	oxidation-reduction process	-1.0
+0016055	39.16	0.051046952118126314	5	Wnt signaling pathway	-1.0
+0019899	19.56	0.07562143343773467	3	enzyme binding	-1.0
+0005739	19.56	0.07562143343773467	5	mitochondrion	-1.0
+0005794	13.026666666666667	0.0995833902977502	5	Golgi apparatus	-1.0
+2001238	39.16	0.051046952118126314	7	positive regulation of extrinsic apoptotic signaling pathway	-1.0
+0003713	6.493333333333333	0.16793914847410887	3	transcription coactivator activity	-1.0
+0005737	1.411851851851852	0.5244724981550553	2	cytoplasm	-1.0
+0048705	39.16	0.051046952118126314	4	skeletal system morphogenesis	-1.0
+0046983	39.16	0.051046952118126314	3	protein dimerization activity	-1.0
+0045944	6.493333333333333	0.16793914847410887	8	positive regulation of transcription by RNA polymerase II	-1.0
+0030178	39.16	0.051046952118126314	6	negative regulation of Wnt signaling pathway	-1.0
+0000122	4.315555555555555	0.23129052136282394	8	negative regulation of transcription by RNA polymerase II	-1.0
+2001241	39.16	0.051046952118126314	8	positive regulation of extrinsic apoptotic signaling pathway in absence of ligand	-1.0
+0008202	39.16	0.051046952118126314	4	steroid metabolic process	-1.0
+0097191	39.16	0.051046952118126314	4	extrinsic apoptotic signaling pathway	-1.0
+0001649	19.56	0.07562143343773467	4	osteoblast differentiation	-1.0
+0072332	39.16	0.051046952118126314	5	intrinsic apoptotic signaling pathway by p53 class mediator	-1.0
+0071560	39.16	0.051046952118126314	4	cellular response to transforming growth factor beta stimulus	-1.0
+0005829	1.411851851851852	0.5244724981550553	2	cytosol	-1.0

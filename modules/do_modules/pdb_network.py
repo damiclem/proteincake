@@ -59,11 +59,11 @@ if __name__ == '__main__':
     ### Paths of the two dataframe that must be compared
     parser.add_argument('--original_df_path',     type=str,   default='data/results/ensemble.tsv')
     parser.add_argument('--do_df_path',           type=str,   default='data/do/do.csv')
-    parser.add_argument('--mapping_df_path',      type=str,   default='data/pdb_data/pdb_chain_uniprot.tsv')
+    parser.add_argument('--mapping_df_path',      type=str,   default='data/pdb/pdb_chain_uniprot.tsv')
     parser.add_argument('--human_df_path',        type=str,   default='data/human.csv')
     ### Out directory of the results and of the WordCloud
-    parser.add_argument('--out_path_target',      type=str,   default='data/pdb_data/pdb_target_do.csv')
-    parser.add_argument('--out_path_background',  type=str,   default='data/pdb_data/pdb_background_do.csv')
+    parser.add_argument('--out_path_target',      type=str,   default='data/pdb/pdb_target_do.csv')
+    parser.add_argument('--out_path_background',  type=str,   default='data/pdb/pdb_background_do.csv')
 
 
     # 2. Define dictionary of args

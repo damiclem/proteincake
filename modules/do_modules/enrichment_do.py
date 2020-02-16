@@ -201,8 +201,8 @@ if __name__ == '__main__':
         ### Path of the file containing the ontology graph structure
         parser.add_argument('--ontology_path',        type=str,   default='data/do/do_ontology.csv')
         ### Paths of the two dataframe that must be compared
-        parser.add_argument('--target_path',     type=str,   default='data/do/do_original.csv')
-        parser.add_argument('--background_path',   type=str,   default='data/do/do.csv')
+        parser.add_argument('--target_path',          type=str,   default='data/do/do_original.csv')
+        parser.add_argument('--background_path',      type=str,   default='data/do/do.csv')
         ### Out directory of the results and of the WordCloud
         parser.add_argument('--out_path',             type=str)
         parser.add_argument('--out_wordcloud',        type=str)
