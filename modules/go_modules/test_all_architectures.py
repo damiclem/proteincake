@@ -19,8 +19,8 @@ if __name__ == '__main__':
     parser.add_argument('--in_path',              type=str,   default='data/architecture/go_architectures')
     parser.add_argument('--background',           type=str,   default='data/architecture/go_architectures/architecture_background.csv')
     ### Out directory of the results and of the WordCloud
-    parser.add_argument('--out_path',             type=str,   default='results/go_enrichment/architectures')
-    parser.add_argument('--out_wordcloud',        type=str,   default='results/go_enrichment/architectures')
+    parser.add_argument('--out_path',             type=str,   default='results/go_enrichment/2_architectures')
+    parser.add_argument('--out_wordcloud',        type=str,   default='results/go_enrichment/2_architectures')
     ### Parameters of the filter
     parser.add_argument('--p_value',              type=float, default=0.05)
     parser.add_argument('--depth',                type=int,   default=4)
