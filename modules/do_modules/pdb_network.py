@@ -26,7 +26,7 @@ def pdb_target_dataset(original_dataset_path, do_dataset_path,
     mapping_df.columns = [col.lower() for col in mapping_df.columns]
     ### 2. Load the original dataset
     original_df = pd.read_table(original_dataset_path)
-    ### 3. Load the go dataset
+    ### 3. Load the do dataset
     background_df = pd.read_table(do_dataset_path, dtype=str, index_col=[0])
     ### 4. Load the human dataset
     human_df = pd.read_table(human_dataset_path)

@@ -29,6 +29,8 @@ if __name__ == '__main__':
 
     # 2. Define dictionary of args
     args = parser.parse_args()
+
+    # 3. Perform enrichment on all the datasets in the folder, ecxept the background one
     datasets = os.listdir(args.in_path)
     for n, dataset in enumerate(datasets):
         if dataset[0] == 'P':

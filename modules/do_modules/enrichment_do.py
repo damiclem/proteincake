@@ -209,13 +209,13 @@ if __name__ == '__main__':
         ### Parameters of the filter
         parser.add_argument('--p_value',              type=float, default=0.05)
         parser.add_argument('--depth',                type=int,   default=4)
+        parser.add_argument('--bonferroni',           type=int,  default=1)
         ### Names of the columns of the input dataframe containing the GO_id and the description
         parser.add_argument('--col_name_do_id',       type=str,   default='do_id')
         parser.add_argument('--col_name_descr',       type=str,   default='name')
 
         # 2. Define dictionary of args
         args = parser.parse_args()
-
         # 3. Load the required files
         ontology = pd.read_csv(args.ontology_path, dtype=str, sep='\t', index_col=[0])
         ontology.index = ontology.do_id.values
@@ -230,33 +230,68 @@ if __name__ == '__main__':
                                col_name_descr=args.col_name_descr,
                                col_name_do=args.col_name_do_id)
 
-        if ((enrich_result['p-value'] > args.p_value) | (enrich_result['depth'] > args.depth)).all():
-            warnings.warn('No object passed the filter. Returning non-filtered dataset.\nClosing...')
-            enrich_result['score'] = np.zeros((1, enrich_result.shape[0])).reshape(-1) - 1
+        # Use bonferroni
+        if args.bonferroni:
+            if ((enrich_result['p-value'] > args.p_value/enrich_result.shape[0]) | (enrich_result['depth'] > args.depth)).all():
+                warnings.warn('No object passed the filter. Returning non-filtered dataset.\nClosing...')
+                enrich_result['score'] = np.zeros((1, enrich_result.shape[0])).reshape(-1) - 1
+                if args.out_path:
+                    enrich_result.to_csv(args.out_path, sep='\t')
+                else:
+                    print(enrich_result)
+                sys.exit(1)
+
+
+            # 4. Filter the results and create the WordCloud
+            ### Results
+            enrich_result = enrich_filter(df = enrich_result, max_depth=args.depth, max_pvalue=args.p_value/enrich_result.shape[0])
+            ### WordCloud.
+            wc = word_cloud(df=enrich_result, col_name=args.col_name_descr, col_score='score')
+            fig = plt.imshow(wc, interpolation='bilinear')
+
+
+            # 5. Output the results
+            ### We save the results if we have a out_dir otherwise we display the results
             if args.out_path:
                 enrich_result.to_csv(args.out_path, sep='\t')
             else:
                 print(enrich_result)
-            sys.exit(1)
 
+            ###
+            if args.out_wordcloud:
+                plt.savefig(args.out_wordcloud)
+            else:
+                plt.show()
 
-        # 4. Filter the results and create the WordCloud
-        ### Results
-        enrich_result = enrich_filter(df = enrich_result, max_depth=args.depth, max_pvalue=args.p_value)
-        ### WordCloud.
-        wc = word_cloud(df=enrich_result, col_name=args.col_name_descr, col_score='score')
-        fig = plt.imshow(wc, interpolation='bilinear')
-
-
-        # 5. Output the results
-        ### We save the results if we have a out_dir otherwise we display the results
-        if args.out_path:
-            enrich_result.to_csv(args.out_path, sep='\t')
+        # Don't use bonferroni
         else:
-            print(enrich_result)
+            if ((enrich_result['p-value'] > args.p_value) | (enrich_result['depth'] > args.depth)).all():
+                warnings.warn('No object passed the filter. Returning non-filtered dataset.\nClosing...')
+                enrich_result['score'] = np.zeros((1, enrich_result.shape[0])).reshape(-1) - 1
+                if args.out_path:
+                    enrich_result.to_csv(args.out_path, sep='\t')
+                else:
+                    print(enrich_result)
+                sys.exit(1)
 
-        ###
-        if args.out_wordcloud:
-            plt.savefig(args.out_wordcloud)
-        else:
-            plt.show()
+
+            # 4. Filter the results and create the WordCloud
+            ### Results
+            enrich_result = enrich_filter(df = enrich_result, max_depth=args.depth, max_pvalue=args.p_value)
+            ### WordCloud.
+            wc = word_cloud(df=enrich_result, col_name=args.col_name_descr, col_score='score')
+            fig = plt.imshow(wc, interpolation='bilinear')
+
+
+            # 5. Output the results
+            ### We save the results if we have a out_dir otherwise we display the results
+            if args.out_path:
+                enrich_result.to_csv(args.out_path, sep='\t')
+            else:
+                print(enrich_result)
+
+            ###
+            if args.out_wordcloud:
+                plt.savefig(args.out_wordcloud)
+            else:
+                plt.show()
