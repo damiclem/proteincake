@@ -1,0 +1,179 @@
+Accession	Source Database	Name	Tax ID	Tax Name	Length	Entry Accession	Matches
+A0A0R4IKJ1	reviewed	mRNA (2'-O-methyladenosine-N(6)-)-methyltransferase	7955	Danio rerio	721	PF00397	47..75
+A1A5G4	reviewed	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3	8364	Xenopus tropicalis	1107	PF00397	291..320,337..366
+A1CQG2	reviewed	Probable E3 ubiquitin-protein ligase hulA	344612	Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1)	815	PF00397	231..260,335..364,395..424
+A1D3C5	reviewed	Probable E3 ubiquitin-protein ligase hulA	331117	Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / CBS 544.65 / FGSC A1164 / JCM 1740 / NRRL 181 / WB 181)	816	PF00397	232..261,336..365,396..425
+A2A5Z6	reviewed	E3 ubiquitin-protein ligase SMURF2	10090	Mus musculus	748	PF00397	159..188,253..282,299..328
+A2AB59	reviewed	Rho GTPase-activating protein 27	10090	Mus musculus	869	PF00397	249..278,302..330
+A2QQ28	reviewed	Probable E3 ubiquitin-protein ligase hulA	425011	Aspergillus niger (strain CBS 513.88 / FGSC A1513)	821	PF00397	233..262,341..370,401..430
+A4IIJ3	reviewed	Protein KIBRA	8364	Xenopus tropicalis	1108	PF00397	8..37,55..84
+A4V8B4	reviewed	Protein salvador homolog 1	10116	Rattus norvegicus	387	PF00397	203..232
+A9JRZ0	reviewed	E3 ubiquitin-protein ligase SMURF2	7955	Danio rerio	765	PF00397	159..188,253..282,299..328
+B0XQ72	reviewed	Probable E3 ubiquitin-protein ligase hulA	451804	Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163)	813	PF00397	229..258,333..362,393..422
+B3LWS4	reviewed	Protein kibra	7217	Drosophila ananassae	1271	PF00397	47..76
+B3P3M8	reviewed	Protein kibra	7220	Drosophila erecta	1283	PF00397	55..84,102..131
+B4HEJ6	reviewed	Protein kibra	7238	Drosophila sechellia	1295	PF00397	55..84,102..131
+B4K6I9	reviewed	Protein kibra	7230	Drosophila mojavensis	1264	PF00397	37..66,84..113
+B4M5X4	reviewed	Protein kibra	7244	Drosophila virilis	1276	PF00397	45..74,92..121
+B4NAD3	reviewed	Protein kibra	7260	Drosophila willistoni	1288	PF00397	51..80
+B4PSQ2	reviewed	Protein kibra	7245	Drosophila yakuba	1288	PF00397	56..85,103..132
+B6EUA9	reviewed	Pre-mRNA-processing protein 40A	3702	Arabidopsis thaliana	958	PF00397	188..215,231..256
+B6RSP1	reviewed	Pleckstrin homology domain-containing family A member 7	7955	Danio rerio	1197	PF00397	55..84
+B8BCZ8	reviewed	Flowering time control protein FCA	39946	Oryza sativa subsp. indica	738	PF00397	613..640
+B8N7E5	reviewed	Probable E3 ubiquitin-protein ligase hulA	332952	Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167)	812	PF00397	228..257,332..361,392..421
+D6C652	reviewed	Transcriptional coactivator YAP1-A	8355	Xenopus laevis	459	PF00397	143..172,201..230
+E9Q5F9	reviewed	Histone-lysine N-methyltransferase SETD2	10090	Mus musculus	2537	PF00397	2364..2393
+F4JCC1	reviewed	Pre-mRNA-processing protein 40B	3702	Arabidopsis thaliana	992	PF00397	208..234,249..275
+G0S9J5	reviewed	E3 ubiquitin-protein ligase RSP5	759272	Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719)	820	PF00397	249..278,341..370,399..428
+H2LBU8	reviewed	Transcriptional coactivator YAP1	8090	Oryzias latipes	459	PF00397	128..157,188..217
+O00213	reviewed	Amyloid-beta A4 precursor protein-binding family B member 1	9606	Homo sapiens	710	PF00397	255..283
+O00308	reviewed	NEDD4-like E3 ubiquitin-protein ligase WWP2	9606	Homo sapiens	870	PF00397	302..331,332..361,407..435,446..475
+O04425	reviewed	Flowering time control protein FCA	3702	Arabidopsis thaliana	747	PF00397	597..622
+O13598	reviewed	WW domain-containing protein C11B10.08	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	204	PF00397	9..41
+O14176	reviewed	Pre-mRNA-processing protein prp40	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	695	PF00397	34..61,77..102
+O14326	reviewed	E3 ubiquitin-protein ligase pub3	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	786	PF00397	238..267,308..337,366..395
+O14776	reviewed	Transcription elongation regulator 1	9606	Homo sapiens	1098	PF00397	137..162,434..460
+O15428	reviewed	Putative PIN1-like protein	9606	Homo sapiens	100	PF00397	7..37
+O55148	reviewed	Growth arrest-specific protein 7	10116	Rattus norvegicus	422	PF00397	24..53
+O60045	reviewed	Peptidyl-prolyl cis-trans isomerase ssp-1	367110	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	182	PF00397	9..39
+O60861	reviewed	Growth arrest-specific protein 7	9606	Homo sapiens	476	PF00397	79..108
+O74448	reviewed	Peptidyl-prolyl cis-trans isomerase pin1	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	175	PF00397	6..36
+O75400	reviewed	Pre-mRNA-processing factor 40 homolog A	9606	Homo sapiens	957	PF00397	146..171,186..212
+O75554	reviewed	WW domain-binding protein 4	9606	Homo sapiens	376	PF00397	127..153,169..194
+O88382	reviewed	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2	10116	Rattus norvegicus	1277	PF00397	304..333
+O94425	reviewed	WW domain-containing protein C660.05	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	143	PF00397	10..42
+O94426	reviewed	WW domain-containing protein C660.06	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	273	PF00397	10..42
+O95817	reviewed	BAG family molecular chaperone regulator 3	9606	Homo sapiens	575	PF00397	22..52
+O97592	reviewed	Dystrophin	9615	Canis lupus familiaris	3680	PF00397	3054..3081
+P0C1J8	reviewed	Peptidyl-prolyl cis-trans isomerase pin1	246409	Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880)	150	PF00397	3..33
+P0CR40	reviewed	Protein transport protein SEC24	214684	Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565)	920	PF00397	7..37
+P0CR41	reviewed	Protein transport protein SEC24	283643	Cryptococcus neoformans var. neoformans serotype D (strain B-3501A)	920	PF00397	7..37
+P11530	reviewed	Dystrophin	10116	Rattus norvegicus	3677	PF00397	3051..3078
+P11531	reviewed	Dystrophin	10090	Mus musculus	3678	PF00397	3052..3079
+P11532	reviewed	Dystrophin	9606	Homo sapiens	3685	PF00397	3059..3086
+P11533	reviewed	Dystrophin	9031	Gallus gallus	3660	PF00397	3056..3083
+P22696	reviewed	Peptidyl-prolyl cis-trans isomerase ESS1	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	170	PF00397	11..41
+P33203	reviewed	Pre-mRNA-processing protein PRP40	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	583	PF00397	4..29,43..70
+P34600	reviewed	WW domain-containing protein ZK1098.1	6239	Caenorhabditis elegans	724	PF00397	82..109,128..154
+P39940	reviewed	E3 ubiquitin-protein ligase RSP5	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	809	PF00397	231..260,333..362,389..418
+P43582	reviewed	WW domain-containing protein WWM1	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	211	PF00397	11..41
+P46933	reviewed	Amyloid-beta A4 precursor protein-binding family B member 1	10116	Rattus norvegicus	711	PF00397	256..284
+P46934	reviewed	E3 ubiquitin-protein ligase NEDD4	9606	Homo sapiens	1319	PF00397	612..641,769..798,842..871,894..923
+P46935	reviewed	E3 ubiquitin-protein ligase NEDD4	10090	Mus musculus	887	PF00397	251..280,407..436,462..491
+P46936	reviewed	Transcriptional coactivator YAP1	9031	Gallus gallus	448	PF00397	171..200
+P46937	reviewed	Transcriptional coactivator YAP1	9606	Homo sapiens	504	PF00397	173..202,232..261
+P46938	reviewed	Transcriptional coactivator YAP1	10090	Mus musculus	488	PF00397	158..187,217..246
+P46939	reviewed	Utrophin	9606	Homo sapiens	3433	PF00397	2817..2843
+P46941	reviewed	WW domain-containing protein tag-325	6239	Caenorhabditis elegans	837	PF00397	100..127
+P54353	reviewed	Putative peptidyl-prolyl cis-trans isomerase dodo	7227	Drosophila melanogaster	166	PF00397	7..37
+P59114	reviewed	mRNA (2'-O-methyladenosine-N(6)-)-methyltransferase	10090	Mus musculus	706	PF00397	46..75
+Q05AA6	reviewed	Dystrophin-related protein 2	10090	Mus musculus	957	PF00397	357..383
+Q06525	reviewed	Pre-mRNA-splicing factor URN1	559292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	465	PF00397	4..30
+Q09291	reviewed	E3 ubiquitin-protein ligase hecw-1	6239	Caenorhabditis elegans	1247	PF00397	606..633
+Q09685	reviewed	Pre-mRNA-splicing factor dre4	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	411	PF00397	5..34
+Q0CCL1	reviewed	Probable E3 ubiquitin-protein ligase hulA	341663	Aspergillus terreus (strain NIH 2624 / FGSC A1156)	808	PF00397	225..254,328..357,388..417
+Q13474	reviewed	Dystrophin-related protein 2	9606	Homo sapiens	957	PF00397	357..383
+Q13526	reviewed	Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1	9606	Homo sapiens	163	PF00397	7..37
+Q19404	reviewed	Yes-associated protein homolog 1	6239	Caenorhabditis elegans	442	PF00397	206..234
+Q1L8J7	reviewed	Transcriptional coactivator YAP1	7955	Danio rerio	442	PF00397	128..157,188..217
+Q2EJA0	reviewed	Transcriptional coactivator YAP1	10116	Rattus norvegicus	469	PF00397	155..184,214..243
+Q2H988	reviewed	Histone-lysine N-methyltransferase, H3 lysine-36 specific	306901	Chaetomium globosum (strain ATCC 6205 / CBS 148.51 / DSM 1962 / NBRC 6347 / NRRL 1970)	894	PF00397	514..542
+Q2TAS2	reviewed	E3 ubiquitin-protein ligase SMURF2	8355	Xenopus laevis	751	PF00397	159..188,253..282,299..328
+Q2UBP1	reviewed	Probable E3 ubiquitin-protein ligase hulA	510516	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	816	PF00397	231..260,335..364,395..424
+Q45VV3	reviewed	Transcriptional coactivator yorkie	7227	Drosophila melanogaster	395	PF00397	243..272,312..341
+Q4L1J4	reviewed	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1	10116	Rattus norvegicus	1255	PF00397	302..331,361..390
+Q4P9K4	reviewed	Protein transport protein SEC24	237631	Ustilago maydis (strain 521 / FGSC 9021)	995	PF00397	8..38
+Q4R383	reviewed	Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1	9541	Macaca fascicularis	163	PF00397	7..37
+Q4WTF3	reviewed	Probable E3 ubiquitin-protein ligase hulA	330879	Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100)	813	PF00397	229..258,333..362,393..422
+Q54T86	reviewed	WW domain-containing protein A	44689	Dictyostelium discoideum	568	PF00397	327..357,521..550
+Q59XV0	reviewed	Histone-lysine N-methyltransferase, H3 lysine-36 specific	237561	Candida albicans (strain SC5314 / ATCC MYA-2876)	844	PF00397	560..590
+Q5BDP1	reviewed	E3 ubiquitin-protein ligase RSP5	227321	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	821	PF00397	233..262,341..370,401..430
+Q5BIN5	reviewed	Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1	9913	Bos taurus	163	PF00397	7..37
+Q5F389	reviewed	WW domain-containing oxidoreductase	9031	Gallus gallus	414	PF00397	18..47,59..88
+Q5F457	reviewed	WW domain-binding protein 4	9031	Gallus gallus	398	PF00397	137..165,181..206
+Q5F488	reviewed	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3	9031	Gallus gallus	1128	PF00397	297..326,343..372
+Q5GN48	reviewed	Dystrophin	9823	Sus scrofa	3674	PF00397	3048..3075
+Q5HZF2	reviewed	WW domain-binding protein 4	10116	Rattus norvegicus	374	PF00397	127..152,168..193
+Q5R9W5	reviewed	WW domain-containing oxidoreductase	9601	Pongo abelii	414	PF00397	18..47,59..88
+Q5RBF2	reviewed	E3 ubiquitin-protein ligase NEDD4-like	9601	Pongo abelii	959	PF00397	199..228,371..400,483..512,534..563
+Q5SXA9	reviewed	Protein KIBRA	10090	Mus musculus	1104	PF00397	8..37
+Q5TCQ9	reviewed	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3	9606	Homo sapiens	1481	PF00397	295..324,341..370
+Q5U4Q0	reviewed	WW domain-containing adapter protein with coiled-coil	8364	Xenopus tropicalis	628	PF00397	127..154
+Q60780	reviewed	Growth arrest-specific protein 7	10090	Mus musculus	421	PF00397	24..53
+Q61048	reviewed	WW domain-binding protein 4	10090	Mus musculus	376	PF00397	127..154,170..195
+Q62940	reviewed	E3 ubiquitin-protein ligase NEDD4	10116	Rattus norvegicus	887	PF00397	248..277,404..433,461..490
+Q6AWC2	reviewed	Protein WWC2	9606	Homo sapiens	1192	PF00397	12..41,59..88
+Q6BM04	reviewed	Histone-lysine N-methyltransferase, H3 lysine-36 specific	284592	Debaryomyces hansenii (strain ATCC 36239 / CBS 767 / JCM 1990 / NBRC 0083 / IGC 2968)	731	PF00397	479..509
+Q6C5G5	reviewed	Histone-lysine N-methyltransferase, H3 lysine-36 specific	284591	Yarrowia lipolytica (strain CLIB 122 / E 150)	768	PF00397	503..532
+Q6DJR2	reviewed	Protein WWC2	8364	Xenopus tropicalis	1171	PF00397	11..40,58..87
+Q6I6G8	reviewed	E3 ubiquitin-protein ligase HECW2	10090	Mus musculus	1578	PF00397	815..844
+Q6K271	reviewed	Flowering time control protein FCA	39947	Oryza sativa subsp. japonica	738	PF00397	613..640
+Q6NWY9	reviewed	Pre-mRNA-processing factor 40 homolog B	9606	Homo sapiens	871	PF00397	98..123,137..164
+Q6NXJ0	reviewed	Protein WWC2	10090	Mus musculus	1187	PF00397	12..41
+Q6RHR9	reviewed	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1	10090	Mus musculus	1471	PF00397	302..331,361..390
+Q6TLK4	reviewed	Rho GTPase-activating protein 27	10116	Rattus norvegicus	869	PF00397	249..278,302..330
+Q6ZQ03	reviewed	Formin-binding protein 4	10090	Mus musculus	1031	PF00397	223..250,606..635
+Q6ZUM4	reviewed	Rho GTPase-activating protein 27	9606	Homo sapiens	889	PF00397	250..278,302..330
+Q6ZWJ1	reviewed	Syntaxin-binding protein 4	9606	Homo sapiens	553	PF00397	498..527
+Q76N89	reviewed	E3 ubiquitin-protein ligase HECW1	9606	Homo sapiens	1606	PF00397	831..860
+Q7XZU0	reviewed	Probable phosphoinositide phosphatase SAC9	3702	Arabidopsis thaliana	1630	PF00397	510..540
+Q7ZUK7	reviewed	WW domain-containing adapter protein with coiled-coil	7955	Danio rerio	558	PF00397	124..151
+Q803A8	reviewed	WW domain-containing oxidoreductase	7955	Danio rerio	412	PF00397	18..47
+Q803R5	reviewed	Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1	7955	Danio rerio	829	PF00397	749..777
+Q80W14	reviewed	Pre-mRNA-processing factor 40 homolog B	10090	Mus musculus	870	PF00397	98..123,137..164
+Q86UL8	reviewed	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2	9606	Homo sapiens	1455	PF00397	304..333
+Q8BZZ3	reviewed	NEDD4-like E3 ubiquitin-protein ligase WWP1	10090	Mus musculus	918	PF00397	347..376,379..408,454..483,494..523
+Q8C0D4	reviewed	Rho GTPase-activating protein 12	10090	Mus musculus	838	PF00397	267..294
+Q8C863	reviewed	E3 ubiquitin-protein ligase Itchy	10090	Mus musculus	864	PF00397	289..318,321..350,401..430
+Q8CFI0	reviewed	E3 ubiquitin-protein ligase NEDD4-like	10090	Mus musculus	1004	PF00397	223..252,416..445,528..557,579..608
+Q8CGF7	reviewed	Transcription elongation regulator 1	10090	Mus musculus	1100	PF00397	137..162,436..462
+Q8GSP8	reviewed	Zygote-specific protein 3	3055	Chlamydomonas reinhardtii	371	PF00397	285..313
+Q8H136	reviewed	DEAD-box ATP-dependent RNA helicase 14	3702	Arabidopsis thaliana	619	PF00397	19..49
+Q8IX03	reviewed	Protein KIBRA	9606	Homo sapiens	1113	PF00397	8..37
+Q8K4P8	reviewed	E3 ubiquitin-protein ligase HECW1	10090	Mus musculus	1604	PF00397	828..857
+Q8N3X1	reviewed	Formin-binding protein 4	9606	Homo sapiens	1017	PF00397	219..246,598..627
+Q8VEB2	reviewed	Protein salvador homolog 1	10090	Mus musculus	386	PF00397	202..231
+Q91WL8	reviewed	WW domain-containing oxidoreductase	10090	Mus musculus	414	PF00397	18..47,59..88
+Q92462	reviewed	E3 ubiquitin-protein ligase pub1	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	767	PF00397	207..236,290..319,347..376
+Q924H7	reviewed	WW domain-containing adapter protein with coiled-coil	10090	Mus musculus	646	PF00397	133..160
+Q92870	reviewed	Amyloid-beta A4 precursor protein-binding family B member 2	9606	Homo sapiens	758	PF00397	292..320
+Q96J02	reviewed	E3 ubiquitin-protein ligase Itchy homolog	9606	Homo sapiens	903	PF00397	328..357,360..389,440..469,480..509
+Q96PU5	reviewed	E3 ubiquitin-protein ligase NEDD4-like	9606	Homo sapiens	975	PF00397	195..224,387..416,499..528,550..579
+Q96QZ7	reviewed	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 1	9606	Homo sapiens	1491	PF00397	302..331,361..390
+Q9BTA9	reviewed	WW domain-containing adapter protein with coiled-coil	9606	Homo sapiens	647	PF00397	133..160
+Q9BYW2	reviewed	Histone-lysine N-methyltransferase SETD2	9606	Homo sapiens	2564	PF00397	2391..2420
+Q9CUN6	reviewed	E3 ubiquitin-protein ligase SMURF1	10090	Mus musculus	731	PF00397	236..265,282..311
+Q9DBH0	reviewed	NEDD4-like E3 ubiquitin-protein ligase WWP2	10090	Mus musculus	870	PF00397	302..331,332..361,407..435,446..475
+Q9DBR4	reviewed	Amyloid-beta A4 precursor protein-binding family B member 2	10090	Mus musculus	760	PF00397	292..320
+Q9EPA0	reviewed	Dystrophin-related protein 2	10116	Rattus norvegicus	957	PF00397	357..383
+Q9EPK5	reviewed	WW domain-containing transcription regulator protein 1	10090	Mus musculus	395	PF00397	126..155
+Q9EQJ9	reviewed	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3	10090	Mus musculus	1476	PF00397	298..327,344..373
+Q9GZV5	reviewed	WW domain-containing transcription regulator protein 1	9606	Homo sapiens	400	PF00397	126..155
+Q9H0M0	reviewed	NEDD4-like E3 ubiquitin-protein ligase WWP1	9606	Homo sapiens	922	PF00397	351..380,383..412,458..487,498..527
+Q9H4B6	reviewed	Protein salvador homolog 1	9606	Homo sapiens	383	PF00397	201..230
+Q9H4Z3	reviewed	mRNA (2'-O-methyladenosine-N(6)-)-methyltransferase	9606	Homo sapiens	704	PF00397	46..75
+Q9HAU0	reviewed	Pleckstrin homology domain-containing family A member 5	9606	Homo sapiens	1116	PF00397	58..87
+Q9HAU4	reviewed	E3 ubiquitin-protein ligase SMURF2	9606	Homo sapiens	748	PF00397	159..188,253..282,299..328
+Q9HCE7	reviewed	E3 ubiquitin-protein ligase SMURF1	9606	Homo sapiens	757	PF00397	236..265,308..337
+Q9JK71	reviewed	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 3	10116	Rattus norvegicus	1470	PF00397	298..327,344..373
+Q9JLV1	reviewed	BAG family molecular chaperone regulator 3	10090	Mus musculus	577	PF00397	24..54
+Q9LT25	reviewed	Pre-mRNA-processing protein 40C	3702	Arabidopsis thaliana	835	PF00397	248..274
+Q9LYJ9	reviewed	DEAD-box ATP-dependent RNA helicase 46	3702	Arabidopsis thaliana	645	PF00397	17..47
+Q9NZC7	reviewed	WW domain-containing oxidoreductase	9606	Homo sapiens	414	PF00397	18..47,59..88
+Q9P2P5	reviewed	E3 ubiquitin-protein ligase HECW2	9606	Homo sapiens	1572	PF00397	809..838
+Q9PUN2	reviewed	E3 ubiquitin-protein ligase SMURF1	8355	Xenopus laevis	731	PF00397	235..264,281..310
+Q9QUR7	reviewed	Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1	10090	Mus musculus	165	PF00397	7..37
+Q9QXJ1	reviewed	Amyloid-beta A4 precursor protein-binding family B member 1	10090	Mus musculus	710	PF00397	255..283
+Q9R1C7	reviewed	Pre-mRNA-processing factor 40 homolog A	10090	Mus musculus	953	PF00397	146..171,186..212
+Q9SQV1	reviewed	DEAD-box ATP-dependent RNA helicase 40	3702	Arabidopsis thaliana	1088	PF00397	22..52
+Q9UTG2	reviewed	E3 ubiquitin-protein ligase pub2	284812	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	671	PF00397	244..273
+Q9V853	reviewed	E3 ubiquitin-protein ligase Smurf1	7227	Drosophila melanogaster	1061	PF00397	169..198,515..544,563..592
+Q9VCR6	reviewed	Scaffold protein salvador	7227	Drosophila melanogaster	608	PF00397	425..454
+Q9VFG8	reviewed	Protein kibra	7227	Drosophila melanogaster	1288	PF00397	56..85,103..132
+Q9VLU5	reviewed	WW domain-containing oxidoreductase	7227	Drosophila melanogaster	409	PF00397	13..42
+Q9VVI3	reviewed	E3 ubiquitin-protein ligase Nedd-4	7227	Drosophila melanogaster	1007	PF00397	248..277,531..560,582..611
+Q9VX88	reviewed	WW domain-containing adapter protein with coiled-coil homolog	7227	Drosophila melanogaster	834	PF00397	243..269
+Q9VYD1	reviewed	Probable histone-lysine N-methyltransferase CG1716	7227	Drosophila melanogaster	2313	PF00397	1965..1994
+Q9WV89	reviewed	Syntaxin-binding protein 4	10090	Mus musculus	557	PF00397	502..531
+Q9WVQ1	reviewed	Membrane-associated guanylate kinase, WW and PDZ domain-containing protein 2	10090	Mus musculus	1275	PF00397	303..332
+Q9Y0H4	reviewed	E3 ubiquitin-protein ligase Su(dx)	7227	Drosophila melanogaster	949	PF00397	365..394,397..426,479..508,523..552

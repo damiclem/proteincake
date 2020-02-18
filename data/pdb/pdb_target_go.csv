@@ -1,0 +1,438 @@
+	entry_ac	go_id	go_descr
+8713	Q9NZC7	0005737	cytoplasm
+8714	Q9NZC7	0005829	cytosol
+8715	Q9NZC7	0005794	Golgi apparatus
+8716	Q9NZC7	0005739	mitochondrion
+8717	Q9NZC7	0005654	nucleoplasm
+8718	Q9NZC7	0005634	nucleus
+8719	Q9NZC7	0090575	RNA polymerase II transcription factor complex
+8720	Q9NZC7	0050662	coenzyme binding
+8721	Q9NZC7	0048037	cofactor binding
+8722	Q9NZC7	0019899	enzyme binding
+8723	Q9NZC7	0016491	oxidoreductase activity
+8724	Q9NZC7	0046983	protein dimerization activity
+8725	Q9NZC7	0003713	transcription coactivator activity
+8726	Q9NZC7	0071560	cellular response to transforming growth factor beta stimulus
+8727	Q9NZC7	0097191	extrinsic apoptotic signaling pathway
+8728	Q9NZC7	0072332	intrinsic apoptotic signaling pathway by p53 class mediator
+8729	Q9NZC7	0000122	negative regulation of transcription by RNA polymerase II
+8730	Q9NZC7	0030178	negative regulation of Wnt signaling pathway
+8731	Q9NZC7	0001649	osteoblast differentiation
+8732	Q9NZC7	0055114	oxidation-reduction process
+8733	Q9NZC7	2001238	positive regulation of extrinsic apoptotic signaling pathway
+8734	Q9NZC7	2001241	positive regulation of extrinsic apoptotic signaling pathway in absence of ligand
+8735	Q9NZC7	0045944	positive regulation of transcription by RNA polymerase II
+8736	Q9NZC7	0048705	skeletal system morphogenesis
+8737	Q9NZC7	0008202	steroid metabolic process
+8738	Q9NZC7	0016055	Wnt signaling pathway
+9645	Q9GZV5	0005737	cytoplasm
+9646	Q9GZV5	0005829	cytosol
+9647	Q9GZV5	0016604	nuclear body
+9648	Q9GZV5	0005654	nucleoplasm
+9649	Q9GZV5	0005634	nucleus
+9650	Q9GZV5	0005667	transcription factor complex
+9651	Q9GZV5	0042803	protein homodimerization activity
+9652	Q9GZV5	0003713	transcription coactivator activity
+9653	Q9GZV5	0003714	transcription corepressor activity
+9654	Q9GZV5	0060271	cilium assembly
+9655	Q9GZV5	0032835	glomerulus development
+9656	Q9GZV5	0003015	heart process
+9657	Q9GZV5	0035329	hippo signaling
+9658	Q9GZV5	0060993	kidney morphogenesis
+9659	Q9GZV5	0048762	mesenchymal cell differentiation
+9660	Q9GZV5	0035264	multicellular organism growth
+9661	Q9GZV5	0090090	negative regulation of canonical Wnt signaling pathway
+9662	Q9GZV5	0045599	negative regulation of fat cell differentiation
+9663	Q9GZV5	0006469	negative regulation of protein kinase activity
+9664	Q9GZV5	0001933	negative regulation of protein phosphorylation
+9665	Q9GZV5	0000122	negative regulation of transcription by RNA polymerase II
+9666	Q9GZV5	0001649	osteoblast differentiation
+9667	Q9GZV5	0008284	positive regulation of cell population proliferation
+9668	Q9GZV5	0010718	positive regulation of epithelial to mesenchymal transition
+9669	Q9GZV5	0045944	positive regulation of transcription by RNA polymerase II
+9670	Q9GZV5	0016567	protein ubiquitination
+9671	Q9GZV5	0072307	regulation of metanephric nephron tubule epithelial cell differentiation
+9672	Q9GZV5	0060390	regulation of SMAD protein signal transduction
+9673	Q9GZV5	0006355	regulation of transcription, DNA-templated
+9674	Q9GZV5	0031146	SCF-dependent proteasomal ubiquitin-dependent protein catabolic process
+9675	Q9GZV5	0017145	stem cell division
+9676	Q9GZV5	0001894	tissue homeostasis
+9677	Q9GZV5	0006367	transcription initiation from RNA polymerase II promoter
+27388	P31947	0005829	cytosol
+27389	P31947	0070062	extracellular exosome
+27390	P31947	0005615	extracellular space
+27391	P31947	0005739	mitochondrion
+27392	P31947	0005634	nucleus
+27393	P31947	0045296	cadherin binding
+27394	P31947	0042802	identical protein binding
+27395	P31947	0051219	phosphoprotein binding
+27396	P31947	0019904	protein domain specific binding
+27397	P31947	0019901	protein kinase binding
+27398	P31947	0008426	protein kinase C inhibitor activity
+27399	P31947	0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest
+27400	P31947	0061436	establishment of skin barrier
+27401	P31947	0008630	intrinsic apoptotic signaling pathway in response to DNA damage
+27402	P31947	0031424	keratinization
+27403	P31947	0003334	keratinocyte development
+27404	P31947	0061024	membrane organization
+27405	P31947	0043154	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process
+27406	P31947	0010839	negative regulation of keratinocyte proliferation
+27407	P31947	0006469	negative regulation of protein kinase activity
+27408	P31947	0030307	positive regulation of cell growth
+27409	P31947	0045606	positive regulation of epidermal cell differentiation
+27410	P31947	0046827	positive regulation of protein export from nucleus
+27411	P31947	1900740	positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway
+27412	P31947	0000079	regulation of cyclin-dependent protein serine/threonine kinase activity
+27413	P31947	0010482	regulation of epidermal cell division
+27414	P31947	0001836	release of cytochrome c from mitochondria
+27415	P31947	0007165	signal transduction
+29487	O15105	0005813	centrosome
+29488	O15105	0005737	cytoplasm
+29489	O15105	0005829	cytosol
+29490	O15105	0001650	fibrillar center
+29491	O15105	0000790	nuclear chromatin
+29492	O15105	0005654	nucleoplasm
+29493	O15105	0005634	nucleus
+29494	O15105	0005886	plasma membrane
+29495	O15105	0032991	protein-containing complex
+29496	O15105	0005667	transcription factor complex
+29497	O15105	0048185	activin binding
+29498	O15105	0008013	beta-catenin binding
+29499	O15105	0005518	collagen binding
+29500	O15105	0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+29501	O15105	0070411	I-SMAD binding
+29502	O15105	0046872	metal ion binding
+29503	O15105	0044212	transcription regulatory region DNA binding
+29504	O15105	0030617	transforming growth factor beta receptor, inhibitory cytoplasmic mediator activity
+29505	O15105	0034713	type I transforming growth factor beta receptor binding
+29506	O15105	0031625	ubiquitin protein ligase binding
+29507	O15105	0034333	adherens junction assembly
+29508	O15105	0048844	artery morphogenesis
+29509	O15105	0030509	BMP signaling pathway
+29510	O15105	0034629	cellular protein-containing complex localization
+29511	O15105	1990830	cellular response to leukemia inhibitory factor
+29512	O15105	0071560	cellular response to transforming growth factor beta stimulus
+29513	O15105	0030514	negative regulation of BMP signaling pathway
+29514	O15105	0030336	negative regulation of cell migration
+29515	O15105	0043433	negative regulation of DNA-binding transcription factor activity
+29516	O15105	0010719	negative regulation of epithelial to mesenchymal transition
+29517	O15105	0060394	negative regulation of pathway-restricted SMAD protein phosphorylation
+29518	O15105	0033137	negative regulation of peptidyl-serine phosphorylation
+29519	O15105	0010801	negative regulation of peptidyl-threonine phosphorylation
+29520	O15105	0031397	negative regulation of protein ubiquitination
+29521	O15105	0002725	negative regulation of T cell cytokine production
+29522	O15105	2000320	negative regulation of T-helper 17 cell differentiation
+29523	O15105	2000317	negative regulation of T-helper 17 type immune response
+29524	O15105	0010944	negative regulation of transcription by competitive promoter binding
+29525	O15105	0000122	negative regulation of transcription by RNA polymerase II
+29526	O15105	0030512	negative regulation of transforming growth factor beta receptor signaling pathway
+29527	O15105	0051444	negative regulation of ubiquitin-protein transferase activity
+29528	O15105	0060389	pathway-restricted SMAD protein phosphorylation
+29529	O15105	0022409	positive regulation of cell-cell adhesion
+29530	O15105	0032436	positive regulation of proteasomal ubiquitin-dependent protein catabolic process
+29531	O15105	0031398	positive regulation of protein ubiquitination
+29532	O15105	0045944	positive regulation of transcription by RNA polymerase II
+29533	O15105	0016579	protein deubiquitination
+29534	O15105	0050821	protein stabilization
+29535	O15105	0032925	regulation of activin receptor signaling pathway
+29536	O15105	0055117	regulation of cardiac muscle contraction
+29537	O15105	0010717	regulation of epithelial to mesenchymal transition
+29538	O15105	0017015	regulation of transforming growth factor beta receptor signaling pathway
+29539	O15105	0060373	regulation of ventricular cardiac muscle cell membrane depolarization
+29540	O15105	0034616	response to laminar fluid shear stress
+29541	O15105	0007179	transforming growth factor beta receptor signaling pathway
+29542	O15105	0001657	ureteric bud development
+29543	O15105	0055010	ventricular cardiac muscle tissue morphogenesis
+29544	O15105	0060412	ventricular septum morphogenesis
+49616	Q9HCE7	0030424	axon
+49617	Q9HCE7	0005623	cell
+49618	Q9HCE7	0005737	cytoplasm
+49619	Q9HCE7	0005829	cytosol
+49620	Q9HCE7	0070062	extracellular exosome
+49621	Q9HCE7	0043025	neuronal cell body
+49622	Q9HCE7	0005654	nucleoplasm
+49623	Q9HCE7	0005886	plasma membrane
+49624	Q9HCE7	0048185	activin binding
+49625	Q9HCE7	0070411	I-SMAD binding
+49626	Q9HCE7	0005543	phospholipid binding
+49627	Q9HCE7	0070412	R-SMAD binding
+49628	Q9HCE7	0061630	ubiquitin protein ligase activity
+49629	Q9HCE7	0004842	ubiquitin-protein transferase activity
+49630	Q9HCE7	0030509	BMP signaling pathway
+49631	Q9HCE7	0030154	cell differentiation
+49632	Q9HCE7	0007398	ectoderm development
+49633	Q9HCE7	0061736	engulfment of target by autophagosome
+49634	Q9HCE7	0030514	negative regulation of BMP signaling pathway
+49635	Q9HCE7	0030279	negative regulation of ossification
+49636	Q9HCE7	0030512	negative regulation of transforming growth factor beta receptor signaling pathway
+49637	Q9HCE7	0061734	parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization
+49638	Q9HCE7	1903861	positive regulation of dendrite extension
+49639	Q9HCE7	0045732	positive regulation of protein catabolic process
+49640	Q9HCE7	2000060	positive regulation of ubiquitin-dependent protein catabolic process
+49641	Q9HCE7	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process
+49642	Q9HCE7	0006611	protein export from nucleus
+49643	Q9HCE7	0034394	protein localization to cell surface
+49644	Q9HCE7	0072659	protein localization to plasma membrane
+49645	Q9HCE7	0000209	protein polyubiquitination
+49646	Q9HCE7	0071211	protein targeting to vacuole involved in autophagy
+49647	Q9HCE7	0016567	protein ubiquitination
+49648	Q9HCE7	0032801	receptor catabolic process
+49649	Q9HCE7	0061753	substrate localization to autophagosome
+49650	Q9HCE7	0007179	transforming growth factor beta receptor signaling pathway
+49651	Q9HCE7	0006511	ubiquitin-dependent protein catabolic process
+49652	Q9HCE7	0030579	ubiquitin-dependent SMAD protein catabolic process
+49653	Q9HCE7	0060071	Wnt signaling pathway, planar cell polarity pathway
+59074	Q9BYW2	0005694	chromosome
+59075	Q9BYW2	0005654	nucleoplasm
+59076	Q9BYW2	0005634	nucleus
+59077	Q9BYW2	0043014	alpha-tubulin binding
+59078	Q9BYW2	0046975	histone methyltransferase activity (H3-K36 specific)
+59079	Q9BYW2	0018024	histone-lysine N-methyltransferase activity
+59080	Q9BYW2	0046872	metal ion binding
+59081	Q9BYW2	0016279	protein-lysine N-methyltransferase activity
+59082	Q9BYW2	0001525	angiogenesis
+59083	Q9BYW2	0035441	cell migration involved in vasculogenesis
+59084	Q9BYW2	0060977	coronary vasculature morphogenesis
+59085	Q9BYW2	0051607	defense response to virus
+59086	Q9BYW2	0048701	embryonic cranial skeleton morphogenesis
+59087	Q9BYW2	0060669	embryonic placenta morphogenesis
+59088	Q9BYW2	0035987	endodermal cell differentiation
+59089	Q9BYW2	0030900	forebrain development
+59090	Q9BYW2	0097676	histone H3-K36 dimethylation
+59091	Q9BYW2	0097198	histone H3-K36 trimethylation
+59092	Q9BYW2	0048332	mesoderm morphogenesis
+59093	Q9BYW2	1902850	microtubule cytoskeleton organization involved in mitosis
+59094	Q9BYW2	0006298	mismatch repair
+59095	Q9BYW2	0001763	morphogenesis of a branching structure
+59096	Q9BYW2	0001843	neural tube closure
+59097	Q9BYW2	0034728	nucleosome organization
+59098	Q9BYW2	0018026	peptidyl-lysine monomethylation
+59099	Q9BYW2	0018023	peptidyl-lysine trimethylation
+59100	Q9BYW2	0060039	pericardium development
+59101	Q9BYW2	0032727	positive regulation of interferon-alpha production
+59102	Q9BYW2	0032465	regulation of cytokinesis
+59103	Q9BYW2	0010569	regulation of double-strand break repair via homologous recombination
+59104	Q9BYW2	0010793	regulation of mRNA export from nucleus
+59105	Q9BYW2	1905634	regulation of protein localization to chromatin
+59106	Q9BYW2	0006355	regulation of transcription, DNA-templated
+59107	Q9BYW2	0034340	response to type I interferon
+59108	Q9BYW2	0048864	stem cell development
+59109	Q9BYW2	0048863	stem cell differentiation
+59110	Q9BYW2	0006368	transcription elongation from RNA polymerase II promoter
+60901	Q9HAU0	0005829	cytosol
+60902	Q9HAU0	0098978	glutamatergic synapse
+60903	Q9HAU0	0016020	membrane
+60904	Q9HAU0	0005654	nucleoplasm
+60905	Q9HAU0	0014069	postsynaptic density
+60906	Q9HAU0	0080025	phosphatidylinositol-3,5-bisphosphate binding
+60907	Q9HAU0	0032266	phosphatidylinositol-3-phosphate binding
+60908	Q9HAU0	0070273	phosphatidylinositol-4-phosphate binding
+60909	Q9HAU0	0010314	phosphatidylinositol-5-phosphate binding
+60910	Q9HAU0	0061458	reproductive system development
+64524	Q9HAU4	0005737	cytoplasm
+64525	Q9HAU4	0005829	cytosol
+64526	Q9HAU4	0045121	membrane raft
+64527	Q9HAU4	0016607	nuclear speck
+64528	Q9HAU4	0005654	nucleoplasm
+64529	Q9HAU4	0005634	nucleus
+64530	Q9HAU4	0005886	plasma membrane
+64531	Q9HAU4	0000151	ubiquitin ligase complex
+64532	Q9HAU4	0042802	identical protein binding
+64533	Q9HAU4	0046332	SMAD binding
+64534	Q9HAU4	0005160	transforming growth factor beta receptor binding
+64535	Q9HAU4	0061630	ubiquitin protein ligase activity
+64536	Q9HAU4	0004842	ubiquitin-protein transferase activity
+64537	Q9HAU4	0030509	BMP signaling pathway
+64538	Q9HAU4	0030514	negative regulation of BMP signaling pathway
+64539	Q9HAU4	0000122	negative regulation of transcription by RNA polymerase II
+64540	Q9HAU4	0045892	negative regulation of transcription, DNA-templated
+64541	Q9HAU4	0030512	negative regulation of transforming growth factor beta receptor signaling pathway
+64542	Q9HAU4	0090263	positive regulation of canonical Wnt signaling pathway
+64543	Q9HAU4	0045732	positive regulation of protein catabolic process
+64544	Q9HAU4	1901165	positive regulation of trophoblast cell migration
+64545	Q9HAU4	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process
+64546	Q9HAU4	0016579	protein deubiquitination
+64547	Q9HAU4	0000209	protein polyubiquitination
+64548	Q9HAU4	0016567	protein ubiquitination
+64549	Q9HAU4	0017015	regulation of transforming growth factor beta receptor signaling pathway
+64550	Q9HAU4	0006511	ubiquitin-dependent protein catabolic process
+64551	Q9HAU4	0030579	ubiquitin-dependent SMAD protein catabolic process
+64552	Q9HAU4	0060071	Wnt signaling pathway, planar cell polarity pathway
+130837	P0CG47	0005737	cytoplasm
+130838	P0CG47	0005829	cytosol
+130839	P0CG47	0030666	endocytic vesicle membrane
+130840	P0CG47	0005789	endoplasmic reticulum membrane
+130841	P0CG47	0010008	endosome membrane
+130842	P0CG47	0070062	extracellular exosome
+130843	P0CG47	0005615	extracellular space
+130844	P0CG47	0043657	host cell
+130845	P0CG47	0005741	mitochondrial outer membrane
+130846	P0CG47	0005739	mitochondrion
+130847	P0CG47	0043005	neuron projection
+130848	P0CG47	0043025	neuronal cell body
+130849	P0CG47	0005654	nucleoplasm
+130850	P0CG47	0005634	nucleus
+130851	P0CG47	0005886	plasma membrane
+130852	P0CG47	0031982	vesicle
+130853	P0CG47	0031386	protein tag
+130854	P0CG47	0031625	ubiquitin protein ligase binding
+130855	P0CG47	0000187	activation of MAPK activity
+130856	P0CG47	0031145	anaphase-promoting complex-dependent catabolic process
+130857	P0CG47	0044267	cellular protein metabolic process
+130858	P0CG47	0019221	cytokine-mediated signaling pathway
+130859	P0CG47	0042769	DNA damage response, detection of DNA damage
+130860	P0CG47	0016197	endosomal transport
+130861	P0CG47	0097009	energy homeostasis
+130862	P0CG47	0070987	error-free translesion synthesis
+130863	P0CG47	0042276	error-prone translesion synthesis
+130864	P0CG47	0060613	fat pad development
+130865	P0CG47	0008585	female gonad development
+130866	P0CG47	0007144	female meiosis I
+130867	P0CG47	0070911	global genome nucleotide-excision repair
+130868	P0CG47	0021888	hypothalamus gonadotrophin-releasing hormone neuron development
+130869	P0CG47	0007249	I-kappaB kinase/NF-kappaB signaling
+130870	P0CG47	0070498	interleukin-1-mediated signaling pathway
+130871	P0CG47	0036297	interstrand cross-link repair
+130872	P0CG47	0075733	intracellular transport of virus
+130873	P0CG47	0007254	JNK cascade
+130874	P0CG47	0007141	male meiosis I
+130875	P0CG47	0061024	membrane organization
+130876	P0CG47	0047497	mitochondrion transport along microtubule
+130877	P0CG47	0019941	modification-dependent protein catabolic process
+130878	P0CG47	0002755	MyD88-dependent toll-like receptor signaling pathway
+130879	P0CG47	0002756	MyD88-independent toll-like receptor signaling pathway
+130880	P0CG47	0043066	negative regulation of apoptotic process
+130881	P0CG47	0000122	negative regulation of transcription by RNA polymerase II
+130882	P0CG47	0030512	negative regulation of transforming growth factor beta receptor signaling pathway
+130883	P0CG47	0048812	neuron projection morphogenesis
+130884	P0CG47	0070423	nucleotide-binding oligomerization domain containing signaling pathway
+130885	P0CG47	0000715	nucleotide-excision repair, DNA damage recognition
+130886	P0CG47	0000717	nucleotide-excision repair, DNA duplex unwinding
+130887	P0CG47	0006297	nucleotide-excision repair, DNA gap filling
+130888	P0CG47	0033683	nucleotide-excision repair, DNA incision
+130889	P0CG47	0006296	nucleotide-excision repair, DNA incision, 5'-to lesion
+130890	P0CG47	0006294	nucleotide-excision repair, preincision complex assembly
+130891	P0CG47	0043065	positive regulation of apoptotic process
+130892	P0CG47	1902255	positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator
+130893	P0CG47	0051092	positive regulation of NF-kappaB transcription factor activity
+130894	P0CG47	1902527	positive regulation of protein monoubiquitination
+130895	P0CG47	0031398	positive regulation of protein ubiquitination
+130896	P0CG47	0045944	positive regulation of transcription by RNA polymerase II
+130897	P0CG47	0016579	protein deubiquitination
+130898	P0CG47	0000209	protein polyubiquitination
+130899	P0CG47	0006625	protein targeting to peroxisome
+130900	P0CG47	0016567	protein ubiquitination
+130901	P0CG47	0051881	regulation of mitochondrial membrane potential
+130902	P0CG47	0043488	regulation of mRNA stability
+130903	P0CG47	1901214	regulation of neuron death
+130904	P0CG47	0061136	regulation of proteasomal protein catabolic process
+130905	P0CG47	0061418	regulation of transcription from RNA polymerase II promoter in response to hypoxia
+130906	P0CG47	0072520	seminiferous tubule development
+130907	P0CG47	0051403	stress-activated MAPK cascade
+130908	P0CG47	0006283	transcription-coupled nucleotide-excision repair
+130909	P0CG47	0007179	transforming growth factor beta receptor signaling pathway
+130910	P0CG47	0019985	translesion synthesis
+130911	P0CG47	0055085	transmembrane transport
+130912	P0CG47	0035666	TRIF-dependent toll-like receptor signaling pathway
+130913	P0CG47	0019058	viral life cycle
+130914	P0CG47	0019068	virion assembly
+130915	P0CG47	0016055	Wnt signaling pathway
+138061	Q15797	0005737	cytoplasm
+138062	Q15797	0005829	cytosol
+138063	Q15797	0016021	integral component of membrane
+138064	Q15797	0000790	nuclear chromatin
+138065	Q15797	0005637	nuclear inner membrane
+138066	Q15797	0005654	nucleoplasm
+138067	Q15797	0005634	nucleus
+138068	Q15797	0032991	protein-containing complex
+138069	Q15797	0071141	SMAD protein complex
+138070	Q15797	0005667	transcription factor complex
+138071	Q15797	0070410	co-SMAD binding
+138072	Q15797	0017151	DEAD/H-box RNA helicase binding
+138073	Q15797	0001228	DNA-binding transcription activator activity, RNA polymerase II-specific
+138074	Q15797	0003700	DNA-binding transcription factor activity
+138075	Q15797	0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+138076	Q15797	0070411	I-SMAD binding
+138077	Q15797	0042802	identical protein binding
+138078	Q15797	0046872	metal ion binding
+138079	Q15797	0070878	primary miRNA binding
+138080	Q15797	0019901	protein kinase binding
+138081	Q15797	0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+138082	Q15797	0030618	transforming growth factor beta receptor, pathway-specific cytoplasmic mediator activity
+138083	Q15797	0030509	BMP signaling pathway
+138084	Q15797	0009880	embryonic pattern specification
+138085	Q15797	0010628	positive regulation of gene expression
+138086	Q15797	1903672	positive regulation of sprouting angiogenesis
+138087	Q15797	0045944	positive regulation of transcription by RNA polymerase II
+138088	Q15797	1901522	positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus
+138089	Q15797	0031053	primary miRNA processing
+138090	Q15797	0016579	protein deubiquitination
+138091	Q15797	0007165	signal transduction
+138092	Q15797	0007183	SMAD protein complex assembly
+138093	Q15797	0060395	SMAD protein signal transduction
+138094	Q15797	0007179	transforming growth factor beta receptor signaling pathway
+185585	P84243	0001740	Barr body
+185586	P84243	0070062	extracellular exosome
+185587	P84243	0005576	extracellular region
+185588	P84243	0000228	nuclear chromosome
+185589	P84243	0000784	nuclear chromosome, telomeric region
+185590	P84243	0000788	nuclear nucleosome
+185591	P84243	0005654	nucleoplasm
+185592	P84243	0000786	nucleosome
+185593	P84243	0005634	nucleus
+185594	P84243	0032991	protein-containing complex
+185595	P84243	0031492	nucleosomal DNA binding
+185596	P84243	0046982	protein heterodimerization activity
+185597	P84243	0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+185598	P84243	0000979	RNA polymerase II core promoter sequence-specific DNA binding
+185599	P84243	0007596	blood coagulation
+185600	P84243	0007420	brain development
+185601	P84243	0008283	cell population proliferation
+185602	P84243	0044267	cellular protein metabolic process
+185603	P84243	0000183	chromatin silencing at rDNA
+185604	P84243	0006336	DNA replication-independent nucleosome assembly
+185605	P84243	0007566	embryo implantation
+185606	P84243	0008584	male gonad development
+185607	P84243	0035264	multicellular organism growth
+185608	P84243	0042692	muscle cell differentiation
+185609	P84243	1902340	negative regulation of chromosome condensation
+185610	P84243	0045814	negative regulation of gene expression, epigenetic
+185611	P84243	0006334	nucleosome assembly
+185612	P84243	0006997	nucleus organization
+185613	P84243	0048477	oogenesis
+185614	P84243	0001649	osteoblast differentiation
+185615	P84243	0031508	pericentric heterochromatin assembly
+185616	P84243	0030307	positive regulation of cell growth
+185617	P84243	0090230	regulation of centromere complex assembly
+185618	P84243	0060964	regulation of gene silencing by miRNA
+185619	P84243	0045652	regulation of megakaryocyte differentiation
+185620	P84243	0009725	response to hormone
+185621	P84243	0007338	single fertilization
+185622	P84243	0007286	spermatid development
+185623	P84243	0032200	telomere organization
+185624	P84243	0031509	telomeric heterochromatin assembly
+189464	P68431	0070062	extracellular exosome
+189465	P68431	0005576	extracellular region
+189466	P68431	0016020	membrane
+189467	P68431	0000228	nuclear chromosome
+189468	P68431	0000788	nuclear nucleosome
+189469	P68431	0005654	nucleoplasm
+189470	P68431	0000786	nucleosome
+189471	P68431	0005634	nucleus
+189472	P68431	0032991	protein-containing complex
+189473	P68431	0045296	cadherin binding
+189474	P68431	0003677	DNA binding
+189475	P68431	0046982	protein heterodimerization activity
+189476	P68431	0007596	blood coagulation
+189477	P68431	0044267	cellular protein metabolic process
+189478	P68431	0006325	chromatin organization
+189479	P68431	0000183	chromatin silencing at rDNA
+189480	P68431	0006335	DNA replication-dependent nucleosome assembly
+189481	P68431	0038111	interleukin-7-mediated signaling pathway
+189482	P68431	0045814	negative regulation of gene expression, epigenetic
+189483	P68431	0006334	nucleosome assembly
+189484	P68431	0051290	protein heterotetramerization
+189485	P68431	0060968	regulation of gene silencing
+189486	P68431	0060964	regulation of gene silencing by miRNA
+189487	P68431	0045652	regulation of megakaryocyte differentiation
+189488	P68431	0032200	telomere organization

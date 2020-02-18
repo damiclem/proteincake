@@ -1,0 +1,47 @@
+	entry_ac	go_id	go_descr
+81225	O14776	0005654	nucleoplasm
+81226	O14776	0005634	nucleus
+81227	O14776	0042802	identical protein binding
+81228	O14776	0070064	proline-rich region binding
+81229	O14776	0003723	RNA binding
+81230	O14776	0001103	RNA polymerase II repressing transcription factor binding
+81231	O14776	0003713	transcription coactivator activity
+81232	O14776	0003714	transcription corepressor activity
+81233	O14776	0000122	negative regulation of transcription by RNA polymerase II
+81234	O14776	0006366	transcription by RNA polymerase II
+154934	O75400	0005829	cytosol
+154935	O75400	0016020	membrane
+154936	O75400	0016363	nuclear matrix
+154937	O75400	0016607	nuclear speck
+154938	O75400	0005654	nucleoplasm
+154939	O75400	0005685	U1 snRNP
+154940	O75400	0071004	U2-type prespliceosome
+154941	O75400	0070064	proline-rich region binding
+154942	O75400	0003723	RNA binding
+154943	O75400	0007049	cell cycle
+154944	O75400	0051301	cell division
+154945	O75400	0016477	cell migration
+154946	O75400	0007010	cytoskeleton organization
+154947	O75400	0045292	mRNA cis splicing, via spliceosome
+154948	O75400	0000398	mRNA splicing, via spliceosome
+154949	O75400	0008360	regulation of cell shape
+154950	O75400	0032465	regulation of cytokinesis
+159561	Q8IX03	0005737	cytoplasm
+159562	Q8IX03	0005829	cytosol
+159563	Q8IX03	0005634	nucleus
+159564	Q8IX03	0048471	perinuclear region of cytoplasm
+159565	Q8IX03	0032991	protein-containing complex
+159566	Q8IX03	0032587	ruffle membrane
+159567	Q8IX03	0019900	kinase binding
+159568	Q8IX03	0060090	molecular adaptor activity
+159569	Q8IX03	0003713	transcription coactivator activity
+159570	Q8IX03	0016477	cell migration
+159571	Q8IX03	0030010	establishment of cell polarity
+159572	Q8IX03	0035329	hippo signaling
+159573	Q8IX03	0035331	negative regulation of hippo signaling
+159574	Q8IX03	0046621	negative regulation of organ growth
+159575	Q8IX03	0000122	negative regulation of transcription by RNA polymerase II
+159576	Q8IX03	0043410	positive regulation of MAPK cascade
+159577	Q8IX03	0007221	positive regulation of transcription of Notch receptor target
+159578	Q8IX03	0035330	regulation of hippo signaling
+159579	Q8IX03	0032386	regulation of intracellular transport

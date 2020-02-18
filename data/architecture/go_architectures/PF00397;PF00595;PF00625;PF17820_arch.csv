@@ -1,0 +1,51 @@
+	entry_ac	go_id	go_descr
+96682	Q86UL8	0005923	bicellular tight junction
+96683	Q86UL8	0005911	cell-cell junction
+96684	Q86UL8	0005737	cytoplasm
+96685	Q86UL8	0030425	dendrite
+96686	Q86UL8	0005770	late endosome
+96687	Q86UL8	0005634	nucleus
+96688	Q86UL8	0048471	perinuclear region of cytoplasm
+96689	Q86UL8	0005886	plasma membrane
+96690	Q86UL8	0014069	postsynaptic density
+96691	Q86UL8	0032991	protein-containing complex
+96692	Q86UL8	0036057	slit diaphragm
+96693	Q86UL8	0045202	synapse
+96694	Q86UL8	0031697	beta-1 adrenergic receptor binding
+96695	Q86UL8	0019902	phosphatase binding
+96696	Q86UL8	0030159	receptor signaling complex adaptor activity
+96697	Q86UL8	0046332	SMAD binding
+96698	Q86UL8	0070699	type II activin receptor binding
+96699	Q86UL8	1990090	cellular response to nerve growth factor stimulus
+96700	Q86UL8	0072015	glomerular visceral epithelial cell development
+96701	Q86UL8	0071850	mitotic cell cycle arrest
+96702	Q86UL8	0032926	negative regulation of activin receptor signaling pathway
+96703	Q86UL8	0030336	negative regulation of cell migration
+96704	Q86UL8	0008285	negative regulation of cell population proliferation
+96705	Q86UL8	0051898	negative regulation of protein kinase B signaling
+96706	Q86UL8	0038180	nerve growth factor signaling pathway
+96707	Q86UL8	0097118	neuroligin clustering involved in postsynaptic membrane assembly
+96708	Q86UL8	0003402	planar cell polarity pathway involved in axis elongation
+96709	Q86UL8	0010976	positive regulation of neuron projection development
+96710	Q86UL8	0032516	positive regulation of phosphoprotein phosphatase activity
+96711	Q86UL8	0002092	positive regulation of receptor internalization
+96712	Q86UL8	2000809	positive regulation of synaptic vesicle clustering
+96713	Q86UL8	0051291	protein heterooligomerization
+96714	Q86UL8	0043113	receptor clustering
+96715	Q86UL8	0007165	signal transduction
+96716	Q86UL8	0060395	SMAD protein signal transduction
+96717	Q5TCQ9	0005923	bicellular tight junction
+96718	Q5TCQ9	0030054	cell junction
+96719	Q5TCQ9	0005911	cell-cell junction
+96720	Q5TCQ9	0005737	cytoplasm
+96721	Q5TCQ9	0016020	membrane
+96722	Q5TCQ9	0005634	nucleus
+96723	Q5TCQ9	0005886	plasma membrane
+96724	Q5TCQ9	0005524	ATP binding
+96725	Q5TCQ9	0004385	guanylate kinase activity
+96726	Q5TCQ9	0060090	molecular adaptor activity
+96727	Q5TCQ9	0006915	apoptotic process
+96728	Q5TCQ9	0035556	intracellular signal transduction
+96729	Q5TCQ9	0046328	regulation of JNK cascade
+96730	Q5TCQ9	0007165	signal transduction
+96731	Q5TCQ9	0016032	viral process
