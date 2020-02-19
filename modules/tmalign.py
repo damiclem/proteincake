@@ -93,7 +93,7 @@ def multi_align(pdb_paths, triangular=True, script_path=SCRIPT_PATH):
             # Parse alignment results
             chains, _, rmsd, tm_score, _ = parse(align_out)
             # Store scores
-            tm_mat[i, j] = tm_mat[j, i] = tm_score
+            tm_mat[i, j] = tm_mat[j, i] = 1 - tm_score
             rmsd_mat[i, j] = rmsd_mat[j, i] = rmsd
 
     # Return filled matrices
