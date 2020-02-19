@@ -41,10 +41,26 @@ This model is actually a PSI-BLAST algorithm which takes as input a specific PSS
 - *num_iterations*: number of PSI-BLAST iterations. Int, default *3*;
 - *e_vale*: e-value threshold on results. Float, default *0.001*.
 
-Usage:
 ```shell
-python modules/pssm.py --fit True --blast_path path/to/blast.fasta --msa_path path/to/msa.fasta --model_path path/to/model.pssm --test_path path/to/test.fasta --out_path path/to/out --num_iterations 3 --e_value 0.001
+python modules/pssm.py --fit True --blast_path path/to/blast.fasta --msa_path path/to/msa.fasta --model_path path/to/model.pssm --test_path path/to/test.fasta --out_path path/to/out.tsv --num_iterations 3 --e_value 0.001
 ```
+
+### 2 Hidden Markov Model
+This model allows to use either HMMER or JACKHMMER in order to obtain domain classification and domain's positions matching. Parameters are:
+- *algorithm*: whether to use HMMER or JACKHMMER. String, default *hmmer*;
+- *fit*: wheter to fit a new model or not. Bool, default *True*;
+- *seq_path*: path to query sequence, in case selected algorithm is JACKHMMER. String, default *data/domain.fasta*;
+- *msa_path*: path to multiple sequence alignment, in case selected algorithm is HMMER. String, default *data/msa.edited.fasta*;
+- *test_path*: path to FASTA formatted test set. String, default *data/human.fasta*;
+- *model_path*: path to model to load/create, in case selected algorithm is HMMER. String, default *models/model.hmm*;
+- *out_path*: path where to store model output. String;
+- *e_value*: e-value threshold. Float, default *0.001*;
+
+```shell
+python modules/hmm.py --algorithm hmmer --fit True --seq_path path/to/query/sequence.fasta --msa_path path/to/msa.fasta --test_path path/to/test.fasta --model_path path/to/model --out_path path/to/out.tsv --e_value
+```
+
+### Ensemble model
 
 ## Part Two
 
