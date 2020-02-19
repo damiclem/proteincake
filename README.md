@@ -42,7 +42,6 @@ Differently from PSSM and HMM models, ensemble model takes as input the output o
 - *models_out*: list of models outputs. List;
 - *out_path*: path where to store the model result. String.
 
-
 ```shell
 python modules/ensemble.py --models_out path/to/model1.tsv path/to/model2.tsv --out_path path/to/out.tsv
 ```
@@ -130,4 +129,18 @@ Example of arguments: <br>
 - *out_wordcloud*: the path where to save the *WorldCloud* (*matplotlib.pyplot.figure*). Deafualt is None (show the output, do not save it); <br>
 - *p_value*: maximum *p-value* that a *GO/DO* term must have in order to be considered significant. Dedault is 0.05; <br>
 - *depth*: maximum *depth* on the ontology graph that a *GO/DO* term must have in order to be considered significant. Dedault is 4; <br>
-- *bonferroni*: Perform *Bonferroni correction* (1) or dont't (0). Default is 1. 
+- *bonferroni*: Perform *Bonferroni correction* (1) or dont't (0). Default is 1.
+
+## Part Three: Structural Alignment
+
+### 1) TM-align
+
+In the context of structural alignment, TM-align has been used to evaluate clusters similarity. Practically, a wrapper around TM-align has been developed in order to find out a distance matrix out of multiple PDB sequences. Parameters are:
+- *pdb_paths*: path to pdb files to compare. List;
+- *script_path*: path to TM-align executable. String, default *resources/TMalign*;
+- *out_type*: defines wether to return RMSD or 1-TM-score distance matrix. String, default *rmsd*;
+- *out_path*: path where to store the output matrix. String.
+
+```shell
+python modules/tmalign.py --pdb_paths path/to/pdb1.pdb path/to/pdb2.pdb path/to/pdb3.pdb --script_path resources/TMalign --out_type rmsd --out_path path/to/out.tsv
+```
