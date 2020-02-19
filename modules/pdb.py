@@ -15,12 +15,12 @@ BASE_URL = r'http://files.rcsb.org'  # Path to PDB
 # http://files.rcsb.org/download/1eg3.pdb.gz
 
 # Retrieve PDB file, given a pdb_id
-def download(pdb_id, format='pdb', out_path=None, compressed=True):
+def download(pdb_id, format='pdb', out_dir=None, out_path=None, compressed=True):
     # Define path to pdb
     pdb_file = '.'.join([pdb_id, format] + (['gz'] if compressed else []))
     # Redefine output path (if directory, add output file)
-    if not isfile(out_path):
-        out_path = '/'.join([re.sub(r'[/]$', '', out_path), '.'.join([pdb_id, format])])
+    if out_dir is not None:
+        out_path = '/'.join([re.sub(r'[/]$', '', out_dir), '.'.join([pdb_id, format])])
     # Make download rquest
     response = requests.get('/'.join([BASE_URL, 'download', pdb_file]))
     # Check response status
@@ -30,7 +30,7 @@ def download(pdb_id, format='pdb', out_path=None, compressed=True):
         # If content is compressed: decompress it
         content = gzip.decompress(content) if compressed else content
         # Write to file
-        with open(out_path, 'wb') as out_file:
+        with open(out_path, 'wb+') as out_file:
             # Save uncompressed file
             out_file.write(content)
     # Return if response statusis 200 OK, downloaded file path, response
@@ -41,4 +41,4 @@ def download(pdb_id, format='pdb', out_path=None, compressed=True):
 if __name__ == '__main__':
 
     # Retrieve a known file
-    download('1eg3', out_path='data/', format='pdb', compressed=True)
+    download('1eg3', out_dir='data/pdb/', format='pdb', compressed=True)

@@ -1,5 +1,5 @@
 HMMER3/f [3.1b2 | February 2015]
-NAME  msa.edited
+NAME  clustalo.edited
 LENG  35
 ALPH  amino
 RF    no
@@ -7,7 +7,7 @@ MM    no
 CONS  yes
 CS    no
 MAP   yes
-DATE  Sun Feb 16 15:34:39 2020
+DATE  Wed Feb 19 10:26:46 2020
 NSEQ  451
 EFFN  6.217628
 CKSUM 2546633121
