@@ -1,7 +1,7 @@
 # beerprot
 ## Requirments
 The code has been written in Python 3.6 using the following packages: <br>
-- *pandas*, *numpy*, *wordcloud*, *scipy*, *json*, *request*, *argparse*, *matplotlib*, *seaborn*, *sys*, *os*, *subprocess*, *warnings*, *gzip*, *copy*, *re*, *tempfile*, *xmltodict*, *time* and *tqdm*. <br>
+*pandas*, *numpy*, *wordcloud*, *scipy*, *json*, *request*, *argparse*, *matplotlib*, *seaborn*, *sys*, *os*, *subprocess*, *warnings*, *gzip*, *copy*, *re*, *tempfile*, *xmltodict*, *time* and *tqdm*. <br>
 The only problem we have encountered was the need to have the version of the module *tqdm* at *4.42.0*
 
 The following software were used inside the python scripts and need to be installed and ready to run (more info in the sections **Models** amd **Structural Alligment**: <br>
