@@ -1,28 +1,6 @@
 # beerprot
 
 ## Part one:
-  
-  1.1 BLAST
-  
-        1.1.a  From starting sequence we used BLAST for retrieving similar sequences
-        1.2.b  Modified the BLAST results taking out outliers
-  
-  1.2. Multiple Sequence Alligment (MSA)
-  
-        1.2.a  Generated a MSA from the BLAST results using CLUSTELW(see 1.1.a)
-        1.2.b  Modified MSA with Jelview
-  
-  1.3. Hidden Markov Model (HMM)
-        
-        1.3.a  Build an HMM model using the MSA of point 1.2.b
-        hmmbuild models/model.hmm data/msa.fasta
-        1.3.b  Retrieve a set of human proteins with the same PFAM of the initial sequence (positive examples)
-        database:(type:pfam pf00397) AND reviewed:yes AND organism:"Homo sapiens (Human) [9606]"
-        1.3.c  Retrieve a set of human proteins with a different PFAM of the initial sequence (negative examples)
-        reviewed:yes AND organism:"Homo sapiens (Human) [9606]" AND NOT database:(type:pfam pf00397)
-        1.3.d  Evaluated the HMM model using the positive and the negative examples
-        hmmsearch --domtblout results/HMM_domtblout_pos -o results/HMM_results_pos models/model.hmm data/positive_pfam.fasta
-
 ## Models
 This part explains every model developed in this project and how to use them. Some models, such as PSSM or HMMER require an initial MSA, which can be retrieved by following the instructions above, while others, such as JACKHMMER, don't.
 
@@ -72,7 +50,7 @@ python modules/ensemble.py --models_out path/to/model1.tsv path/to/model2.tsv --
 
 ## Part Two
 
-### 2.1 Annotation Enrichment
+### Annotation Enrichment
 In this section we have performed Enrichment, using first the **GO** and secondly the **DO** terms, on all the four kind of datasets: *Original*, *PDB Network*, *Architectures*, *STRING Network*. All the results are inside the paths *results/go_enrichment* and *results/do_enrichment*.
 
 **Method:** <br>
@@ -150,9 +128,9 @@ There are two *jupyter notebook*, *GO_demo.ipynb* and *DO_demo.ipynb* that show 
 Note 3: <br>
 Additional arguments, that are not shown in the code, are present in the modules, please see the code to see all the arguments. <br>
 Example of arguments: <br>
-- ontology_path: the path of the *GO/DO* ontologies graph files. Default for *GO* is: data/go/go.json.gz; <br>
-- out_path: the path where to save the results (*pandas.dataframe*). Deafualt is None (print the output, do not save it); <br>  
-- out_wordcloud: the path where to save the *WorldCloud* (*matplotlib.pyplot.figure*). Deafualt is None (show the output, do not save it); <br>
-- p_value: maximum *p-value* that a *GO/DO* term must have in order to be considered significant. Dedault is 0.05; <br>
-- depth: maximum *depth* on the ontology graph that a *GO/DO* term must have in order to be considered significant. Dedault is 4; <br>
-
+- *ontology_path*: the path of the *GO/DO* ontologies graph files. Default for *GO* is: data/go/go.json.gz; <br>
+- *out_path*: the path where to save the results (*pandas.dataframe*). Deafualt is None (print the output, do not save it); <br>  
+- *out_wordcloud*: the path where to save the *WorldCloud* (*matplotlib.pyplot.figure*). Deafualt is None (show the output, do not save it); <br>
+- *p_value*: maximum *p-value* that a *GO/DO* term must have in order to be considered significant. Dedault is 0.05; <br>
+- *depth*: maximum *depth* on the ontology graph that a *GO/DO* term must have in order to be considered significant. Dedault is 4; <br>
+- *bonferroni*: Perform *Bonferroni correction* (1) or dont't (0). Default is 1. 
