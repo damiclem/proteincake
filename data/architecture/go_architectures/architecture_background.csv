@@ -73,909 +73,957 @@
 71	Q9GZV5	0001894	tissue homeostasis	PF00397
 72	Q9GZV5	0006367	transcription initiation from RNA polymerase II promoter	PF00397
 73	Q8N3X1	0016607	nuclear speck	PF00397
-74	O15428	0005829	cytosol	PF00397
-75	O15428	0005634	nucleus	PF00397
-76	O15428	0003755	peptidyl-prolyl cis-trans isomerase activity	PF00397
-77	Q6IQ23	0030054	cell junction	PF00169
-78	Q6IQ23	0005813	centrosome	PF00169
-79	Q6IQ23	0005829	cytosol	PF00169
-80	Q6IQ23	0070062	extracellular exosome	PF00169
-81	Q6IQ23	0005654	nucleoplasm	PF00169
-82	Q6IQ23	0046930	pore complex	PF00169
-83	Q6IQ23	0005915	zonula adherens	PF00169
-84	Q6IQ23	0070097	delta-catenin binding	PF00169
-85	Q6IQ23	0044331	cell-cell adhesion mediated by cadherin	PF00169
-86	Q6IQ23	0090136	epithelial cell-cell adhesion	PF00169
-87	Q6IQ23	0046931	pore complex assembly	PF00169
-88	Q6IQ23	0045218	zonula adherens maintenance	PF00169
-89	Q6AWC2	0005829	cytosol	PF00397
-90	Q6AWC2	0019900	kinase binding	PF00397
-91	Q6AWC2	0060090	molecular adaptor activity	PF00397
-92	Q6AWC2	0035331	negative regulation of hippo signaling	PF00397
-93	Q6AWC2	0046621	negative regulation of organ growth	PF00397
-94	Q6AWC2	0000122	negative regulation of transcription by RNA polymerase II	PF00397
-95	Q9HCE7	0030424	axon	PF00168;PF00397;PF00632
-96	Q9HCE7	0005623	cell	PF00168;PF00397;PF00632
-97	Q9HCE7	0005737	cytoplasm	PF00168;PF00397;PF00632
-98	Q9HCE7	0005829	cytosol	PF00168;PF00397;PF00632
-99	Q9HCE7	0070062	extracellular exosome	PF00168;PF00397;PF00632
-100	Q9HCE7	0043025	neuronal cell body	PF00168;PF00397;PF00632
-101	Q9HCE7	0005654	nucleoplasm	PF00168;PF00397;PF00632
-102	Q9HCE7	0005886	plasma membrane	PF00168;PF00397;PF00632
-103	Q9HCE7	0048185	activin binding	PF00168;PF00397;PF00632
-104	Q9HCE7	0070411	I-SMAD binding	PF00168;PF00397;PF00632
-105	Q9HCE7	0005543	phospholipid binding	PF00168;PF00397;PF00632
-106	Q9HCE7	0070412	R-SMAD binding	PF00168;PF00397;PF00632
-107	Q9HCE7	0061630	ubiquitin protein ligase activity	PF00168;PF00397;PF00632
-108	Q9HCE7	0004842	ubiquitin-protein transferase activity	PF00168;PF00397;PF00632
-109	Q9HCE7	0030509	BMP signaling pathway	PF00168;PF00397;PF00632
-110	Q9HCE7	0030154	cell differentiation	PF00168;PF00397;PF00632
-111	Q9HCE7	0007398	ectoderm development	PF00168;PF00397;PF00632
-112	Q9HCE7	0061736	engulfment of target by autophagosome	PF00168;PF00397;PF00632
-113	Q9HCE7	0030514	negative regulation of BMP signaling pathway	PF00168;PF00397;PF00632
-114	Q9HCE7	0030279	negative regulation of ossification	PF00168;PF00397;PF00632
-115	Q9HCE7	0030512	negative regulation of transforming growth factor beta receptor signaling pathway	PF00168;PF00397;PF00632
-116	Q9HCE7	0061734	parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization	PF00168;PF00397;PF00632
-117	Q9HCE7	1903861	positive regulation of dendrite extension	PF00168;PF00397;PF00632
-118	Q9HCE7	0045732	positive regulation of protein catabolic process	PF00168;PF00397;PF00632
-119	Q9HCE7	2000060	positive regulation of ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
-120	Q9HCE7	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
-121	Q9HCE7	0006611	protein export from nucleus	PF00168;PF00397;PF00632
-122	Q9HCE7	0034394	protein localization to cell surface	PF00168;PF00397;PF00632
-123	Q9HCE7	0072659	protein localization to plasma membrane	PF00168;PF00397;PF00632
-124	Q9HCE7	0000209	protein polyubiquitination	PF00168;PF00397;PF00632
-125	Q9HCE7	0071211	protein targeting to vacuole involved in autophagy	PF00168;PF00397;PF00632
-126	Q9HCE7	0016567	protein ubiquitination	PF00168;PF00397;PF00632
-127	Q9HCE7	0032801	receptor catabolic process	PF00168;PF00397;PF00632
-128	Q9HCE7	0061753	substrate localization to autophagosome	PF00168;PF00397;PF00632
-129	Q9HCE7	0007179	transforming growth factor beta receptor signaling pathway	PF00168;PF00397;PF00632
-130	Q9HCE7	0006511	ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
-131	Q9HCE7	0030579	ubiquitin-dependent SMAD protein catabolic process	PF00168;PF00397;PF00632
-132	Q9HCE7	0060071	Wnt signaling pathway, planar cell polarity pathway	PF00168;PF00397;PF00632
-133	Q9BYW2	0005694	chromosome	PF00397;PF00856;PF08236;PF17907
-134	Q9BYW2	0005654	nucleoplasm	PF00397;PF00856;PF08236;PF17907
-135	Q9BYW2	0005634	nucleus	PF00397;PF00856;PF08236;PF17907
-136	Q9BYW2	0043014	alpha-tubulin binding	PF00397;PF00856;PF08236;PF17907
-137	Q9BYW2	0046975	histone methyltransferase activity (H3-K36 specific)	PF00397;PF00856;PF08236;PF17907
-138	Q9BYW2	0018024	histone-lysine N-methyltransferase activity	PF00397;PF00856;PF08236;PF17907
-139	Q9BYW2	0046872	metal ion binding	PF00397;PF00856;PF08236;PF17907
-140	Q9BYW2	0016279	protein-lysine N-methyltransferase activity	PF00397;PF00856;PF08236;PF17907
-141	Q9BYW2	0001525	angiogenesis	PF00397;PF00856;PF08236;PF17907
-142	Q9BYW2	0035441	cell migration involved in vasculogenesis	PF00397;PF00856;PF08236;PF17907
-143	Q9BYW2	0060977	coronary vasculature morphogenesis	PF00397;PF00856;PF08236;PF17907
-144	Q9BYW2	0051607	defense response to virus	PF00397;PF00856;PF08236;PF17907
-145	Q9BYW2	0048701	embryonic cranial skeleton morphogenesis	PF00397;PF00856;PF08236;PF17907
-146	Q9BYW2	0060669	embryonic placenta morphogenesis	PF00397;PF00856;PF08236;PF17907
-147	Q9BYW2	0035987	endodermal cell differentiation	PF00397;PF00856;PF08236;PF17907
-148	Q9BYW2	0030900	forebrain development	PF00397;PF00856;PF08236;PF17907
-149	Q9BYW2	0097676	histone H3-K36 dimethylation	PF00397;PF00856;PF08236;PF17907
-150	Q9BYW2	0097198	histone H3-K36 trimethylation	PF00397;PF00856;PF08236;PF17907
-151	Q9BYW2	0048332	mesoderm morphogenesis	PF00397;PF00856;PF08236;PF17907
-152	Q9BYW2	1902850	microtubule cytoskeleton organization involved in mitosis	PF00397;PF00856;PF08236;PF17907
-153	Q9BYW2	0006298	mismatch repair	PF00397;PF00856;PF08236;PF17907
-154	Q9BYW2	0001763	morphogenesis of a branching structure	PF00397;PF00856;PF08236;PF17907
-155	Q9BYW2	0001843	neural tube closure	PF00397;PF00856;PF08236;PF17907
-156	Q9BYW2	0034728	nucleosome organization	PF00397;PF00856;PF08236;PF17907
-157	Q9BYW2	0018026	peptidyl-lysine monomethylation	PF00397;PF00856;PF08236;PF17907
-158	Q9BYW2	0018023	peptidyl-lysine trimethylation	PF00397;PF00856;PF08236;PF17907
-159	Q9BYW2	0060039	pericardium development	PF00397;PF00856;PF08236;PF17907
-160	Q9BYW2	0032727	positive regulation of interferon-alpha production	PF00397;PF00856;PF08236;PF17907
-161	Q9BYW2	0032465	regulation of cytokinesis	PF00397;PF00856;PF08236;PF17907
-162	Q9BYW2	0010569	regulation of double-strand break repair via homologous recombination	PF00397;PF00856;PF08236;PF17907
-163	Q9BYW2	0010793	regulation of mRNA export from nucleus	PF00397;PF00856;PF08236;PF17907
-164	Q9BYW2	1905634	regulation of protein localization to chromatin	PF00397;PF00856;PF08236;PF17907
-165	Q9BYW2	0006355	regulation of transcription, DNA-templated	PF00397;PF00856;PF08236;PF17907
-166	Q9BYW2	0034340	response to type I interferon	PF00397;PF00856;PF08236;PF17907
-167	Q9BYW2	0048864	stem cell development	PF00397;PF00856;PF08236;PF17907
-168	Q9BYW2	0048863	stem cell differentiation	PF00397;PF00856;PF08236;PF17907
-169	Q9BYW2	0006368	transcription elongation from RNA polymerase II promoter	PF00397;PF00856;PF08236;PF17907
-170	Q9HAU0	0005829	cytosol	PF00169;PF00397
-171	Q9HAU0	0098978	glutamatergic synapse	PF00169;PF00397
-172	Q9HAU0	0016020	membrane	PF00169;PF00397
-173	Q9HAU0	0005654	nucleoplasm	PF00169;PF00397
-174	Q9HAU0	0014069	postsynaptic density	PF00169;PF00397
-175	Q9HAU0	0080025	phosphatidylinositol-3,5-bisphosphate binding	PF00169;PF00397
-176	Q9HAU0	0032266	phosphatidylinositol-3-phosphate binding	PF00169;PF00397
-177	Q9HAU0	0070273	phosphatidylinositol-4-phosphate binding	PF00169;PF00397
-178	Q9HAU0	0010314	phosphatidylinositol-5-phosphate binding	PF00169;PF00397
-179	Q9HAU0	0061458	reproductive system development	PF00169;PF00397
-180	Q9HAU4	0005737	cytoplasm	PF00168;PF00397;PF00632
-181	Q9HAU4	0005829	cytosol	PF00168;PF00397;PF00632
-182	Q9HAU4	0045121	membrane raft	PF00168;PF00397;PF00632
-183	Q9HAU4	0016607	nuclear speck	PF00168;PF00397;PF00632
-184	Q9HAU4	0005654	nucleoplasm	PF00168;PF00397;PF00632
-185	Q9HAU4	0005634	nucleus	PF00168;PF00397;PF00632
-186	Q9HAU4	0005886	plasma membrane	PF00168;PF00397;PF00632
-187	Q9HAU4	0000151	ubiquitin ligase complex	PF00168;PF00397;PF00632
-188	Q9HAU4	0042802	identical protein binding	PF00168;PF00397;PF00632
-189	Q9HAU4	0046332	SMAD binding	PF00168;PF00397;PF00632
-190	Q9HAU4	0005160	transforming growth factor beta receptor binding	PF00168;PF00397;PF00632
-191	Q9HAU4	0061630	ubiquitin protein ligase activity	PF00168;PF00397;PF00632
-192	Q9HAU4	0004842	ubiquitin-protein transferase activity	PF00168;PF00397;PF00632
-193	Q9HAU4	0030509	BMP signaling pathway	PF00168;PF00397;PF00632
-194	Q9HAU4	0030514	negative regulation of BMP signaling pathway	PF00168;PF00397;PF00632
-195	Q9HAU4	0000122	negative regulation of transcription by RNA polymerase II	PF00168;PF00397;PF00632
-196	Q9HAU4	0045892	negative regulation of transcription, DNA-templated	PF00168;PF00397;PF00632
-197	Q9HAU4	0030512	negative regulation of transforming growth factor beta receptor signaling pathway	PF00168;PF00397;PF00632
-198	Q9HAU4	0090263	positive regulation of canonical Wnt signaling pathway	PF00168;PF00397;PF00632
-199	Q9HAU4	0045732	positive regulation of protein catabolic process	PF00168;PF00397;PF00632
-200	Q9HAU4	1901165	positive regulation of trophoblast cell migration	PF00168;PF00397;PF00632
-201	Q9HAU4	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
-202	Q9HAU4	0016579	protein deubiquitination	PF00168;PF00397;PF00632
-203	Q9HAU4	0000209	protein polyubiquitination	PF00168;PF00397;PF00632
-204	Q9HAU4	0016567	protein ubiquitination	PF00168;PF00397;PF00632
-205	Q9HAU4	0017015	regulation of transforming growth factor beta receptor signaling pathway	PF00168;PF00397;PF00632
-206	Q9HAU4	0006511	ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
-207	Q9HAU4	0030579	ubiquitin-dependent SMAD protein catabolic process	PF00168;PF00397;PF00632
-208	Q9HAU4	0060071	Wnt signaling pathway, planar cell polarity pathway	PF00168;PF00397;PF00632
-209	Q6ZWJ1	0070062	extracellular exosome	PF00397;PF00595
-210	Q6ZWJ1	0045335	phagocytic vesicle	PF00397;PF00595
-211	Q6ZWJ1	0019905	syntaxin binding	PF00397;PF00595
-212	Q6ZWJ1	0006974	cellular response to DNA damage stimulus	PF00397;PF00595
-213	Q6ZWJ1	0071346	cellular response to interferon-gamma	PF00397;PF00595
-214	Q6ZWJ1	0008286	insulin receptor signaling pathway	PF00397;PF00595
-215	Q6ZWJ1	1902808	positive regulation of cell cycle G1/S phase transition	PF00397;PF00595
-216	Q6ZWJ1	0010838	positive regulation of keratinocyte proliferation	PF00397;PF00595
-217	Q6ZWJ1	0050821	protein stabilization	PF00397;PF00595
-218	Q6ZWJ1	0006605	protein targeting	PF00397;PF00595
-219	Q6ZWJ1	0010827	regulation of glucose transmembrane transport	PF00397;PF00595
-220	Q6ZWJ1	0061178	regulation of insulin secretion involved in cellular response to glucose stimulus	PF00397;PF00595
-221	Q76N89	0005737	cytoplasm	PF00168;PF00397;PF00632;PF16562;PF18436
-222	Q76N89	0005829	cytosol	PF00168;PF00397;PF00632;PF16562;PF18436
-223	Q76N89	0061630	ubiquitin protein ligase activity	PF00168;PF00397;PF00632;PF16562;PF18436
-224	Q76N89	0090090	negative regulation of canonical Wnt signaling pathway	PF00168;PF00397;PF00632;PF16562;PF18436
-225	Q76N89	2000650	negative regulation of sodium ion transmembrane transporter activity	PF00168;PF00397;PF00632;PF16562;PF18436
-226	Q76N89	0045732	positive regulation of protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
-227	Q76N89	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
-228	Q76N89	0000209	protein polyubiquitination	PF00168;PF00397;PF00632;PF16562;PF18436
-229	Q76N89	0016567	protein ubiquitination	PF00168;PF00397;PF00632;PF16562;PF18436
-230	Q76N89	0048814	regulation of dendrite morphogenesis	PF00168;PF00397;PF00632;PF16562;PF18436
-231	Q76N89	0006511	ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
-232	O14776	0005654	nucleoplasm	PF00397;PF01846
-233	O14776	0005634	nucleus	PF00397;PF01846
-234	O14776	0042802	identical protein binding	PF00397;PF01846
-235	O14776	0070064	proline-rich region binding	PF00397;PF01846
-236	O14776	0003723	RNA binding	PF00397;PF01846
-237	O14776	0001103	RNA polymerase II repressing transcription factor binding	PF00397;PF01846
-238	O14776	0003713	transcription coactivator activity	PF00397;PF01846
-239	O14776	0003714	transcription corepressor activity	PF00397;PF01846
-240	O14776	0000122	negative regulation of transcription by RNA polymerase II	PF00397;PF01846
-241	O14776	0006366	transcription by RNA polymerase II	PF00397;PF01846
-242	Q8IWW6	0005737	cytoplasm	PF00169;PF00620;PF14604
-243	Q8IWW6	0005829	cytosol	PF00169;PF00620;PF14604
-244	Q8IWW6	0001891	phagocytic cup	PF00169;PF00620;PF14604
-245	Q8IWW6	0005096	GTPase activator activity	PF00169;PF00620;PF14604
-246	Q8IWW6	0007015	actin filament organization	PF00169;PF00620;PF14604
-247	Q8IWW6	0002011	morphogenesis of an epithelial sheet	PF00169;PF00620;PF14604
-248	Q8IWW6	0051058	negative regulation of small GTPase mediated signal transduction	PF00169;PF00620;PF14604
-249	Q8IWW6	0006911	phagocytosis, engulfment	PF00169;PF00620;PF14604
-250	Q8IWW6	0043087	regulation of GTPase activity	PF00169;PF00620;PF14604
-251	Q8IWW6	0051056	regulation of small GTPase mediated signal transduction	PF00169;PF00620;PF14604
-252	Q8IWW6	0007165	signal transduction	PF00169;PF00620;PF14604
-253	Q6ZUM4	0005737	cytoplasm	PF00169;PF00397;PF00620
-254	Q6ZUM4	0016020	membrane	PF00169;PF00397;PF00620
-255	Q6ZUM4	0005096	GTPase activator activity	PF00169;PF00397;PF00620
-256	Q6ZUM4	0017124	SH3 domain binding	PF00169;PF00397;PF00620
-257	Q6ZUM4	0043547	positive regulation of GTPase activity	PF00169;PF00397;PF00620
-258	Q6ZUM4	0006898	receptor-mediated endocytosis	PF00169;PF00397;PF00620
-259	Q6ZUM4	0043087	regulation of GTPase activity	PF00169;PF00397;PF00620
-260	Q6ZUM4	0007165	signal transduction	PF00169;PF00397;PF00620
-261	Q9C0H5	0005737	cytoplasm	PF00620;PF00784
-262	Q9C0H5	0005856	cytoskeleton	PF00620;PF00784
-263	Q9C0H5	0005829	cytosol	PF00620;PF00784
-264	Q9C0H5	0098978	glutamatergic synapse	PF00620;PF00784
-265	Q9C0H5	0005634	nucleus	PF00620;PF00784
-266	Q9C0H5	0005096	GTPase activator activity	PF00620;PF00784
-267	Q9C0H5	0099173	postsynapse organization	PF00620;PF00784
-268	Q9C0H5	0051056	regulation of small GTPase mediated signal transduction	PF00620;PF00784
-269	Q9C0H5	0007165	signal transduction	PF00620;PF00784
-270	Q86UL8	0005923	bicellular tight junction	PF00397;PF00595;PF00625;PF17820
-271	Q86UL8	0005911	cell-cell junction	PF00397;PF00595;PF00625;PF17820
-272	Q86UL8	0005737	cytoplasm	PF00397;PF00595;PF00625;PF17820
-273	Q86UL8	0030425	dendrite	PF00397;PF00595;PF00625;PF17820
-274	Q86UL8	0005770	late endosome	PF00397;PF00595;PF00625;PF17820
-275	Q86UL8	0005634	nucleus	PF00397;PF00595;PF00625;PF17820
-276	Q86UL8	0048471	perinuclear region of cytoplasm	PF00397;PF00595;PF00625;PF17820
-277	Q86UL8	0005886	plasma membrane	PF00397;PF00595;PF00625;PF17820
-278	Q86UL8	0014069	postsynaptic density	PF00397;PF00595;PF00625;PF17820
-279	Q86UL8	0032991	protein-containing complex	PF00397;PF00595;PF00625;PF17820
-280	Q86UL8	0036057	slit diaphragm	PF00397;PF00595;PF00625;PF17820
-281	Q86UL8	0045202	synapse	PF00397;PF00595;PF00625;PF17820
-282	Q86UL8	0031697	beta-1 adrenergic receptor binding	PF00397;PF00595;PF00625;PF17820
-283	Q86UL8	0019902	phosphatase binding	PF00397;PF00595;PF00625;PF17820
-284	Q86UL8	0030159	receptor signaling complex adaptor activity	PF00397;PF00595;PF00625;PF17820
-285	Q86UL8	0046332	SMAD binding	PF00397;PF00595;PF00625;PF17820
-286	Q86UL8	0070699	type II activin receptor binding	PF00397;PF00595;PF00625;PF17820
-287	Q86UL8	1990090	cellular response to nerve growth factor stimulus	PF00397;PF00595;PF00625;PF17820
-288	Q86UL8	0072015	glomerular visceral epithelial cell development	PF00397;PF00595;PF00625;PF17820
-289	Q86UL8	0071850	mitotic cell cycle arrest	PF00397;PF00595;PF00625;PF17820
-290	Q86UL8	0032926	negative regulation of activin receptor signaling pathway	PF00397;PF00595;PF00625;PF17820
-291	Q86UL8	0030336	negative regulation of cell migration	PF00397;PF00595;PF00625;PF17820
-292	Q86UL8	0008285	negative regulation of cell population proliferation	PF00397;PF00595;PF00625;PF17820
-293	Q86UL8	0051898	negative regulation of protein kinase B signaling	PF00397;PF00595;PF00625;PF17820
-294	Q86UL8	0038180	nerve growth factor signaling pathway	PF00397;PF00595;PF00625;PF17820
-295	Q86UL8	0097118	neuroligin clustering involved in postsynaptic membrane assembly	PF00397;PF00595;PF00625;PF17820
-296	Q86UL8	0003402	planar cell polarity pathway involved in axis elongation	PF00397;PF00595;PF00625;PF17820
-297	Q86UL8	0010976	positive regulation of neuron projection development	PF00397;PF00595;PF00625;PF17820
-298	Q86UL8	0032516	positive regulation of phosphoprotein phosphatase activity	PF00397;PF00595;PF00625;PF17820
-299	Q86UL8	0002092	positive regulation of receptor internalization	PF00397;PF00595;PF00625;PF17820
-300	Q86UL8	2000809	positive regulation of synaptic vesicle clustering	PF00397;PF00595;PF00625;PF17820
-301	Q86UL8	0051291	protein heterooligomerization	PF00397;PF00595;PF00625;PF17820
-302	Q86UL8	0043113	receptor clustering	PF00397;PF00595;PF00625;PF17820
-303	Q86UL8	0007165	signal transduction	PF00397;PF00595;PF00625;PF17820
-304	Q86UL8	0060395	SMAD protein signal transduction	PF00397;PF00595;PF00625;PF17820
-305	Q5TCQ9	0005923	bicellular tight junction	PF00397;PF00595;PF00625;PF17820
-306	Q5TCQ9	0030054	cell junction	PF00397;PF00595;PF00625;PF17820
-307	Q5TCQ9	0005911	cell-cell junction	PF00397;PF00595;PF00625;PF17820
-308	Q5TCQ9	0005737	cytoplasm	PF00397;PF00595;PF00625;PF17820
-309	Q5TCQ9	0016020	membrane	PF00397;PF00595;PF00625;PF17820
-310	Q5TCQ9	0005634	nucleus	PF00397;PF00595;PF00625;PF17820
-311	Q5TCQ9	0005886	plasma membrane	PF00397;PF00595;PF00625;PF17820
-312	Q5TCQ9	0005524	ATP binding	PF00397;PF00595;PF00625;PF17820
-313	Q5TCQ9	0004385	guanylate kinase activity	PF00397;PF00595;PF00625;PF17820
-314	Q5TCQ9	0060090	molecular adaptor activity	PF00397;PF00595;PF00625;PF17820
-315	Q5TCQ9	0006915	apoptotic process	PF00397;PF00595;PF00625;PF17820
-316	Q5TCQ9	0035556	intracellular signal transduction	PF00397;PF00595;PF00625;PF17820
-317	Q5TCQ9	0046328	regulation of JNK cascade	PF00397;PF00595;PF00625;PF17820
-318	Q5TCQ9	0007165	signal transduction	PF00397;PF00595;PF00625;PF17820
-319	Q5TCQ9	0016032	viral process	PF00397;PF00595;PF00625;PF17820
-320	Q9P2P5	0005737	cytoplasm	PF00168;PF00397;PF00632;PF16562;PF18436
-321	Q9P2P5	0072686	mitotic spindle	PF00168;PF00397;PF00632;PF16562;PF18436
-322	Q9P2P5	0061630	ubiquitin protein ligase activity	PF00168;PF00397;PF00632;PF16562;PF18436
-323	Q9P2P5	2000650	negative regulation of sodium ion transmembrane transporter activity	PF00168;PF00397;PF00632;PF16562;PF18436
-324	Q9P2P5	0045732	positive regulation of protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
-325	Q9P2P5	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
-326	Q9P2P5	0000209	protein polyubiquitination	PF00168;PF00397;PF00632;PF16562;PF18436
-327	Q9P2P5	0016567	protein ubiquitination	PF00168;PF00397;PF00632;PF16562;PF18436
-328	Q9P2P5	0048814	regulation of dendrite morphogenesis	PF00168;PF00397;PF00632;PF16562;PF18436
-329	Q9P2P5	0030071	regulation of mitotic metaphase/anaphase transition	PF00168;PF00397;PF00632;PF16562;PF18436
-330	Q9P2P5	0006511	ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
-331	Q9BRR9	0005737	cytoplasm	PF00018;PF00169;PF00620
-332	Q9BRR9	0005829	cytosol	PF00018;PF00169;PF00620
-333	Q9BRR9	0005576	extracellular region	PF00018;PF00169;PF00620
-334	Q9BRR9	0034774	secretory granule lumen	PF00018;PF00169;PF00620
-335	Q9BRR9	0005096	GTPase activator activity	PF00018;PF00169;PF00620
-336	Q9BRR9	0005547	phosphatidylinositol-3,4,5-trisphosphate binding	PF00018;PF00169;PF00620
-337	Q9BRR9	0043312	neutrophil degranulation	PF00018;PF00169;PF00620
-338	Q9BRR9	0043087	regulation of GTPase activity	PF00018;PF00169;PF00620
-339	Q9BRR9	0051056	regulation of small GTPase mediated signal transduction	PF00018;PF00169;PF00620
-340	Q9BRR9	0007165	signal transduction	PF00018;PF00169;PF00620
-341	Q13526	0005737	cytoplasm	PF00397;PF00639
-342	Q13526	0005829	cytosol	PF00397;PF00639
-343	Q13526	0098978	glutamatergic synapse	PF00397;PF00639
-344	Q13526	0030496	midbody	PF00397;PF00639
-345	Q13526	0005739	mitochondrion	PF00397;PF00639
-346	Q13526	0043005	neuron projection	PF00397;PF00639
-347	Q13526	0016607	nuclear speck	PF00397;PF00639
-348	Q13526	0005654	nucleoplasm	PF00397;PF00639
-349	Q13526	0005634	nucleus	PF00397;PF00639
-350	Q13526	0099524	postsynaptic cytosol	PF00397;PF00639
-351	Q13526	0008013	beta-catenin binding	PF00397;PF00639
-352	Q13526	0016859	cis-trans isomerase activity	PF00397;PF00639
-353	Q13526	0032794	GTPase activating protein binding	PF00397;PF00639
-354	Q13526	0031434	mitogen-activated protein kinase kinase binding	PF00397;PF00639
-355	Q13526	0003774	motor activity	PF00397;PF00639
-356	Q13526	0003755	peptidyl-prolyl cis-trans isomerase activity	PF00397;PF00639
-357	Q13526	0051219	phosphoprotein binding	PF00397;PF00639
-358	Q13526	0050815	phosphoserine residue binding	PF00397;PF00639
-359	Q13526	0050816	phosphothreonine residue binding	PF00397;PF00639
-360	Q13526	0048156	tau protein binding	PF00397;PF00639
-361	Q13526	0007049	cell cycle	PF00397;PF00639
-362	Q13526	1902430	negative regulation of amyloid-beta formation	PF00397;PF00639
-363	Q13526	2000146	negative regulation of cell motility	PF00397;PF00639
-364	Q13526	0070373	negative regulation of ERK1 and ERK2 cascade	PF00397;PF00639
-365	Q13526	0043524	negative regulation of neuron apoptotic process	PF00397;PF00639
-366	Q13526	0032091	negative regulation of protein binding	PF00397;PF00639
-367	Q13526	0042177	negative regulation of protein catabolic process	PF00397;PF00639
-368	Q13526	0030512	negative regulation of transforming growth factor beta receptor signaling pathway	PF00397;PF00639
-369	Q13526	0032480	negative regulation of type I interferon production	PF00397;PF00639
-370	Q13526	0030182	neuron differentiation	PF00397;PF00639
-371	Q13526	0090263	positive regulation of canonical Wnt signaling pathway	PF00397;PF00639
-372	Q13526	0061051	positive regulation of cell growth involved in cardiac muscle cell development	PF00397;PF00639
-373	Q13526	0043547	positive regulation of GTPase activity	PF00397;PF00639
-374	Q13526	0043525	positive regulation of neuron apoptotic process	PF00397;PF00639
-375	Q13526	0032092	positive regulation of protein binding	PF00397;PF00639
-376	Q13526	0035307	positive regulation of protein dephosphorylation	PF00397;PF00639
-377	Q13526	0001934	positive regulation of protein phosphorylation	PF00397;PF00639
-378	Q13526	0045944	positive regulation of transcription by RNA polymerase II	PF00397;PF00639
-379	Q13526	0051443	positive regulation of ubiquitin-protein transferase activity	PF00397;PF00639
-380	Q13526	0000413	protein peptidyl-prolyl isomerization	PF00397;PF00639
-381	Q13526	0050821	protein stabilization	PF00397;PF00639
-382	Q13526	0032465	regulation of cytokinesis	PF00397;PF00639
-383	Q13526	0010468	regulation of gene expression	PF00397;PF00639
-384	Q13526	0007088	regulation of mitotic nuclear division	PF00397;PF00639
-385	Q13526	0060393	regulation of pathway-restricted SMAD protein phosphorylation	PF00397;PF00639
-386	Q13526	1900180	regulation of protein localization to nucleus	PF00397;PF00639
-387	Q13526	0001932	regulation of protein phosphorylation	PF00397;PF00639
-388	Q13526	0031647	regulation of protein stability	PF00397;PF00639
-389	Q13526	1901796	regulation of signal transduction by p53 class mediator	PF00397;PF00639
-390	Q13526	0001666	response to hypoxia	PF00397;PF00639
-391	Q13526	0050808	synapse organization	PF00397;PF00639
-392	O75554	0016607	nuclear speck	PF00397;PF06220
-393	O75554	0005654	nucleoplasm	PF00397;PF06220
-394	O75554	0005634	nucleus	PF00397;PF06220
-395	O75554	0071005	U2-type precatalytic spliceosome	PF00397;PF06220
-396	O75554	0003676	nucleic acid binding	PF00397;PF06220
-397	O75554	0070064	proline-rich region binding	PF00397;PF06220
-398	O75554	0008270	zinc ion binding	PF00397;PF06220
-399	O75554	0045292	mRNA cis splicing, via spliceosome	PF00397;PF06220
-400	O75554	0000398	mRNA splicing, via spliceosome	PF00397;PF06220
-401	P46937	0005737	cytoplasm	PF00397
-402	P46937	0005829	cytosol	PF00397
-403	P46937	0016020	membrane	PF00397
-404	P46937	0005654	nucleoplasm	PF00397
-405	P46937	0005634	nucleus	PF00397
-406	P46937	0071148	TEAD-1-YAP complex	PF00397
-407	P46937	0071149	TEAD-2-YAP complex	PF00397
-408	P46937	0033613	activating transcription factor binding	PF00397
-409	P46937	0003682	chromatin binding	PF00397
-410	P46937	0070064	proline-rich region binding	PF00397
-411	P46937	0008022	protein C-terminus binding	PF00397
-412	P46937	0046982	protein heterodimerization activity	PF00397
-413	P46937	0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	PF00397
-414	P46937	0003713	transcription coactivator activity	PF00397
-415	P46937	0003714	transcription corepressor activity	PF00397
-416	P46937	0044212	transcription regulatory region DNA binding	PF00397
-417	P46937	0060449	bud elongation involved in lung branching	PF00397
-418	P46937	0061026	cardiac muscle tissue regeneration	PF00397
-419	P46937	0000902	cell morphogenesis	PF00397
-420	P46937	0008283	cell population proliferation	PF00397
-421	P46937	0006974	cellular response to DNA damage stimulus	PF00397
-422	P46937	0071480	cellular response to gamma radiation	PF00397
-423	P46937	0071300	cellular response to retinoic acid	PF00397
-424	P46937	0060242	contact inhibition	PF00397
-425	P46937	0003143	embryonic heart tube morphogenesis	PF00397
-426	P46937	0003015	heart process	PF00397
-427	P46937	0035329	hippo signaling	PF00397
-428	P46937	0030216	keratinocyte differentiation	PF00397
-429	P46937	0048368	lateral mesoderm development	PF00397
-430	P46937	0060487	lung epithelial cell differentiation	PF00397
-431	P46937	0030857	negative regulation of epithelial cell differentiation	PF00397
-432	P46937	2001237	negative regulation of extrinsic apoptotic signaling pathway	PF00397
-433	P46937	2000737	negative regulation of stem cell differentiation	PF00397
-434	P46937	0030903	notochord development	PF00397
-435	P46937	0048339	paraxial mesoderm development	PF00397
-436	P46937	0090263	positive regulation of canonical Wnt signaling pathway	PF00397
-437	P46937	0060045	positive regulation of cardiac muscle cell proliferation	PF00397
-438	P46937	0033148	positive regulation of intracellular estrogen receptor signaling pathway	PF00397
-439	P46937	1902459	positive regulation of stem cell population maintenance	PF00397
-440	P46937	0045944	positive regulation of transcription by RNA polymerase II	PF00397
-441	P46937	0045893	positive regulation of transcription, DNA-templated	PF00397
-442	P46937	0050847	progesterone receptor signaling pathway	PF00397
-443	P46937	0065003	protein-containing complex assembly	PF00397
-444	P46937	1902036	regulation of hematopoietic stem cell differentiation	PF00397
-445	P46937	0010837	regulation of keratinocyte proliferation	PF00397
-446	P46937	0072307	regulation of metanephric nephron tubule epithelial cell differentiation	PF00397
-447	P46937	0050767	regulation of neurogenesis	PF00397
-448	P46937	0072091	regulation of stem cell proliferation	PF00397
-449	P46937	0032570	response to progesterone	PF00397
-450	P46937	0035019	somatic stem cell population maintenance	PF00397
-451	P46937	0001894	tissue homeostasis	PF00397
-452	P46937	0006367	transcription initiation from RNA polymerase II promoter	PF00397
-453	P46937	0001570	vasculogenesis	PF00397
-454	O00308	0005737	cytoplasm	PF00397;PF00632
-455	O00308	0005829	cytosol	PF00397;PF00632
-456	O00308	0070062	extracellular exosome	PF00397;PF00632
-457	O00308	0016020	membrane	PF00397;PF00632
-458	O00308	0005634	nucleus	PF00397;PF00632
-459	O00308	0000151	ubiquitin ligase complex	PF00397;PF00632
-460	O00308	0001085	RNA polymerase II transcription factor binding	PF00397;PF00632
-461	O00308	0008134	transcription factor binding	PF00397;PF00632
-462	O00308	0061630	ubiquitin protein ligase activity	PF00397;PF00632
-463	O00308	0004842	ubiquitin-protein transferase activity	PF00397;PF00632
-464	O00308	0006464	cellular protein modification process	PF00397;PF00632
-465	O00308	0006858	extracellular transport	PF00397;PF00632
-466	O00308	0043433	negative regulation of DNA-binding transcription factor activity	PF00397;PF00632
-467	O00308	0010629	negative regulation of gene expression	PF00397;PF00632
-468	O00308	0045746	negative regulation of Notch signaling pathway	PF00397;PF00632
-469	O00308	0051224	negative regulation of protein transport	PF00397;PF00632
-470	O00308	0000122	negative regulation of transcription by RNA polymerase II	PF00397;PF00632
-471	O00308	0045892	negative regulation of transcription, DNA-templated	PF00397;PF00632
-472	O00308	0032410	negative regulation of transporter activity	PF00397;PF00632
-473	O00308	0045732	positive regulation of protein catabolic process	PF00397;PF00632
-474	O00308	0045944	positive regulation of transcription by RNA polymerase II	PF00397;PF00632
-475	O00308	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00397;PF00632
-476	O00308	0051865	protein autoubiquitination	PF00397;PF00632
-477	O00308	0070534	protein K63-linked ubiquitination	PF00397;PF00632
-478	O00308	0000209	protein polyubiquitination	PF00397;PF00632
-479	O00308	0016567	protein ubiquitination	PF00397;PF00632
-480	O00308	0034765	regulation of ion transmembrane transport	PF00397;PF00632
-481	O00308	0042391	regulation of membrane potential	PF00397;PF00632
-482	O00308	1901016	regulation of potassium ion transmembrane transporter activity	PF00397;PF00632
-483	O00308	0006511	ubiquitin-dependent protein catabolic process	PF00397;PF00632
-484	O00308	0046718	viral entry into host cell	PF00397;PF00632
-485	P46939	0030054	cell junction	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-486	P46939	0030864	cortical actin cytoskeleton	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-487	P46939	0005737	cytoplasm	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-488	P46939	0005856	cytoskeleton	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-489	P46939	0016010	dystrophin-associated glycoprotein complex	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-490	P46939	0070062	extracellular exosome	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-491	P46939	0030175	filopodium	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-492	P46939	0031527	filopodium membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-493	P46939	0030426	growth cone	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-494	P46939	0016020	membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-495	P46939	0031594	neuromuscular junction	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-496	P46939	0005654	nucleoplasm	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-497	P46939	0005886	plasma membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-498	P46939	0045211	postsynaptic membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-499	P46939	0032991	protein-containing complex	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-500	P46939	0042383	sarcolemma	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-501	P46939	0003779	actin binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-502	P46939	0051015	actin filament binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-503	P46939	0005178	integrin binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-504	P46939	0019901	protein kinase binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-505	P46939	0017166	vinculin binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-506	P46939	0008270	zinc ion binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-507	P46939	0006936	muscle contraction	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-508	P46939	0007517	muscle organ development	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-509	P46939	0007528	neuromuscular junction development	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-510	P46939	0001954	positive regulation of cell-matrix adhesion	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-511	P46939	2000649	regulation of sodium ion transmembrane transporter activity	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-512	P46939	0014894	response to denervation involved in regulation of muscle adaptation	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-513	Q9H4B6	0005737	cytoplasm	PF00397
-514	Q9H4B6	0005829	cytosol	PF00397
-515	Q9H4B6	0005634	nucleus	PF00397
-516	Q9H4B6	0042802	identical protein binding	PF00397
-517	Q9H4B6	0060090	molecular adaptor activity	PF00397
-518	Q9H4B6	0006915	apoptotic process	PF00397
-519	Q9H4B6	0001942	hair follicle development	PF00397
-520	Q9H4B6	0035329	hippo signaling	PF00397
-521	Q9H4B6	0060575	intestinal epithelial cell differentiation	PF00397
-522	Q9H4B6	0030216	keratinocyte differentiation	PF00397
-523	Q9H4B6	0060487	lung epithelial cell differentiation	PF00397
-524	Q9H4B6	0060044	negative regulation of cardiac muscle cell proliferation	PF00397
-525	Q9H4B6	0050680	negative regulation of epithelial cell proliferation	PF00397
-526	Q9H4B6	0043065	positive regulation of apoptotic process	PF00397
-527	Q9H4B6	0051091	positive regulation of DNA-binding transcription factor activity	PF00397
-528	Q9H4B6	0045600	positive regulation of fat cell differentiation	PF00397
-529	Q9H4B6	0050821	protein stabilization	PF00397
-530	Q9H4B6	2000036	regulation of stem cell population maintenance	PF00397
-531	Q9H4B6	0007165	signal transduction	PF00397
-532	Q9H4B6	0060412	ventricular septum morphogenesis	PF00397
-533	Q9H0M0	0005737	cytoplasm	PF00168;PF00397;PF00632
-534	Q9H0M0	0005829	cytosol	PF00168;PF00397;PF00632
-535	Q9H0M0	0070062	extracellular exosome	PF00168;PF00397;PF00632
-536	Q9H0M0	0005634	nucleus	PF00168;PF00397;PF00632
-537	Q9H0M0	0005886	plasma membrane	PF00168;PF00397;PF00632
-538	Q9H0M0	0000151	ubiquitin ligase complex	PF00168;PF00397;PF00632
-539	Q9H0M0	0061630	ubiquitin protein ligase activity	PF00168;PF00397;PF00632
-540	Q9H0M0	0004842	ubiquitin-protein transferase activity	PF00168;PF00397;PF00632
-541	Q9H0M0	0007417	central nervous system development	PF00168;PF00397;PF00632
-542	Q9H0M0	0034220	ion transmembrane transport	PF00168;PF00397;PF00632
-543	Q9H0M0	0045892	negative regulation of transcription, DNA-templated	PF00168;PF00397;PF00632
-544	Q9H0M0	0045732	positive regulation of protein catabolic process	PF00168;PF00397;PF00632
-545	Q9H0M0	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
-546	Q9H0M0	0000209	protein polyubiquitination	PF00168;PF00397;PF00632
-547	Q9H0M0	0016567	protein ubiquitination	PF00168;PF00397;PF00632
-548	Q9H0M0	0007165	signal transduction	PF00168;PF00397;PF00632
-549	Q9H0M0	0006511	ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
-550	Q9H0M0	0046718	viral entry into host cell	PF00168;PF00397;PF00632
-551	O75400	0005829	cytosol	PF00397;PF01846
-552	O75400	0016020	membrane	PF00397;PF01846
-553	O75400	0016363	nuclear matrix	PF00397;PF01846
-554	O75400	0016607	nuclear speck	PF00397;PF01846
-555	O75400	0005654	nucleoplasm	PF00397;PF01846
-556	O75400	0005685	U1 snRNP	PF00397;PF01846
-557	O75400	0071004	U2-type prespliceosome	PF00397;PF01846
-558	O75400	0070064	proline-rich region binding	PF00397;PF01846
-559	O75400	0003723	RNA binding	PF00397;PF01846
-560	O75400	0007049	cell cycle	PF00397;PF01846
-561	O75400	0051301	cell division	PF00397;PF01846
-562	O75400	0016477	cell migration	PF00397;PF01846
-563	O75400	0007010	cytoskeleton organization	PF00397;PF01846
-564	O75400	0045292	mRNA cis splicing, via spliceosome	PF00397;PF01846
-565	O75400	0000398	mRNA splicing, via spliceosome	PF00397;PF01846
-566	O75400	0008360	regulation of cell shape	PF00397;PF01846
-567	O75400	0032465	regulation of cytokinesis	PF00397;PF01846
-568	O60828	0010494	cytoplasmic stress granule	PF00397;PF12237
-569	O60828	0005829	cytosol	PF00397;PF12237
-570	O60828	0071598	neuronal ribonucleoprotein granule	PF00397;PF12237
-571	O60828	0016607	nuclear speck	PF00397;PF12237
-572	O60828	0005654	nucleoplasm	PF00397;PF12237
-573	O60828	0005634	nucleus	PF00397;PF12237
-574	O60828	0003677	DNA binding	PF00397;PF12237
-575	O60828	0003690	double-stranded DNA binding	PF00397;PF12237
-576	O60828	0043021	ribonucleoprotein complex binding	PF00397;PF12237
-577	O60828	0003713	transcription coactivator activity	PF00397;PF12237
-578	O60828	0002218	activation of innate immune response	PF00397;PF12237
-579	O60828	0000380	alternative mRNA splicing, via spliceosome	PF00397;PF12237
-580	O60828	0071360	cellular response to exogenous dsRNA	PF00397;PF12237
-581	O60828	0051607	defense response to virus	PF00397;PF12237
-582	O60828	0045087	innate immune response	PF00397;PF12237
-583	O60828	0000398	mRNA splicing, via spliceosome	PF00397;PF12237
-584	O60828	0031175	neuron projection development	PF00397;PF12237
-585	O60828	0002230	positive regulation of defense response to virus by host	PF00397;PF12237
-586	O60828	0032481	positive regulation of type I interferon production	PF00397;PF12237
-587	O60828	0048814	regulation of dendrite morphogenesis	PF00397;PF12237
-588	O60828	0043484	regulation of RNA splicing	PF00397;PF12237
-589	O60828	0006355	regulation of transcription, DNA-templated	PF00397;PF12237
-590	Q9H4Z3	0045171	intercellular bridge	PF00397
-591	Q9H4Z3	0015630	microtubule cytoskeleton	PF00397
-592	Q9H4Z3	0005654	nucleoplasm	PF00397
-593	Q9H4Z3	0005634	nucleus	PF00397
-594	Q9H4Z3	0016422	mRNA (2'-O-methyladenosine-N6-)-methyltransferase activity	PF00397
-595	Q9H4Z3	0099122	RNA polymerase II C-terminal domain binding	PF00397
-596	Q9H4Z3	1904047	S-adenosyl-L-methionine binding	PF00397
-597	Q9H4Z3	0080009	mRNA methylation	PF00397
-598	Q9H4Z3	0010923	negative regulation of phosphatase activity	PF00397
-599	Q9H4Z3	0017148	negative regulation of translation	PF00397
-600	Q9H4Z3	0045727	positive regulation of translation	PF00397
-601	Q8IX03	0005737	cytoplasm	PF00397;PF01846
-602	Q8IX03	0005829	cytosol	PF00397;PF01846
-603	Q8IX03	0005634	nucleus	PF00397;PF01846
-604	Q8IX03	0048471	perinuclear region of cytoplasm	PF00397;PF01846
-605	Q8IX03	0032991	protein-containing complex	PF00397;PF01846
-606	Q8IX03	0032587	ruffle membrane	PF00397;PF01846
-607	Q8IX03	0019900	kinase binding	PF00397;PF01846
-608	Q8IX03	0060090	molecular adaptor activity	PF00397;PF01846
-609	Q8IX03	0003713	transcription coactivator activity	PF00397;PF01846
-610	Q8IX03	0016477	cell migration	PF00397;PF01846
-611	Q8IX03	0030010	establishment of cell polarity	PF00397;PF01846
-612	Q8IX03	0035329	hippo signaling	PF00397;PF01846
-613	Q8IX03	0035331	negative regulation of hippo signaling	PF00397;PF01846
-614	Q8IX03	0046621	negative regulation of organ growth	PF00397;PF01846
-615	Q8IX03	0000122	negative regulation of transcription by RNA polymerase II	PF00397;PF01846
-616	Q8IX03	0043410	positive regulation of MAPK cascade	PF00397;PF01846
-617	Q8IX03	0007221	positive regulation of transcription of Notch receptor target	PF00397;PF01846
-618	Q8IX03	0035330	regulation of hippo signaling	PF00397;PF01846
-619	Q8IX03	0032386	regulation of intracellular transport	PF00397;PF01846
-620	Q6NWY9	0016607	nuclear speck	PF00168;PF00397;PF00632
-621	Q6NWY9	0005685	U1 snRNP	PF00168;PF00397;PF00632
-622	Q6NWY9	0071004	U2-type prespliceosome	PF00168;PF00397;PF00632
-623	Q6NWY9	0003723	RNA binding	PF00168;PF00397;PF00632
-624	Q6NWY9	0045292	mRNA cis splicing, via spliceosome	PF00168;PF00397;PF00632
-625	Q6NWY9	0000398	mRNA splicing, via spliceosome	PF00168;PF00397;PF00632
-626	Q96PU5	0005623	cell	PF00397;PF00632
-627	Q96PU5	0005737	cytoplasm	PF00397;PF00632
-628	Q96PU5	0005829	cytosol	PF00397;PF00632
-629	Q96PU5	0070062	extracellular exosome	PF00397;PF00632
-630	Q96PU5	0005794	Golgi apparatus	PF00397;PF00632
-631	Q96PU5	0005771	multivesicular body	PF00397;PF00632
-632	Q96PU5	0005654	nucleoplasm	PF00397;PF00632
-633	Q96PU5	0044325	ion channel binding	PF00397;PF00632
-634	Q96PU5	0019870	potassium channel inhibitor activity	PF00397;PF00632
-635	Q96PU5	0015459	potassium channel regulator activity	PF00397;PF00632
-636	Q96PU5	0019871	sodium channel inhibitor activity	PF00397;PF00632
-637	Q96PU5	0017080	sodium channel regulator activity	PF00397;PF00632
-638	Q96PU5	0061630	ubiquitin protein ligase activity	PF00397;PF00632
-639	Q96PU5	0004842	ubiquitin-protein transferase activity	PF00397;PF00632
-640	Q96PU5	0006883	cellular sodium ion homeostasis	PF00397;PF00632
-641	Q96PU5	0007588	excretion	PF00397;PF00632
-642	Q96PU5	0034220	ion transmembrane transport	PF00397;PF00632
-643	Q96PU5	1901380	negative regulation of potassium ion transmembrane transport	PF00397;PF00632
-644	Q96PU5	1901017	negative regulation of potassium ion transmembrane transporter activity	PF00397;PF00632
-645	Q96PU5	2000009	negative regulation of protein localization to cell surface	PF00397;PF00632
-646	Q96PU5	1902306	negative regulation of sodium ion transmembrane transport	PF00397;PF00632
-647	Q96PU5	2000650	negative regulation of sodium ion transmembrane transporter activity	PF00397;PF00632
-648	Q96PU5	0000122	negative regulation of transcription by RNA polymerase II	PF00397;PF00632
-649	Q96PU5	2001288	positive regulation of caveolin-mediated endocytosis	PF00397;PF00632
-650	Q96PU5	1903861	positive regulation of dendrite extension	PF00397;PF00632
-651	Q96PU5	0045807	positive regulation of endocytosis	PF00397;PF00632
-652	Q96PU5	0045732	positive regulation of protein catabolic process	PF00397;PF00632
-653	Q96PU5	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00397;PF00632
-654	Q96PU5	0070936	protein K48-linked ubiquitination	PF00397;PF00632
-655	Q96PU5	0006513	protein monoubiquitination	PF00397;PF00632
-656	Q96PU5	0000209	protein polyubiquitination	PF00397;PF00632
-657	Q96PU5	0016567	protein ubiquitination	PF00397;PF00632
-658	Q96PU5	0048814	regulation of dendrite morphogenesis	PF00397;PF00632
-659	Q96PU5	0034765	regulation of ion transmembrane transport	PF00397;PF00632
-660	Q96PU5	0003254	regulation of membrane depolarization	PF00397;PF00632
-661	Q96PU5	0042391	regulation of membrane potential	PF00397;PF00632
-662	Q96PU5	0060306	regulation of membrane repolarization	PF00397;PF00632
-663	Q96PU5	1901016	regulation of potassium ion transmembrane transporter activity	PF00397;PF00632
-664	Q96PU5	0042176	regulation of protein catabolic process	PF00397;PF00632
-665	Q96PU5	0031647	regulation of protein stability	PF00397;PF00632
-666	Q96PU5	0010038	response to metal ion	PF00397;PF00632
-667	Q96PU5	0006814	sodium ion transport	PF00397;PF00632
-668	Q96PU5	0006511	ubiquitin-dependent protein catabolic process	PF00397;PF00632
-669	Q96PU5	0086005	ventricular cardiac muscle cell action potential	PF00397;PF00632
-670	Q96PU5	0019058	viral life cycle	PF00397;PF00632
-671	Q96PU5	0030104	water homeostasis	PF00397;PF00632
-672	Q9UPV0	0005814	centriole	PF00993;PF07654
-673	Q9UPV0	0005813	centrosome	PF00993;PF07654
-674	Q9UPV0	0097539	ciliary transition fiber	PF00993;PF07654
-675	Q9UPV0	0005829	cytosol	PF00993;PF07654
-676	Q9UPV0	0005615	extracellular space	PF00993;PF07654
-677	Q9UPV0	0043231	intracellular membrane-bounded organelle	PF00993;PF07654
-678	Q9UPV0	0005654	nucleoplasm	PF00993;PF07654
-679	Q9UPV0	0051301	cell division	PF00993;PF07654
-680	Q9UPV0	0097711	ciliary basal body-plasma membrane docking	PF00993;PF07654
-681	Q9UPV0	0060271	cilium assembly	PF00993;PF07654
-682	Q9UPV0	0006281	DNA repair	PF00993;PF07654
-683	Q9UPV0	0000086	G2/M transition of mitotic cell cycle	PF00993;PF07654
-684	Q9UPV0	0010389	regulation of G2/M transition of mitotic cell cycle	PF00993;PF07654
-685	P46934	0016327	apicolateral plasma membrane	PF00373;PF00595
-686	P46934	0005938	cell cortex	PF00373;PF00595
-687	P46934	0000785	chromatin	PF00373;PF00595
-688	P46934	0005737	cytoplasm	PF00373;PF00595
-689	P46934	0005829	cytosol	PF00373;PF00595
-690	P46934	0043197	dendritic spine	PF00373;PF00595
-691	P46934	0070062	extracellular exosome	PF00373;PF00595
-692	P46934	0098978	glutamatergic synapse	PF00373;PF00595
-693	P46934	0005794	Golgi apparatus	PF00373;PF00595
-694	P46934	0048471	perinuclear region of cytoplasm	PF00373;PF00595
-695	P46934	0005886	plasma membrane	PF00373;PF00595
-696	P46934	0099524	postsynaptic cytosol	PF00373;PF00595
-697	P46934	0000151	ubiquitin ligase complex	PF00373;PF00595
-698	P46934	0031698	beta-2 adrenergic receptor binding	PF00373;PF00595
-699	P46934	0019899	enzyme binding	PF00373;PF00595
-700	P46934	0035255	ionotropic glutamate receptor binding	PF00373;PF00595
-701	P46934	0050815	phosphoserine residue binding	PF00373;PF00595
-702	P46934	0050816	phosphothreonine residue binding	PF00373;PF00595
-703	P46934	0070064	proline-rich region binding	PF00373;PF00595
-704	P46934	0019904	protein domain specific binding	PF00373;PF00595
-705	P46934	0070063	RNA polymerase binding	PF00373;PF00595
-706	P46934	0019871	sodium channel inhibitor activity	PF00373;PF00595
-707	P46934	0043130	ubiquitin binding	PF00373;PF00595
-708	P46934	0061630	ubiquitin protein ligase activity	PF00373;PF00595
-709	P46934	0002250	adaptive immune response	PF00373;PF00595
-710	P46934	0048514	blood vessel morphogenesis	PF00373;PF00595
-711	P46934	0034644	cellular response to UV	PF00373;PF00595
-712	P46934	0044111	development involved in symbiotic interaction	PF00373;PF00595
-713	P46934	0003197	endocardial cushion development	PF00373;PF00595
-714	P46934	0042921	glucocorticoid receptor signaling pathway	PF00373;PF00595
-715	P46934	0007041	lysosomal transport	PF00373;PF00595
-716	P46934	2000650	negative regulation of sodium ion transmembrane transporter activity	PF00373;PF00595
-717	P46934	0010766	negative regulation of sodium ion transport	PF00373;PF00595
-718	P46934	0010768	negative regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	PF00373;PF00595
-719	P46934	0030948	negative regulation of vascular endothelial growth factor receptor signaling pathway	PF00373;PF00595
-720	P46934	0007528	neuromuscular junction development	PF00373;PF00595
-721	P46934	0031175	neuron projection development	PF00373;PF00595
-722	P46934	0003151	outflow tract morphogenesis	PF00373;PF00595
-723	P46934	0046824	positive regulation of nucleocytoplasmic transport	PF00373;PF00595
-724	P46934	0014068	positive regulation of phosphatidylinositol 3-kinase signaling	PF00373;PF00595
-725	P46934	0045732	positive regulation of protein catabolic process	PF00373;PF00595
-726	P46934	0050847	progesterone receptor signaling pathway	PF00373;PF00595
-727	P46934	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00373;PF00595
-728	P46934	0070534	protein K63-linked ubiquitination	PF00373;PF00595
-729	P46934	0006513	protein monoubiquitination	PF00373;PF00595
-730	P46934	0000209	protein polyubiquitination	PF00373;PF00595
-731	P46934	0006622	protein targeting to lysosome	PF00373;PF00595
-732	P46934	0016567	protein ubiquitination	PF00373;PF00595
-733	P46934	0032801	receptor catabolic process	PF00373;PF00595
-734	P46934	0031623	receptor internalization	PF00373;PF00595
-735	P46934	0048814	regulation of dendrite morphogenesis	PF00373;PF00595
-736	P46934	0034765	regulation of ion transmembrane transport	PF00373;PF00595
-737	P46934	0016241	regulation of macroautophagy	PF00373;PF00595
-738	P46934	0042391	regulation of membrane potential	PF00373;PF00595
-739	P46934	1901016	regulation of potassium ion transmembrane transporter activity	PF00373;PF00595
-740	P46934	0050807	regulation of synapse organization	PF00373;PF00595
-741	P46934	0051592	response to calcium ion	PF00373;PF00595
-742	P46934	0042110	T cell activation	PF00373;PF00595
-743	P46934	0019089	transmission of virus	PF00373;PF00595
-744	P46934	0006511	ubiquitin-dependent protein catabolic process	PF00373;PF00595
-745	P46934	0043162	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	PF00373;PF00595
-746	P01906	0030669	clathrin-coated endocytic vesicle membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-747	P01906	0030666	endocytic vesicle membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-748	P01906	0010008	endosome membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-749	P01906	0012507	ER to Golgi transport vesicle membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-750	P01906	0000139	Golgi membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-751	P01906	0071556	integral component of lumenal side of endoplasmic reticulum membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-752	P01906	0005887	integral component of plasma membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-753	P01906	0005765	lysosomal membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-754	P01906	0042613	MHC class II protein complex	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-755	P01906	0005886	plasma membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-756	P01906	0032588	trans-Golgi network membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-757	P01906	0030658	transport vesicle membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-758	P01906	0032395	MHC class II receptor activity	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-759	P01906	0002250	adaptive immune response	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-760	P01906	0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-761	P01906	0006955	immune response	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-762	P01906	0060333	interferon-gamma-mediated signaling pathway	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-763	P01906	0050852	T cell receptor signaling pathway	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
-764	Q14CM0	0030054	cell junction	PF00397;PF00611;PF14604
-765	Q14CM0	0005856	cytoskeleton	PF00397;PF00611;PF14604
-766	Q14CM0	0043197	dendritic spine	PF00397;PF00611;PF14604
-767	Q14CM0	0098978	glutamatergic synapse	PF00397;PF00611;PF14604
-768	Q14CM0	0014069	postsynaptic density	PF00397;PF00611;PF14604
-769	Q14CM0	0032991	protein-containing complex	PF00397;PF00611;PF14604
-770	Q14CM0	0005546	phosphatidylinositol-4,5-bisphosphate binding	PF00397;PF00611;PF14604
-771	Q14CM0	0051835	positive regulation of synapse structural plasticity	PF00397;PF00611;PF14604
-772	Q14CM0	0098974	postsynaptic actin cytoskeleton organization	PF00397;PF00611;PF14604
-773	P11532	0005623	cell	PF00397;PF02179
-774	P11532	0009986	cell surface	PF00397;PF02179
-775	P11532	0030055	cell-substrate junction	PF00397;PF02179
-776	P11532	0043034	costamere	PF00397;PF02179
-777	P11532	0005856	cytoskeleton	PF00397;PF02179
-778	P11532	0005829	cytosol	PF00397;PF02179
-779	P11532	0016010	dystrophin-associated glycoprotein complex	PF00397;PF02179
-780	P11532	0030175	filopodium	PF00397;PF02179
-781	P11532	0031527	filopodium membrane	PF00397;PF02179
-782	P11532	0045121	membrane raft	PF00397;PF02179
-783	P11532	0044306	neuron projection terminus	PF00397;PF02179
-784	P11532	0005634	nucleus	PF00397;PF02179
-785	P11532	0005886	plasma membrane	PF00397;PF02179
-786	P11532	0045211	postsynaptic membrane	PF00397;PF02179
-787	P11532	0032991	protein-containing complex	PF00397;PF02179
-788	P11532	0042383	sarcolemma	PF00397;PF02179
-789	P11532	0045202	synapse	PF00397;PF02179
-790	P11532	0016013	syntrophin complex	PF00397;PF02179
-791	P11532	0030018	Z disc	PF00397;PF02179
-792	P11532	0003779	actin binding	PF00397;PF02179
-793	P11532	0002162	dystroglycan binding	PF00397;PF02179
-794	P11532	0017022	myosin binding	PF00397;PF02179
-795	P11532	0050998	nitric-oxide synthase binding	PF00397;PF02179
-796	P11532	0005200	structural constituent of cytoskeleton	PF00397;PF02179
-797	P11532	0008307	structural constituent of muscle	PF00397;PF02179
-798	P11532	0017166	vinculin binding	PF00397;PF02179
-799	P11532	0008270	zinc ion binding	PF00397;PF02179
-800	P11532	0086001	cardiac muscle cell action potential	PF00397;PF02179
-801	P11532	0060048	cardiac muscle contraction	PF00397;PF02179
-802	P11532	0034613	cellular protein localization	PF00397;PF02179
-803	P11532	0034622	cellular protein-containing complex assembly	PF00397;PF02179
-804	P11532	0044458	motile cilium assembly	PF00397;PF02179
-805	P11532	0046716	muscle cell cellular homeostasis	PF00397;PF02179
-806	P11532	0048747	muscle fiber development	PF00397;PF02179
-807	P11532	0030049	muscle filament sliding	PF00397;PF02179
-808	P11532	0007517	muscle organ development	PF00397;PF02179
-809	P11532	1902083	negative regulation of peptidyl-cysteine S-nitrosylation	PF00397;PF02179
-810	P11532	0033137	negative regulation of peptidyl-serine phosphorylation	PF00397;PF02179
-811	P11532	0043043	peptide biosynthetic process	PF00397;PF02179
-812	P11532	0045666	positive regulation of neuron differentiation	PF00397;PF02179
-813	P11532	0010976	positive regulation of neuron projection development	PF00397;PF02179
-814	P11532	2000651	positive regulation of sodium ion transmembrane transporter activity	PF00397;PF02179
-815	P11532	0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	PF00397;PF02179
-816	P11532	0090287	regulation of cellular response to growth factor stimulus	PF00397;PF02179
-817	P11532	0002027	regulation of heart rate	PF00397;PF02179
-818	P11532	0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	PF00397;PF02179
-819	P11532	0060314	regulation of ryanodine-sensitive calcium-release channel activity	PF00397;PF02179
-820	P11532	0014819	regulation of skeletal muscle contraction	PF00397;PF02179
-821	P11532	0014809	regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	PF00397;PF02179
-822	P11532	1901385	regulation of voltage-gated calcium channel activity	PF00397;PF02179
-823	P11532	0035994	response to muscle stretch	PF00397;PF02179
-824	O60861	0005737	cytoplasm	PF00397;PF00595;PF00625
-825	O60861	0005856	cytoskeleton	PF00397;PF00595;PF00625
-826	O60861	0005886	plasma membrane	PF00397;PF00595;PF00625
-827	O60861	0008092	cytoskeletal protein binding	PF00397;PF00595;PF00625
-828	O60861	0003700	DNA-binding transcription factor activity	PF00397;PF00595;PF00625
-829	O60861	0007050	cell cycle arrest	PF00397;PF00595;PF00625
-830	O60861	0030182	neuron differentiation	PF00397;PF00595;PF00625
-831	O60861	0048812	neuron projection morphogenesis	PF00397;PF00595;PF00625
-832	O95817	0016235	aggresome	PF00397;PF00640
-833	O95817	0005623	cell	PF00397;PF00640
-834	O95817	0101031	chaperone complex	PF00397;PF00640
-835	O95817	0005737	cytoplasm	PF00397;PF00640
-836	O95817	0005829	cytosol	PF00397;PF00640
-837	O95817	0043005	neuron projection	PF00397;PF00640
-838	O95817	0005634	nucleus	PF00397;PF00640
-839	O95817	0005886	plasma membrane	PF00397;PF00640
-840	O95817	0001725	stress fiber	PF00397;PF00640
-841	O95817	0030018	Z disc	PF00397;PF00640
-842	O95817	0000774	adenyl-nucleotide exchange factor activity	PF00397;PF00640
-843	O95817	0045296	cadherin binding	PF00397;PF00640
-844	O95817	0051087	chaperone binding	PF00397;PF00640
-845	O95817	0045505	dynein intermediate chain binding	PF00397;PF00640
-846	O95817	0044877	protein-containing complex binding	PF00397;PF00640
-847	O95817	0070842	aggresome assembly	PF00397;PF00640
-848	O95817	0000045	autophagosome assembly	PF00397;PF00640
-849	O95817	0007420	brain development	PF00397;PF00640
-850	O95817	0034605	cellular response to heat	PF00397;PF00640
-851	O95817	0071260	cellular response to mechanical stimulus	PF00397;PF00640
-852	O95817	0034620	cellular response to unfolded protein	PF00397;PF00640
-853	O95817	0061684	chaperone-mediated autophagy	PF00397;PF00640
-854	O95817	0072321	chaperone-mediated protein transport	PF00397;PF00640
-855	O95817	0097192	extrinsic apoptotic signaling pathway in absence of ligand	PF00397;PF00640
-856	O95817	0008625	extrinsic apoptotic signaling pathway via death domain receptors	PF00397;PF00640
-857	O95817	0046716	muscle cell cellular homeostasis	PF00397;PF00640
-858	O95817	0043066	negative regulation of apoptotic process	PF00397;PF00640
-859	O95817	1903215	negative regulation of protein targeting to mitochondrion	PF00397;PF00640
-860	O95817	0010664	negative regulation of striated muscle cell apoptotic process	PF00397;PF00640
-861	O95817	0097201	negative regulation of transcription from RNA polymerase II promoter in response to stress	PF00397;PF00640
-862	O95817	1905337	positive regulation of aggrephagy	PF00397;PF00640
-863	O95817	0046827	positive regulation of protein export from nucleus	PF00397;PF00640
-864	O95817	0042307	positive regulation of protein import into nucleus	PF00397;PF00640
-865	O95817	0006457	protein folding	PF00397;PF00640
-866	O95817	0050821	protein stabilization	PF00397;PF00640
-867	O95817	0098840	protein transport along microtubule	PF00397;PF00640
-868	O95817	1900034	regulation of cellular response to heat	PF00397;PF00640
-869	O95817	0021510	spinal cord development	PF00397;PF00640
-870	Q96QZ7	0005912	adherens junction	PF00168;PF00397;PF00632
-871	Q96QZ7	0005923	bicellular tight junction	PF00168;PF00397;PF00632
-872	Q96QZ7	0030054	cell junction	PF00168;PF00397;PF00632
-873	Q96QZ7	0071944	cell periphery	PF00168;PF00397;PF00632
-874	Q96QZ7	0042995	cell projection	PF00168;PF00397;PF00632
-875	Q96QZ7	0005911	cell-cell junction	PF00168;PF00397;PF00632
-876	Q96QZ7	0005737	cytoplasm	PF00168;PF00397;PF00632
-877	Q96QZ7	0005730	nucleolus	PF00168;PF00397;PF00632
-878	Q96QZ7	0005654	nucleoplasm	PF00168;PF00397;PF00632
-879	Q96QZ7	0005886	plasma membrane	PF00168;PF00397;PF00632
-880	Q96QZ7	0051393	alpha-actinin binding	PF00168;PF00397;PF00632
-881	Q96QZ7	0005524	ATP binding	PF00168;PF00397;PF00632
-882	Q96QZ7	0060090	molecular adaptor activity	PF00168;PF00397;PF00632
-883	Q96QZ7	0008022	protein C-terminus binding	PF00168;PF00397;PF00632
-884	Q96QZ7	0007155	cell adhesion	PF00168;PF00397;PF00632
-885	Q96QZ7	0007166	cell surface receptor signaling pathway	PF00168;PF00397;PF00632
-886	Q96QZ7	0022409	positive regulation of cell-cell adhesion	PF00168;PF00397;PF00632
-887	Q96QZ7	0065003	protein-containing complex assembly	PF00168;PF00397;PF00632
-888	Q96QZ7	0007165	signal transduction	PF00168;PF00397;PF00632
-889	O00213	0005737	cytoplasm	PF00640
-890	O00213	0043197	dendritic spine	PF00640
-891	O00213	0005783	endoplasmic reticulum	PF00640
-892	O00213	0030426	growth cone	PF00640
-893	O00213	1990812	growth cone filopodium	PF00640
-894	O00213	1990761	growth cone lamellipodium	PF00640
-895	O00213	0030027	lamellipodium	PF00640
-896	O00213	0044304	main axon	PF00640
-897	O00213	0043025	neuronal cell body	PF00640
-898	O00213	0016607	nuclear speck	PF00640
-899	O00213	0005654	nucleoplasm	PF00640
-900	O00213	0005634	nucleus	PF00640
-901	O00213	0048471	perinuclear region of cytoplasm	PF00640
-902	O00213	0005886	plasma membrane	PF00640
-903	O00213	0045211	postsynaptic membrane	PF00640
-904	O00213	0042734	presynaptic membrane	PF00640
-905	O00213	0032991	protein-containing complex	PF00640
-906	O00213	0045202	synapse	PF00640
-907	O00213	0001540	amyloid-beta binding	PF00640
-908	O00213	0003682	chromatin binding	PF00640
-909	O00213	0042393	histone binding	PF00640
-910	O00213	0070064	proline-rich region binding	PF00640
-911	O00213	0044877	protein-containing complex binding	PF00640
-912	O00213	0048156	tau protein binding	PF00640
-913	O00213	0008134	transcription factor binding	PF00640
-914	O00213	0031625	ubiquitin protein ligase binding	PF00640
-915	O00213	0006915	apoptotic process	PF00640
-916	O00213	0007409	axonogenesis	PF00640
-917	O00213	0007050	cell cycle arrest	PF00640
-918	O00213	0006974	cellular response to DNA damage stimulus	PF00640
-919	O00213	0006302	double-strand break repair	PF00640
-920	O00213	0043967	histone H4 acetylation	PF00640
-921	O00213	0030308	negative regulation of cell growth	PF00640
-922	O00213	0050760	negative regulation of thymidylate synthase biosynthetic process	PF00640
-923	O00213	0000122	negative regulation of transcription by RNA polymerase II	PF00640
-924	O00213	0043065	positive regulation of apoptotic process	PF00640
-925	O00213	0045739	positive regulation of DNA repair	PF00640
-926	O00213	0010976	positive regulation of neuron projection development	PF00640
-927	O00213	0050714	positive regulation of protein secretion	PF00640
-928	O00213	0045944	positive regulation of transcription by RNA polymerase II	PF00640
-929	O00213	0045893	positive regulation of transcription, DNA-templated	PF00640
-930	O00213	0006355	regulation of transcription, DNA-templated	PF00640
-931	O00213	0010039	response to iron ion	PF00640
-932	O00213	0007165	signal transduction	PF00640
-933	Q96J02	0005737	cytoplasm	PF00397;PF00640
-934	Q96J02	0005829	cytosol	PF00397;PF00640
-935	Q96J02	0031901	early endosome membrane	PF00397;PF00640
-936	Q96J02	0070062	extracellular exosome	PF00397;PF00640
-937	Q96J02	0043231	intracellular membrane-bounded organelle	PF00397;PF00640
-938	Q96J02	0016020	membrane	PF00397;PF00640
-939	Q96J02	0005654	nucleoplasm	PF00397;PF00640
-940	Q96J02	0005886	plasma membrane	PF00397;PF00640
-941	Q96J02	0032991	protein-containing complex	PF00397;PF00640
-942	Q96J02	1990763	arrestin family protein binding	PF00397;PF00640
-943	Q96J02	0045236	CXCR chemokine receptor binding	PF00397;PF00640
-944	Q96J02	0043021	ribonucleoprotein complex binding	PF00397;PF00640
-945	Q96J02	0061630	ubiquitin protein ligase activity	PF00397;PF00640
-946	Q96J02	0044389	ubiquitin-like protein ligase binding	PF00397;PF00640
-947	Q96J02	0004842	ubiquitin-protein transferase activity	PF00397;PF00640
-948	Q96J02	0006915	apoptotic process	PF00397;PF00640
-949	Q96J02	0051607	defense response to virus	PF00397;PF00640
-950	Q96J02	0006954	inflammatory response	PF00397;PF00640
-951	Q96J02	0045087	innate immune response	PF00397;PF00640
-952	Q96J02	0043066	negative regulation of apoptotic process	PF00397;PF00640
-953	Q96J02	0050687	negative regulation of defense response to virus	PF00397;PF00640
-954	Q96J02	0046329	negative regulation of JNK cascade	PF00397;PF00640
-955	Q96J02	0032088	negative regulation of NF-kappaB transcription factor activity	PF00397;PF00640
-956	Q96J02	0032480	negative regulation of type I interferon production	PF00397;PF00640
-957	Q96J02	0007219	Notch signaling pathway	PF00397;PF00640
-958	Q96J02	0070423	nucleotide-binding oligomerization domain containing signaling pathway	PF00397;PF00640
-959	Q96J02	0045732	positive regulation of protein catabolic process	PF00397;PF00640
-960	Q96J02	2000646	positive regulation of receptor catabolic process	PF00397;PF00640
-961	Q96J02	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00397;PF00640
-962	Q96J02	0051865	protein autoubiquitination	PF00397;PF00640
-963	Q96J02	0035519	protein K29-linked ubiquitination	PF00397;PF00640
-964	Q96J02	0070936	protein K48-linked ubiquitination	PF00397;PF00640
-965	Q96J02	0070534	protein K63-linked ubiquitination	PF00397;PF00640
-966	Q96J02	0000209	protein polyubiquitination	PF00397;PF00640
-967	Q96J02	0016567	protein ubiquitination	PF00397;PF00640
-968	Q96J02	0001558	regulation of cell growth	PF00397;PF00640
-969	Q96J02	1902036	regulation of hematopoietic stem cell differentiation	PF00397;PF00640
-970	Q96J02	0090085	regulation of protein deubiquitination	PF00397;PF00640
-971	Q96J02	0006511	ubiquitin-dependent protein catabolic process	PF00397;PF00640
-972	Q96J02	0046718	viral entry into host cell	PF00397;PF00640
-973	O95704	0015629	actin cytoskeleton	PF00397;PF00435;PF00569;PF09068;PF09069
-974	O95704	0005737	cytoplasm	PF00397;PF00435;PF00569;PF09068;PF09069
-975	O95704	0005829	cytosol	PF00397;PF00435;PF00569;PF09068;PF09069
-976	O95704	0005634	nucleus	PF00397;PF00435;PF00569;PF09068;PF09069
-977	O95704	0001540	amyloid-beta binding	PF00397;PF00435;PF00569;PF09068;PF09069
-978	O95704	0008134	transcription factor binding	PF00397;PF00435;PF00569;PF09068;PF09069
-979	O95704	0006355	regulation of transcription, DNA-templated	PF00397;PF00435;PF00569;PF09068;PF09069
+74	Q5VWI1	0005634	nucleus	PF01846
+75	O15428	0005829	cytosol	PF00397
+76	O15428	0005634	nucleus	PF00397
+77	O15428	0003755	peptidyl-prolyl cis-trans isomerase activity	PF00397
+78	Q6IQ23	0030054	cell junction	PF00169
+79	Q6IQ23	0005813	centrosome	PF00169
+80	Q6IQ23	0005829	cytosol	PF00169
+81	Q6IQ23	0070062	extracellular exosome	PF00169
+82	Q6IQ23	0005654	nucleoplasm	PF00169
+83	Q6IQ23	0046930	pore complex	PF00169
+84	Q6IQ23	0005915	zonula adherens	PF00169
+85	Q6IQ23	0070097	delta-catenin binding	PF00169
+86	Q6IQ23	0044331	cell-cell adhesion mediated by cadherin	PF00169
+87	Q6IQ23	0090136	epithelial cell-cell adhesion	PF00169
+88	Q6IQ23	0046931	pore complex assembly	PF00169
+89	Q6IQ23	0045218	zonula adherens maintenance	PF00169
+90	Q6AWC2	0005829	cytosol	PF00397
+91	Q6AWC2	0019900	kinase binding	PF00397
+92	Q6AWC2	0060090	molecular adaptor activity	PF00397
+93	Q6AWC2	0035331	negative regulation of hippo signaling	PF00397
+94	Q6AWC2	0046621	negative regulation of organ growth	PF00397
+95	Q6AWC2	0000122	negative regulation of transcription by RNA polymerase II	PF00397
+96	Q9HCE7	0030424	axon	PF00168;PF00397;PF00632
+97	Q9HCE7	0005623	cell	PF00168;PF00397;PF00632
+98	Q9HCE7	0005737	cytoplasm	PF00168;PF00397;PF00632
+99	Q9HCE7	0005829	cytosol	PF00168;PF00397;PF00632
+100	Q9HCE7	0070062	extracellular exosome	PF00168;PF00397;PF00632
+101	Q9HCE7	0043025	neuronal cell body	PF00168;PF00397;PF00632
+102	Q9HCE7	0005654	nucleoplasm	PF00168;PF00397;PF00632
+103	Q9HCE7	0005886	plasma membrane	PF00168;PF00397;PF00632
+104	Q9HCE7	0048185	activin binding	PF00168;PF00397;PF00632
+105	Q9HCE7	0070411	I-SMAD binding	PF00168;PF00397;PF00632
+106	Q9HCE7	0005543	phospholipid binding	PF00168;PF00397;PF00632
+107	Q9HCE7	0070412	R-SMAD binding	PF00168;PF00397;PF00632
+108	Q9HCE7	0061630	ubiquitin protein ligase activity	PF00168;PF00397;PF00632
+109	Q9HCE7	0004842	ubiquitin-protein transferase activity	PF00168;PF00397;PF00632
+110	Q9HCE7	0030509	BMP signaling pathway	PF00168;PF00397;PF00632
+111	Q9HCE7	0030154	cell differentiation	PF00168;PF00397;PF00632
+112	Q9HCE7	0007398	ectoderm development	PF00168;PF00397;PF00632
+113	Q9HCE7	0061736	engulfment of target by autophagosome	PF00168;PF00397;PF00632
+114	Q9HCE7	0030514	negative regulation of BMP signaling pathway	PF00168;PF00397;PF00632
+115	Q9HCE7	0030279	negative regulation of ossification	PF00168;PF00397;PF00632
+116	Q9HCE7	0030512	negative regulation of transforming growth factor beta receptor signaling pathway	PF00168;PF00397;PF00632
+117	Q9HCE7	0061734	parkin-mediated stimulation of mitophagy in response to mitochondrial depolarization	PF00168;PF00397;PF00632
+118	Q9HCE7	1903861	positive regulation of dendrite extension	PF00168;PF00397;PF00632
+119	Q9HCE7	0045732	positive regulation of protein catabolic process	PF00168;PF00397;PF00632
+120	Q9HCE7	2000060	positive regulation of ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
+121	Q9HCE7	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
+122	Q9HCE7	0006611	protein export from nucleus	PF00168;PF00397;PF00632
+123	Q9HCE7	0034394	protein localization to cell surface	PF00168;PF00397;PF00632
+124	Q9HCE7	0072659	protein localization to plasma membrane	PF00168;PF00397;PF00632
+125	Q9HCE7	0000209	protein polyubiquitination	PF00168;PF00397;PF00632
+126	Q9HCE7	0071211	protein targeting to vacuole involved in autophagy	PF00168;PF00397;PF00632
+127	Q9HCE7	0016567	protein ubiquitination	PF00168;PF00397;PF00632
+128	Q9HCE7	0032801	receptor catabolic process	PF00168;PF00397;PF00632
+129	Q9HCE7	0061753	substrate localization to autophagosome	PF00168;PF00397;PF00632
+130	Q9HCE7	0007179	transforming growth factor beta receptor signaling pathway	PF00168;PF00397;PF00632
+131	Q9HCE7	0006511	ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
+132	Q9HCE7	0030579	ubiquitin-dependent SMAD protein catabolic process	PF00168;PF00397;PF00632
+133	Q9HCE7	0060071	Wnt signaling pathway, planar cell polarity pathway	PF00168;PF00397;PF00632
+134	Q9BYW2	0005694	chromosome	PF00397;PF00856;PF08236;PF17907
+135	Q9BYW2	0005654	nucleoplasm	PF00397;PF00856;PF08236;PF17907
+136	Q9BYW2	0005634	nucleus	PF00397;PF00856;PF08236;PF17907
+137	Q9BYW2	0043014	alpha-tubulin binding	PF00397;PF00856;PF08236;PF17907
+138	Q9BYW2	0046975	histone methyltransferase activity (H3-K36 specific)	PF00397;PF00856;PF08236;PF17907
+139	Q9BYW2	0018024	histone-lysine N-methyltransferase activity	PF00397;PF00856;PF08236;PF17907
+140	Q9BYW2	0046872	metal ion binding	PF00397;PF00856;PF08236;PF17907
+141	Q9BYW2	0016279	protein-lysine N-methyltransferase activity	PF00397;PF00856;PF08236;PF17907
+142	Q9BYW2	0001525	angiogenesis	PF00397;PF00856;PF08236;PF17907
+143	Q9BYW2	0035441	cell migration involved in vasculogenesis	PF00397;PF00856;PF08236;PF17907
+144	Q9BYW2	0060977	coronary vasculature morphogenesis	PF00397;PF00856;PF08236;PF17907
+145	Q9BYW2	0051607	defense response to virus	PF00397;PF00856;PF08236;PF17907
+146	Q9BYW2	0048701	embryonic cranial skeleton morphogenesis	PF00397;PF00856;PF08236;PF17907
+147	Q9BYW2	0060669	embryonic placenta morphogenesis	PF00397;PF00856;PF08236;PF17907
+148	Q9BYW2	0035987	endodermal cell differentiation	PF00397;PF00856;PF08236;PF17907
+149	Q9BYW2	0030900	forebrain development	PF00397;PF00856;PF08236;PF17907
+150	Q9BYW2	0097676	histone H3-K36 dimethylation	PF00397;PF00856;PF08236;PF17907
+151	Q9BYW2	0097198	histone H3-K36 trimethylation	PF00397;PF00856;PF08236;PF17907
+152	Q9BYW2	0048332	mesoderm morphogenesis	PF00397;PF00856;PF08236;PF17907
+153	Q9BYW2	1902850	microtubule cytoskeleton organization involved in mitosis	PF00397;PF00856;PF08236;PF17907
+154	Q9BYW2	0006298	mismatch repair	PF00397;PF00856;PF08236;PF17907
+155	Q9BYW2	0001763	morphogenesis of a branching structure	PF00397;PF00856;PF08236;PF17907
+156	Q9BYW2	0001843	neural tube closure	PF00397;PF00856;PF08236;PF17907
+157	Q9BYW2	0034728	nucleosome organization	PF00397;PF00856;PF08236;PF17907
+158	Q9BYW2	0018026	peptidyl-lysine monomethylation	PF00397;PF00856;PF08236;PF17907
+159	Q9BYW2	0018023	peptidyl-lysine trimethylation	PF00397;PF00856;PF08236;PF17907
+160	Q9BYW2	0060039	pericardium development	PF00397;PF00856;PF08236;PF17907
+161	Q9BYW2	0032727	positive regulation of interferon-alpha production	PF00397;PF00856;PF08236;PF17907
+162	Q9BYW2	0032465	regulation of cytokinesis	PF00397;PF00856;PF08236;PF17907
+163	Q9BYW2	0010569	regulation of double-strand break repair via homologous recombination	PF00397;PF00856;PF08236;PF17907
+164	Q9BYW2	0010793	regulation of mRNA export from nucleus	PF00397;PF00856;PF08236;PF17907
+165	Q9BYW2	1905634	regulation of protein localization to chromatin	PF00397;PF00856;PF08236;PF17907
+166	Q9BYW2	0006355	regulation of transcription, DNA-templated	PF00397;PF00856;PF08236;PF17907
+167	Q9BYW2	0034340	response to type I interferon	PF00397;PF00856;PF08236;PF17907
+168	Q9BYW2	0048864	stem cell development	PF00397;PF00856;PF08236;PF17907
+169	Q9BYW2	0048863	stem cell differentiation	PF00397;PF00856;PF08236;PF17907
+170	Q9BYW2	0006368	transcription elongation from RNA polymerase II promoter	PF00397;PF00856;PF08236;PF17907
+171	Q9HAU0	0005829	cytosol	PF00169;PF00397
+172	Q9HAU0	0098978	glutamatergic synapse	PF00169;PF00397
+173	Q9HAU0	0016020	membrane	PF00169;PF00397
+174	Q9HAU0	0005654	nucleoplasm	PF00169;PF00397
+175	Q9HAU0	0014069	postsynaptic density	PF00169;PF00397
+176	Q9HAU0	0080025	phosphatidylinositol-3,5-bisphosphate binding	PF00169;PF00397
+177	Q9HAU0	0032266	phosphatidylinositol-3-phosphate binding	PF00169;PF00397
+178	Q9HAU0	0070273	phosphatidylinositol-4-phosphate binding	PF00169;PF00397
+179	Q9HAU0	0010314	phosphatidylinositol-5-phosphate binding	PF00169;PF00397
+180	Q9HAU0	0061458	reproductive system development	PF00169;PF00397
+181	Q9HAU4	0005737	cytoplasm	PF00168;PF00397;PF00632
+182	Q9HAU4	0005829	cytosol	PF00168;PF00397;PF00632
+183	Q9HAU4	0045121	membrane raft	PF00168;PF00397;PF00632
+184	Q9HAU4	0016607	nuclear speck	PF00168;PF00397;PF00632
+185	Q9HAU4	0005654	nucleoplasm	PF00168;PF00397;PF00632
+186	Q9HAU4	0005634	nucleus	PF00168;PF00397;PF00632
+187	Q9HAU4	0005886	plasma membrane	PF00168;PF00397;PF00632
+188	Q9HAU4	0000151	ubiquitin ligase complex	PF00168;PF00397;PF00632
+189	Q9HAU4	0042802	identical protein binding	PF00168;PF00397;PF00632
+190	Q9HAU4	0046332	SMAD binding	PF00168;PF00397;PF00632
+191	Q9HAU4	0005160	transforming growth factor beta receptor binding	PF00168;PF00397;PF00632
+192	Q9HAU4	0061630	ubiquitin protein ligase activity	PF00168;PF00397;PF00632
+193	Q9HAU4	0004842	ubiquitin-protein transferase activity	PF00168;PF00397;PF00632
+194	Q9HAU4	0030509	BMP signaling pathway	PF00168;PF00397;PF00632
+195	Q9HAU4	0030514	negative regulation of BMP signaling pathway	PF00168;PF00397;PF00632
+196	Q9HAU4	0000122	negative regulation of transcription by RNA polymerase II	PF00168;PF00397;PF00632
+197	Q9HAU4	0045892	negative regulation of transcription, DNA-templated	PF00168;PF00397;PF00632
+198	Q9HAU4	0030512	negative regulation of transforming growth factor beta receptor signaling pathway	PF00168;PF00397;PF00632
+199	Q9HAU4	0090263	positive regulation of canonical Wnt signaling pathway	PF00168;PF00397;PF00632
+200	Q9HAU4	0045732	positive regulation of protein catabolic process	PF00168;PF00397;PF00632
+201	Q9HAU4	1901165	positive regulation of trophoblast cell migration	PF00168;PF00397;PF00632
+202	Q9HAU4	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
+203	Q9HAU4	0016579	protein deubiquitination	PF00168;PF00397;PF00632
+204	Q9HAU4	0000209	protein polyubiquitination	PF00168;PF00397;PF00632
+205	Q9HAU4	0016567	protein ubiquitination	PF00168;PF00397;PF00632
+206	Q9HAU4	0017015	regulation of transforming growth factor beta receptor signaling pathway	PF00168;PF00397;PF00632
+207	Q9HAU4	0006511	ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
+208	Q9HAU4	0030579	ubiquitin-dependent SMAD protein catabolic process	PF00168;PF00397;PF00632
+209	Q9HAU4	0060071	Wnt signaling pathway, planar cell polarity pathway	PF00168;PF00397;PF00632
+210	Q6ZWJ1	0070062	extracellular exosome	PF00397;PF00595
+211	Q6ZWJ1	0045335	phagocytic vesicle	PF00397;PF00595
+212	Q6ZWJ1	0019905	syntaxin binding	PF00397;PF00595
+213	Q6ZWJ1	0006974	cellular response to DNA damage stimulus	PF00397;PF00595
+214	Q6ZWJ1	0071346	cellular response to interferon-gamma	PF00397;PF00595
+215	Q6ZWJ1	0008286	insulin receptor signaling pathway	PF00397;PF00595
+216	Q6ZWJ1	1902808	positive regulation of cell cycle G1/S phase transition	PF00397;PF00595
+217	Q6ZWJ1	0010838	positive regulation of keratinocyte proliferation	PF00397;PF00595
+218	Q6ZWJ1	0050821	protein stabilization	PF00397;PF00595
+219	Q6ZWJ1	0006605	protein targeting	PF00397;PF00595
+220	Q6ZWJ1	0010827	regulation of glucose transmembrane transport	PF00397;PF00595
+221	Q6ZWJ1	0061178	regulation of insulin secretion involved in cellular response to glucose stimulus	PF00397;PF00595
+222	Q76N89	0005737	cytoplasm	PF00168;PF00397;PF00632;PF16562;PF18436
+223	Q76N89	0005829	cytosol	PF00168;PF00397;PF00632;PF16562;PF18436
+224	Q76N89	0061630	ubiquitin protein ligase activity	PF00168;PF00397;PF00632;PF16562;PF18436
+225	Q76N89	0090090	negative regulation of canonical Wnt signaling pathway	PF00168;PF00397;PF00632;PF16562;PF18436
+226	Q76N89	2000650	negative regulation of sodium ion transmembrane transporter activity	PF00168;PF00397;PF00632;PF16562;PF18436
+227	Q76N89	0045732	positive regulation of protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
+228	Q76N89	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
+229	Q76N89	0000209	protein polyubiquitination	PF00168;PF00397;PF00632;PF16562;PF18436
+230	Q76N89	0016567	protein ubiquitination	PF00168;PF00397;PF00632;PF16562;PF18436
+231	Q76N89	0048814	regulation of dendrite morphogenesis	PF00168;PF00397;PF00632;PF16562;PF18436
+232	Q76N89	0006511	ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
+233	O14776	0005654	nucleoplasm	PF00397;PF01846
+234	O14776	0005634	nucleus	PF00397;PF01846
+235	O14776	0042802	identical protein binding	PF00397;PF01846
+236	O14776	0070064	proline-rich region binding	PF00397;PF01846
+237	O14776	0003723	RNA binding	PF00397;PF01846
+238	O14776	0001103	RNA polymerase II repressing transcription factor binding	PF00397;PF01846
+239	O14776	0003713	transcription coactivator activity	PF00397;PF01846
+240	O14776	0003714	transcription corepressor activity	PF00397;PF01846
+241	O14776	0000122	negative regulation of transcription by RNA polymerase II	PF00397;PF01846
+242	O14776	0006366	transcription by RNA polymerase II	PF00397;PF01846
+243	Q8IWW6	0005737	cytoplasm	PF00169;PF00620;PF14604
+244	Q8IWW6	0005829	cytosol	PF00169;PF00620;PF14604
+245	Q8IWW6	0001891	phagocytic cup	PF00169;PF00620;PF14604
+246	Q8IWW6	0005096	GTPase activator activity	PF00169;PF00620;PF14604
+247	Q8IWW6	0007015	actin filament organization	PF00169;PF00620;PF14604
+248	Q8IWW6	0002011	morphogenesis of an epithelial sheet	PF00169;PF00620;PF14604
+249	Q8IWW6	0051058	negative regulation of small GTPase mediated signal transduction	PF00169;PF00620;PF14604
+250	Q8IWW6	0006911	phagocytosis, engulfment	PF00169;PF00620;PF14604
+251	Q8IWW6	0043087	regulation of GTPase activity	PF00169;PF00620;PF14604
+252	Q8IWW6	0051056	regulation of small GTPase mediated signal transduction	PF00169;PF00620;PF14604
+253	Q8IWW6	0007165	signal transduction	PF00169;PF00620;PF14604
+254	Q6ZUM4	0005737	cytoplasm	PF00169;PF00397;PF00620
+255	Q6ZUM4	0016020	membrane	PF00169;PF00397;PF00620
+256	Q6ZUM4	0005096	GTPase activator activity	PF00169;PF00397;PF00620
+257	Q6ZUM4	0017124	SH3 domain binding	PF00169;PF00397;PF00620
+258	Q6ZUM4	0043547	positive regulation of GTPase activity	PF00169;PF00397;PF00620
+259	Q6ZUM4	0006898	receptor-mediated endocytosis	PF00169;PF00397;PF00620
+260	Q6ZUM4	0043087	regulation of GTPase activity	PF00169;PF00397;PF00620
+261	Q6ZUM4	0007165	signal transduction	PF00169;PF00397;PF00620
+262	Q9C0H5	0005737	cytoplasm	PF00620;PF00784
+263	Q9C0H5	0005856	cytoskeleton	PF00620;PF00784
+264	Q9C0H5	0005829	cytosol	PF00620;PF00784
+265	Q9C0H5	0098978	glutamatergic synapse	PF00620;PF00784
+266	Q9C0H5	0005634	nucleus	PF00620;PF00784
+267	Q9C0H5	0005096	GTPase activator activity	PF00620;PF00784
+268	Q9C0H5	0099173	postsynapse organization	PF00620;PF00784
+269	Q9C0H5	0051056	regulation of small GTPase mediated signal transduction	PF00620;PF00784
+270	Q9C0H5	0007165	signal transduction	PF00620;PF00784
+271	Q86UL8	0005923	bicellular tight junction	PF00397;PF00595;PF00625;PF17820
+272	Q86UL8	0005911	cell-cell junction	PF00397;PF00595;PF00625;PF17820
+273	Q86UL8	0005737	cytoplasm	PF00397;PF00595;PF00625;PF17820
+274	Q86UL8	0030425	dendrite	PF00397;PF00595;PF00625;PF17820
+275	Q86UL8	0005770	late endosome	PF00397;PF00595;PF00625;PF17820
+276	Q86UL8	0005634	nucleus	PF00397;PF00595;PF00625;PF17820
+277	Q86UL8	0048471	perinuclear region of cytoplasm	PF00397;PF00595;PF00625;PF17820
+278	Q86UL8	0005886	plasma membrane	PF00397;PF00595;PF00625;PF17820
+279	Q86UL8	0014069	postsynaptic density	PF00397;PF00595;PF00625;PF17820
+280	Q86UL8	0032991	protein-containing complex	PF00397;PF00595;PF00625;PF17820
+281	Q86UL8	0036057	slit diaphragm	PF00397;PF00595;PF00625;PF17820
+282	Q86UL8	0045202	synapse	PF00397;PF00595;PF00625;PF17820
+283	Q86UL8	0031697	beta-1 adrenergic receptor binding	PF00397;PF00595;PF00625;PF17820
+284	Q86UL8	0019902	phosphatase binding	PF00397;PF00595;PF00625;PF17820
+285	Q86UL8	0030159	receptor signaling complex adaptor activity	PF00397;PF00595;PF00625;PF17820
+286	Q86UL8	0046332	SMAD binding	PF00397;PF00595;PF00625;PF17820
+287	Q86UL8	0070699	type II activin receptor binding	PF00397;PF00595;PF00625;PF17820
+288	Q86UL8	1990090	cellular response to nerve growth factor stimulus	PF00397;PF00595;PF00625;PF17820
+289	Q86UL8	0072015	glomerular visceral epithelial cell development	PF00397;PF00595;PF00625;PF17820
+290	Q86UL8	0071850	mitotic cell cycle arrest	PF00397;PF00595;PF00625;PF17820
+291	Q86UL8	0032926	negative regulation of activin receptor signaling pathway	PF00397;PF00595;PF00625;PF17820
+292	Q86UL8	0030336	negative regulation of cell migration	PF00397;PF00595;PF00625;PF17820
+293	Q86UL8	0008285	negative regulation of cell population proliferation	PF00397;PF00595;PF00625;PF17820
+294	Q86UL8	0051898	negative regulation of protein kinase B signaling	PF00397;PF00595;PF00625;PF17820
+295	Q86UL8	0038180	nerve growth factor signaling pathway	PF00397;PF00595;PF00625;PF17820
+296	Q86UL8	0097118	neuroligin clustering involved in postsynaptic membrane assembly	PF00397;PF00595;PF00625;PF17820
+297	Q86UL8	0003402	planar cell polarity pathway involved in axis elongation	PF00397;PF00595;PF00625;PF17820
+298	Q86UL8	0010976	positive regulation of neuron projection development	PF00397;PF00595;PF00625;PF17820
+299	Q86UL8	0032516	positive regulation of phosphoprotein phosphatase activity	PF00397;PF00595;PF00625;PF17820
+300	Q86UL8	0002092	positive regulation of receptor internalization	PF00397;PF00595;PF00625;PF17820
+301	Q86UL8	2000809	positive regulation of synaptic vesicle clustering	PF00397;PF00595;PF00625;PF17820
+302	Q86UL8	0051291	protein heterooligomerization	PF00397;PF00595;PF00625;PF17820
+303	Q86UL8	0043113	receptor clustering	PF00397;PF00595;PF00625;PF17820
+304	Q86UL8	0007165	signal transduction	PF00397;PF00595;PF00625;PF17820
+305	Q86UL8	0060395	SMAD protein signal transduction	PF00397;PF00595;PF00625;PF17820
+306	Q5TCQ9	0005923	bicellular tight junction	PF00397;PF00595;PF00625;PF17820
+307	Q5TCQ9	0030054	cell junction	PF00397;PF00595;PF00625;PF17820
+308	Q5TCQ9	0005911	cell-cell junction	PF00397;PF00595;PF00625;PF17820
+309	Q5TCQ9	0005737	cytoplasm	PF00397;PF00595;PF00625;PF17820
+310	Q5TCQ9	0016020	membrane	PF00397;PF00595;PF00625;PF17820
+311	Q5TCQ9	0005634	nucleus	PF00397;PF00595;PF00625;PF17820
+312	Q5TCQ9	0005886	plasma membrane	PF00397;PF00595;PF00625;PF17820
+313	Q5TCQ9	0005524	ATP binding	PF00397;PF00595;PF00625;PF17820
+314	Q5TCQ9	0004385	guanylate kinase activity	PF00397;PF00595;PF00625;PF17820
+315	Q5TCQ9	0060090	molecular adaptor activity	PF00397;PF00595;PF00625;PF17820
+316	Q5TCQ9	0006915	apoptotic process	PF00397;PF00595;PF00625;PF17820
+317	Q5TCQ9	0035556	intracellular signal transduction	PF00397;PF00595;PF00625;PF17820
+318	Q5TCQ9	0046328	regulation of JNK cascade	PF00397;PF00595;PF00625;PF17820
+319	Q5TCQ9	0007165	signal transduction	PF00397;PF00595;PF00625;PF17820
+320	Q5TCQ9	0016032	viral process	PF00397;PF00595;PF00625;PF17820
+321	Q9P2P5	0005737	cytoplasm	PF00168;PF00397;PF00632;PF16562;PF18436
+322	Q9P2P5	0072686	mitotic spindle	PF00168;PF00397;PF00632;PF16562;PF18436
+323	Q9P2P5	0061630	ubiquitin protein ligase activity	PF00168;PF00397;PF00632;PF16562;PF18436
+324	Q9P2P5	2000650	negative regulation of sodium ion transmembrane transporter activity	PF00168;PF00397;PF00632;PF16562;PF18436
+325	Q9P2P5	0045732	positive regulation of protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
+326	Q9P2P5	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
+327	Q9P2P5	0000209	protein polyubiquitination	PF00168;PF00397;PF00632;PF16562;PF18436
+328	Q9P2P5	0016567	protein ubiquitination	PF00168;PF00397;PF00632;PF16562;PF18436
+329	Q9P2P5	0048814	regulation of dendrite morphogenesis	PF00168;PF00397;PF00632;PF16562;PF18436
+330	Q9P2P5	0030071	regulation of mitotic metaphase/anaphase transition	PF00168;PF00397;PF00632;PF16562;PF18436
+331	Q9P2P5	0006511	ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632;PF16562;PF18436
+332	Q9BRR9	0005737	cytoplasm	PF00018;PF00169;PF00620
+333	Q9BRR9	0005829	cytosol	PF00018;PF00169;PF00620
+334	Q9BRR9	0005576	extracellular region	PF00018;PF00169;PF00620
+335	Q9BRR9	0034774	secretory granule lumen	PF00018;PF00169;PF00620
+336	Q9BRR9	0005096	GTPase activator activity	PF00018;PF00169;PF00620
+337	Q9BRR9	0005547	phosphatidylinositol-3,4,5-trisphosphate binding	PF00018;PF00169;PF00620
+338	Q9BRR9	0043312	neutrophil degranulation	PF00018;PF00169;PF00620
+339	Q9BRR9	0043087	regulation of GTPase activity	PF00018;PF00169;PF00620
+340	Q9BRR9	0051056	regulation of small GTPase mediated signal transduction	PF00018;PF00169;PF00620
+341	Q9BRR9	0007165	signal transduction	PF00018;PF00169;PF00620
+342	Q13526	0005737	cytoplasm	PF00397;PF00639
+343	Q13526	0005829	cytosol	PF00397;PF00639
+344	Q13526	0098978	glutamatergic synapse	PF00397;PF00639
+345	Q13526	0030496	midbody	PF00397;PF00639
+346	Q13526	0005739	mitochondrion	PF00397;PF00639
+347	Q13526	0043005	neuron projection	PF00397;PF00639
+348	Q13526	0016607	nuclear speck	PF00397;PF00639
+349	Q13526	0005654	nucleoplasm	PF00397;PF00639
+350	Q13526	0005634	nucleus	PF00397;PF00639
+351	Q13526	0099524	postsynaptic cytosol	PF00397;PF00639
+352	Q13526	0008013	beta-catenin binding	PF00397;PF00639
+353	Q13526	0016859	cis-trans isomerase activity	PF00397;PF00639
+354	Q13526	0032794	GTPase activating protein binding	PF00397;PF00639
+355	Q13526	0031434	mitogen-activated protein kinase kinase binding	PF00397;PF00639
+356	Q13526	0003774	motor activity	PF00397;PF00639
+357	Q13526	0003755	peptidyl-prolyl cis-trans isomerase activity	PF00397;PF00639
+358	Q13526	0051219	phosphoprotein binding	PF00397;PF00639
+359	Q13526	0050815	phosphoserine residue binding	PF00397;PF00639
+360	Q13526	0050816	phosphothreonine residue binding	PF00397;PF00639
+361	Q13526	0048156	tau protein binding	PF00397;PF00639
+362	Q13526	0007049	cell cycle	PF00397;PF00639
+363	Q13526	1902430	negative regulation of amyloid-beta formation	PF00397;PF00639
+364	Q13526	2000146	negative regulation of cell motility	PF00397;PF00639
+365	Q13526	0070373	negative regulation of ERK1 and ERK2 cascade	PF00397;PF00639
+366	Q13526	0043524	negative regulation of neuron apoptotic process	PF00397;PF00639
+367	Q13526	0032091	negative regulation of protein binding	PF00397;PF00639
+368	Q13526	0042177	negative regulation of protein catabolic process	PF00397;PF00639
+369	Q13526	0030512	negative regulation of transforming growth factor beta receptor signaling pathway	PF00397;PF00639
+370	Q13526	0032480	negative regulation of type I interferon production	PF00397;PF00639
+371	Q13526	0030182	neuron differentiation	PF00397;PF00639
+372	Q13526	0090263	positive regulation of canonical Wnt signaling pathway	PF00397;PF00639
+373	Q13526	0061051	positive regulation of cell growth involved in cardiac muscle cell development	PF00397;PF00639
+374	Q13526	0043547	positive regulation of GTPase activity	PF00397;PF00639
+375	Q13526	0043525	positive regulation of neuron apoptotic process	PF00397;PF00639
+376	Q13526	0032092	positive regulation of protein binding	PF00397;PF00639
+377	Q13526	0035307	positive regulation of protein dephosphorylation	PF00397;PF00639
+378	Q13526	0001934	positive regulation of protein phosphorylation	PF00397;PF00639
+379	Q13526	0045944	positive regulation of transcription by RNA polymerase II	PF00397;PF00639
+380	Q13526	0051443	positive regulation of ubiquitin-protein transferase activity	PF00397;PF00639
+381	Q13526	0000413	protein peptidyl-prolyl isomerization	PF00397;PF00639
+382	Q13526	0050821	protein stabilization	PF00397;PF00639
+383	Q13526	0032465	regulation of cytokinesis	PF00397;PF00639
+384	Q13526	0010468	regulation of gene expression	PF00397;PF00639
+385	Q13526	0007088	regulation of mitotic nuclear division	PF00397;PF00639
+386	Q13526	0060393	regulation of pathway-restricted SMAD protein phosphorylation	PF00397;PF00639
+387	Q13526	1900180	regulation of protein localization to nucleus	PF00397;PF00639
+388	Q13526	0001932	regulation of protein phosphorylation	PF00397;PF00639
+389	Q13526	0031647	regulation of protein stability	PF00397;PF00639
+390	Q13526	1901796	regulation of signal transduction by p53 class mediator	PF00397;PF00639
+391	Q13526	0001666	response to hypoxia	PF00397;PF00639
+392	Q13526	0050808	synapse organization	PF00397;PF00639
+393	O75554	0016607	nuclear speck	PF00397;PF06220
+394	O75554	0005654	nucleoplasm	PF00397;PF06220
+395	O75554	0005634	nucleus	PF00397;PF06220
+396	O75554	0071005	U2-type precatalytic spliceosome	PF00397;PF06220
+397	O75554	0003676	nucleic acid binding	PF00397;PF06220
+398	O75554	0070064	proline-rich region binding	PF00397;PF06220
+399	O75554	0008270	zinc ion binding	PF00397;PF06220
+400	O75554	0045292	mRNA cis splicing, via spliceosome	PF00397;PF06220
+401	O75554	0000398	mRNA splicing, via spliceosome	PF00397;PF06220
+402	P46937	0005737	cytoplasm	PF00397
+403	P46937	0005829	cytosol	PF00397
+404	P46937	0016020	membrane	PF00397
+405	P46937	0005654	nucleoplasm	PF00397
+406	P46937	0005634	nucleus	PF00397
+407	P46937	0071148	TEAD-1-YAP complex	PF00397
+408	P46937	0071149	TEAD-2-YAP complex	PF00397
+409	P46937	0033613	activating transcription factor binding	PF00397
+410	P46937	0003682	chromatin binding	PF00397
+411	P46937	0070064	proline-rich region binding	PF00397
+412	P46937	0008022	protein C-terminus binding	PF00397
+413	P46937	0046982	protein heterodimerization activity	PF00397
+414	P46937	0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding	PF00397
+415	P46937	0003713	transcription coactivator activity	PF00397
+416	P46937	0003714	transcription corepressor activity	PF00397
+417	P46937	0044212	transcription regulatory region DNA binding	PF00397
+418	P46937	0060449	bud elongation involved in lung branching	PF00397
+419	P46937	0061026	cardiac muscle tissue regeneration	PF00397
+420	P46937	0000902	cell morphogenesis	PF00397
+421	P46937	0008283	cell population proliferation	PF00397
+422	P46937	0006974	cellular response to DNA damage stimulus	PF00397
+423	P46937	0071480	cellular response to gamma radiation	PF00397
+424	P46937	0071300	cellular response to retinoic acid	PF00397
+425	P46937	0060242	contact inhibition	PF00397
+426	P46937	0003143	embryonic heart tube morphogenesis	PF00397
+427	P46937	0003015	heart process	PF00397
+428	P46937	0035329	hippo signaling	PF00397
+429	P46937	0030216	keratinocyte differentiation	PF00397
+430	P46937	0048368	lateral mesoderm development	PF00397
+431	P46937	0060487	lung epithelial cell differentiation	PF00397
+432	P46937	0030857	negative regulation of epithelial cell differentiation	PF00397
+433	P46937	2001237	negative regulation of extrinsic apoptotic signaling pathway	PF00397
+434	P46937	2000737	negative regulation of stem cell differentiation	PF00397
+435	P46937	0030903	notochord development	PF00397
+436	P46937	0048339	paraxial mesoderm development	PF00397
+437	P46937	0090263	positive regulation of canonical Wnt signaling pathway	PF00397
+438	P46937	0060045	positive regulation of cardiac muscle cell proliferation	PF00397
+439	P46937	0033148	positive regulation of intracellular estrogen receptor signaling pathway	PF00397
+440	P46937	1902459	positive regulation of stem cell population maintenance	PF00397
+441	P46937	0045944	positive regulation of transcription by RNA polymerase II	PF00397
+442	P46937	0045893	positive regulation of transcription, DNA-templated	PF00397
+443	P46937	0050847	progesterone receptor signaling pathway	PF00397
+444	P46937	0065003	protein-containing complex assembly	PF00397
+445	P46937	1902036	regulation of hematopoietic stem cell differentiation	PF00397
+446	P46937	0010837	regulation of keratinocyte proliferation	PF00397
+447	P46937	0072307	regulation of metanephric nephron tubule epithelial cell differentiation	PF00397
+448	P46937	0050767	regulation of neurogenesis	PF00397
+449	P46937	0072091	regulation of stem cell proliferation	PF00397
+450	P46937	0032570	response to progesterone	PF00397
+451	P46937	0035019	somatic stem cell population maintenance	PF00397
+452	P46937	0001894	tissue homeostasis	PF00397
+453	P46937	0006367	transcription initiation from RNA polymerase II promoter	PF00397
+454	P46937	0001570	vasculogenesis	PF00397
+455	O00308	0005737	cytoplasm	PF00397;PF00632
+456	O00308	0005829	cytosol	PF00397;PF00632
+457	O00308	0070062	extracellular exosome	PF00397;PF00632
+458	O00308	0016020	membrane	PF00397;PF00632
+459	O00308	0005634	nucleus	PF00397;PF00632
+460	O00308	0000151	ubiquitin ligase complex	PF00397;PF00632
+461	O00308	0001085	RNA polymerase II transcription factor binding	PF00397;PF00632
+462	O00308	0008134	transcription factor binding	PF00397;PF00632
+463	O00308	0061630	ubiquitin protein ligase activity	PF00397;PF00632
+464	O00308	0004842	ubiquitin-protein transferase activity	PF00397;PF00632
+465	O00308	0006464	cellular protein modification process	PF00397;PF00632
+466	O00308	0006858	extracellular transport	PF00397;PF00632
+467	O00308	0043433	negative regulation of DNA-binding transcription factor activity	PF00397;PF00632
+468	O00308	0010629	negative regulation of gene expression	PF00397;PF00632
+469	O00308	0045746	negative regulation of Notch signaling pathway	PF00397;PF00632
+470	O00308	0051224	negative regulation of protein transport	PF00397;PF00632
+471	O00308	0000122	negative regulation of transcription by RNA polymerase II	PF00397;PF00632
+472	O00308	0045892	negative regulation of transcription, DNA-templated	PF00397;PF00632
+473	O00308	0032410	negative regulation of transporter activity	PF00397;PF00632
+474	O00308	0045732	positive regulation of protein catabolic process	PF00397;PF00632
+475	O00308	0045944	positive regulation of transcription by RNA polymerase II	PF00397;PF00632
+476	O00308	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00397;PF00632
+477	O00308	0051865	protein autoubiquitination	PF00397;PF00632
+478	O00308	0070534	protein K63-linked ubiquitination	PF00397;PF00632
+479	O00308	0000209	protein polyubiquitination	PF00397;PF00632
+480	O00308	0016567	protein ubiquitination	PF00397;PF00632
+481	O00308	0034765	regulation of ion transmembrane transport	PF00397;PF00632
+482	O00308	0042391	regulation of membrane potential	PF00397;PF00632
+483	O00308	1901016	regulation of potassium ion transmembrane transporter activity	PF00397;PF00632
+484	O00308	0006511	ubiquitin-dependent protein catabolic process	PF00397;PF00632
+485	O00308	0046718	viral entry into host cell	PF00397;PF00632
+486	P40818	0005737	cytoplasm	PF00443;PF00581;PF08969
+487	P40818	0005829	cytosol	PF00443;PF00581;PF08969
+488	P40818	0043197	dendritic spine	PF00443;PF00581;PF08969
+489	P40818	0005769	early endosome	PF00443;PF00581;PF08969
+490	P40818	0031313	extrinsic component of endosome membrane	PF00443;PF00581;PF08969
+491	P40818	0019897	extrinsic component of plasma membrane	PF00443;PF00581;PF08969
+492	P40818	0098978	glutamatergic synapse	PF00443;PF00581;PF08969
+493	P40818	0030496	midbody	PF00443;PF00581;PF08969
+494	P40818	0005634	nucleus	PF00443;PF00581;PF08969
+495	P40818	0014069	postsynaptic density	PF00443;PF00581;PF08969
+496	P40818	0045296	cadherin binding	PF00443;PF00581;PF08969
+497	P40818	0004197	cysteine-type endopeptidase activity	PF00443;PF00581;PF08969
+498	P40818	0017124	SH3 domain binding	PF00443;PF00581;PF08969
+499	P40818	0004843	thiol-dependent ubiquitin-specific protease activity	PF00443;PF00581;PF08969
+500	P40818	0071549	cellular response to dexamethasone stimulus	PF00443;PF00581;PF08969
+501	P40818	1990090	cellular response to nerve growth factor stimulus	PF00443;PF00581;PF08969
+502	P40818	0007032	endosome organization	PF00443;PF00581;PF08969
+503	P40818	0000281	mitotic cytokinesis	PF00443;PF00581;PF08969
+504	P40818	0090263	positive regulation of canonical Wnt signaling pathway	PF00443;PF00581;PF08969
+505	P40818	0016579	protein deubiquitination	PF00443;PF00581;PF08969
+506	P40818	0071108	protein K48-linked deubiquitination	PF00443;PF00581;PF08969
+507	P40818	0070536	protein K63-linked deubiquitination	PF00443;PF00581;PF08969
+508	P40818	0007265	Ras protein signal transduction	PF00443;PF00581;PF08969
+509	P40818	0099576	regulation of protein catabolic process at postsynapse, modulating synaptic transmission	PF00443;PF00581;PF08969
+510	P40818	0032880	regulation of protein localization	PF00443;PF00581;PF08969
+511	P40818	0031647	regulation of protein stability	PF00443;PF00581;PF08969
+512	P40818	0006511	ubiquitin-dependent protein catabolic process	PF00443;PF00581;PF08969
+513	P46939	0030054	cell junction	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+514	P46939	0030864	cortical actin cytoskeleton	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+515	P46939	0005737	cytoplasm	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+516	P46939	0005856	cytoskeleton	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+517	P46939	0016010	dystrophin-associated glycoprotein complex	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+518	P46939	0070062	extracellular exosome	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+519	P46939	0030175	filopodium	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+520	P46939	0031527	filopodium membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+521	P46939	0030426	growth cone	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+522	P46939	0016020	membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+523	P46939	0031594	neuromuscular junction	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+524	P46939	0005654	nucleoplasm	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+525	P46939	0005886	plasma membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+526	P46939	0045211	postsynaptic membrane	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+527	P46939	0032991	protein-containing complex	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+528	P46939	0042383	sarcolemma	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+529	P46939	0003779	actin binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+530	P46939	0051015	actin filament binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+531	P46939	0005178	integrin binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+532	P46939	0019901	protein kinase binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+533	P46939	0017166	vinculin binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+534	P46939	0008270	zinc ion binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+535	P46939	0006936	muscle contraction	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+536	P46939	0007517	muscle organ development	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+537	P46939	0007528	neuromuscular junction development	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+538	P46939	0001954	positive regulation of cell-matrix adhesion	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+539	P46939	2000649	regulation of sodium ion transmembrane transporter activity	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+540	P46939	0014894	response to denervation involved in regulation of muscle adaptation	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+541	Q9H4B6	0005737	cytoplasm	PF00397
+542	Q9H4B6	0005829	cytosol	PF00397
+543	Q9H4B6	0005634	nucleus	PF00397
+544	Q9H4B6	0042802	identical protein binding	PF00397
+545	Q9H4B6	0060090	molecular adaptor activity	PF00397
+546	Q9H4B6	0006915	apoptotic process	PF00397
+547	Q9H4B6	0001942	hair follicle development	PF00397
+548	Q9H4B6	0035329	hippo signaling	PF00397
+549	Q9H4B6	0060575	intestinal epithelial cell differentiation	PF00397
+550	Q9H4B6	0030216	keratinocyte differentiation	PF00397
+551	Q9H4B6	0060487	lung epithelial cell differentiation	PF00397
+552	Q9H4B6	0060044	negative regulation of cardiac muscle cell proliferation	PF00397
+553	Q9H4B6	0050680	negative regulation of epithelial cell proliferation	PF00397
+554	Q9H4B6	0043065	positive regulation of apoptotic process	PF00397
+555	Q9H4B6	0051091	positive regulation of DNA-binding transcription factor activity	PF00397
+556	Q9H4B6	0045600	positive regulation of fat cell differentiation	PF00397
+557	Q9H4B6	0050821	protein stabilization	PF00397
+558	Q9H4B6	2000036	regulation of stem cell population maintenance	PF00397
+559	Q9H4B6	0007165	signal transduction	PF00397
+560	Q9H4B6	0060412	ventricular septum morphogenesis	PF00397
+561	Q9H0M0	0005737	cytoplasm	PF00168;PF00397;PF00632
+562	Q9H0M0	0005829	cytosol	PF00168;PF00397;PF00632
+563	Q9H0M0	0070062	extracellular exosome	PF00168;PF00397;PF00632
+564	Q9H0M0	0005634	nucleus	PF00168;PF00397;PF00632
+565	Q9H0M0	0005886	plasma membrane	PF00168;PF00397;PF00632
+566	Q9H0M0	0000151	ubiquitin ligase complex	PF00168;PF00397;PF00632
+567	Q9H0M0	0061630	ubiquitin protein ligase activity	PF00168;PF00397;PF00632
+568	Q9H0M0	0004842	ubiquitin-protein transferase activity	PF00168;PF00397;PF00632
+569	Q9H0M0	0007417	central nervous system development	PF00168;PF00397;PF00632
+570	Q9H0M0	0034220	ion transmembrane transport	PF00168;PF00397;PF00632
+571	Q9H0M0	0045892	negative regulation of transcription, DNA-templated	PF00168;PF00397;PF00632
+572	Q9H0M0	0045732	positive regulation of protein catabolic process	PF00168;PF00397;PF00632
+573	Q9H0M0	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
+574	Q9H0M0	0000209	protein polyubiquitination	PF00168;PF00397;PF00632
+575	Q9H0M0	0016567	protein ubiquitination	PF00168;PF00397;PF00632
+576	Q9H0M0	0007165	signal transduction	PF00168;PF00397;PF00632
+577	Q9H0M0	0006511	ubiquitin-dependent protein catabolic process	PF00168;PF00397;PF00632
+578	Q9H0M0	0046718	viral entry into host cell	PF00168;PF00397;PF00632
+579	O75400	0005829	cytosol	PF00397;PF01846
+580	O75400	0016020	membrane	PF00397;PF01846
+581	O75400	0016363	nuclear matrix	PF00397;PF01846
+582	O75400	0016607	nuclear speck	PF00397;PF01846
+583	O75400	0005654	nucleoplasm	PF00397;PF01846
+584	O75400	0005685	U1 snRNP	PF00397;PF01846
+585	O75400	0071004	U2-type prespliceosome	PF00397;PF01846
+586	O75400	0070064	proline-rich region binding	PF00397;PF01846
+587	O75400	0003723	RNA binding	PF00397;PF01846
+588	O75400	0007049	cell cycle	PF00397;PF01846
+589	O75400	0051301	cell division	PF00397;PF01846
+590	O75400	0016477	cell migration	PF00397;PF01846
+591	O75400	0007010	cytoskeleton organization	PF00397;PF01846
+592	O75400	0045292	mRNA cis splicing, via spliceosome	PF00397;PF01846
+593	O75400	0000398	mRNA splicing, via spliceosome	PF00397;PF01846
+594	O75400	0008360	regulation of cell shape	PF00397;PF01846
+595	O75400	0032465	regulation of cytokinesis	PF00397;PF01846
+596	O60828	0010494	cytoplasmic stress granule	PF00397;PF12237
+597	O60828	0005829	cytosol	PF00397;PF12237
+598	O60828	0071598	neuronal ribonucleoprotein granule	PF00397;PF12237
+599	O60828	0016607	nuclear speck	PF00397;PF12237
+600	O60828	0005654	nucleoplasm	PF00397;PF12237
+601	O60828	0005634	nucleus	PF00397;PF12237
+602	O60828	0003677	DNA binding	PF00397;PF12237
+603	O60828	0003690	double-stranded DNA binding	PF00397;PF12237
+604	O60828	0043021	ribonucleoprotein complex binding	PF00397;PF12237
+605	O60828	0003713	transcription coactivator activity	PF00397;PF12237
+606	O60828	0002218	activation of innate immune response	PF00397;PF12237
+607	O60828	0000380	alternative mRNA splicing, via spliceosome	PF00397;PF12237
+608	O60828	0071360	cellular response to exogenous dsRNA	PF00397;PF12237
+609	O60828	0051607	defense response to virus	PF00397;PF12237
+610	O60828	0045087	innate immune response	PF00397;PF12237
+611	O60828	0000398	mRNA splicing, via spliceosome	PF00397;PF12237
+612	O60828	0031175	neuron projection development	PF00397;PF12237
+613	O60828	0002230	positive regulation of defense response to virus by host	PF00397;PF12237
+614	O60828	0032481	positive regulation of type I interferon production	PF00397;PF12237
+615	O60828	0048814	regulation of dendrite morphogenesis	PF00397;PF12237
+616	O60828	0043484	regulation of RNA splicing	PF00397;PF12237
+617	O60828	0006355	regulation of transcription, DNA-templated	PF00397;PF12237
+618	Q9H4Z3	0045171	intercellular bridge	PF00397
+619	Q9H4Z3	0015630	microtubule cytoskeleton	PF00397
+620	Q9H4Z3	0005654	nucleoplasm	PF00397
+621	Q9H4Z3	0005634	nucleus	PF00397
+622	Q9H4Z3	0016422	mRNA (2'-O-methyladenosine-N6-)-methyltransferase activity	PF00397
+623	Q9H4Z3	0099122	RNA polymerase II C-terminal domain binding	PF00397
+624	Q9H4Z3	1904047	S-adenosyl-L-methionine binding	PF00397
+625	Q9H4Z3	0080009	mRNA methylation	PF00397
+626	Q9H4Z3	0010923	negative regulation of phosphatase activity	PF00397
+627	Q9H4Z3	0017148	negative regulation of translation	PF00397
+628	Q9H4Z3	0045727	positive regulation of translation	PF00397
+629	Q8IX03	0005737	cytoplasm	PF00397;PF01846
+630	Q8IX03	0005829	cytosol	PF00397;PF01846
+631	Q8IX03	0005634	nucleus	PF00397;PF01846
+632	Q8IX03	0048471	perinuclear region of cytoplasm	PF00397;PF01846
+633	Q8IX03	0032991	protein-containing complex	PF00397;PF01846
+634	Q8IX03	0032587	ruffle membrane	PF00397;PF01846
+635	Q8IX03	0019900	kinase binding	PF00397;PF01846
+636	Q8IX03	0060090	molecular adaptor activity	PF00397;PF01846
+637	Q8IX03	0003713	transcription coactivator activity	PF00397;PF01846
+638	Q8IX03	0016477	cell migration	PF00397;PF01846
+639	Q8IX03	0030010	establishment of cell polarity	PF00397;PF01846
+640	Q8IX03	0035329	hippo signaling	PF00397;PF01846
+641	Q8IX03	0035331	negative regulation of hippo signaling	PF00397;PF01846
+642	Q8IX03	0046621	negative regulation of organ growth	PF00397;PF01846
+643	Q8IX03	0000122	negative regulation of transcription by RNA polymerase II	PF00397;PF01846
+644	Q8IX03	0043410	positive regulation of MAPK cascade	PF00397;PF01846
+645	Q8IX03	0007221	positive regulation of transcription of Notch receptor target	PF00397;PF01846
+646	Q8IX03	0035330	regulation of hippo signaling	PF00397;PF01846
+647	Q8IX03	0032386	regulation of intracellular transport	PF00397;PF01846
+648	Q6NWY9	0016607	nuclear speck	PF00168;PF00397;PF00632
+649	Q6NWY9	0005685	U1 snRNP	PF00168;PF00397;PF00632
+650	Q6NWY9	0071004	U2-type prespliceosome	PF00168;PF00397;PF00632
+651	Q6NWY9	0003723	RNA binding	PF00168;PF00397;PF00632
+652	Q6NWY9	0045292	mRNA cis splicing, via spliceosome	PF00168;PF00397;PF00632
+653	Q6NWY9	0000398	mRNA splicing, via spliceosome	PF00168;PF00397;PF00632
+654	Q96PU5	0005623	cell	PF00397;PF00632
+655	Q96PU5	0005737	cytoplasm	PF00397;PF00632
+656	Q96PU5	0005829	cytosol	PF00397;PF00632
+657	Q96PU5	0070062	extracellular exosome	PF00397;PF00632
+658	Q96PU5	0005794	Golgi apparatus	PF00397;PF00632
+659	Q96PU5	0005771	multivesicular body	PF00397;PF00632
+660	Q96PU5	0005654	nucleoplasm	PF00397;PF00632
+661	Q96PU5	0044325	ion channel binding	PF00397;PF00632
+662	Q96PU5	0019870	potassium channel inhibitor activity	PF00397;PF00632
+663	Q96PU5	0015459	potassium channel regulator activity	PF00397;PF00632
+664	Q96PU5	0019871	sodium channel inhibitor activity	PF00397;PF00632
+665	Q96PU5	0017080	sodium channel regulator activity	PF00397;PF00632
+666	Q96PU5	0061630	ubiquitin protein ligase activity	PF00397;PF00632
+667	Q96PU5	0004842	ubiquitin-protein transferase activity	PF00397;PF00632
+668	Q96PU5	0006883	cellular sodium ion homeostasis	PF00397;PF00632
+669	Q96PU5	0007588	excretion	PF00397;PF00632
+670	Q96PU5	0034220	ion transmembrane transport	PF00397;PF00632
+671	Q96PU5	1901380	negative regulation of potassium ion transmembrane transport	PF00397;PF00632
+672	Q96PU5	1901017	negative regulation of potassium ion transmembrane transporter activity	PF00397;PF00632
+673	Q96PU5	2000009	negative regulation of protein localization to cell surface	PF00397;PF00632
+674	Q96PU5	1902306	negative regulation of sodium ion transmembrane transport	PF00397;PF00632
+675	Q96PU5	2000650	negative regulation of sodium ion transmembrane transporter activity	PF00397;PF00632
+676	Q96PU5	0000122	negative regulation of transcription by RNA polymerase II	PF00397;PF00632
+677	Q96PU5	2001288	positive regulation of caveolin-mediated endocytosis	PF00397;PF00632
+678	Q96PU5	1903861	positive regulation of dendrite extension	PF00397;PF00632
+679	Q96PU5	0045807	positive regulation of endocytosis	PF00397;PF00632
+680	Q96PU5	0045732	positive regulation of protein catabolic process	PF00397;PF00632
+681	Q96PU5	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00397;PF00632
+682	Q96PU5	0070936	protein K48-linked ubiquitination	PF00397;PF00632
+683	Q96PU5	0006513	protein monoubiquitination	PF00397;PF00632
+684	Q96PU5	0000209	protein polyubiquitination	PF00397;PF00632
+685	Q96PU5	0016567	protein ubiquitination	PF00397;PF00632
+686	Q96PU5	0048814	regulation of dendrite morphogenesis	PF00397;PF00632
+687	Q96PU5	0034765	regulation of ion transmembrane transport	PF00397;PF00632
+688	Q96PU5	0003254	regulation of membrane depolarization	PF00397;PF00632
+689	Q96PU5	0042391	regulation of membrane potential	PF00397;PF00632
+690	Q96PU5	0060306	regulation of membrane repolarization	PF00397;PF00632
+691	Q96PU5	1901016	regulation of potassium ion transmembrane transporter activity	PF00397;PF00632
+692	Q96PU5	0042176	regulation of protein catabolic process	PF00397;PF00632
+693	Q96PU5	0031647	regulation of protein stability	PF00397;PF00632
+694	Q96PU5	0010038	response to metal ion	PF00397;PF00632
+695	Q96PU5	0006814	sodium ion transport	PF00397;PF00632
+696	Q96PU5	0006511	ubiquitin-dependent protein catabolic process	PF00397;PF00632
+697	Q96PU5	0086005	ventricular cardiac muscle cell action potential	PF00397;PF00632
+698	Q96PU5	0019058	viral life cycle	PF00397;PF00632
+699	Q96PU5	0030104	water homeostasis	PF00397;PF00632
+700	Q9UPV0	0005814	centriole	PF00993;PF07654
+701	Q9UPV0	0005813	centrosome	PF00993;PF07654
+702	Q9UPV0	0097539	ciliary transition fiber	PF00993;PF07654
+703	Q9UPV0	0005829	cytosol	PF00993;PF07654
+704	Q9UPV0	0005615	extracellular space	PF00993;PF07654
+705	Q9UPV0	0043231	intracellular membrane-bounded organelle	PF00993;PF07654
+706	Q9UPV0	0005654	nucleoplasm	PF00993;PF07654
+707	Q9UPV0	0051301	cell division	PF00993;PF07654
+708	Q9UPV0	0097711	ciliary basal body-plasma membrane docking	PF00993;PF07654
+709	Q9UPV0	0060271	cilium assembly	PF00993;PF07654
+710	Q9UPV0	0006281	DNA repair	PF00993;PF07654
+711	Q9UPV0	0000086	G2/M transition of mitotic cell cycle	PF00993;PF07654
+712	Q9UPV0	0010389	regulation of G2/M transition of mitotic cell cycle	PF00993;PF07654
+713	P46934	0016327	apicolateral plasma membrane	PF00035
+714	P46934	0005938	cell cortex	PF00035
+715	P46934	0000785	chromatin	PF00035
+716	P46934	0005737	cytoplasm	PF00035
+717	P46934	0005829	cytosol	PF00035
+718	P46934	0043197	dendritic spine	PF00035
+719	P46934	0070062	extracellular exosome	PF00035
+720	P46934	0098978	glutamatergic synapse	PF00035
+721	P46934	0005794	Golgi apparatus	PF00035
+722	P46934	0048471	perinuclear region of cytoplasm	PF00035
+723	P46934	0005886	plasma membrane	PF00035
+724	P46934	0099524	postsynaptic cytosol	PF00035
+725	P46934	0000151	ubiquitin ligase complex	PF00035
+726	P46934	0031698	beta-2 adrenergic receptor binding	PF00035
+727	P46934	0019899	enzyme binding	PF00035
+728	P46934	0035255	ionotropic glutamate receptor binding	PF00035
+729	P46934	0050815	phosphoserine residue binding	PF00035
+730	P46934	0050816	phosphothreonine residue binding	PF00035
+731	P46934	0070064	proline-rich region binding	PF00035
+732	P46934	0019904	protein domain specific binding	PF00035
+733	P46934	0070063	RNA polymerase binding	PF00035
+734	P46934	0019871	sodium channel inhibitor activity	PF00035
+735	P46934	0043130	ubiquitin binding	PF00035
+736	P46934	0061630	ubiquitin protein ligase activity	PF00035
+737	P46934	0002250	adaptive immune response	PF00035
+738	P46934	0048514	blood vessel morphogenesis	PF00035
+739	P46934	0034644	cellular response to UV	PF00035
+740	P46934	0044111	development involved in symbiotic interaction	PF00035
+741	P46934	0003197	endocardial cushion development	PF00035
+742	P46934	0042921	glucocorticoid receptor signaling pathway	PF00035
+743	P46934	0007041	lysosomal transport	PF00035
+744	P46934	2000650	negative regulation of sodium ion transmembrane transporter activity	PF00035
+745	P46934	0010766	negative regulation of sodium ion transport	PF00035
+746	P46934	0010768	negative regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage	PF00035
+747	P46934	0030948	negative regulation of vascular endothelial growth factor receptor signaling pathway	PF00035
+748	P46934	0007528	neuromuscular junction development	PF00035
+749	P46934	0031175	neuron projection development	PF00035
+750	P46934	0003151	outflow tract morphogenesis	PF00035
+751	P46934	0046824	positive regulation of nucleocytoplasmic transport	PF00035
+752	P46934	0014068	positive regulation of phosphatidylinositol 3-kinase signaling	PF00035
+753	P46934	0045732	positive regulation of protein catabolic process	PF00035
+754	P46934	0050847	progesterone receptor signaling pathway	PF00035
+755	P46934	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00035
+756	P46934	0070534	protein K63-linked ubiquitination	PF00035
+757	P46934	0006513	protein monoubiquitination	PF00035
+758	P46934	0000209	protein polyubiquitination	PF00035
+759	P46934	0006622	protein targeting to lysosome	PF00035
+760	P46934	0016567	protein ubiquitination	PF00035
+761	P46934	0032801	receptor catabolic process	PF00035
+762	P46934	0031623	receptor internalization	PF00035
+763	P46934	0048814	regulation of dendrite morphogenesis	PF00035
+764	P46934	0034765	regulation of ion transmembrane transport	PF00035
+765	P46934	0016241	regulation of macroautophagy	PF00035
+766	P46934	0042391	regulation of membrane potential	PF00035
+767	P46934	1901016	regulation of potassium ion transmembrane transporter activity	PF00035
+768	P46934	0050807	regulation of synapse organization	PF00035
+769	P46934	0051592	response to calcium ion	PF00035
+770	P46934	0042110	T cell activation	PF00035
+771	P46934	0019089	transmission of virus	PF00035
+772	P46934	0006511	ubiquitin-dependent protein catabolic process	PF00035
+773	P46934	0043162	ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway	PF00035
+774	P01906	0030669	clathrin-coated endocytic vesicle membrane	PF00373;PF00595
+775	P01906	0030666	endocytic vesicle membrane	PF00373;PF00595
+776	P01906	0010008	endosome membrane	PF00373;PF00595
+777	P01906	0012507	ER to Golgi transport vesicle membrane	PF00373;PF00595
+778	P01906	0000139	Golgi membrane	PF00373;PF00595
+779	P01906	0071556	integral component of lumenal side of endoplasmic reticulum membrane	PF00373;PF00595
+780	P01906	0005887	integral component of plasma membrane	PF00373;PF00595
+781	P01906	0005765	lysosomal membrane	PF00373;PF00595
+782	P01906	0042613	MHC class II protein complex	PF00373;PF00595
+783	P01906	0005886	plasma membrane	PF00373;PF00595
+784	P01906	0032588	trans-Golgi network membrane	PF00373;PF00595
+785	P01906	0030658	transport vesicle membrane	PF00373;PF00595
+786	P01906	0032395	MHC class II receptor activity	PF00373;PF00595
+787	P01906	0002250	adaptive immune response	PF00373;PF00595
+788	P01906	0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II	PF00373;PF00595
+789	P01906	0006955	immune response	PF00373;PF00595
+790	P01906	0060333	interferon-gamma-mediated signaling pathway	PF00373;PF00595
+791	P01906	0050852	T cell receptor signaling pathway	PF00373;PF00595
+792	Q8WYQ5	0005737	cytoplasm	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+793	Q8WYQ5	0070877	microprocessor complex	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+794	Q8WYQ5	0005730	nucleolus	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+795	Q8WYQ5	0005654	nucleoplasm	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+796	Q8WYQ5	0005634	nucleus	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+797	Q8WYQ5	0003725	double-stranded RNA binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+798	Q8WYQ5	0020037	heme binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+799	Q8WYQ5	0042802	identical protein binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+800	Q8WYQ5	0046872	metal ion binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+801	Q8WYQ5	0070878	primary miRNA binding	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+802	Q8WYQ5	0042803	protein homodimerization activity	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+803	Q8WYQ5	0010586	miRNA metabolic process	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+804	Q8WYQ5	0031053	primary miRNA processing	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+805	Q8WYQ5	0090502	RNA phosphodiester bond hydrolysis, endonucleolytic	PF00307;PF00397;PF00435;PF00569;PF09068;PF09069
+806	Q14CM0	0030054	cell junction	PF00002;PF00354;PF01825
+807	Q14CM0	0005856	cytoskeleton	PF00002;PF00354;PF01825
+808	Q14CM0	0043197	dendritic spine	PF00002;PF00354;PF01825
+809	Q14CM0	0098978	glutamatergic synapse	PF00002;PF00354;PF01825
+810	Q14CM0	0014069	postsynaptic density	PF00002;PF00354;PF01825
+811	Q14CM0	0032991	protein-containing complex	PF00002;PF00354;PF01825
+812	Q14CM0	0005546	phosphatidylinositol-4,5-bisphosphate binding	PF00002;PF00354;PF01825
+813	Q14CM0	0051835	positive regulation of synapse structural plasticity	PF00002;PF00354;PF01825
+814	Q14CM0	0098974	postsynaptic actin cytoskeleton organization	PF00002;PF00354;PF01825
+815	P11532	0005623	cell	PF00397;PF00611;PF14604
+816	P11532	0009986	cell surface	PF00397;PF00611;PF14604
+817	P11532	0030055	cell-substrate junction	PF00397;PF00611;PF14604
+818	P11532	0043034	costamere	PF00397;PF00611;PF14604
+819	P11532	0005856	cytoskeleton	PF00397;PF00611;PF14604
+820	P11532	0005829	cytosol	PF00397;PF00611;PF14604
+821	P11532	0016010	dystrophin-associated glycoprotein complex	PF00397;PF00611;PF14604
+822	P11532	0030175	filopodium	PF00397;PF00611;PF14604
+823	P11532	0031527	filopodium membrane	PF00397;PF00611;PF14604
+824	P11532	0045121	membrane raft	PF00397;PF00611;PF14604
+825	P11532	0044306	neuron projection terminus	PF00397;PF00611;PF14604
+826	P11532	0005634	nucleus	PF00397;PF00611;PF14604
+827	P11532	0005886	plasma membrane	PF00397;PF00611;PF14604
+828	P11532	0045211	postsynaptic membrane	PF00397;PF00611;PF14604
+829	P11532	0032991	protein-containing complex	PF00397;PF00611;PF14604
+830	P11532	0042383	sarcolemma	PF00397;PF00611;PF14604
+831	P11532	0045202	synapse	PF00397;PF00611;PF14604
+832	P11532	0016013	syntrophin complex	PF00397;PF00611;PF14604
+833	P11532	0030018	Z disc	PF00397;PF00611;PF14604
+834	P11532	0003779	actin binding	PF00397;PF00611;PF14604
+835	P11532	0002162	dystroglycan binding	PF00397;PF00611;PF14604
+836	P11532	0017022	myosin binding	PF00397;PF00611;PF14604
+837	P11532	0050998	nitric-oxide synthase binding	PF00397;PF00611;PF14604
+838	P11532	0005200	structural constituent of cytoskeleton	PF00397;PF00611;PF14604
+839	P11532	0008307	structural constituent of muscle	PF00397;PF00611;PF14604
+840	P11532	0017166	vinculin binding	PF00397;PF00611;PF14604
+841	P11532	0008270	zinc ion binding	PF00397;PF00611;PF14604
+842	P11532	0086001	cardiac muscle cell action potential	PF00397;PF00611;PF14604
+843	P11532	0060048	cardiac muscle contraction	PF00397;PF00611;PF14604
+844	P11532	0034613	cellular protein localization	PF00397;PF00611;PF14604
+845	P11532	0034622	cellular protein-containing complex assembly	PF00397;PF00611;PF14604
+846	P11532	0044458	motile cilium assembly	PF00397;PF00611;PF14604
+847	P11532	0046716	muscle cell cellular homeostasis	PF00397;PF00611;PF14604
+848	P11532	0048747	muscle fiber development	PF00397;PF00611;PF14604
+849	P11532	0030049	muscle filament sliding	PF00397;PF00611;PF14604
+850	P11532	0007517	muscle organ development	PF00397;PF00611;PF14604
+851	P11532	1902083	negative regulation of peptidyl-cysteine S-nitrosylation	PF00397;PF00611;PF14604
+852	P11532	0033137	negative regulation of peptidyl-serine phosphorylation	PF00397;PF00611;PF14604
+853	P11532	0043043	peptide biosynthetic process	PF00397;PF00611;PF14604
+854	P11532	0045666	positive regulation of neuron differentiation	PF00397;PF00611;PF14604
+855	P11532	0010976	positive regulation of neuron projection development	PF00397;PF00611;PF14604
+856	P11532	2000651	positive regulation of sodium ion transmembrane transporter activity	PF00397;PF00611;PF14604
+857	P11532	0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	PF00397;PF00611;PF14604
+858	P11532	0090287	regulation of cellular response to growth factor stimulus	PF00397;PF00611;PF14604
+859	P11532	0002027	regulation of heart rate	PF00397;PF00611;PF14604
+860	P11532	0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	PF00397;PF00611;PF14604
+861	P11532	0060314	regulation of ryanodine-sensitive calcium-release channel activity	PF00397;PF00611;PF14604
+862	P11532	0014819	regulation of skeletal muscle contraction	PF00397;PF00611;PF14604
+863	P11532	0014809	regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion	PF00397;PF00611;PF14604
+864	P11532	1901385	regulation of voltage-gated calcium channel activity	PF00397;PF00611;PF14604
+865	P11532	0035994	response to muscle stretch	PF00397;PF00611;PF14604
+866	Q8IZF6	0016021	integral component of membrane	PF00397;PF02179
+867	Q8IZF6	0005887	integral component of plasma membrane	PF00397;PF02179
+868	Q8IZF6	0004930	G protein-coupled receptor activity	PF00397;PF02179
+869	Q8IZF6	0007189	adenylate cyclase-activating G protein-coupled receptor signaling pathway	PF00397;PF02179
+870	Q8IZF6	0007166	cell surface receptor signaling pathway	PF00397;PF02179
+871	Q8IZF6	0007186	G protein-coupled receptor signaling pathway	PF00397;PF02179
+872	O60861	0005737	cytoplasm	PF00397;PF00595;PF00625
+873	O60861	0005856	cytoskeleton	PF00397;PF00595;PF00625
+874	O60861	0005886	plasma membrane	PF00397;PF00595;PF00625
+875	O60861	0008092	cytoskeletal protein binding	PF00397;PF00595;PF00625
+876	O60861	0003700	DNA-binding transcription factor activity	PF00397;PF00595;PF00625
+877	O60861	0007050	cell cycle arrest	PF00397;PF00595;PF00625
+878	O60861	0030182	neuron differentiation	PF00397;PF00595;PF00625
+879	O60861	0048812	neuron projection morphogenesis	PF00397;PF00595;PF00625
+880	O95817	0016235	aggresome	PF00397;PF00640
+881	O95817	0005623	cell	PF00397;PF00640
+882	O95817	0101031	chaperone complex	PF00397;PF00640
+883	O95817	0005737	cytoplasm	PF00397;PF00640
+884	O95817	0005829	cytosol	PF00397;PF00640
+885	O95817	0043005	neuron projection	PF00397;PF00640
+886	O95817	0005634	nucleus	PF00397;PF00640
+887	O95817	0005886	plasma membrane	PF00397;PF00640
+888	O95817	0001725	stress fiber	PF00397;PF00640
+889	O95817	0030018	Z disc	PF00397;PF00640
+890	O95817	0000774	adenyl-nucleotide exchange factor activity	PF00397;PF00640
+891	O95817	0045296	cadherin binding	PF00397;PF00640
+892	O95817	0051087	chaperone binding	PF00397;PF00640
+893	O95817	0045505	dynein intermediate chain binding	PF00397;PF00640
+894	O95817	0044877	protein-containing complex binding	PF00397;PF00640
+895	O95817	0070842	aggresome assembly	PF00397;PF00640
+896	O95817	0000045	autophagosome assembly	PF00397;PF00640
+897	O95817	0007420	brain development	PF00397;PF00640
+898	O95817	0034605	cellular response to heat	PF00397;PF00640
+899	O95817	0071260	cellular response to mechanical stimulus	PF00397;PF00640
+900	O95817	0034620	cellular response to unfolded protein	PF00397;PF00640
+901	O95817	0061684	chaperone-mediated autophagy	PF00397;PF00640
+902	O95817	0072321	chaperone-mediated protein transport	PF00397;PF00640
+903	O95817	0097192	extrinsic apoptotic signaling pathway in absence of ligand	PF00397;PF00640
+904	O95817	0008625	extrinsic apoptotic signaling pathway via death domain receptors	PF00397;PF00640
+905	O95817	0046716	muscle cell cellular homeostasis	PF00397;PF00640
+906	O95817	0043066	negative regulation of apoptotic process	PF00397;PF00640
+907	O95817	1903215	negative regulation of protein targeting to mitochondrion	PF00397;PF00640
+908	O95817	0010664	negative regulation of striated muscle cell apoptotic process	PF00397;PF00640
+909	O95817	0097201	negative regulation of transcription from RNA polymerase II promoter in response to stress	PF00397;PF00640
+910	O95817	1905337	positive regulation of aggrephagy	PF00397;PF00640
+911	O95817	0046827	positive regulation of protein export from nucleus	PF00397;PF00640
+912	O95817	0042307	positive regulation of protein import into nucleus	PF00397;PF00640
+913	O95817	0006457	protein folding	PF00397;PF00640
+914	O95817	0050821	protein stabilization	PF00397;PF00640
+915	O95817	0098840	protein transport along microtubule	PF00397;PF00640
+916	O95817	1900034	regulation of cellular response to heat	PF00397;PF00640
+917	O95817	0021510	spinal cord development	PF00397;PF00640
+918	Q96QZ7	0005912	adherens junction	PF00168;PF00397;PF00632
+919	Q96QZ7	0005923	bicellular tight junction	PF00168;PF00397;PF00632
+920	Q96QZ7	0030054	cell junction	PF00168;PF00397;PF00632
+921	Q96QZ7	0071944	cell periphery	PF00168;PF00397;PF00632
+922	Q96QZ7	0042995	cell projection	PF00168;PF00397;PF00632
+923	Q96QZ7	0005911	cell-cell junction	PF00168;PF00397;PF00632
+924	Q96QZ7	0005737	cytoplasm	PF00168;PF00397;PF00632
+925	Q96QZ7	0005730	nucleolus	PF00168;PF00397;PF00632
+926	Q96QZ7	0005654	nucleoplasm	PF00168;PF00397;PF00632
+927	Q96QZ7	0005886	plasma membrane	PF00168;PF00397;PF00632
+928	Q96QZ7	0051393	alpha-actinin binding	PF00168;PF00397;PF00632
+929	Q96QZ7	0005524	ATP binding	PF00168;PF00397;PF00632
+930	Q96QZ7	0060090	molecular adaptor activity	PF00168;PF00397;PF00632
+931	Q96QZ7	0008022	protein C-terminus binding	PF00168;PF00397;PF00632
+932	Q96QZ7	0007155	cell adhesion	PF00168;PF00397;PF00632
+933	Q96QZ7	0007166	cell surface receptor signaling pathway	PF00168;PF00397;PF00632
+934	Q96QZ7	0022409	positive regulation of cell-cell adhesion	PF00168;PF00397;PF00632
+935	Q96QZ7	0065003	protein-containing complex assembly	PF00168;PF00397;PF00632
+936	Q96QZ7	0007165	signal transduction	PF00168;PF00397;PF00632
+937	O00213	0005737	cytoplasm	PF00640
+938	O00213	0043197	dendritic spine	PF00640
+939	O00213	0005783	endoplasmic reticulum	PF00640
+940	O00213	0030426	growth cone	PF00640
+941	O00213	1990812	growth cone filopodium	PF00640
+942	O00213	1990761	growth cone lamellipodium	PF00640
+943	O00213	0030027	lamellipodium	PF00640
+944	O00213	0044304	main axon	PF00640
+945	O00213	0043025	neuronal cell body	PF00640
+946	O00213	0016607	nuclear speck	PF00640
+947	O00213	0005654	nucleoplasm	PF00640
+948	O00213	0005634	nucleus	PF00640
+949	O00213	0048471	perinuclear region of cytoplasm	PF00640
+950	O00213	0005886	plasma membrane	PF00640
+951	O00213	0045211	postsynaptic membrane	PF00640
+952	O00213	0042734	presynaptic membrane	PF00640
+953	O00213	0032991	protein-containing complex	PF00640
+954	O00213	0045202	synapse	PF00640
+955	O00213	0001540	amyloid-beta binding	PF00640
+956	O00213	0003682	chromatin binding	PF00640
+957	O00213	0042393	histone binding	PF00640
+958	O00213	0070064	proline-rich region binding	PF00640
+959	O00213	0044877	protein-containing complex binding	PF00640
+960	O00213	0048156	tau protein binding	PF00640
+961	O00213	0008134	transcription factor binding	PF00640
+962	O00213	0031625	ubiquitin protein ligase binding	PF00640
+963	O00213	0006915	apoptotic process	PF00640
+964	O00213	0007409	axonogenesis	PF00640
+965	O00213	0007050	cell cycle arrest	PF00640
+966	O00213	0006974	cellular response to DNA damage stimulus	PF00640
+967	O00213	0006302	double-strand break repair	PF00640
+968	O00213	0043967	histone H4 acetylation	PF00640
+969	O00213	0030308	negative regulation of cell growth	PF00640
+970	O00213	0050760	negative regulation of thymidylate synthase biosynthetic process	PF00640
+971	O00213	0000122	negative regulation of transcription by RNA polymerase II	PF00640
+972	O00213	0043065	positive regulation of apoptotic process	PF00640
+973	O00213	0045739	positive regulation of DNA repair	PF00640
+974	O00213	0010976	positive regulation of neuron projection development	PF00640
+975	O00213	0050714	positive regulation of protein secretion	PF00640
+976	O00213	0045944	positive regulation of transcription by RNA polymerase II	PF00640
+977	O00213	0045893	positive regulation of transcription, DNA-templated	PF00640
+978	O00213	0006355	regulation of transcription, DNA-templated	PF00640
+979	O00213	0010039	response to iron ion	PF00640
+980	O00213	0007165	signal transduction	PF00640
+981	Q96J02	0005737	cytoplasm	PF00397;PF00640
+982	Q96J02	0005829	cytosol	PF00397;PF00640
+983	Q96J02	0031901	early endosome membrane	PF00397;PF00640
+984	Q96J02	0070062	extracellular exosome	PF00397;PF00640
+985	Q96J02	0043231	intracellular membrane-bounded organelle	PF00397;PF00640
+986	Q96J02	0016020	membrane	PF00397;PF00640
+987	Q96J02	0005654	nucleoplasm	PF00397;PF00640
+988	Q96J02	0005886	plasma membrane	PF00397;PF00640
+989	Q96J02	0032991	protein-containing complex	PF00397;PF00640
+990	Q96J02	1990763	arrestin family protein binding	PF00397;PF00640
+991	Q96J02	0045236	CXCR chemokine receptor binding	PF00397;PF00640
+992	Q96J02	0043021	ribonucleoprotein complex binding	PF00397;PF00640
+993	Q96J02	0061630	ubiquitin protein ligase activity	PF00397;PF00640
+994	Q96J02	0044389	ubiquitin-like protein ligase binding	PF00397;PF00640
+995	Q96J02	0004842	ubiquitin-protein transferase activity	PF00397;PF00640
+996	Q96J02	0006915	apoptotic process	PF00397;PF00640
+997	Q96J02	0051607	defense response to virus	PF00397;PF00640
+998	Q96J02	0006954	inflammatory response	PF00397;PF00640
+999	Q96J02	0045087	innate immune response	PF00397;PF00640
+1000	Q96J02	0043066	negative regulation of apoptotic process	PF00397;PF00640
+1001	Q96J02	0050687	negative regulation of defense response to virus	PF00397;PF00640
+1002	Q96J02	0046329	negative regulation of JNK cascade	PF00397;PF00640
+1003	Q96J02	0032088	negative regulation of NF-kappaB transcription factor activity	PF00397;PF00640
+1004	Q96J02	0032480	negative regulation of type I interferon production	PF00397;PF00640
+1005	Q96J02	0007219	Notch signaling pathway	PF00397;PF00640
+1006	Q96J02	0070423	nucleotide-binding oligomerization domain containing signaling pathway	PF00397;PF00640
+1007	Q96J02	0045732	positive regulation of protein catabolic process	PF00397;PF00640
+1008	Q96J02	2000646	positive regulation of receptor catabolic process	PF00397;PF00640
+1009	Q96J02	0043161	proteasome-mediated ubiquitin-dependent protein catabolic process	PF00397;PF00640
+1010	Q96J02	0051865	protein autoubiquitination	PF00397;PF00640
+1011	Q96J02	0035519	protein K29-linked ubiquitination	PF00397;PF00640
+1012	Q96J02	0070936	protein K48-linked ubiquitination	PF00397;PF00640
+1013	Q96J02	0070534	protein K63-linked ubiquitination	PF00397;PF00640
+1014	Q96J02	0000209	protein polyubiquitination	PF00397;PF00640
+1015	Q96J02	0016567	protein ubiquitination	PF00397;PF00640
+1016	Q96J02	0001558	regulation of cell growth	PF00397;PF00640
+1017	Q96J02	1902036	regulation of hematopoietic stem cell differentiation	PF00397;PF00640
+1018	Q96J02	0090085	regulation of protein deubiquitination	PF00397;PF00640
+1019	Q96J02	0006511	ubiquitin-dependent protein catabolic process	PF00397;PF00640
+1020	Q96J02	0046718	viral entry into host cell	PF00397;PF00640
+1021	O95704	0015629	actin cytoskeleton	PF00397;PF00435;PF00569;PF09068;PF09069
+1022	O95704	0005737	cytoplasm	PF00397;PF00435;PF00569;PF09068;PF09069
+1023	O95704	0005829	cytosol	PF00397;PF00435;PF00569;PF09068;PF09069
+1024	O95704	0005634	nucleus	PF00397;PF00435;PF00569;PF09068;PF09069
+1025	O95704	0001540	amyloid-beta binding	PF00397;PF00435;PF00569;PF09068;PF09069
+1026	O95704	0008134	transcription factor binding	PF00397;PF00435;PF00569;PF09068;PF09069
+1027	O95704	0006355	regulation of transcription, DNA-templated	PF00397;PF00435;PF00569;PF09068;PF09069

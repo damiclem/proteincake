@@ -57,7 +57,7 @@ if __name__ == '__main__':
     # 1. Define arguments
     parser = argparse.ArgumentParser()
     ### Paths of the two dataframe that must be compared
-    parser.add_argument('--original_df_path',     type=str,   default='data/results/ensemble.tsv')
+    parser.add_argument('--original_df_path',     type=str,   default='data/results/jackhmmer.tsv')
     parser.add_argument('--do_df_path',           type=str,   default='data/do/do.csv')
     parser.add_argument('--mapping_df_path',      type=str,   default='data/pdb/pdb_chain_uniprot.tsv')
     parser.add_argument('--human_df_path',        type=str,   default='data/human.csv')

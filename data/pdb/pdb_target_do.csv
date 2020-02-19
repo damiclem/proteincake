@@ -1,61 +1,28 @@
 	entry_ac	do_id	name	descr
-3038	Q9HAU0	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3185	Q9GZV5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3714	Q9HCE7	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-3906	Q9BYW2	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 4820	P31947	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-7676	P68431	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-8335	P84243	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8346	Q9NZC7	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-11342	Q9HAU4	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11425	O15105	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11426	Q15797	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
-12769	P68431	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13881	P31947	3298	vaccinia	A viral infectious disease that results_in infection, located_in skin, has_material_basis_in Vaccinia virus, which is used as a live vaccine against smallpox. The virus is transmitted_by contact with the vaccination site before it has healed, or transmitted_by fomites that have been contaminated with live virus from the vaccination site. The infection has_symptom rash, has_symptom fever, and has_symptom body aches.
 14282	Q9NZC7	10283	prostate cancer	A male reproductive organ cancer that is located_in the prostate.
-14549	Q9BYW2	9256	colorectal cancer	A large intestine cancer that is located_in the colon and/or located_in the rectum.
 14561	P31947	9256	colorectal cancer	A large intestine cancer that is located_in the colon and/or located_in the rectum.
 14718	O15105	9256	colorectal cancer	A large intestine cancer that is located_in the colon and/or located_in the rectum.
 15344	Q9NZC7	3459	breast carcinoma	A breast cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
-15935	Q9BYW2	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
-16312	Q9BYW2	0060041	autism spectrum disorder	A pervasive developmental disorder that is a spectrum of psychological conditions. The disease has_symptom widespread abnormalities of social interactions and communication, has_symptom severely restricted interests and has_symptom highly repetitive behavior.
 16829	Q9NZC7	2394	ovarian cancer	A female reproductive organ cancer that is located_in the ovary.
 17111	Q9NZC7	305	carcinoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
 17436	Q9NZC7	1793	pancreatic cancer	An endocrine gland cancer located_in the pancreas.
 17481	Q15797	1793	pancreatic cancer	An endocrine gland cancer located_in the pancreas.
-18727	Q9HAU0	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
-19092	Q9BYW2	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
-20047	P68431	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
-20173	P84243	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 20192	Q9NZC7	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
-22555	Q9BYW2	9970	obesity	An overnutrition that is characterized by excess body fat, traditionally defined as an elevated ratio of weight to height (specifically 30 kilograms per meter squared), has_material_basis_in a multifactorial etiology related to excess nutrition intake, decreased caloric utilization, and genetic susceptibility, and possibly medications and certain disorders of metabolism, endocrine function, and mental illness.
-26384	P68431	1826	epilepsy	A brain disease that is characterized by the occurrance of at least two unprovoked seizures resulting from a persistent epileptogenic abnormality of the brain that is able to spontaneously generate paroxysmal activity and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions.
-26418	P84243	1826	epilepsy	A brain disease that is characterized by the occurrance of at least two unprovoked seizures resulting from a persistent epileptogenic abnormality of the brain that is able to spontaneously generate paroxysmal activity and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions.
 26420	Q9NZC7	1826	epilepsy	A brain disease that is characterized by the occurrance of at least two unprovoked seizures resulting from a persistent epileptogenic abnormality of the brain that is able to spontaneously generate paroxysmal activity and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions.
 27847	P31947	14330	Parkinson's disease	A synucleinopathy that has_material_basis_in degeneration of the central nervous system that often impairs motor skills, speech, and other functions.
-27995	P0CG47	14330	Parkinson's disease	A synucleinopathy that has_material_basis_in degeneration of the central nervous system that often impairs motor skills, speech, and other functions.
 28304	Q9NZC7	1324	lung cancer	A respiratory system cancer that is located_in the lung.
 28495	P31947	326	ischemia	A vascular disease that is characterized by a restriction in blood supply to tissues.
-29855	P0CG47	1289	neurodegenerative disease	A central nervous system disease that results in the progressive deterioration of function or structure of neurons.
 30178	P31947	10933	obsessive-compulsive disorder	An anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions).
 33722	Q9NZC7	9538	multiple myeloma	A myeloid neoplasm that is located in the plasma cells in bone marrow.
-34088	P0CG47	14250	Down syndrome	A chromosomal disease that is characterized by flat-looking facial features and weak muscle tone (hypotonia) in infancy and is caused by trisomy of all or a critical portion of chromosome 21 and is associated with intellectual disability.
-34354	Q9BYW2	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
-35998	Q9BYW2	12603	acute leukemia	A leukemia that occurs when a hematopoietic stem cell undergoes malignant transformation into a primitive, undifferentiated cell with abnormal longevity. These lymphocytes (acute lymphocytic leukemia [ALL]) or myeloid cells (acute myelocytic leukemia [AML]) proliferate abnormally, replacing normal marrow tissue and hematopoietic cells and inducing anemia, thrombocytopenia, and granulocytopenia.
-36707	P0CG47	10652	Alzheimer's disease	A tauopathy that is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability and results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
 37639	Q9NZC7	3717	gastric adenocarcinoma	A stomach carcinoma that derives_from epithelial cells of glandular origin.
 39465	Q9NZC7	4074	pancreatic adenocarcinoma	A pancreatic carcinoma that derives_from epithelial cells of glandular origin.
 39955	Q9HCE7	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
 41470	P31947	2237	hepatitis	
-42214	Q9BYW2	263	kidney cancer	A urinary system cancer that is located_in the kidney.
-42698	P0CG47	9255	frontotemporal dementia	A dementia characterized by progressive neuronal loss predominantly involving the frontal and/or temporal lobes of the brain resulting in a gradual and progressive decline in behavior or language.
-42750	Q9BYW2	14748	Sotos syndrome	An autosomal recessive disease that occurs rarely and is characterized by excessive physical growth during the first 2 to 3 years of life.
-42925	P0CG47	0050771	pheochromocytoma	An endocrine organ benign neoplasm that arises within the adrenal medulla, releasing epinephrines and norepinephrines hormones that cause either episodic or persistent high blood pressure.
-43044	Q9BYW2	14731	Weaver syndrome	A syndrome that is characterized by prenatal and postnatal overgrowth, accelerated osseous maturation, characteristic craniofacial appearance, and developmental delay and has_material_basis_in heterozygous mutation in the EZH2 gene on chromosome 7q36.
-43532	Q9BYW2	4467	clear cell renal cell carcinoma	A renal cell carcinoma that has_material_basis_in cells that appear very pale or clear when examined under microscope.
 44344	Q9NZC7	8466	retinal degeneration	A retinal disease that is characterized by deterioration of the retina caused by the progressive and eventual death of the cells of the retina.
-45791	P68431	1837	diabetic ketoacidosis	
-45806	P84243	1837	diabetic ketoacidosis	
-45976	P0CG47	4752	multiple system atrophy	
-46519	P0CG47	678	progressive supranuclear palsy	A movement disease that is characterized by serious and progressive problems with control of gait and balance, along with complex eye movement and thinking problems. It involves gradual deterioration and death of specific volumes of the brain.
-48803	P84243	2649	chondroblastoma	

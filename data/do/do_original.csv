@@ -6,6 +6,7 @@
 961	Q96PU5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1242	Q9UPV0	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1292	Q92870	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+1298	Q8WYQ5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1705	Q6IQ23	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1724	Q13526	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1824	Q8N3X1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -38,6 +39,7 @@
 8346	Q9NZC7	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9499	O15428	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9912	Q6ZWJ1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+10253	Q5VWI1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10436	Q96J02	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10437	Q9H0M0	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10539	Q6ZUM4	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -81,6 +83,7 @@
 17813	P46934	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17825	Q96PU5	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17974	Q92870	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+17976	Q8WYQ5	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18155	Q6IQ23	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18210	Q8N3X1	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18461	Q5TCQ9	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
@@ -179,6 +182,8 @@
 44344	Q9NZC7	8466	retinal degeneration	A retinal disease that is characterized by deterioration of the retina caused by the progressive and eventual death of the cells of the retina.
 44539	O95817	7319	axonal neuropathy	
 44620	O60828	0050954	spinocerebellar ataxia type 1	An autosomal dominant cerebellar ataxia that is characterized by ataxia, dysarthria, dysphagia, dystonia and peripheral neuropathy that begins in early adulthood, has_material_basis_in the expanded (CAG)n trinucleotide repeat of ataxin-1 gene on chromosome 6p22.
+44654	Q8WYQ5	12583	velocardiofacial syndrome	A chromosomal disease that has_material_basis_in deletion polymorphisms at chromosome location 22q11 and is characterized by variable developmental problems and schizoid features.
+44667	Q8WYQ5	11198	DiGeorge syndrome	A T cell deficiency disease that is the result of a large deletion of chromosome 22 which includes the DGS gene needed for development of the thymus and related glands with subsequent lack of T-cell production.
 45331	Q13526	2583	agammaglobulinemia	A B cell deficiency that is caused by a reduction in all types of gamma globulins.
 45365	Q8IX03	8712	neurofibromatosis	
 45828	P46937	10017	multiple endocrine neoplasia type 1	An autosomal dominant disease that has_material_basis_in a mutation in the MEN1 tumor suppressor gene and is characterized by over active endocrine glands frequently involving tumors of the parathyroid glands, the pituitary gland, and the pancreas.

@@ -44,7 +44,7 @@ if __name__ == '__main__':
 
     # Define arguments
     parser = argparse.ArgumentParser()
-
+    
     parser.add_argument('--original_path',     type=str,   default='data/architecture/do_architectures/architecture_background.csv')
     parser.add_argument('--do_path',           type=str,   default='data/do/do.csv')
     parser.add_argument('--out_path',          type=str,   default='data/architecture/do_architectures/')

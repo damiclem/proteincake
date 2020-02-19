@@ -27,21 +27,17 @@
 145023	P46939	0001954	positive regulation of cell-matrix adhesion
 145024	P46939	2000649	regulation of sodium ion transmembrane transporter activity
 145025	P46939	0014894	response to denervation involved in regulation of muscle adaptation
-185107	P01906	0030669	clathrin-coated endocytic vesicle membrane
-185108	P01906	0030666	endocytic vesicle membrane
-185109	P01906	0010008	endosome membrane
-185110	P01906	0012507	ER to Golgi transport vesicle membrane
-185111	P01906	0000139	Golgi membrane
-185112	P01906	0071556	integral component of lumenal side of endoplasmic reticulum membrane
-185113	P01906	0005887	integral component of plasma membrane
-185114	P01906	0005765	lysosomal membrane
-185115	P01906	0042613	MHC class II protein complex
-185116	P01906	0005886	plasma membrane
-185117	P01906	0032588	trans-Golgi network membrane
-185118	P01906	0030658	transport vesicle membrane
-185119	P01906	0032395	MHC class II receptor activity
-185120	P01906	0002250	adaptive immune response
-185121	P01906	0019886	antigen processing and presentation of exogenous peptide antigen via MHC class II
-185122	P01906	0006955	immune response
-185123	P01906	0060333	interferon-gamma-mediated signaling pathway
-185124	P01906	0050852	T cell receptor signaling pathway
+186694	Q8WYQ5	0005737	cytoplasm
+186695	Q8WYQ5	0070877	microprocessor complex
+186696	Q8WYQ5	0005730	nucleolus
+186697	Q8WYQ5	0005654	nucleoplasm
+186698	Q8WYQ5	0005634	nucleus
+186699	Q8WYQ5	0003725	double-stranded RNA binding
+186700	Q8WYQ5	0020037	heme binding
+186701	Q8WYQ5	0042802	identical protein binding
+186702	Q8WYQ5	0046872	metal ion binding
+186703	Q8WYQ5	0070878	primary miRNA binding
+186704	Q8WYQ5	0042803	protein homodimerization activity
+186705	Q8WYQ5	0010586	miRNA metabolic process
+186706	Q8WYQ5	0031053	primary miRNA processing
+186707	Q8WYQ5	0090502	RNA phosphodiester bond hydrolysis, endonucleolytic

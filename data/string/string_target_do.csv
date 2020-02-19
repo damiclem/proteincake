@@ -23,6 +23,7 @@
 295	295	Q6PGQ7	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
 305	305	P15374	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
 308	308	P61960	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
+310	310	Q08999	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
 313	313	Q9UGL1	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
 325	325	P29375	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
 328	328	P25788	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
@@ -44,6 +45,7 @@
 389	389	Q7Z6E9	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
 394	394	Q96FV9	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
 397	397	P84022	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
+411	411	P78346	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
 412	412	P62195	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
 415	415	P62136	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
 416	416	P00519	768	retinoblastoma	A retinal cell cancer and malignant neoplasm of retina and neuroblastoma and neuroendocrine tumors that derives_from the tissues of the retina.
@@ -96,10 +98,12 @@
 876	876	Q9NR48	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 882	882	Q9P2N7	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 884	884	Q14204	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+896	896	Q08999	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 898	898	Q8WZ42	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 906	906	O14818	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 917	917	Q9BTA9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 934	934	P46934	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+944	944	Q99575	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 949	949	Q7RTV0	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 951	951	Q96QE2	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 955	955	P30307	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -135,6 +139,7 @@
 1106	1106	Q9UM13	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1111	1111	P31943	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1112	1112	O94913	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+1123	1123	Q9UKV8	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1125	1125	P31751	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1131	1131	P63104	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1161	1161	P35221	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -155,8 +160,10 @@
 1279	1279	P09496	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1291	1291	Q9UQN3	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1292	1292	Q92870	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+1298	1298	Q8WYQ5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1311	1311	Q12996	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1331	1331	Q15052	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+1345	1345	Q9H9G7	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1352	1352	Q15717	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1360	1360	P40306	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1367	1367	Q6P2Q9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -192,6 +199,7 @@
 1591	1591	Q9BYG5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1593	1593	P25786	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1595	1595	O00231	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+1602	1602	O15091	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1606	1606	Q15366	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1610	1610	Q8TF01	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1615	1615	P10243	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -217,6 +225,7 @@
 1719	1719	P49841	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1724	1724	Q13526	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1750	1750	O15379	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+1756	1756	P55265	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1767	1767	Q8NI35	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1769	1769	Q96AX9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 1777	1777	P05412	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -328,6 +337,7 @@
 2518	2518	Q92585	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 2523	2523	Q9UJW0	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 2529	2529	P11532	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+2532	2532	Q9UPY3	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 2540	2540	Q92754	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 2543	2543	Q14315	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 2552	2552	Q8WYA6	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -379,6 +389,7 @@
 2918	2918	Q9NXR1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 2929	2929	Q9BUJ2	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 2934	2934	P15531	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+2935	2935	O75569	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 2942	2942	P0DMV8	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 2946	2946	Q9NSK0	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 2947	2947	O43390	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -389,6 +400,7 @@
 2978	2978	Q15154	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 2988	2988	P62937	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3001	3001	P48426	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+3007	3007	O95707	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3025	3025	O00487	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3038	3038	Q9HAU0	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3043	3043	P09651	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -412,6 +424,7 @@
 3152	3152	Q9Y3F4	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3156	3156	Q13242	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3169	3169	Q8ND25	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+3182	3182	Q7L0Y3	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3183	3183	P62995	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3185	3185	Q9GZV5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3188	3188	P18583	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -459,6 +472,7 @@
 3495	3495	O43660	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3498	3498	Q99638	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3508	3508	P04049	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+3510	3510	P78345	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3516	3516	Q99576	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3521	3521	Q96B97	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 3529	3529	O60934	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -592,6 +606,7 @@
 4421	4421	Q07955	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 4424	4424	Q8NI27	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 4431	4431	Q9BRR9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+4434	4434	Q9NRR4	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 4436	4436	P35249	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 4447	4447	P51991	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 4458	4458	Q01130	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -627,6 +642,7 @@
 4631	4631	Q9Y2R2	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 4639	4639	Q9Y388	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 4642	4642	O75943	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+4667	4667	P78346	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 4670	4670	Q13424	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 4680	4680	Q9BZI7	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 4685	4685	Q6KC79	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -705,6 +721,7 @@
 5188	5188	Q86UW9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 5194	5194	Q09472	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 5196	5196	P42566	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+5199	5199	Q92945	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 5200	5200	Q969U6	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 5202	5202	Q9UM11	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 5205	5205	Q8TEK3	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -761,6 +778,7 @@
 5593	5593	Q8WVD3	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 5595	5595	Q92783	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 5607	5607	Q05397	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+5608	5608	Q92841	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 5609	5609	P35637	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 5620	5620	O43237	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 5622	5622	P10071	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -923,13 +941,16 @@
 7946	7946	O60260	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 7953	7953	O00141	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 7959	7959	Q9BWJ5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+7966	7966	Q9H633	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 7967	7967	Q9UDY6	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8028	8028	Q9Y333	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8035	8035	Q13950	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+8055	8055	O75818	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8073	8073	Q8TC41	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8074	8074	Q8N6D2	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8083	8083	Q12899	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8096	8096	Q8N8G2	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+8105	8105	Q9HAV4	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8109	8109	Q9NP79	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8143	8143	P29279	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8206	8206	Q7Z6J8	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -961,6 +982,7 @@
 8422	8422	P08069	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8430	8430	P45983	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8438	8438	Q9NS23	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+8448	8448	O75460	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8451	8451	P07947	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8459	8459	O14965	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8461	8461	Q13705	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -982,6 +1004,7 @@
 8606	8606	Q13753	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8610	8610	Q9Y2M5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8620	8620	O15350	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+8664	8664	Q9HCK5	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8679	8679	Q9Y6Y1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8705	8705	Q9H4M3	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 8771	8771	P78508	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -1041,6 +1064,7 @@
 9585	9585	Q7Z7E8	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9598	9598	P08134	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9629	9629	Q13395	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+9695	9695	Q9UL18	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9697	9697	Q8WXJ9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9728	9728	O00468	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9734	9734	P68133	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -1057,6 +1081,7 @@
 9892	9892	Q9Y6K9	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9901	9901	P14635	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9903	9903	Q9BT25	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+9908	9908	Q969H6	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9909	9909	Q8TBX8	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9911	9911	Q7Z3V4	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 9912	9912	Q6ZWJ1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -1082,6 +1107,7 @@
 10223	10223	P15153	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10229	10229	Q13485	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10236	10236	Q9NQB0	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+10253	10253	Q5VWI1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10264	10264	P04637	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10350	10350	Q92830	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10352	10352	Q01469	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -1126,6 +1152,7 @@
 10825	10825	P48061	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10846	10846	P36402	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10854	10854	P24385	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+10861	10861	Q9H8H0	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10862	10862	Q8IUD6	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10865	10865	Q9UMS4	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 10868	10868	P01137	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -1150,6 +1177,7 @@
 11137	11137	P14678	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11151	11151	Q13191	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11153	11153	Q96A44	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+11154	11154	Q96J94	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11161	11161	P68036	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11167	11167	P07858	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11169	11169	Q9Y3I1	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -1187,6 +1215,7 @@
 11426	11426	Q15797	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11427	11427	Q99717	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11428	11428	O43541	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
+11460	11460	Q7Z3Z4	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11482	11482	P49459	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11495	11495	O94844	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
 11566	11566	Q9Y508	162	cancer	A disease of cellular proliferation that is malignant and primary, characterized by uncontrolled cellular proliferation, local cell invasion and metastasis.
@@ -1329,13 +1358,16 @@
 13039	13039	O60260	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13046	13046	O00141	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13052	13052	Q9BWJ5	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
+13059	13059	Q9H633	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13060	13060	Q9UDY6	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13121	13121	Q9Y333	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13128	13128	Q13950	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
+13148	13148	O75818	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13166	13166	Q8TC41	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13167	13167	Q8N6D2	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13176	13176	Q12899	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13189	13189	Q8N8G2	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
+13198	13198	Q9HAV4	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13202	13202	Q9NP79	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13236	13236	P29279	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
 13299	13299	Q7Z6J8	5419	schizophrenia	A psychotic disorder that is characterized by a disintegration of thought processes and of emotional responsiveness.
@@ -1497,6 +1529,7 @@
 14486	14486	P06748	9256	colorectal cancer	A large intestine cancer that is located_in the colon and/or located_in the rectum.
 14492	14492	P47755	9256	colorectal cancer	A large intestine cancer that is located_in the colon and/or located_in the rectum.
 14498	14498	P49841	9256	colorectal cancer	A large intestine cancer that is located_in the colon and/or located_in the rectum.
+14500	14500	P55265	9256	colorectal cancer	A large intestine cancer that is located_in the colon and/or located_in the rectum.
 14502	14502	P29590	9256	colorectal cancer	A large intestine cancer that is located_in the colon and/or located_in the rectum.
 14508	14508	P38646	9256	colorectal cancer	A large intestine cancer that is located_in the colon and/or located_in the rectum.
 14511	14511	Q15691	9256	colorectal cancer	A large intestine cancer that is located_in the colon and/or located_in the rectum.
@@ -1644,6 +1677,7 @@
 15515	15515	Q13618	219	colon cancer	A colorectal cancer that is located_in the colon.
 15516	15516	Q9UM11	219	colon cancer	A colorectal cancer that is located_in the colon.
 15526	15526	Q05397	219	colon cancer	A colorectal cancer that is located_in the colon.
+15527	15527	Q92841	219	colon cancer	A colorectal cancer that is located_in the colon.
 15528	15528	P16234	219	colon cancer	A colorectal cancer that is located_in the colon.
 15531	15531	Q9UJU2	219	colon cancer	A colorectal cancer that is located_in the colon.
 15540	15540	P12830	219	colon cancer	A colorectal cancer that is located_in the colon.
@@ -1666,6 +1700,7 @@
 15736	15736	Q8WXH4	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 15747	15747	Q9P2N7	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 15752	15752	Q14204	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
+15767	15767	Q08999	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 15770	15770	Q8WZ42	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 15781	15781	O14818	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 15795	15795	Q9BTA9	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
@@ -1706,6 +1741,7 @@
 15999	15999	Q66GS9	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 16003	16003	Q13618	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 16004	16004	Q09472	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
+16006	16006	Q92945	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 16016	16016	Q9NVW2	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 16019	16019	Q9P2K1	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 16020	16020	P98164	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
@@ -1728,6 +1764,7 @@
 16208	16208	P51571	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 16216	16216	Q14332	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 16221	16221	Q9UKT7	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
+16225	16225	Q99714	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 16232	16232	Q96GX1	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 16239	16239	Q9Y698	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
 16243	16243	O14775	1059	intellectual disability	A specific developmental disorder that involves significant limitations both in mental functioning and in adaptive behavior such as communicating, taking care of him or herself, and social skills.
@@ -1955,6 +1992,7 @@
 17713	17713	Q93034	2962	Cockayne syndrome	An autosomal recessive disease that has_material_basis_in rare mutations in two DNA excision repair proteins, ERCC-8 and ERCC-6, and characterized by growth failure, impaired development of the nervous system, abnormal sensitivity to sunlight (photosensitivity), and premature aging.
 17716	17716	P17844	2962	Cockayne syndrome	An autosomal recessive disease that has_material_basis_in rare mutations in two DNA excision repair proteins, ERCC-8 and ERCC-6, and characterized by growth failure, impaired development of the nervous system, abnormal sensitivity to sunlight (photosensitivity), and premature aging.
 17717	17717	Q9UNS2	2962	Cockayne syndrome	An autosomal recessive disease that has_material_basis_in rare mutations in two DNA excision repair proteins, ERCC-8 and ERCC-6, and characterized by growth failure, impaired development of the nervous system, abnormal sensitivity to sunlight (photosensitivity), and premature aging.
+17719	17719	Q92841	2962	Cockayne syndrome	An autosomal recessive disease that has_material_basis_in rare mutations in two DNA excision repair proteins, ERCC-8 and ERCC-6, and characterized by growth failure, impaired development of the nervous system, abnormal sensitivity to sunlight (photosensitivity), and premature aging.
 17720	17720	Q9H9Q2	2962	Cockayne syndrome	An autosomal recessive disease that has_material_basis_in rare mutations in two DNA excision repair proteins, ERCC-8 and ERCC-6, and characterized by growth failure, impaired development of the nervous system, abnormal sensitivity to sunlight (photosensitivity), and premature aging.
 17723	17723	O43172	2962	Cockayne syndrome	An autosomal recessive disease that has_material_basis_in rare mutations in two DNA excision repair proteins, ERCC-8 and ERCC-6, and characterized by growth failure, impaired development of the nervous system, abnormal sensitivity to sunlight (photosensitivity), and premature aging.
 17729	17729	Q92830	2962	Cockayne syndrome	An autosomal recessive disease that has_material_basis_in rare mutations in two DNA excision repair proteins, ERCC-8 and ERCC-6, and characterized by growth failure, impaired development of the nervous system, abnormal sensitivity to sunlight (photosensitivity), and premature aging.
@@ -1977,8 +2015,10 @@
 17793	17793	O95613	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17795	17795	P35222	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17796	17796	Q14204	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+17799	17799	Q08999	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17807	17807	Q9BTA9	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17813	17813	P46934	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+17816	17816	Q99575	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17823	17823	P30307	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17824	17824	Q15365	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17825	17825	Q96PU5	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
@@ -2001,6 +2041,7 @@
 17885	17885	P61978	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17893	17893	P31943	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17894	17894	O94913	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+17901	17901	Q9UKV8	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17903	17903	P31751	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17905	17905	P63104	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17916	17916	P35221	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
@@ -2015,6 +2056,7 @@
 17947	17947	Q9UJX6	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17956	17956	Q8N157	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17974	17974	Q92870	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+17976	17976	Q8WYQ5	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17980	17980	Q12996	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17988	17988	Q15052	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 17997	17997	Q15717	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
@@ -2053,6 +2095,7 @@
 18161	18161	P04150	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18163	18163	P49841	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18171	18171	O15379	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+18175	18175	P55265	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18186	18186	P05412	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18189	18189	Q92769	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18201	18201	Q14676	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
@@ -2174,6 +2217,7 @@
 18915	18915	Q8WWY3	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18917	18917	Q99638	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18922	18922	P04049	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+18924	18924	P78345	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18928	18928	Q96B97	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18935	18935	O60934	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 18951	18951	Q15637	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
@@ -2253,6 +2297,7 @@
 19382	19382	P10242	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 19385	19385	Q9Y5S9	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 19391	19391	P38159	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+19410	19410	P78346	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 19415	19415	Q9BZI7	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 19419	19419	Q6KC79	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 19423	19423	Q63HN8	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
@@ -2288,6 +2333,7 @@
 19597	19597	P15056	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 19616	19616	Q09472	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 19617	19617	P42566	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+19618	19618	Q92945	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 19620	19620	Q9UM11	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 19623	19623	Q8TEK3	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 19629	19629	O95684	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
@@ -2354,6 +2400,7 @@
 20192	20192	Q9NZC7	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 20200	20200	Q13884	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 20205	20205	Q86U06	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+20206	20206	P13489	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 20216	20216	P83876	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 20237	20237	P43686	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 20245	20245	P17612	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
@@ -2385,6 +2432,7 @@
 20569	20569	P24385	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 20599	20599	Q969W9	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 20611	20611	Q92985	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
+20615	20615	Q96J94	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 20622	20622	O14543	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 20631	20631	P10914	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
 20644	20644	Q96Q27	1240	leukemia	A cancer that affects the blood or bone marrow characterized by an abnormal proliferation of blood cells.
@@ -2403,10 +2451,12 @@
 20789	20789	P61966	1697	ichthyosis	A skin disease characterized by drying and scaling of skin with the accumulation of thick scales and cracks that may be painful or bleed.
 20832	20832	P04629	11156	anhidrosis	A hypohidrosis that is characterized by the inability to sweat and has_symptom hyperthermia and dry skin.
 20854	20854	P06400	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
+20867	20867	Q9UKV8	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20869	20869	P61073	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20870	20870	P16070	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20879	20879	P35240	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20880	20880	P49841	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
+20881	20881	P55265	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20883	20883	Q96AX9	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20888	20888	P61244	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20889	20889	P07948	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
@@ -2414,6 +2464,7 @@
 20895	20895	Q03164	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20902	20902	Q16555	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20905	20905	O60716	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
+20906	20906	Q9UPY3	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20913	20913	P15531	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20915	20915	P0DMV8	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 20920	20920	Q12846	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
@@ -2446,6 +2497,7 @@
 21078	21078	P49721	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 21079	21079	O15350	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 21082	21082	Q9Y6Y1	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
+21116	21116	Q9UL18	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 21126	21126	Q969H0	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 21130	21130	P04637	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
 21144	21144	P05067	769	neuroblastoma	An autonomic nervous system neoplasm that derives_from immature nerve cells.
@@ -2638,7 +2690,9 @@
 22925	22925	P84077	5223	infertility	
 22933	22933	P49720	5223	infertility	
 22935	22935	P10275	5223	infertility	
+22983	22983	Q96J94	5223	infertility	
 23015	23015	Q13099	0080322	polycystic kidney disease	
+23019	23019	Q08999	0080322	polycystic kidney disease	
 23020	23020	Q8WZ42	0080322	polycystic kidney disease	
 23037	23037	O95757	0080322	polycystic kidney disease	
 23041	23041	P42858	0080322	polycystic kidney disease	
@@ -2666,6 +2720,7 @@
 23217	23217	Q9NQ29	0080322	polycystic kidney disease	
 23224	23224	P62140	0080322	polycystic kidney disease	
 23237	23237	Q9NXR1	0080322	polycystic kidney disease	
+23241	23241	O75569	0080322	polycystic kidney disease	
 23259	23259	O75533	0080322	polycystic kidney disease	
 23264	23264	Q12846	0080322	polycystic kidney disease	
 23269	23269	O94979	0080322	polycystic kidney disease	
@@ -2816,6 +2871,7 @@
 25349	25349	P08047	4195	hyperglycemia	
 25363	25363	P17612	4195	hyperglycemia	
 25383	25383	P01308	4195	hyperglycemia	
+25388	25388	Q7Z3Z4	4195	hyperglycemia	
 25408	25408	P01308	0050524	maturity-onset diabetes of the young	A diabetes mellitus that has_material_basis_in mutations in the MODY genes disrupting insulin production.
 25420	25420	Q02224	3905	lung carcinoma	A lung cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells and is located_in the lungs and has_symptom cough and has_symptom chest discomfort or pain and has_symptom weight loss and has_symptom hemoptysis.
 25424	25424	P15531	3905	lung carcinoma	A lung cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells and is located_in the lungs and has_symptom cough and has_symptom chest discomfort or pain and has_symptom weight loss and has_symptom hemoptysis.
@@ -2829,6 +2885,7 @@
 25481	25481	Q9H765	3905	lung carcinoma	A lung cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells and is located_in the lungs and has_symptom cough and has_symptom chest discomfort or pain and has_symptom weight loss and has_symptom hemoptysis.
 25483	25483	Q9H3D4	3905	lung carcinoma	A lung cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells and is located_in the lungs and has_symptom cough and has_symptom chest discomfort or pain and has_symptom weight loss and has_symptom hemoptysis.
 25487	25487	P06400	4007	bladder carcinoma	A urinary bladder cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
+25489	25489	P55265	4007	bladder carcinoma	A urinary bladder cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
 25490	25490	Q9UBT7	4007	bladder carcinoma	A urinary bladder cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
 25504	25504	P01116	4007	bladder carcinoma	A urinary bladder cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
 25508	25508	P01137	4007	bladder carcinoma	A urinary bladder cancer that has_material_basis_in abnormally proliferating cells derives_from epithelial cells.
@@ -2837,6 +2894,7 @@
 25537	25537	Q8N960	10908	hydrocephalus	A cerebral degeneration characterized by an abnormal accumulation of cerebrospinal fluid in the ventricles of the brain, leading to progressive enlargement of the head.
 25539	25539	O14641	10908	hydrocephalus	A cerebral degeneration characterized by an abnormal accumulation of cerebrospinal fluid in the ventricles of the brain, leading to progressive enlargement of the head.
 25542	25542	Q9P2K1	10908	hydrocephalus	A cerebral degeneration characterized by an abnormal accumulation of cerebrospinal fluid in the ventricles of the brain, leading to progressive enlargement of the head.
+25561	25561	Q9UL18	10908	hydrocephalus	A cerebral degeneration characterized by an abnormal accumulation of cerebrospinal fluid in the ventricles of the brain, leading to progressive enlargement of the head.
 25562	25562	O14640	10908	hydrocephalus	A cerebral degeneration characterized by an abnormal accumulation of cerebrospinal fluid in the ventricles of the brain, leading to progressive enlargement of the head.
 25563	25563	Q9Y592	10908	hydrocephalus	A cerebral degeneration characterized by an abnormal accumulation of cerebrospinal fluid in the ventricles of the brain, leading to progressive enlargement of the head.
 25567	25567	Q9NWB7	10908	hydrocephalus	A cerebral degeneration characterized by an abnormal accumulation of cerebrospinal fluid in the ventricles of the brain, leading to progressive enlargement of the head.
@@ -2881,6 +2939,7 @@
 25855	25855	Q99661	12336	male infertility	
 25873	25873	P10275	12336	male infertility	
 25889	25889	Q9Y297	12336	male infertility	
+25918	25918	Q96J94	12336	male infertility	
 25948	25948	O14818	8469	influenza	A viral infectious disease that results in infection, located in respiratory tract, has_material_basis_in Influenzavirus A, has_material_basis_in Influenzavirus B, or has_material_basis_in Influenzavirus C, which are transmitted by droplet spread of oronasal secretions during coughing, sneezing, or talking from an infected person. It is a highly contagious disease that affects birds and mammals and has symptom chills, has symptom fever, has symptom sore throat, has symptom runny nose, has symptom muscle pains, has symptom severe headache, has symptom cough, and has symptom weakness.
 25950	25950	P20618	8469	influenza	A viral infectious disease that results in infection, located in respiratory tract, has_material_basis_in Influenzavirus A, has_material_basis_in Influenzavirus B, or has_material_basis_in Influenzavirus C, which are transmitted by droplet spread of oronasal secretions during coughing, sneezing, or talking from an infected person. It is a highly contagious disease that affects birds and mammals and has symptom chills, has symptom fever, has symptom sore throat, has symptom runny nose, has symptom muscle pains, has symptom severe headache, has symptom cough, and has symptom weakness.
 25952	25952	P61978	8469	influenza	A viral infectious disease that results in infection, located in respiratory tract, has_material_basis_in Influenzavirus A, has_material_basis_in Influenzavirus B, or has_material_basis_in Influenzavirus C, which are transmitted by droplet spread of oronasal secretions during coughing, sneezing, or talking from an infected person. It is a highly contagious disease that affects birds and mammals and has symptom chills, has symptom fever, has symptom sore throat, has symptom runny nose, has symptom muscle pains, has symptom severe headache, has symptom cough, and has symptom weakness.
@@ -3026,6 +3085,7 @@
 27162	27162	P00533	299	adenocarcinoma	A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue.
 27167	27167	P15056	299	adenocarcinoma	A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue.
 27171	27171	Q99996	299	adenocarcinoma	A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue.
+27172	27172	Q92841	299	adenocarcinoma	A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue.
 27178	27178	P12830	299	adenocarcinoma	A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue.
 27198	27198	P01116	299	adenocarcinoma	A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue.
 27201	27201	P04637	299	adenocarcinoma	A carcinoma that has_material_basis_in abnormally proliferating cells, derives_from epithelial cells, which originate in glandular tissue.
@@ -3043,6 +3103,7 @@
 27289	27289	P60484	3068	glioblastoma multiforme	An astrocytoma characterized by the presence of small areas of necrotizing tissue that is surrounded by anaplastic cells as well as the presence of hyperplastic blood vessels, and that has_material_basis_in abnormally proliferating cells derives_from multiple cell types including astrocytes and oligondroctyes.
 27309	27309	P60484	2871	endometrial carcinoma	A endometrial cancer that is located_in the tissue lining the uterus.
 27362	27362	Q9BYX4	9588	encephalitis	A brain disease that is characterized as an acute inflammation of the brain with flu-like symptoms.
+27368	27368	P55265	8622	measles	A viral infectious disease that results_in infection located_in skin, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person. The infection has_symptom fever, has_symptom cough, has_symptom coryza, has_symptom conjunctivitis, and has_symptom maculopapular, erythematous rash.
 27369	27369	Q14653	8622	measles	A viral infectious disease that results_in infection located_in skin, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person. The infection has_symptom fever, has_symptom cough, has_symptom coryza, has_symptom conjunctivitis, and has_symptom maculopapular, erythematous rash.
 27379	27379	P62987	8622	measles	A viral infectious disease that results_in infection located_in skin, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person. The infection has_symptom fever, has_symptom cough, has_symptom coryza, has_symptom conjunctivitis, and has_symptom maculopapular, erythematous rash.
 27387	27387	Q9BYX4	8622	measles	A viral infectious disease that results_in infection located_in skin, has_material_basis_in Measles virus, which is transmitted_by contact with oronasal secretions, or semen of an infected person. The infection has_symptom fever, has_symptom cough, has_symptom coryza, has_symptom conjunctivitis, and has_symptom maculopapular, erythematous rash.
@@ -3122,6 +3183,7 @@
 28038	28038	Q05086	4362	cervical cancer	A female reproductive organ cancer that is located_in the cervix.
 28040	28040	O14965	4362	cervical cancer	A female reproductive organ cancer that is located_in the cervix.
 28060	28060	P68036	4362	cervical cancer	A female reproductive organ cancer that is located_in the cervix.
+28073	28073	Q7Z3Z4	4362	cervical cancer	A female reproductive organ cancer that is located_in the cervix.
 28082	28082	P06400	8867	molluscum contagiosum	A viral infectious disease that results_in infection located_in skin, has_material_basis_in Molluscum contagiosum virus, which is transmitted_by contact with the skin, and transmitted_by fomites. The infection has_symptom lesions which are flesh-colored with a pit in the center.
 28087	28087	P06400	4650	bilateral retinoblastoma	A retinoblastoma that develops in both eyes.
 28088	28088	P06400	4651	unilateral retinoblastoma	A retinoblastoma that effects only one eye.
@@ -3173,6 +3235,7 @@
 28376	28376	P41226	1324	lung cancer	A respiratory system cancer that is located_in the lung.
 28383	28383	Q5HYN5	1324	lung cancer	A respiratory system cancer that is located_in the lung.
 28384	28384	P49789	1324	lung cancer	A respiratory system cancer that is located_in the lung.
+28390	28390	Q9H8H0	1324	lung cancer	A respiratory system cancer that is located_in the lung.
 28391	28391	Q8IUD6	1324	lung cancer	A respiratory system cancer that is located_in the lung.
 28416	28416	Q12891	1324	lung cancer	A respiratory system cancer that is located_in the lung.
 28420	28420	Q9H765	1324	lung cancer	A respiratory system cancer that is located_in the lung.
@@ -3182,6 +3245,7 @@
 28448	28448	Q9H461	1324	lung cancer	A respiratory system cancer that is located_in the lung.
 28450	28450	P06400	4648	familial retinoblastoma	
 28460	28460	P63000	784	chronic kidney disease	
+28462	28462	Q9HAV4	784	chronic kidney disease	
 28465	28465	P60953	784	chronic kidney disease	
 28469	28469	Q13485	784	chronic kidney disease	
 28474	28474	P55268	784	chronic kidney disease	
@@ -3234,6 +3298,7 @@
 28961	28961	Q5BJF6	1289	neurodegenerative disease	A central nervous system disease that results in the progressive deterioration of function or structure of neurons.
 28963	28963	P42858	1289	neurodegenerative disease	A central nervous system disease that results in the progressive deterioration of function or structure of neurons.
 28966	28966	P61978	1289	neurodegenerative disease	A central nervous system disease that results in the progressive deterioration of function or structure of neurons.
+28969	28969	Q9UKV8	1289	neurodegenerative disease	A central nervous system disease that results in the progressive deterioration of function or structure of neurons.
 28975	28975	Q9UNE7	1289	neurodegenerative disease	A central nervous system disease that results in the progressive deterioration of function or structure of neurons.
 28977	28977	Q7Z7A1	1289	neurodegenerative disease	A central nervous system disease that results in the progressive deterioration of function or structure of neurons.
 28978	28978	Q9UJX6	1289	neurodegenerative disease	A central nervous system disease that results in the progressive deterioration of function or structure of neurons.
@@ -3352,6 +3417,7 @@
 30068	30068	P61964	8566	herpes simplex	A viral infectious disease that results_in_formation_of lesions, located_in mouth, located_in face, located_in genitalia, or located_in hands, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which are transmitted_by direct contact with an active lesion or body fluid of an infected person.
 30071	30071	P00973	8566	herpes simplex	A viral infectious disease that results_in_formation_of lesions, located_in mouth, located_in face, located_in genitalia, or located_in hands, has_material_basis_in Human herpesvirus 1 or has_material_basis_in Human herpesvirus 2, which are transmitted_by direct contact with an active lesion or body fluid of an infected person.
 30084	30084	P16070	3069	astrocytoma	A malignant glioma that is has_material_basis_in astrocyte cells, a type of star-shaped glial cell, located in the brain and spinal cord.
+30086	30086	P55265	3069	astrocytoma	A malignant glioma that is has_material_basis_in astrocyte cells, a type of star-shaped glial cell, located in the brain and spinal cord.
 30091	30091	P05556	3069	astrocytoma	A malignant glioma that is has_material_basis_in astrocyte cells, a type of star-shaped glial cell, located in the brain and spinal cord.
 30101	30101	Q05397	3069	astrocytoma	A malignant glioma that is has_material_basis_in astrocyte cells, a type of star-shaped glial cell, located in the brain and spinal cord.
 30104	30104	O95198	3069	astrocytoma	A malignant glioma that is has_material_basis_in astrocyte cells, a type of star-shaped glial cell, located in the brain and spinal cord.
@@ -3369,14 +3435,17 @@
 30180	30180	P61981	10933	obsessive-compulsive disorder	An anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions).
 30184	30184	Q04917	10933	obsessive-compulsive disorder	An anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions).
 30185	30185	P27348	10933	obsessive-compulsive disorder	An anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions).
+30216	30216	Q7L0Y3	3650	lactic acidosis	A metabolic acidosis characterized by buildup of lactate.
 30225	30225	Q9UBK2	3650	lactic acidosis	A metabolic acidosis characterized by buildup of lactate.
 30240	30240	Q9UKA2	3650	lactic acidosis	A metabolic acidosis characterized by buildup of lactate.
 30259	30259	O43819	3650	lactic acidosis	A metabolic acidosis characterized by buildup of lactate.
+30270	30270	Q99714	3650	lactic acidosis	A metabolic acidosis characterized by buildup of lactate.
 30287	30287	P07900	3852	Peutz-Jeghers syndrome	
 30288	30288	P35221	3852	Peutz-Jeghers syndrome	
 30291	30291	Q13625	3852	Peutz-Jeghers syndrome	
 30293	30293	Q9UK97	3852	Peutz-Jeghers syndrome	
 30301	30301	Q12846	3852	Peutz-Jeghers syndrome	
+30304	30304	Q7L0Y3	3852	Peutz-Jeghers syndrome	
 30306	30306	O75400	3852	Peutz-Jeghers syndrome	
 30317	30317	P52756	3852	Peutz-Jeghers syndrome	
 30326	30326	Q15696	3852	Peutz-Jeghers syndrome	
@@ -3391,6 +3460,7 @@
 30379	30379	Q9UGL1	543	dystonia	
 30380	30380	P42858	543	dystonia	
 30391	30391	Q9GZZ9	543	dystonia	
+30392	30392	O75569	543	dystonia	
 30401	30401	Q13501	543	dystonia	
 30422	30422	Q4FZB7	543	dystonia	
 30425	30425	O43556	543	dystonia	
@@ -3442,6 +3512,7 @@
 30893	30893	Q86XK2	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
 30903	30903	Q02224	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
 30910	30910	P62140	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
+30919	30919	O75569	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
 30932	30932	O75533	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
 30938	30938	O94979	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
 30945	30945	Q13427	9884	muscular dystrophy	A myopathy is characterized by progressive skeletal muscle weakness degeneration.
@@ -3642,6 +3713,7 @@
 32653	32653	Q9UBS8	12377	spinal muscular atrophy	A motor neuron disease that is a degenerative neuromuscular disease characterized by lower motor neuron degeneration associated with progressive muscle weakness and atrophy.
 32654	32654	Q7Z333	12377	spinal muscular atrophy	A motor neuron disease that is a degenerative neuromuscular disease characterized by lower motor neuron degeneration associated with progressive muscle weakness and atrophy.
 32665	32665	O75940	12377	spinal muscular atrophy	A motor neuron disease that is a degenerative neuromuscular disease characterized by lower motor neuron degeneration associated with progressive muscle weakness and atrophy.
+32671	32671	Q9NRR4	12377	spinal muscular atrophy	A motor neuron disease that is a degenerative neuromuscular disease characterized by lower motor neuron degeneration associated with progressive muscle weakness and atrophy.
 32676	32676	P38159	12377	spinal muscular atrophy	A motor neuron disease that is a degenerative neuromuscular disease characterized by lower motor neuron degeneration associated with progressive muscle weakness and atrophy.
 32677	32677	Q13123	12377	spinal muscular atrophy	A motor neuron disease that is a degenerative neuromuscular disease characterized by lower motor neuron degeneration associated with progressive muscle weakness and atrophy.
 32687	32687	O14646	12377	spinal muscular atrophy	A motor neuron disease that is a degenerative neuromuscular disease characterized by lower motor neuron degeneration associated with progressive muscle weakness and atrophy.
@@ -3704,6 +3776,7 @@
 33236	33236	P15374	234	colon adenocarcinoma	A colon carcinoma that derives_from epithelial cells of glandular origin.
 33288	33288	P31946	0050781	Ogden syndrome	An X-linked disease characterized by postnatal growth failure, severely delayed psychomotor development, variable dysmorphic features, and hypotonia and has_material_basis_in X-linked recessive or X-linked dominant mutation in the NAA10 gene on chromosome Xq28.
 33289	33289	P62937	0050781	Ogden syndrome	An X-linked disease characterized by postnatal growth failure, severely delayed psychomotor development, variable dysmorphic features, and hypotonia and has_material_basis_in X-linked recessive or X-linked dominant mutation in the NAA10 gene on chromosome Xq28.
+33295	33295	P78346	0050781	Ogden syndrome	An X-linked disease characterized by postnatal growth failure, severely delayed psychomotor development, variable dysmorphic features, and hypotonia and has_material_basis_in X-linked recessive or X-linked dominant mutation in the NAA10 gene on chromosome Xq28.
 33296	33296	P62195	0050781	Ogden syndrome	An X-linked disease characterized by postnatal growth failure, severely delayed psychomotor development, variable dysmorphic features, and hypotonia and has_material_basis_in X-linked recessive or X-linked dominant mutation in the NAA10 gene on chromosome Xq28.
 33316	33316	P11142	5408	Paget's disease of bone	A bone formation disease that has_material_basis_in hyperactive osteoclast which results_in abnormal osteoblast bone formation located_in skull, located_in pelvis, located_in vertebral column, located_in set of limbs.
 33319	33319	P0DMV8	5408	Paget's disease of bone	A bone formation disease that has_material_basis_in hyperactive osteoclast which results_in abnormal osteoblast bone formation located_in skull, located_in pelvis, located_in vertebral column, located_in set of limbs.
@@ -3738,6 +3811,7 @@
 33510	33510	Q9H0M0	0050886	Troyer syndrome	A hereditary spastic paraplegia that is characterized by spasticity of the leg muscles, progressive muscle weakness, paraplegia, muscle wasting in the hands and feet (distal amyotrophy), small stature, developmental delay, learning disorders, speech difficulties (dysarthria), and mood swings, and has_material_basis_in a mutation of the SPG20 gene.
 33516	33516	P78504	8947	diabetic retinopathy	
 33528	33528	P05362	1115	sarcoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives from embryonic mesoderm.
+33534	33534	Q9UPY3	1115	sarcoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives from embryonic mesoderm.
 33541	33541	P08621	1115	sarcoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives from embryonic mesoderm.
 33542	33542	P24928	1115	sarcoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives from embryonic mesoderm.
 33543	33543	Q96CV9	1115	sarcoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives from embryonic mesoderm.
@@ -3748,6 +3822,7 @@
 33577	33577	P04637	1115	sarcoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives from embryonic mesoderm.
 33586	33586	Q9UHD9	1115	sarcoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives from embryonic mesoderm.
 33591	33591	P01112	1115	sarcoma	A cell type cancer that has_material_basis_in abnormally proliferating cells derives from embryonic mesoderm.
+33606	33606	Q7Z3Z4	13207	proliferative diabetic retinopathy	
 33611	33611	Q7Z6Z7	0080199	colorectal carcinoma	A colorectal cancer that arises from the colon or rectum and invades through the muscularis mucosa into the submucosa.
 33623	33623	Q969K3	0080199	colorectal carcinoma	A colorectal cancer that arises from the colon or rectum and invades through the muscularis mucosa into the submucosa.
 33626	33626	Q05397	0080199	colorectal carcinoma	A colorectal cancer that arises from the colon or rectum and invades through the muscularis mucosa into the submucosa.
@@ -3782,6 +3857,7 @@
 33736	33736	P28074	9538	multiple myeloma	A myeloid neoplasm that is located in the plasma cells in bone marrow.
 33740	33740	P24385	9538	multiple myeloma	A myeloid neoplasm that is located in the plasma cells in bone marrow.
 33742	33742	Q92831	9538	multiple myeloma	A myeloid neoplasm that is located in the plasma cells in bone marrow.
+33755	33755	Q99575	0050581	brachydactyly	A dysostosis characterized by short fingers and toes.
 33761	33761	Q6UX04	0050581	brachydactyly	A dysostosis characterized by short fingers and toes.
 33769	33769	O00238	0050581	brachydactyly	A dysostosis characterized by short fingers and toes.
 33775	33775	P45378	0050581	brachydactyly	A dysostosis characterized by short fingers and toes.
@@ -3837,6 +3913,7 @@
 34256	34256	P62140	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
 34258	34258	O14776	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
 34265	34265	P46937	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
+34268	34268	O75569	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
 34274	34274	Q15154	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
 34282	34282	O75533	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
 34288	34288	O94979	12858	Huntington's disease	A neurodegenerative disease that has_material_basis_in autosomal dominant inheritance and is characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia and has_material_basis_in expansion of CAG triplet repeats (glutamine) resulting in neuron degeneration affecting muscle coordination, cognitive abilities.
@@ -4066,6 +4143,7 @@
 36629	36629	Q9UM47	10652	Alzheimer's disease	A tauopathy that is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability and results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
 36642	36642	Q9UHD9	10652	Alzheimer's disease	A tauopathy that is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability and results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
 36662	36662	Q9UKB1	10652	Alzheimer's disease	A tauopathy that is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability and results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
+36663	36663	Q99714	10652	Alzheimer's disease	A tauopathy that is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability and results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
 36674	36674	P68036	10652	Alzheimer's disease	A tauopathy that is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability and results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
 36690	36690	P51693	10652	Alzheimer's disease	A tauopathy that is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability and results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
 36701	36701	P63027	10652	Alzheimer's disease	A tauopathy that is characterized by memory lapses, confusion, emotional instability and progressive loss of mental ability and results in progressive memory loss, impaired thinking, disorientation, and changes in personality and mood starting and leads in advanced cases to a profound decline in cognitive and physical functioning and is marked histologically by the degeneration of brain neurons especially in the cerebral cortex and by the presence of neurofibrillary tangles and plaques containing beta-amyloid.
@@ -4238,6 +4316,7 @@
 37824	37824	Q86XK2	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
 37833	37833	Q02224	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
 37840	37840	P62140	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
+37849	37849	O75569	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
 37862	37862	O75533	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
 37868	37868	O94979	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
 37875	37875	Q13427	0050460	Wolf-Hirschhorn syndrome	A chromosomal deletion syndrome that is characterized by distinct craniofacial features, hypotonia and intellectual disability and has_material_basis_in a microdeletion of the short arm of chromosome 4.
@@ -4407,6 +4486,7 @@
 39586	39586	P47756	657	adenoma	A cell type benign neoplasm that is composed_of epithelial tissue in which tumor cells form glands or glandlike structures.
 39588	39588	P15056	657	adenoma	A cell type benign neoplasm that is composed_of epithelial tissue in which tumor cells form glands or glandlike structures.
 39591	39591	P52907	657	adenoma	A cell type benign neoplasm that is composed_of epithelial tissue in which tumor cells form glands or glandlike structures.
+39593	39593	Q92841	657	adenoma	A cell type benign neoplasm that is composed_of epithelial tissue in which tumor cells form glands or glandlike structures.
 39596	39596	Q13467	657	adenoma	A cell type benign neoplasm that is composed_of epithelial tissue in which tumor cells form glands or glandlike structures.
 39629	39629	P35222	5374	pilomatrixoma	
 39646	39646	O15020	0050562	West syndrome	An infancy electroclinical syndrome that is characterized by infantile spasms, hypsarrhythmia on electroencephalogram and intellectual disability.
@@ -4495,6 +4575,7 @@
 40598	40598	Q9C037	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
 40599	40599	Q86XT4	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
 40607	40607	P62256	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
+40623	40623	O75460	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
 40629	40629	P51172	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
 40636	40636	P51170	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
 40637	40637	P51168	1485	cystic fibrosis	An autosomal recessive disease that is characterized by the buildup of thick, sticky mucus that can damage many organs.
@@ -4610,6 +4691,7 @@
 41210	41210	O43819	0050700	cardiomyopathy	A heart disease and a myopathy that is characterized by deterioration of the function of the heart muscle.
 41213	41213	Q9H9S5	0050700	cardiomyopathy	A heart disease and a myopathy that is characterized by deterioration of the function of the heart muscle.
 41218	41218	P13533	0050700	cardiomyopathy	A heart disease and a myopathy that is characterized by deterioration of the function of the heart muscle.
+41222	41222	Q99714	0050700	cardiomyopathy	A heart disease and a myopathy that is characterized by deterioration of the function of the heart muscle.
 41223	41223	Q6P050	0050700	cardiomyopathy	A heart disease and a myopathy that is characterized by deterioration of the function of the heart muscle.
 41224	41224	Q9BYX4	0050700	cardiomyopathy	A heart disease and a myopathy that is characterized by deterioration of the function of the heart muscle.
 41228	41228	P01112	0050700	cardiomyopathy	A heart disease and a myopathy that is characterized by deterioration of the function of the heart muscle.
@@ -4642,8 +4724,10 @@
 41406	41406	P42768	1227	neutropenia	
 41412	41412	P50570	1227	neutropenia	
 41428	41428	O14818	2237	hepatitis	
+41430	41430	Q9UKV8	2237	hepatitis	
 41431	41431	P63104	2237	hepatitis	
 41436	41436	P25786	2237	hepatitis	
+41438	41438	P55265	2237	hepatitis	
 41442	41442	P19174	2237	hepatitis	
 41446	41446	Q7Z434	2237	hepatitis	
 41449	41449	P31946	2237	hepatitis	
@@ -4693,11 +4777,14 @@
 41856	41856	P43403	8506	bullous pemphigoid	An autoimmune disease of skin and connective tissue characterized by large blisters.
 41894	41894	P43403	1184	nephrotic syndrome	A nephrosis characterized by marked increase in glomerular protein permeability resulting in marked elevation of urine protein levels, hypoalbuminemia, hyperlipidemia, and hypercoagulability.
 41901	41901	P63000	1184	nephrotic syndrome	A nephrosis characterized by marked increase in glomerular protein permeability resulting in marked elevation of urine protein levels, hypoalbuminemia, hyperlipidemia, and hypercoagulability.
+41903	41903	Q9HAV4	1184	nephrotic syndrome	A nephrosis characterized by marked increase in glomerular protein permeability resulting in marked elevation of urine protein levels, hypoalbuminemia, hyperlipidemia, and hypercoagulability.
 41912	41912	P60953	1184	nephrotic syndrome	A nephrosis characterized by marked increase in glomerular protein permeability resulting in marked elevation of urine protein levels, hypoalbuminemia, hyperlipidemia, and hypercoagulability.
 41914	41914	Q13485	1184	nephrotic syndrome	A nephrosis characterized by marked increase in glomerular protein permeability resulting in marked elevation of urine protein levels, hypoalbuminemia, hyperlipidemia, and hypercoagulability.
 41915	41915	O60500	1184	nephrotic syndrome	A nephrosis characterized by marked increase in glomerular protein permeability resulting in marked elevation of urine protein levels, hypoalbuminemia, hyperlipidemia, and hypercoagulability.
 41917	41917	A6NIX2	1184	nephrotic syndrome	A nephrosis characterized by marked increase in glomerular protein permeability resulting in marked elevation of urine protein levels, hypoalbuminemia, hyperlipidemia, and hypercoagulability.
 41920	41920	O43707	1184	nephrotic syndrome	A nephrosis characterized by marked increase in glomerular protein permeability resulting in marked elevation of urine protein levels, hypoalbuminemia, hyperlipidemia, and hypercoagulability.
+41932	41932	Q99575	14773	cartilage-hair hypoplasia	
+41936	41936	Q99575	0080019	metaphyseal dysplasia	An osteochondrodysplasia that results_in thinning and the tendency to fracture located_in bone.
 41944	41944	P78367	0080019	metaphyseal dysplasia	An osteochondrodysplasia that results_in thinning and the tendency to fracture located_in bone.
 41949	41949	P16070	4905	pancreatic carcinoma	A pancreas cancer that derives_from epithelial cells located_in the pancreas.
 41953	41953	Q15796	4905	pancreatic carcinoma	A pancreas cancer that derives_from epithelial cells located_in the pancreas.
@@ -4909,8 +4996,11 @@
 43425	43425	P09661	14227	azoospermia	A male infertility disease characterized by the absence of any measurable level of sperm in semen.
 43430	43430	O75344	14227	azoospermia	A male infertility disease characterized by the absence of any measurable level of sperm in semen.
 43434	43434	Q05086	14227	azoospermia	A male infertility disease characterized by the absence of any measurable level of sperm in semen.
+43467	43467	Q96J94	14227	azoospermia	A male infertility disease characterized by the absence of any measurable level of sperm in semen.
 43478	43478	Q8IWV7	1459	hypothyroidism	A thyroid gland disease which involves an underproduction of thyroid hormone.
 43480	43480	Q8TCU4	1459	hypothyroidism	A thyroid gland disease which involves an underproduction of thyroid hormone.
+43505	43505	P78345	419	scleroderma	A rheumatic disease and collagen disease that involves the abnormal growth of connective tissue, which supports the skin and internal organs.
+43508	43508	P78346	419	scleroderma	A rheumatic disease and collagen disease that involves the abnormal growth of connective tissue, which supports the skin and internal organs.
 43512	43512	P16234	419	scleroderma	A rheumatic disease and collagen disease that involves the abnormal growth of connective tissue, which supports the skin and internal organs.
 43528	43528	Q16763	4947	cholangiocarcinoma	A bile duct adenocarcinoma that has_material_basis_in bile duct epithelial cells.
 43532	43532	Q9BYW2	4467	clear cell renal cell carcinoma	A renal cell carcinoma that has_material_basis_in cells that appear very pale or clear when examined under microscope.
@@ -4969,6 +5059,7 @@
 43955	43955	Q13618	0050758	metabolic acidosis	An acquired metabolic disease that characterized by excessive production of acid.
 43963	43963	P51168	0050758	metabolic acidosis	An acquired metabolic disease that characterized by excessive production of acid.
 43965	43965	Q9UH77	0050758	metabolic acidosis	An acquired metabolic disease that characterized by excessive production of acid.
+43970	43970	Q99714	0050758	metabolic acidosis	An acquired metabolic disease that characterized by excessive production of acid.
 43984	43984	P35609	0060319	cardiac arrest	A congestive heart failure characterized by a sudden stop in effective blood circulation due to the failure of the heart to contract effectively or at all.
 43991	43991	P16070	4953	poliomyelitis	A viral infectious disease that results in destruction located in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted by ingestion of food or water contaminated with feces, or transmitted by direct contact with the oral secretions. The infection has symptom fever, has symptom sore throat, has symptom headache, has symptom vomiting, has symptom fatigue, has symptom neck stiffness, has symptom muscle spasms, and has symptom acute flaccid paralysis.
 43992	43992	Q7Z434	4953	poliomyelitis	A viral infectious disease that results in destruction located in motor neurons, has_material_basis_in Human poliovirus 1, has_material_basis_in Human poliovirus 2, or has_material_basis_in Human poliovirus 3, which are transmitted by ingestion of food or water contaminated with feces, or transmitted by direct contact with the oral secretions. The infection has symptom fever, has symptom sore throat, has symptom headache, has symptom vomiting, has symptom fatigue, has symptom neck stiffness, has symptom muscle spasms, and has symptom acute flaccid paralysis.
@@ -5080,6 +5171,10 @@
 44627	44627	Q9UQN3	318	progressive muscular atrophy	
 44629	44629	Q9BXM0	318	progressive muscular atrophy	
 44645	44645	P51571	10588	adrenoleukodystrophy	A leukodystrophy that disrupts the breakdown of very-long-chain fatty acids resulting in progressive brain damage, failure of the adrenal glands and eventually death.
+44654	44654	Q8WYQ5	12583	velocardiofacial syndrome	A chromosomal disease that has_material_basis_in deletion polymorphisms at chromosome location 22q11 and is characterized by variable developmental problems and schizoid features.
+44667	44667	Q8WYQ5	11198	DiGeorge syndrome	A T cell deficiency disease that is the result of a large deletion of chromosome 22 which includes the DGS gene needed for development of the thymus and related glands with subsequent lack of T-cell production.
+44677	44677	Q9NRR4	11198	DiGeorge syndrome	A T cell deficiency disease that is the result of a large deletion of chromosome 22 which includes the DGS gene needed for development of the thymus and related glands with subsequent lack of T-cell production.
+44683	44683	Q92841	11198	DiGeorge syndrome	A T cell deficiency disease that is the result of a large deletion of chromosome 22 which includes the DGS gene needed for development of the thymus and related glands with subsequent lack of T-cell production.
 44685	44685	O60814	11198	DiGeorge syndrome	A T cell deficiency disease that is the result of a large deletion of chromosome 22 which includes the DGS gene needed for development of the thymus and related glands with subsequent lack of T-cell production.
 44686	44686	P58876	11198	DiGeorge syndrome	A T cell deficiency disease that is the result of a large deletion of chromosome 22 which includes the DGS gene needed for development of the thymus and related glands with subsequent lack of T-cell production.
 44715	44715	P43235	2256	osteochondrodysplasia	A bone development disease that results_in defective development of cartilage or bone.
@@ -5287,6 +5382,7 @@
 46112	46112	P28065	12155	lymphocytic choriomeningitis	A viral infectious disease that results in infection located in brain, or located in meninges, or located in brain and meninges, has_material_basis_in Lymphocytic choriomeningitis virus, which is transmitted by common house mouse, Mus musculus. The infection has symptom fever, has symptom lack of appetite, has symptom headache, has symptom muscle aches, has symptom malaise, has symptom nausea, and has symptom vomiting.
 46120	46120	P61289	3112	papillary adenocarcinoma	An adenocarcinoma that derives_from epithelial cells originating in glandular tissue, which form complex papillary structures and exhibit compressive, destructive growth that replaces the normal tissue.
 46121	46121	P61289	0050489	multinodular goiter	A goiter characterized by a multinodular enlargement of the thyroid gland.
+46122	46122	Q9UPY3	0050489	multinodular goiter	A goiter characterized by a multinodular enlargement of the thyroid gland.
 46128	46128	P05067	9246	cerebral amyloid angiopathy	An amyloidosis where amyloid protein progressively deposits in cerebral blood vessel walls with subsequent degenerative vascular changes that usually result in spontaneous cerebral hemorrhage, ischemic lesions and progressive dementia.
 46134	46134	Q9UM47	8725	vascular dementia	A dementia that involves impairments in cognitive function caused by problems in blood vessels that feed the brain.
 46153	46153	P83876	1934	dysostosis	A bone development disease that results in defective ossification of located in bone.
@@ -5372,6 +5468,10 @@
 46712	46712	P12931	3458	breast adenocarcinoma	A breast carcinoma that originates in the milk ducts and/or lobules (glandular tissue) of the breast.
 46713	46713	Q9UDY2	3458	breast adenocarcinoma	A breast carcinoma that originates in the milk ducts and/or lobules (glandular tissue) of the breast.
 46728	46728	P11532	9883	Becker muscular dystrophy	A muscular dystrophy that involves slowly worsening muscle weakness of the legs and pelvis, and has_material_basis in X-linked recessive inheritance of mutation in the dystrophin gene on chromosome Xp21.
+46732	46732	Q9UPY3	4769	pleuropulmonary blastoma	A pulmonary blastoma that derives_from the lung or pleural cavity.
+46733	46733	Q9UPY3	2673	cystic nephroma	
+46734	46734	Q9UPY3	2997	Sertoli-Leydig cell tumor	
+46735	46735	Q9UPY3	3246	embryonal rhabdomyosarcoma	A rhabdomyosarcoma wherein the mesenchymally-derived malignant cells resemble the primitive developing skeletal muscle of the embryo; it occurs most often in the head and neck area or in the genital or urinary organs.
 46743	46743	P15172	3246	embryonal rhabdomyosarcoma	A rhabdomyosarcoma wherein the mesenchymally-derived malignant cells resemble the primitive developing skeletal muscle of the embryo; it occurs most often in the head and neck area or in the genital or urinary organs.
 46751	46751	P06753	3191	nemaline myopathy	A congenital structural myopathy characterized by generally non-progressive muscle weakness of varying severity; certain muscle fibers show the presence of rod-like structures called nemaline bodies.
 46754	46754	P68133	3191	nemaline myopathy	A congenital structural myopathy characterized by generally non-progressive muscle weakness of varying severity; certain muscle fibers show the presence of rod-like structures called nemaline bodies.
@@ -5429,6 +5529,7 @@
 47148	47148	P24928	3451	skin carcinoma	A skin cancer that is located_in tissues of the skin and develops from epithelial cells.
 47160	47160	Q15669	13777	epidermodysplasia verruciformis	An autosomal recessive disease that results_in skin squamous cell carcinoma located_in skin, associated with a high risk of carcinoma. It is characterized by abnormal susceptibility to human papillomaviruses of the skin and has_symptom lesions on the body.
 47163	47163	P06753	11162	respiratory failure	A lung disease characterized by inadequate gas exchange by the respiratory system.
+47164	47164	Q7L0Y3	11162	respiratory failure	A lung disease characterized by inadequate gas exchange by the respiratory system.
 47169	47169	P22314	11162	respiratory failure	A lung disease characterized by inadequate gas exchange by the respiratory system.
 47176	47176	P50570	11162	respiratory failure	A lung disease characterized by inadequate gas exchange by the respiratory system.
 47180	47180	P68133	11162	respiratory failure	A lung disease characterized by inadequate gas exchange by the respiratory system.
@@ -5626,6 +5727,7 @@
 49111	49111	Q9HC29	10301	parotitis	A parotid disease characterized by the inflammation of one or both parotid glands.
 49112	49112	P61769	106	pleural tuberculosis	An extrapulmonary tuberculosis that results_in lymphocyte-predominant exudative pleural effusion, located_in pleura. This results from an allergic response to tuberculoprotein causing the permeabiltity of the pleural vasculature to alter leading to a sub-pleural caseous focus rupture into the pleural sac.
 49192	49192	Q9BYX4	14550	root resorption	
+49198	49198	Q96J94	8929	atrophic gastritis	
 49202	49202	P01112	118	pericardial effusion	A pericardium disease that is characterized by an abnormal accumulation of fluid in the pericardial cavity.
 49208	49208	P48436	0060313	tracheomalacia	A tracheal disease characterized by flaccidity of the tracheal support cartilage.
 49210	49210	P55268	0060852	Pierson syndrome	An autosomal recessive disease characterized by nephrotic syndrome with diffuse mesangial sclerosis, proteinuria, microcoria, absence of the pupillary dilator muscle in the iris, ciliary muscle atrophy, and abnormal eye development with lens-shape, retinal and corneal anomalies that has_material_basis_in homozygous or compound heterozygous mutation in the LAMB2 on chromosome 3p21.

@@ -1,0 +1,52 @@
+	entry_ac	go_id	go_descr
+208240	P11532	0005623	cell
+208241	P11532	0009986	cell surface
+208242	P11532	0030055	cell-substrate junction
+208243	P11532	0043034	costamere
+208244	P11532	0005856	cytoskeleton
+208245	P11532	0005829	cytosol
+208246	P11532	0016010	dystrophin-associated glycoprotein complex
+208247	P11532	0030175	filopodium
+208248	P11532	0031527	filopodium membrane
+208249	P11532	0045121	membrane raft
+208250	P11532	0044306	neuron projection terminus
+208251	P11532	0005634	nucleus
+208252	P11532	0005886	plasma membrane
+208253	P11532	0045211	postsynaptic membrane
+208254	P11532	0032991	protein-containing complex
+208255	P11532	0042383	sarcolemma
+208256	P11532	0045202	synapse
+208257	P11532	0016013	syntrophin complex
+208258	P11532	0030018	Z disc
+208259	P11532	0003779	actin binding
+208260	P11532	0002162	dystroglycan binding
+208261	P11532	0017022	myosin binding
+208262	P11532	0050998	nitric-oxide synthase binding
+208263	P11532	0005200	structural constituent of cytoskeleton
+208264	P11532	0008307	structural constituent of muscle
+208265	P11532	0017166	vinculin binding
+208266	P11532	0008270	zinc ion binding
+208267	P11532	0086001	cardiac muscle cell action potential
+208268	P11532	0060048	cardiac muscle contraction
+208269	P11532	0034613	cellular protein localization
+208270	P11532	0034622	cellular protein-containing complex assembly
+208271	P11532	0044458	motile cilium assembly
+208272	P11532	0046716	muscle cell cellular homeostasis
+208273	P11532	0048747	muscle fiber development
+208274	P11532	0030049	muscle filament sliding
+208275	P11532	0007517	muscle organ development
+208276	P11532	1902083	negative regulation of peptidyl-cysteine S-nitrosylation
+208277	P11532	0033137	negative regulation of peptidyl-serine phosphorylation
+208278	P11532	0043043	peptide biosynthetic process
+208279	P11532	0045666	positive regulation of neuron differentiation
+208280	P11532	0010976	positive regulation of neuron projection development
+208281	P11532	2000651	positive regulation of sodium ion transmembrane transporter activity
+208282	P11532	0010881	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion
+208283	P11532	0090287	regulation of cellular response to growth factor stimulus
+208284	P11532	0002027	regulation of heart rate
+208285	P11532	0010880	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum
+208286	P11532	0060314	regulation of ryanodine-sensitive calcium-release channel activity
+208287	P11532	0014819	regulation of skeletal muscle contraction
+208288	P11532	0014809	regulation of skeletal muscle contraction by regulation of release of sequestered calcium ion
+208289	P11532	1901385	regulation of voltage-gated calcium channel activity
+208290	P11532	0035994	response to muscle stretch

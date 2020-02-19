@@ -19,10 +19,10 @@ if __name__ == '__main__':
     # 1. Define arguments
     parser = argparse.ArgumentParser()
     ### Paths of the two dataframe that must be compared
-    parser.add_argument('--original_path',     type=str,   default='data/results/ensemble.tsv')
-    parser.add_argument('--go_path',           type=str,   default='data/go/go.csv')
+    parser.add_argument('--original_path',        type=str,   default='data/results/jackhmmer.tsv')
+    parser.add_argument('--go_path',              type=str,   default='data/go/go.csv')
     parser.add_argument('--string_path',          type=str,   default='data/string/string.txt.gz')
-    parser.add_argument('--human_path',        type=str,   default='data/human.csv')
+    parser.add_argument('--human_path',           type=str,   default='data/human.csv')
     ### Out directory of the results and of the WordCloud
     parser.add_argument('--out_path_target',      type=str,   default='data/string/string_target_go.csv')
     parser.add_argument('--out_path_background',  type=str,   default='data/string/string_background_go.csv')

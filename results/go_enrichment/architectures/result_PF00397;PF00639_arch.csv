@@ -1,0 +1,52 @@
+	OddRatio	p-value	depth	go_descr	score
+0010468	20.54	0.09233967409517767	5	regulation of gene expression	-1.0
+0032465	6.833333333333333	0.17630466898453537	5	regulation of cytokinesis	-1.0
+0050808	20.54	0.09233967409517767	3	synapse organization	-1.0
+0005654	0.9145454545454546	1.0	2	nucleoplasm	-1.0
+0005829	0.7142857142857143	0.13532080373420538	2	cytosol	-1.0
+0031434	20.54	0.09233967409517767	6	mitogen-activated protein kinase kinase binding	-1.0
+0090263	5.12	0.21538230794407823	7	positive regulation of canonical Wnt signaling pathway	-1.0
+0051219	20.54	0.09233967409517767	3	phosphoprotein binding	-1.0
+0005737	0.6889655172413793	1.0	2	cytoplasm	-1.0
+0043005	10.26	0.13532080373420538	4	neuron projection	-1.0
+0032794	20.54	0.09233967409517767	3	GTPase activating protein binding	-1.0
+0099524	10.26	0.13532080373420538	4	postsynaptic cytosol	-1.0
+0060393	20.54	0.09233967409517767	6	regulation of pathway-restricted SMAD protein phosphorylation	-1.0
+0032091	20.54	0.09233967409517767	5	negative regulation of protein binding	-1.0
+0042177	20.54	0.09233967409517767	6	negative regulation of protein catabolic process	-1.0
+0050821	5.12	0.21538230794407823	4	protein stabilization	-1.0
+0050816	10.26	0.13532080373420538	5	phosphothreonine residue binding	-1.0
+0045944	3.4066666666666667	0.288162893894492	8	positive regulation of transcription by RNA polymerase II	-1.0
+2000146	20.54	0.09233967409517767	5	negative regulation of cell motility	-1.0
+0016859	20.54	0.09233967409517767	3	cis-trans isomerase activity	-1.0
+0016607	2.2644444444444445	0.3850883986649946	3	nuclear speck	-1.0
+0007088	20.54	0.09233967409517767	6	regulation of mitotic nuclear division	-1.0
+0061051	20.54	0.09233967409517767	6	positive regulation of cell growth involved in cardiac muscle cell development	-1.0
+0043525	20.54	0.09233967409517767	7	positive regulation of neuron apoptotic process	-1.0
+0001934	20.54	0.09233967409517767	8	positive regulation of protein phosphorylation	-1.0
+0005634	0.7707692307692308	1.0	5	nucleus	-1.0
+0070373	20.54	0.09233967409517767	8	negative regulation of ERK1 and ERK2 cascade	-1.0
+0003774	20.54	0.09233967409517767	7	motor activity	-1.0
+0030512	6.833333333333333	0.17630466898453537	7	negative regulation of transforming growth factor beta receptor signaling pathway	-1.0
+0048156	10.26	0.13532080373420538	4	tau protein binding	-1.0
+0030182	10.26	0.13532080373420538	4	neuron differentiation	-1.0
+0032092	20.54	0.09233967409517767	5	positive regulation of protein binding	-1.0
+0000413	20.54	0.09233967409517767	8	protein peptidyl-prolyl isomerization	-1.0
+0043547	10.26	0.13532080373420538	6	positive regulation of GTPase activity	-1.0
+0051443	20.54	0.09233967409517767	6	positive regulation of ubiquitin-protein transferase activity	-1.0
+0043524	20.54	0.09233967409517767	7	negative regulation of neuron apoptotic process	-1.0
+0007049	10.26	0.13532080373420538	2	cell cycle	-1.0
+1901796	20.54	0.09233967409517767	6	regulation of signal transduction by p53 class mediator	-1.0
+0031647	6.833333333333333	0.17630466898453537	3	regulation of protein stability	-1.0
+0001932	20.54	0.09233967409517767	7	regulation of protein phosphorylation	-1.0
+0001666	20.54	0.09233967409517767	3	response to hypoxia	-1.0
+0003755	10.26	0.13532080373420538	3	peptidyl-prolyl cis-trans isomerase activity	-1.0
+0005739	10.26	0.13532080373420538	5	mitochondrion	-1.0
+0050815	10.26	0.13532080373420538	5	phosphoserine residue binding	-1.0
+1902430	20.54	0.09233967409517767	7	negative regulation of amyloid-beta formation	-1.0
+0032480	10.26	0.13532080373420538	6	negative regulation of type I interferon production	-1.0
+0035307	20.54	0.09233967409517767	8	positive regulation of protein dephosphorylation	-1.0
+0030496	10.26	0.13532080373420538	2	midbody	-1.0
+0098978	3.4066666666666667	0.288162893894492	3	glutamatergic synapse	-1.0
+1900180	20.54	0.09233967409517767	6	regulation of protein localization to nucleus	-1.0
+0008013	20.54	0.09233967409517767	3	beta-catenin binding	-1.0

@@ -73,6 +73,7 @@
 9676	Q9GZV5	0001894	tissue homeostasis
 9677	Q9GZV5	0006367	transcription initiation from RNA polymerase II promoter
 26666	Q8N3X1	0016607	nuclear speck
+29774	Q5VWI1	0005634	nucleus
 32501	O15428	0005829	cytosol
 32502	O15428	0005634	nucleus
 32503	O15428	0003755	peptidyl-prolyl cis-trans isomerase activity
@@ -763,6 +764,20 @@
 185122	P01906	0006955	immune response
 185123	P01906	0060333	interferon-gamma-mediated signaling pathway
 185124	P01906	0050852	T cell receptor signaling pathway
+186694	Q8WYQ5	0005737	cytoplasm
+186695	Q8WYQ5	0070877	microprocessor complex
+186696	Q8WYQ5	0005730	nucleolus
+186697	Q8WYQ5	0005654	nucleoplasm
+186698	Q8WYQ5	0005634	nucleus
+186699	Q8WYQ5	0003725	double-stranded RNA binding
+186700	Q8WYQ5	0020037	heme binding
+186701	Q8WYQ5	0042802	identical protein binding
+186702	Q8WYQ5	0046872	metal ion binding
+186703	Q8WYQ5	0070878	primary miRNA binding
+186704	Q8WYQ5	0042803	protein homodimerization activity
+186705	Q8WYQ5	0010586	miRNA metabolic process
+186706	Q8WYQ5	0031053	primary miRNA processing
+186707	Q8WYQ5	0090502	RNA phosphodiester bond hydrolysis, endonucleolytic
 203159	Q14CM0	0030054	cell junction
 203160	Q14CM0	0005856	cytoskeleton
 203161	Q14CM0	0043197	dendritic spine

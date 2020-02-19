@@ -125,6 +125,24 @@
 782	O15273	0030241	skeletal muscle myosin thick filament assembly
 783	O15273	0030240	skeletal muscle thin filament assembly
 784	O15273	0001756	somitogenesis
+826	Q9HAV4	0005737	cytoplasm
+827	Q9HAV4	0005829	cytosol
+828	Q9HAV4	0005654	nucleoplasm
+829	Q9HAV4	0005634	nucleus
+830	Q9HAV4	0016442	RISC complex
+831	Q9HAV4	0042565	RNA nuclear export complex
+832	Q9HAV4	0003729	mRNA binding
+833	Q9HAV4	0005049	nuclear export signal receptor activity
+834	Q9HAV4	0070883	pre-miRNA binding
+835	Q9HAV4	0008536	Ran GTPase binding
+836	Q9HAV4	1905172	RISC complex binding
+837	Q9HAV4	0003723	RNA binding
+838	Q9HAV4	0000049	tRNA binding
+839	Q9HAV4	0010586	miRNA metabolic process
+840	Q9HAV4	1900370	positive regulation of RNA interference
+841	Q9HAV4	0035281	pre-miRNA export from nucleus
+842	Q9HAV4	0006611	protein export from nucleus
+843	Q9HAV4	0046825	regulation of protein export from nucleus
 905	P11441	0071818	BAT3 complex
 906	P11441	0005737	cytoplasm
 907	P11441	0005829	cytosol
@@ -1897,6 +1915,27 @@
 18798	Q7Z624	0007005	mitochondrion organization
 18799	Q7Z624	0006479	protein methylation
 18800	Q7Z624	0022400	regulation of rhodopsin mediated signaling pathway
+19025	Q92945	0010494	cytoplasmic stress granule
+19026	Q92945	0005829	cytosol
+19027	Q92945	0016020	membrane
+19028	Q92945	0005654	nucleoplasm
+19029	Q92945	0003677	DNA binding
+19030	Q92945	0035925	mRNA 3'-UTR AU-rich region binding
+19031	Q92945	0003723	RNA binding
+19032	Q92945	0061158	3'-UTR-mediated mRNA destabilization
+19033	Q92945	0071345	cellular response to cytokine stimulus
+19034	Q92945	0010586	miRNA metabolic process
+19035	Q92945	0006402	mRNA catabolic process
+19036	Q92945	0006397	mRNA processing
+19037	Q92945	0051028	mRNA transport
+19038	Q92945	0010989	negative regulation of low-density lipoprotein particle clearance
+19039	Q92945	0045019	negative regulation of nitric oxide biosynthetic process
+19040	Q92945	0061014	positive regulation of mRNA catabolic process
+19041	Q92945	2000628	regulation of miRNA metabolic process
+19042	Q92945	0043488	regulation of mRNA stability
+19043	Q92945	0006355	regulation of transcription, DNA-templated
+19044	Q92945	0008380	RNA splicing
+19045	Q92945	0000375	RNA splicing, via transesterification reactions
 19046	Q9Y6Y1	0005829	cytosol
 19047	Q9Y6Y1	0005730	nucleolus
 19048	Q9Y6Y1	0005634	nucleus
@@ -1932,6 +1971,43 @@
 19422	Q06481	0007186	G protein-coupled receptor signaling pathway
 19423	Q06481	0002576	platelet degranulation
 19424	Q06481	0043687	post-translational protein modification
+20226	P55265	0005737	cytoplasm
+20227	P55265	0016020	membrane
+20228	P55265	0005730	nucleolus
+20229	P55265	0005654	nucleoplasm
+20230	P55265	0005634	nucleus
+20231	P55265	0044530	supraspliceosomal complex
+20232	P55265	0003677	DNA binding
+20233	P55265	0003726	double-stranded RNA adenosine deaminase activity
+20234	P55265	0003725	double-stranded RNA binding
+20235	P55265	0046872	metal ion binding
+20236	P55265	0003723	RNA binding
+20237	P55265	0008251	tRNA-specific adenosine deaminase activity
+20238	P55265	0006382	adenosine to inosine editing
+20239	P55265	0016553	base conversion or substitution editing
+20240	P55265	0098586	cellular response to virus
+20241	P55265	0051607	defense response to virus
+20242	P55265	0060216	definitive hemopoiesis
+20243	P55265	0030218	erythrocyte differentiation
+20244	P55265	0002244	hematopoietic progenitor cell differentiation
+20245	P55265	0061484	hematopoietic stem cell homeostasis
+20246	P55265	0045087	innate immune response
+20247	P55265	0035280	miRNA loading onto RISC involved in gene silencing by miRNA
+20248	P55265	0006397	mRNA processing
+20249	P55265	0043066	negative regulation of apoptotic process
+20250	P55265	0044387	negative regulation of protein kinase activity by regulation of protein phosphorylation
+20251	P55265	1900369	negative regulation of RNA interference
+20252	P55265	0060339	negative regulation of type I interferon-mediated signaling pathway
+20253	P55265	0001649	osteoblast differentiation
+20254	P55265	0045070	positive regulation of viral genome replication
+20255	P55265	0031054	pre-miRNA processing
+20256	P55265	0006611	protein export from nucleus
+20257	P55265	0006606	protein import into nucleus
+20258	P55265	0035455	response to interferon-alpha
+20259	P55265	0009615	response to virus
+20260	P55265	0006396	RNA processing
+20261	P55265	0002566	somatic diversification of immune receptors via somatic mutation
+20262	P55265	0060337	type I interferon signaling pathway
 20289	P14672	0005905	clathrin-coated pit
 20290	P14672	0030136	clathrin-coated vesicle
 20291	P14672	0030659	cytoplasmic vesicle membrane
@@ -2717,6 +2793,33 @@
 25598	Q15052	0030032	lamellipodium assembly
 25599	Q15052	0043065	positive regulation of apoptotic process
 25600	Q15052	0051056	regulation of small GTPase mediated signal transduction
+25925	Q9HCK5	0005737	cytoplasm
+25926	Q9HCK5	0005829	cytosol
+25927	Q9HCK5	0016020	membrane
+25928	Q9HCK5	0005634	nucleus
+25929	Q9HCK5	0000932	P-body
+25930	Q9HCK5	0016442	RISC complex
+25931	Q9HCK5	0070578	RISC-loading complex
+25932	Q9HCK5	0003725	double-stranded RNA binding
+25933	Q9HCK5	0035198	miRNA binding
+25934	Q9HCK5	0003727	single-stranded RNA binding
+25935	Q9HCK5	0008584	male gonad development
+25936	Q9HCK5	0007140	male meiotic nuclear division
+25937	Q9HCK5	0035280	miRNA loading onto RISC involved in gene silencing by miRNA
+25938	Q9HCK5	0035278	miRNA mediated inhibition of translation
+25939	Q9HCK5	0010586	miRNA metabolic process
+25940	Q9HCK5	0006402	mRNA catabolic process
+25941	Q9HCK5	0043066	negative regulation of apoptotic process
+25942	Q9HCK5	0010629	negative regulation of gene expression
+25943	Q9HCK5	0010628	positive regulation of gene expression
+25944	Q9HCK5	0035194	posttranscriptional gene silencing by RNA
+25945	Q9HCK5	0031054	pre-miRNA processing
+25946	Q9HCK5	0035196	production of miRNAs involved in gene silencing by miRNA
+25947	Q9HCK5	0022604	regulation of cell morphogenesis
+25948	Q9HCK5	0045652	regulation of megakaryocyte differentiation
+25949	Q9HCK5	0010501	RNA secondary structure unwinding
+25950	Q9HCK5	0007130	synaptonemal complex assembly
+25951	Q9HCK5	0007223	Wnt signaling pathway, calcium modulating pathway
 25984	P61966	0030121	AP-1 adaptor complex
 25985	P61966	0005905	clathrin-coated pit
 25986	P61966	0030659	cytoplasmic vesicle membrane
@@ -3205,6 +3308,7 @@
 29542	O15105	0001657	ureteric bud development
 29543	O15105	0055010	ventricular cardiac muscle tissue morphogenesis
 29544	O15105	0060412	ventricular septum morphogenesis
+29774	Q5VWI1	0005634	nucleus
 29812	Q8IWV7	0005737	cytoplasm
 29813	Q8IWV7	0005829	cytosol
 29814	Q8IWV7	0000502	proteasome complex
@@ -4185,6 +4289,16 @@
 37433	Q6IQ23	0090136	epithelial cell-cell adhesion
 37434	Q6IQ23	0046931	pore complex assembly
 37435	Q6IQ23	0045218	zonula adherens maintenance
+37490	Q969H6	0030681	multimeric ribonuclease P complex
+37491	Q969H6	0005655	nucleolar ribonuclease P complex
+37492	Q969H6	0005730	nucleolus
+37493	Q969H6	0005654	nucleoplasm
+37494	Q969H6	0000172	ribonuclease MRP complex
+37495	Q969H6	0004526	ribonuclease P activity
+37496	Q969H6	0033204	ribonuclease P RNA binding
+37497	Q969H6	0006364	rRNA processing
+37498	Q969H6	0001682	tRNA 5'-leader removal
+37499	Q969H6	0008033	tRNA processing
 37594	P52758	0005737	cytoplasm
 37595	P52758	0005829	cytosol
 37596	P52758	0070062	extracellular exosome
@@ -5026,6 +5140,34 @@
 43226	P52435	0006367	transcription initiation from RNA polymerase II promoter
 43227	P52435	0006351	transcription, DNA-templated
 43228	P52435	0006283	transcription-coupled nucleotide-excision repair
+43293	Q9NRR4	0070877	microprocessor complex
+43294	Q9NRR4	0005730	nucleolus
+43295	Q9NRR4	0005654	nucleoplasm
+43296	Q9NRR4	0005634	nucleus
+43297	Q9NRR4	0014069	postsynaptic density
+43298	Q9NRR4	0017151	DEAD/H-box RNA helicase binding
+43299	Q9NRR4	0003725	double-stranded RNA binding
+43300	Q9NRR4	0001530	lipopolysaccharide binding
+43301	Q9NRR4	0046872	metal ion binding
+43302	Q9NRR4	0070878	primary miRNA binding
+43303	Q9NRR4	0042803	protein homodimerization activity
+43304	Q9NRR4	0070412	R-SMAD binding
+43305	Q9NRR4	0004525	ribonuclease III activity
+43306	Q9NRR4	0003723	RNA binding
+43307	Q9NRR4	0046332	SMAD binding
+43308	Q9NRR4	0050829	defense response to Gram-negative bacterium
+43309	Q9NRR4	0050830	defense response to Gram-positive bacterium
+43310	Q9NRR4	0010586	miRNA metabolic process
+43311	Q9NRR4	0010628	positive regulation of gene expression
+43312	Q9NRR4	0031054	pre-miRNA processing
+43313	Q9NRR4	0031053	primary miRNA processing
+43314	Q9NRR4	0030422	production of siRNA involved in RNA interference
+43315	Q9NRR4	0050727	regulation of inflammatory response
+43316	Q9NRR4	2000628	regulation of miRNA metabolic process
+43317	Q9NRR4	0045589	regulation of regulatory T cell differentiation
+43318	Q9NRR4	0042254	ribosome biogenesis
+43319	Q9NRR4	0006396	RNA processing
+43320	Q9NRR4	0016075	rRNA catabolic process
 43424	P62877	0031462	Cul2-RING ubiquitin ligase complex
 43425	P62877	0031463	Cul3-RING ubiquitin ligase complex
 43426	P62877	0080008	Cul4-RING E3 ubiquitin ligase complex
@@ -7577,6 +7719,28 @@
 60666	Q9Y3C6	0000398	mRNA splicing, via spliceosome
 60667	Q9Y3C6	0006457	protein folding
 60668	Q9Y3C6	0000413	protein peptidyl-prolyl isomerization
+60819	Q96J94	0033391	chromatoid body
+60820	Q96J94	0005737	cytoplasm
+60821	Q96J94	0097433	dense body
+60822	Q96J94	0005634	nucleus
+60823	Q96J94	0043186	P granule
+60824	Q96J94	0004521	endoribonuclease activity
+60825	Q96J94	0046872	metal ion binding
+60826	Q96J94	0003729	mRNA binding
+60827	Q96J94	0140262	mRNA cap binding complex binding
+60828	Q96J94	0034584	piRNA binding
+60829	Q96J94	1905538	polysome binding
+60830	Q96J94	0019901	protein kinase binding
+60831	Q96J94	0003727	single-stranded RNA binding
+60832	Q96J94	0031047	gene silencing by RNA
+60833	Q96J94	0051321	meiotic cell cycle
+60834	Q96J94	0007275	multicellular organism development
+60835	Q96J94	0010529	negative regulation of transposition
+60836	Q96J94	0034587	piRNA metabolic process
+60837	Q96J94	0006417	regulation of translation
+60838	Q96J94	0007286	spermatid development
+60839	Q96J94	0007283	spermatogenesis
+60840	Q96J94	0035093	spermatogenesis, exchange of chromosomal proteins
 60901	Q9HAU0	0005829	cytosol
 60902	Q9HAU0	0098978	glutamatergic synapse
 60903	Q9HAU0	0016020	membrane
@@ -9103,6 +9267,22 @@
 68678	P02585	0030049	muscle filament sliding
 68679	P02585	0006937	regulation of muscle contraction
 68680	P02585	0003009	skeletal muscle contraction
+69077	Q7Z3Z4	0005737	cytoplasm
+69078	Q7Z3Z4	0005634	nucleus
+69079	Q7Z3Z4	0043186	P granule
+69080	Q7Z3Z4	0071547	piP-body
+69081	Q7Z3Z4	0034584	piRNA binding
+69082	Q7Z3Z4	0030154	cell differentiation
+69083	Q7Z3Z4	0043046	DNA methylation involved in gamete generation
+69084	Q7Z3Z4	0010669	epithelial structure maintenance
+69085	Q7Z3Z4	0031047	gene silencing by RNA
+69086	Q7Z3Z4	0051321	meiotic cell cycle
+69087	Q7Z3Z4	0007275	multicellular organism development
+69088	Q7Z3Z4	0010529	negative regulation of transposition
+69089	Q7Z3Z4	0034587	piRNA metabolic process
+69090	Q7Z3Z4	0006417	regulation of translation
+69091	Q7Z3Z4	0090502	RNA phosphodiester bond hydrolysis, endonucleolytic
+69092	Q7Z3Z4	0007283	spermatogenesis
 69290	Q06124	0005737	cytoplasm
 69291	Q06124	0005829	cytosol
 69292	Q06124	0005739	mitochondrion
@@ -9876,6 +10056,17 @@
 72899	Q9HC29	0050727	regulation of inflammatory response
 72900	Q9HC29	0032495	response to muramyl dipeptide
 72901	Q9HC29	0007584	response to nutrient
+72906	O15091	0005759	mitochondrial matrix
+72907	O15091	0042645	mitochondrial nucleoid
+72908	O15091	0030678	mitochondrial ribonuclease P complex
+72909	O15091	0005739	mitochondrion
+72910	O15091	0005654	nucleoplasm
+72911	O15091	0046872	metal ion binding
+72912	O15091	0004526	ribonuclease P activity
+72913	O15091	0097745	mitochondrial tRNA 5'-end processing
+72914	O15091	0070901	mitochondrial tRNA methylation
+72915	O15091	0090646	mitochondrial tRNA processing
+72916	O15091	0001682	tRNA 5'-leader removal
 72963	P15927	0000785	chromatin
 72964	P15927	0000781	chromosome, telomeric region
 72965	P15927	0005662	DNA replication factor A complex
@@ -11680,6 +11871,19 @@
 82526	Q8NG27	0061630	ubiquitin protein ligase activity
 82527	Q8NG27	0030163	protein catabolic process
 82528	Q8NG27	0016567	protein ubiquitination
+82627	Q99575	0005615	extracellular space
+82628	Q99575	0030681	multimeric ribonuclease P complex
+82629	Q99575	0005655	nucleolar ribonuclease P complex
+82630	Q99575	0005730	nucleolus
+82631	Q99575	0005654	nucleoplasm
+82632	Q99575	0000172	ribonuclease MRP complex
+82633	Q99575	0000171	ribonuclease MRP activity
+82634	Q99575	0004526	ribonuclease P activity
+82635	Q99575	0033204	ribonuclease P RNA binding
+82636	Q99575	0003723	RNA binding
+82637	Q99575	0001682	tRNA 5'-leader removal
+82638	Q99575	0016078	tRNA catabolic process
+82639	Q99575	0008033	tRNA processing
 82673	P09651	0071013	catalytic step 2 spliceosome
 82674	P09651	0005737	cytoplasm
 82675	P09651	0070062	extracellular exosome
@@ -11711,6 +11915,27 @@
 82701	P09651	0006405	RNA export from nucleus
 82702	P09651	0016070	RNA metabolic process
 82703	P09651	0016032	viral process
+82745	Q9BUL9	0034451	centriolar satellite
+82746	Q9BUL9	0030681	multimeric ribonuclease P complex
+82747	Q9BUL9	0005730	nucleolus
+82748	Q9BUL9	0005654	nucleoplasm
+82749	Q9BUL9	0000172	ribonuclease MRP complex
+82750	Q9BUL9	0004526	ribonuclease P activity
+82751	Q9BUL9	0033204	ribonuclease P RNA binding
+82752	Q9BUL9	0003723	RNA binding
+82753	Q9BUL9	0006364	rRNA processing
+82754	Q9BUL9	0001682	tRNA 5'-leader removal
+82826	P78346	0030681	multimeric ribonuclease P complex
+82827	P78346	0005655	nucleolar ribonuclease P complex
+82828	P78346	0005654	nucleoplasm
+82829	P78346	0005634	nucleus
+82830	P78346	0000172	ribonuclease MRP complex
+82831	P78346	0004526	ribonuclease P activity
+82832	P78346	0033204	ribonuclease P RNA binding
+82833	P78346	0003723	RNA binding
+82834	P78346	0006364	rRNA processing
+82835	P78346	0001682	tRNA 5'-leader removal
+82836	P78346	0008033	tRNA processing
 82886	Q8IWW6	0005737	cytoplasm
 82887	Q8IWW6	0005829	cytosol
 82888	Q8IWW6	0001891	phagocytic cup
@@ -12225,6 +12450,15 @@
 86608	Q969K3	0016567	protein ubiquitination
 86609	Q969K3	2000374	regulation of oxygen metabolic process
 86610	Q969K3	0006511	ubiquitin-dependent protein catabolic process
+86652	O95707	0030681	multimeric ribonuclease P complex
+86653	O95707	0005730	nucleolus
+86654	O95707	0005654	nucleoplasm
+86655	O95707	0000172	ribonuclease MRP complex
+86656	O95707	0030677	ribonuclease P complex
+86657	O95707	0004526	ribonuclease P activity
+86658	O95707	0033204	ribonuclease P RNA binding
+86659	O95707	0006364	rRNA processing
+86660	O95707	0001682	tRNA 5'-leader removal
 86733	Q9BV68	0005737	cytoplasm
 86734	Q9BV68	0005829	cytosol
 86735	Q9BV68	0005654	nucleoplasm
@@ -15539,6 +15773,18 @@
 107024	Q7L9L4	0046872	metal ion binding
 107025	Q7L9L4	0035329	hippo signaling
 107026	Q7L9L4	0031952	regulation of protein autophosphorylation
+107189	O75817	0005737	cytoplasm
+107190	O75817	0030681	multimeric ribonuclease P complex
+107191	O75817	0005730	nucleolus
+107192	O75817	0005654	nucleoplasm
+107193	O75817	0005634	nucleus
+107194	O75817	0000172	ribonuclease MRP complex
+107195	O75817	0004526	ribonuclease P activity
+107196	O75817	0033204	ribonuclease P RNA binding
+107197	O75817	0003723	RNA binding
+107198	O75817	0006364	rRNA processing
+107199	O75817	0001682	tRNA 5'-leader removal
+107200	O75817	0008033	tRNA processing
 107305	Q9NVW2	0005829	cytosol
 107306	Q9NVW2	0005654	nucleoplasm
 107307	Q9NVW2	0005634	nucleus
@@ -15564,6 +15810,12 @@
 107372	O94941	0031625	ubiquitin protein ligase binding
 107373	O94941	0034450	ubiquitin-ubiquitin ligase activity
 107374	O94941	0000209	protein polyubiquitination
+107398	O95059	0030681	multimeric ribonuclease P complex
+107399	O95059	0005730	nucleolus
+107400	O95059	0005654	nucleoplasm
+107401	O95059	0004526	ribonuclease P activity
+107402	O95059	0033204	ribonuclease P RNA binding
+107403	O95059	0001682	tRNA 5'-leader removal
 107404	Q9H4P4	0005829	cytosol
 107405	Q9H4P4	0071782	endoplasmic reticulum tubular network
 107406	Q9H4P4	0048471	perinuclear region of cytoplasm
@@ -15592,6 +15844,15 @@
 107429	Q9H4P4	0045637	regulation of myeloid cell differentiation
 107430	Q9H4P4	0051896	regulation of protein kinase B signaling
 107431	Q9H4P4	2000377	regulation of reactive oxygen species metabolic process
+107447	Q9H633	0030681	multimeric ribonuclease P complex
+107448	Q9H633	0005655	nucleolar ribonuclease P complex
+107449	Q9H633	0005654	nucleoplasm
+107450	Q9H633	0046872	metal ion binding
+107451	Q9H633	0004526	ribonuclease P activity
+107452	Q9H633	0033204	ribonuclease P RNA binding
+107453	Q9H633	0042493	response to drug
+107454	Q9H633	0001682	tRNA 5'-leader removal
+107455	Q9H633	0008033	tRNA processing
 107473	P78317	0005737	cytoplasm
 107474	P78317	1990752	microtubule end
 107475	P78317	0016604	nuclear body
@@ -15639,6 +15900,22 @@
 107537	Q9Y252	0060765	regulation of androgen receptor signaling pathway
 107538	Q9Y252	0006355	regulation of transcription, DNA-templated
 107539	Q9Y252	0006511	ubiquitin-dependent protein catabolic process
+107610	P78345	0001650	fibrillar center
+107611	P78345	0030681	multimeric ribonuclease P complex
+107612	P78345	0005730	nucleolus
+107613	P78345	0005654	nucleoplasm
+107614	P78345	0004526	ribonuclease P activity
+107615	P78345	0033204	ribonuclease P RNA binding
+107616	P78345	0006364	rRNA processing
+107617	P78345	0001682	tRNA 5'-leader removal
+107623	O75818	0030681	multimeric ribonuclease P complex
+107624	O75818	0005655	nucleolar ribonuclease P complex
+107625	O75818	0005654	nucleoplasm
+107626	O75818	0005634	nucleus
+107627	O75818	0004526	ribonuclease P activity
+107628	O75818	0033204	ribonuclease P RNA binding
+107629	O75818	0006364	rRNA processing
+107630	O75818	0001682	tRNA 5'-leader removal
 107654	Q9BRR9	0005737	cytoplasm
 107655	Q9BRR9	0005829	cytosol
 107656	Q9BRR9	0005576	extracellular region
@@ -19853,6 +20130,24 @@
 134718	Q6NZ67	0008274	gamma-tubulin ring complex
 134719	Q6NZ67	0005654	nucleoplasm
 134720	Q6NZ67	0005819	spindle
+134731	Q08999	0000785	chromatin
+134732	Q08999	0005829	cytosol
+134733	Q08999	0070062	extracellular exosome
+134734	Q08999	0005730	nucleolus
+134735	Q08999	0005654	nucleoplasm
+134736	Q08999	0005667	transcription factor complex
+134737	Q08999	1990841	promoter-specific chromatin binding
+134738	Q08999	0001102	RNA polymerase II activating transcription factor binding
+134739	Q08999	0001012	RNA polymerase II regulatory region DNA binding
+134740	Q08999	0030154	cell differentiation
+134741	Q08999	0006325	chromatin organization
+134742	Q08999	0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest
+134743	Q08999	2000134	negative regulation of G1/S transition of mitotic cell cycle
+134744	Q08999	0010629	negative regulation of gene expression
+134745	Q08999	0051302	regulation of cell division
+134746	Q08999	0043550	regulation of lipid kinase activity
+134747	Q08999	0007346	regulation of mitotic cell cycle
+134748	Q08999	0006357	regulation of transcription by RNA polymerase II
 134956	Q99962	0097441	basal dendrite
 134957	Q99962	0030054	cell junction
 134958	Q99962	0030669	clathrin-coated endocytic vesicle membrane
@@ -20234,6 +20529,13 @@
 136395	P30876	0006367	transcription initiation from RNA polymerase II promoter
 136396	P30876	0006351	transcription, DNA-templated
 136397	P30876	0006283	transcription-coupled nucleotide-excision repair
+136418	P13489	0032311	angiogenin-PRI complex
+136419	P13489	0005829	cytosol
+136420	P13489	0070062	extracellular exosome
+136421	P13489	0005654	nucleoplasm
+136422	P13489	0008428	ribonuclease inhibitor activity
+136423	P13489	0006402	mRNA catabolic process
+136424	P13489	0045765	regulation of angiogenesis
 136691	Q2MV58	0005856	cytoskeleton
 136692	Q2MV58	0005829	cytosol
 136693	Q2MV58	0005615	extracellular space
@@ -21289,6 +21591,42 @@
 142731	O00308	1901016	regulation of potassium ion transmembrane transporter activity
 142732	O00308	0006511	ubiquitin-dependent protein catabolic process
 142733	O00308	0046718	viral entry into host cell
+142859	Q15633	0005737	cytoplasm
+142860	Q15633	0005829	cytosol
+142861	Q15633	0016604	nuclear body
+142862	Q15633	0005654	nucleoplasm
+142863	Q15633	0048471	perinuclear region of cytoplasm
+142864	Q15633	0016442	RISC complex
+142865	Q15633	0070578	RISC-loading complex
+142866	Q15633	0003725	double-stranded RNA binding
+142867	Q15633	0019899	enzyme binding
+142868	Q15633	0042802	identical protein binding
+142869	Q15633	0035198	miRNA binding
+142870	Q15633	0070883	pre-miRNA binding
+142871	Q15633	0036002	pre-mRNA binding
+142872	Q15633	0042803	protein homodimerization activity
+142873	Q15633	0047485	protein N-terminus binding
+142874	Q15633	0035197	siRNA binding
+142875	Q15633	0035280	miRNA loading onto RISC involved in gene silencing by miRNA
+142876	Q15633	0010586	miRNA metabolic process
+142877	Q15633	0035264	multicellular organism growth
+142878	Q15633	0050689	negative regulation of defense response to virus by host
+142879	Q15633	0006469	negative regulation of protein kinase activity
+142880	Q15633	0061351	neural precursor cell proliferation
+142881	Q15633	0051149	positive regulation of muscle cell differentiation
+142882	Q15633	0045727	positive regulation of translation
+142883	Q15633	0045070	positive regulation of viral genome replication
+142884	Q15633	0031054	pre-miRNA processing
+142885	Q15633	0035196	production of miRNAs involved in gene silencing by miRNA
+142886	Q15633	0030422	production of siRNA involved in RNA interference
+142887	Q15633	1903798	regulation of production of miRNAs involved in gene silencing by miRNA
+142888	Q15633	0090065	regulation of production of siRNA involved in RNA interference
+142889	Q15633	0046782	regulation of viral transcription
+142890	Q15633	0007338	single fertilization
+142891	Q15633	0035087	siRNA loading onto RISC involved in RNA interference
+142892	Q15633	0043403	skeletal muscle tissue regeneration
+142893	Q15633	0007286	spermatid development
+142894	Q15633	0030423	targeting of mRNA for destruction involved in RNA interference
 142938	O95219	0005737	cytoplasm
 142939	O95219	0005868	cytoplasmic dynein complex
 142940	O95219	0031901	early endosome membrane
@@ -21935,6 +22273,25 @@
 145647	O95071	0070936	protein K48-linked ubiquitination
 145648	O95071	0000209	protein polyubiquitination
 145649	O95071	0016032	viral process
+146040	Q7L0Y3	0005759	mitochondrial matrix
+146041	Q7L0Y3	0042645	mitochondrial nucleoid
+146042	Q7L0Y3	0030678	mitochondrial ribonuclease P complex
+146043	Q7L0Y3	0005739	mitochondrion
+146044	Q7L0Y3	0005654	nucleoplasm
+146045	Q7L0Y3	0005634	nucleus
+146046	Q7L0Y3	0061953	mRNA (adenine-N1-)-methyltransferase activity
+146047	Q7L0Y3	0003723	RNA binding
+146048	Q7L0Y3	0016429	tRNA (adenine-N1-)-methyltransferase activity
+146049	Q7L0Y3	0052905	tRNA (guanine(9)-N(1))-methyltransferase activity
+146050	Q7L0Y3	0009019	tRNA (guanine-N1-)-methyltransferase activity
+146051	Q7L0Y3	0000049	tRNA binding
+146052	Q7L0Y3	0000964	mitochondrial RNA 5'-end processing
+146053	Q7L0Y3	1990180	mitochondrial tRNA 3'-end processing
+146054	Q7L0Y3	0097745	mitochondrial tRNA 5'-end processing
+146055	Q7L0Y3	0070901	mitochondrial tRNA methylation
+146056	Q7L0Y3	0090646	mitochondrial tRNA processing
+146057	Q7L0Y3	0080009	mRNA methylation
+146058	Q7L0Y3	0070131	positive regulation of mitochondrial translation
 146103	Q7Z7E8	0005829	cytosol
 146104	Q7Z7E8	0030175	filopodium
 146105	Q7Z7E8	0005634	nucleus
@@ -25421,6 +25778,13 @@
 171689	Q9NS87	0007018	microtubule-based movement
 171690	Q9NS87	0000278	mitotic cell cycle
 171691	Q9NS87	0006890	retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum
+171826	Q9H8H0	0005730	nucleolus
+171827	Q9H8H0	0005654	nucleoplasm
+171828	Q9H8H0	0034455	t-UTP complex
+171829	Q9H8H0	0003723	RNA binding
+171830	Q9H8H0	0030490	maturation of SSU-rRNA
+171831	Q9H8H0	1901838	positive regulation of transcription of nucleolar large rRNA by RNA polymerase I
+171832	Q9H8H0	0006364	rRNA processing
 172001	Q9BYG5	0016324	apical plasma membrane
 172002	Q9BYG5	0005923	bicellular tight junction
 172003	Q9BYG5	0005938	cell cortex
@@ -25476,6 +25840,26 @@
 172410	Q14155	1904424	regulation of GTP binding
 172411	Q14155	0051056	regulation of small GTPase mediated signal transduction
 172412	Q14155	0007165	signal transduction
+172781	Q99714	0005737	cytoplasm
+172782	Q99714	0005759	mitochondrial matrix
+172783	Q99714	0030678	mitochondrial ribonuclease P complex
+172784	Q99714	0005739	mitochondrion
+172785	Q99714	0005886	plasma membrane
+172786	Q99714	0047015	3-hydroxy-2-methylbutyryl-CoA dehydrogenase activity
+172787	Q99714	0003857	3-hydroxyacyl-CoA dehydrogenase activity
+172788	Q99714	0008709	cholate 7-alpha-dehydrogenase activity
+172789	Q99714	0035410	dihydrotestosterone 17-beta-dehydrogenase activity
+172790	Q99714	0003723	RNA binding
+172791	Q99714	0030283	testosterone dehydrogenase [NAD(P)] activity
+172792	Q99714	0000049	tRNA binding
+172793	Q99714	0009083	branched-chain amino acid catabolic process
+172794	Q99714	0006629	lipid metabolic process
+172795	Q99714	1990180	mitochondrial tRNA 3'-end processing
+172796	Q99714	0097745	mitochondrial tRNA 5'-end processing
+172797	Q99714	0070901	mitochondrial tRNA methylation
+172798	Q99714	0090646	mitochondrial tRNA processing
+172799	Q99714	0007005	mitochondrion organization
+172800	Q99714	0051289	protein homotetramerization
 173075	Q92576	0046872	metal ion binding
 173076	Q92576	0007275	multicellular organism development
 173077	Q92576	0006351	transcription, DNA-templated
@@ -25695,6 +26079,34 @@
 174243	Q86U42	1904247	positive regulation of polynucleotide adenylyltransferase activity
 174244	Q86U42	0006396	RNA processing
 174245	Q86U42	0006369	termination of RNA polymerase II transcription
+174446	O75569	0005737	cytoplasm
+174447	O75569	0005829	cytosol
+174448	O75569	0016020	membrane
+174449	O75569	0005654	nucleoplasm
+174450	O75569	0048471	perinuclear region of cytoplasm
+174451	O75569	0070578	RISC-loading complex
+174452	O75569	0003725	double-stranded RNA binding
+174453	O75569	0008047	enzyme activator activity
+174454	O75569	0019899	enzyme binding
+174455	O75569	0042802	identical protein binding
+174456	O75569	0070883	pre-miRNA binding
+174457	O75569	0042803	protein homodimerization activity
+174458	O75569	0003723	RNA binding
+174459	O75569	0034599	cellular response to oxidative stress
+174460	O75569	0006955	immune response
+174461	O75569	0042474	middle ear morphogenesis
+174462	O75569	0010586	miRNA metabolic process
+174463	O75569	0008285	negative regulation of cell population proliferation
+174464	O75569	0042473	outer ear morphogenesis
+174465	O75569	2001244	positive regulation of intrinsic apoptotic signaling pathway
+174466	O75569	0031054	pre-miRNA processing
+174467	O75569	0035196	production of miRNAs involved in gene silencing by miRNA
+174468	O75569	0030422	production of siRNA involved in RNA interference
+174469	O75569	0006468	protein phosphorylation
+174470	O75569	0050821	protein stabilization
+174471	O75569	0009615	response to virus
+174472	O75569	0048705	skeletal system morphogenesis
+174473	O75569	0016032	viral process
 174582	Q16401	0005829	cytosol
 174583	Q16401	0005654	nucleoplasm
 174584	Q16401	0022624	proteasome accessory complex
@@ -27166,6 +27578,35 @@
 182739	Q8WWX0	0045732	positive regulation of protein catabolic process
 182740	Q8WWX0	0043687	post-translational protein modification
 182741	Q8WWX0	0016567	protein ubiquitination
+182754	Q9H9G7	0000794	condensed nuclear chromosome
+182755	Q9H9G7	0005737	cytoplasm
+182756	Q9H9G7	0036464	cytoplasmic ribonucleoprotein granule
+182757	Q9H9G7	0005829	cytosol
+182758	Q9H9G7	0016020	membrane
+182759	Q9H9G7	0005654	nucleoplasm
+182760	Q9H9G7	0000932	P-body
+182761	Q9H9G7	0016442	RISC complex
+182762	Q9H9G7	0070578	RISC-loading complex
+182763	Q9H9G7	0003725	double-stranded RNA binding
+182764	Q9H9G7	0004521	endoribonuclease activity
+182765	Q9H9G7	0090624	endoribonuclease activity, cleaving miRNA-paired mRNA
+182766	Q9H9G7	0046872	metal ion binding
+182767	Q9H9G7	0035198	miRNA binding
+182768	Q9H9G7	0003723	RNA binding
+182769	Q9H9G7	0003727	single-stranded RNA binding
+182770	Q9H9G7	0035280	miRNA loading onto RISC involved in gene silencing by miRNA
+182771	Q9H9G7	0035278	miRNA mediated inhibition of translation
+182772	Q9H9G7	0006402	mRNA catabolic process
+182773	Q9H9G7	0010629	negative regulation of gene expression
+182774	Q9H9G7	0010628	positive regulation of gene expression
+182775	Q9H9G7	1901224	positive regulation of NIK/NF-kappaB signaling
+182776	Q9H9G7	0035194	posttranscriptional gene silencing by RNA
+182777	Q9H9G7	0031054	pre-miRNA processing
+182778	Q9H9G7	0035196	production of miRNAs involved in gene silencing by miRNA
+182779	Q9H9G7	0045652	regulation of megakaryocyte differentiation
+182780	Q9H9G7	0072091	regulation of stem cell proliferation
+182781	Q9H9G7	0010501	RNA secondary structure unwinding
+182782	Q9H9G7	0007223	Wnt signaling pathway, calcium modulating pathway
 183159	P61978	0071013	catalytic step 2 spliceosome
 183160	P61978	0042995	cell projection
 183161	P61978	0005737	cytoplasm
@@ -27616,6 +28057,20 @@
 186556	Q14161	0005096	GTPase activator activity
 186557	Q14161	0046872	metal ion binding
 186558	Q14161	0008277	regulation of G protein-coupled receptor signaling pathway
+186694	Q8WYQ5	0005737	cytoplasm
+186695	Q8WYQ5	0070877	microprocessor complex
+186696	Q8WYQ5	0005730	nucleolus
+186697	Q8WYQ5	0005654	nucleoplasm
+186698	Q8WYQ5	0005634	nucleus
+186699	Q8WYQ5	0003725	double-stranded RNA binding
+186700	Q8WYQ5	0020037	heme binding
+186701	Q8WYQ5	0042802	identical protein binding
+186702	Q8WYQ5	0046872	metal ion binding
+186703	Q8WYQ5	0070878	primary miRNA binding
+186704	Q8WYQ5	0042803	protein homodimerization activity
+186705	Q8WYQ5	0010586	miRNA metabolic process
+186706	Q8WYQ5	0031053	primary miRNA processing
+186707	Q8WYQ5	0090502	RNA phosphodiester bond hydrolysis, endonucleolytic
 186784	O60307	0005524	ATP binding
 186785	O60307	0000287	magnesium ion binding
 186786	O60307	0004674	protein serine/threonine kinase activity
@@ -29191,6 +29646,61 @@
 198274	Q96B67	0051443	positive regulation of ubiquitin-protein transferase activity
 198275	Q96B67	0043588	skin development
 198276	Q96B67	0001659	temperature homeostasis
+198516	Q9UKV8	0030054	cell junction
+198517	Q9UKV8	0005737	cytoplasm
+198518	Q9UKV8	0005829	cytosol
+198519	Q9UKV8	0030425	dendrite
+198520	Q9UKV8	0070062	extracellular exosome
+198521	Q9UKV8	0016020	membrane
+198522	Q9UKV8	0005845	mRNA cap binding complex
+198523	Q9UKV8	0005654	nucleoplasm
+198524	Q9UKV8	0005634	nucleus
+198525	Q9UKV8	0000932	P-body
+198526	Q9UKV8	0005844	polysome
+198527	Q9UKV8	1990904	ribonucleoprotein complex
+198528	Q9UKV8	0016442	RISC complex
+198529	Q9UKV8	0070578	RISC-loading complex
+198530	Q9UKV8	0001047	core promoter binding
+198531	Q9UKV8	0003725	double-stranded RNA binding
+198532	Q9UKV8	0004521	endoribonuclease activity
+198533	Q9UKV8	0090624	endoribonuclease activity, cleaving miRNA-paired mRNA
+198534	Q9UKV8	0070551	endoribonuclease activity, cleaving siRNA-paired mRNA
+198535	Q9UKV8	0046872	metal ion binding
+198536	Q9UKV8	0035198	miRNA binding
+198537	Q9UKV8	0098808	mRNA cap binding
+198538	Q9UKV8	0008022	protein C-terminus binding
+198539	Q9UKV8	0000340	RNA 7-methylguanosine cap binding
+198540	Q9UKV8	0003723	RNA binding
+198541	Q9UKV8	0000993	RNA polymerase II complex binding
+198542	Q9UKV8	0003727	single-stranded RNA binding
+198543	Q9UKV8	0035197	siRNA binding
+198544	Q9UKV8	0003743	translation initiation factor activity
+198545	Q9UKV8	0031047	gene silencing by RNA
+198546	Q9UKV8	0035280	miRNA loading onto RISC involved in gene silencing by miRNA
+198547	Q9UKV8	0035278	miRNA mediated inhibition of translation
+198548	Q9UKV8	0010586	miRNA metabolic process
+198549	Q9UKV8	0035279	mRNA cleavage involved in gene silencing by miRNA
+198550	Q9UKV8	0090625	mRNA cleavage involved in gene silencing by siRNA
+198551	Q9UKV8	0042985	negative regulation of amyloid precursor protein biosynthetic process
+198552	Q9UKV8	0010629	negative regulation of gene expression
+198553	Q9UKV8	0045947	negative regulation of translational initiation
+198554	Q9UKV8	0045766	positive regulation of angiogenesis
+198555	Q9UKV8	0010628	positive regulation of gene expression
+198556	Q9UKV8	1905618	positive regulation of miRNA mediated inhibition of translation
+198557	Q9UKV8	1900153	positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay
+198558	Q9UKV8	0060213	positive regulation of nuclear-transcribed mRNA poly(A) tail shortening
+198559	Q9UKV8	0045944	positive regulation of transcription by RNA polymerase II
+198560	Q9UKV8	1901165	positive regulation of trophoblast cell migration
+198561	Q9UKV8	0009791	post-embryonic development
+198562	Q9UKV8	0035194	posttranscriptional gene silencing by RNA
+198563	Q9UKV8	0031054	pre-miRNA processing
+198564	Q9UKV8	0035196	production of miRNAs involved in gene silencing by miRNA
+198565	Q9UKV8	0030422	production of siRNA involved in RNA interference
+198566	Q9UKV8	0060964	regulation of gene silencing by miRNA
+198567	Q9UKV8	0010501	RNA secondary structure unwinding
+198568	Q9UKV8	0035087	siRNA loading onto RISC involved in RNA interference
+198569	Q9UKV8	0006412	translation
+198570	Q9UKV8	0007223	Wnt signaling pathway, calcium modulating pathway
 198600	Q8N157	0005912	adherens junction
 198601	Q8N157	0005911	cell-cell junction
 198602	Q8N157	0005814	centriole
@@ -31202,6 +31712,39 @@
 212479	Q6ZVZ8	0035556	intracellular signal transduction
 212480	Q6ZVZ8	0043687	post-translational protein modification
 212481	Q6ZVZ8	0016567	protein ubiquitination
+212512	Q9UL18	0005737	cytoplasm
+212513	Q9UL18	0005829	cytosol
+212514	Q9UL18	0005654	nucleoplasm
+212515	Q9UL18	0005634	nucleus
+212516	Q9UL18	0000932	P-body
+212517	Q9UL18	0005844	polysome
+212518	Q9UL18	1990904	ribonucleoprotein complex
+212519	Q9UL18	0016442	RISC complex
+212520	Q9UL18	0070578	RISC-loading complex
+212521	Q9UL18	0001047	core promoter binding
+212522	Q9UL18	0003725	double-stranded RNA binding
+212523	Q9UL18	0035198	miRNA binding
+212524	Q9UL18	0003723	RNA binding
+212525	Q9UL18	0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+212526	Q9UL18	0000993	RNA polymerase II complex binding
+212527	Q9UL18	0003727	single-stranded RNA binding
+212528	Q9UL18	0035280	miRNA loading onto RISC involved in gene silencing by miRNA
+212529	Q9UL18	0035278	miRNA mediated inhibition of translation
+212530	Q9UL18	0010586	miRNA metabolic process
+212531	Q9UL18	0016525	negative regulation of angiogenesis
+212532	Q9UL18	0010629	negative regulation of gene expression
+212533	Q9UL18	0000956	nuclear-transcribed mRNA catabolic process
+212534	Q9UL18	0010628	positive regulation of gene expression
+212535	Q9UL18	1901224	positive regulation of NIK/NF-kappaB signaling
+212536	Q9UL18	0045944	positive regulation of transcription by RNA polymerase II
+212537	Q9UL18	0035194	posttranscriptional gene silencing by RNA
+212538	Q9UL18	0031054	pre-miRNA processing
+212539	Q9UL18	0035196	production of miRNAs involved in gene silencing by miRNA
+212540	Q9UL18	0060964	regulation of gene silencing by miRNA
+212541	Q9UL18	0045652	regulation of megakaryocyte differentiation
+212542	Q9UL18	0090502	RNA phosphodiester bond hydrolysis, endonucleolytic
+212543	Q9UL18	0010501	RNA secondary structure unwinding
+212544	Q9UL18	0007223	Wnt signaling pathway, calcium modulating pathway
 212714	Q96PC3	0005905	clathrin-coated pit
 212715	Q96PC3	0030659	cytoplasmic vesicle membrane
 212716	Q96PC3	0005829	cytosol
@@ -31269,6 +31812,33 @@
 213709	Q9P1Y5	0031113	regulation of microtubule polymerization
 213710	Q9P1Y5	0033043	regulation of organelle organization
 213711	Q9P1Y5	0045218	zonula adherens maintenance
+213765	Q92841	0005737	cytoplasm
+213766	Q92841	0005829	cytosol
+213767	Q92841	0016020	membrane
+213768	Q92841	0016607	nuclear speck
+213769	Q92841	0005730	nucleolus
+213770	Q92841	0005654	nucleoplasm
+213771	Q92841	0005634	nucleus
+213772	Q92841	1990904	ribonucleoprotein complex
+213773	Q92841	0005524	ATP binding
+213774	Q92841	0003723	RNA binding
+213775	Q92841	0003724	RNA helicase activity
+213776	Q92841	0008186	RNA-dependent ATPase activity
+213777	Q92841	0003713	transcription coactivator activity
+213778	Q92841	0000380	alternative mRNA splicing, via spliceosome
+213779	Q92841	0030521	androgen receptor signaling pathway
+213780	Q92841	0051607	defense response to virus
+213781	Q92841	0001837	epithelial to mesenchymal transition
+213782	Q92841	0031047	gene silencing by RNA
+213783	Q92841	0030520	intracellular estrogen receptor signaling pathway
+213784	Q92841	0010586	miRNA metabolic process
+213785	Q92841	0045445	myoblast differentiation
+213786	Q92841	0045944	positive regulation of transcription by RNA polymerase II
+213787	Q92841	0000381	regulation of alternative mRNA splicing, via spliceosome
+213788	Q92841	2001014	regulation of skeletal muscle cell differentiation
+213789	Q92841	0006357	regulation of transcription by RNA polymerase II
+213790	Q92841	0006396	RNA processing
+213791	Q92841	0006364	rRNA processing
 213902	P68106	0034704	calcium channel complex
 213903	P68106	0005623	cell
 213904	P68106	0005737	cytoplasm
@@ -31567,6 +32137,53 @@
 215609	Q96RT7	0051415	microtubule nucleation by interphase microtubule organizing center
 215610	Q96RT7	0000278	mitotic cell cycle
 215611	Q96RT7	0051225	spindle assembly
+215783	O75460	1990597	AIP1-IRE1 complex
+215784	O75460	0005623	cell
+215785	O75460	0005737	cytoplasm
+215786	O75460	0005783	endoplasmic reticulum
+215787	O75460	0005789	endoplasmic reticulum membrane
+215788	O75460	0030176	integral component of endoplasmic reticulum membrane
+215789	O75460	1990332	Ire1 complex
+215790	O75460	1990630	IRE1-RACK1-PP2A complex
+215791	O75460	1990604	IRE1-TRAF2-ASK1 complex
+215792	O75460	0005739	mitochondrion
+215793	O75460	0005637	nuclear inner membrane
+215794	O75460	0043531	ADP binding
+215795	O75460	0005524	ATP binding
+215796	O75460	0004521	endoribonuclease activity
+215797	O75460	0019899	enzyme binding
+215798	O75460	0030544	Hsp70 protein binding
+215799	O75460	0051879	Hsp90 protein binding
+215800	O75460	0042802	identical protein binding
+215801	O75460	0000287	magnesium ion binding
+215802	O75460	0005161	platelet-derived growth factor receptor binding
+215803	O75460	0042803	protein homodimerization activity
+215804	O75460	0004672	protein kinase activity
+215805	O75460	0004674	protein serine/threonine kinase activity
+215806	O75460	0051082	unfolded protein binding
+215807	O75460	0007257	activation of JUN kinase activity
+215808	O75460	0007050	cell cycle arrest
+215809	O75460	0071333	cellular response to glucose stimulus
+215810	O75460	0034620	cellular response to unfolded protein
+215811	O75460	0035924	cellular response to vascular endothelial growth factor stimulus
+215812	O75460	0030968	endoplasmic reticulum unfolded protein response
+215813	O75460	0001935	endothelial cell proliferation
+215814	O75460	1901142	insulin metabolic process
+215815	O75460	0070059	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress
+215816	O75460	0036498	IRE1-mediated unfolded protein response
+215817	O75460	0006402	mRNA catabolic process
+215818	O75460	0006379	mRNA cleavage
+215819	O75460	0098787	mRNA cleavage involved in mRNA processing
+215820	O75460	0070054	mRNA splicing, via endonucleolytic cleavage and ligation
+215821	O75460	0036289	peptidyl-serine autophosphorylation
+215822	O75460	1990579	peptidyl-serine trans-autophosphorylation
+215823	O75460	1900103	positive regulation of endoplasmic reticulum unfolded protein response
+215824	O75460	0033120	positive regulation of RNA splicing
+215825	O75460	1904707	positive regulation of vascular smooth muscle cell proliferation
+215826	O75460	0046777	protein autophosphorylation
+215827	O75460	0006468	protein phosphorylation
+215828	O75460	0016241	regulation of macroautophagy
+215829	O75460	0034976	response to endoplasmic reticulum stress
 215978	P41208	0005814	centriole
 215979	P41208	0005813	centrosome
 215980	P41208	0036064	ciliary basal body
@@ -34900,6 +35517,49 @@
 237622	Q15303	0007165	signal transduction
 237623	Q15303	0007416	synapse assembly
 237624	Q15303	0007169	transmembrane receptor protein tyrosine kinase signaling pathway
+238427	Q9UPY3	0033167	ARC complex
+238428	Q9UPY3	0005737	cytoplasm
+238429	Q9UPY3	0005829	cytosol
+238430	Q9UPY3	0030425	dendrite
+238431	Q9UPY3	0005793	endoplasmic reticulum-Golgi intermediate compartment
+238432	Q9UPY3	0070062	extracellular exosome
+238433	Q9UPY3	0030426	growth cone
+238434	Q9UPY3	0005634	nucleus
+238435	Q9UPY3	0016442	RISC complex
+238436	Q9UPY3	0070578	RISC-loading complex
+238437	Q9UPY3	0005524	ATP binding
+238438	Q9UPY3	0004530	deoxyribonuclease I activity
+238439	Q9UPY3	0003677	DNA binding
+238440	Q9UPY3	0003725	double-stranded RNA binding
+238441	Q9UPY3	0004521	endoribonuclease activity
+238442	Q9UPY3	0004386	helicase activity
+238443	Q9UPY3	0046872	metal ion binding
+238444	Q9UPY3	0070883	pre-miRNA binding
+238445	Q9UPY3	0019904	protein domain specific binding
+238446	Q9UPY3	0004525	ribonuclease III activity
+238447	Q9UPY3	0035197	siRNA binding
+238448	Q9UPY3	0006309	apoptotic DNA fragmentation
+238449	Q9UPY3	0036404	conversion of ds siRNA to ss siRNA
+238450	Q9UPY3	0033168	conversion of ds siRNA to ss siRNA involved in RNA interference
+238451	Q9UPY3	0035280	miRNA loading onto RISC involved in gene silencing by miRNA
+238452	Q9UPY3	0010586	miRNA metabolic process
+238453	Q9UPY3	0010629	negative regulation of gene expression
+238454	Q9UPY3	0010626	negative regulation of Schwann cell proliferation
+238455	Q9UPY3	0000122	negative regulation of transcription by RNA polymerase II
+238456	Q9UPY3	0032720	negative regulation of tumor necrosis factor production
+238457	Q9UPY3	0021675	nerve development
+238458	Q9UPY3	0048812	neuron projection morphogenesis
+238459	Q9UPY3	0038061	NIK/NF-kappaB signaling
+238460	Q9UPY3	0032290	peripheral nervous system myelin formation
+238461	Q9UPY3	0031643	positive regulation of myelination
+238462	Q9UPY3	0014040	positive regulation of Schwann cell differentiation
+238463	Q9UPY3	0031054	pre-miRNA processing
+238464	Q9UPY3	0035196	production of miRNAs involved in gene silencing by miRNA
+238465	Q9UPY3	0030422	production of siRNA involved in RNA interference
+238466	Q9UPY3	0090502	RNA phosphodiester bond hydrolysis, endonucleolytic
+238467	Q9UPY3	0035087	siRNA loading onto RISC involved in RNA interference
+238468	Q9UPY3	0030423	targeting of mRNA for destruction involved in RNA interference
+238469	Q9UPY3	0035148	tube formation
 238923	Q96J02	0005737	cytoplasm
 238924	Q96J02	0005829	cytosol
 238925	Q96J02	0031901	early endosome membrane
