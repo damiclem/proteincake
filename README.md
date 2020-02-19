@@ -22,6 +22,8 @@ This model is actually a PSI-BLAST algorithm which takes as input a specific PSS
 python modules/pssm.py --fit True --blast_path path/to/blast.fasta --msa_path path/to/msa.fasta --model_path path/to/model.pssm --test_path path/to/test.fasta --out_path path/to/out.tsv --num_iterations 3 --e_value 0.001
 ```
 
+**NOTE** that this module requires to have ncbi-blast+ packet installed and correctly accessible from path. Tested version of the underlying program is *psiblast 2.6.0*.
+
 ### 2) Hidden Markov Model
 This model allows to use either HMMER or JACKHMMER in order to obtain domain classification and domain's positions matching. Parameters are:
 - *algorithm*: whether to use HMMER or JACKHMMER. String, default *hmmer*;
@@ -36,6 +38,8 @@ This model allows to use either HMMER or JACKHMMER in order to obtain domain cla
 ```shell
 python modules/hmm.py --algorithm hmmer --fit True --seq_path path/to/query/sequence.fasta --msa_path path/to/msa.fasta --test_path path/to/test.fasta --model_path path/to/model --out_path path/to/out.tsv --e_value
 ```
+
+**NOTE** that this module requires to have hmmer packet installed and correctly accessible from path. tested version of the underlying program is *hmmer 3.1b2*. Useful information for installing can be found [here](http://hmmer.org/documentation.html).
 
 ### 3) Ensemble model
 Differently from PSSM and HMM models, ensemble model takes as input the output of other models and runs majority voting after clusterizing predicted domains. Parameters are:
@@ -147,3 +151,5 @@ In the context of structural alignment, TM-align has been used to evaluate clust
 ```shell
 python modules/tmalign.py --pdb_paths path/to/pdb1.pdb path/to/pdb2.pdb path/to/pdb3.pdb --script_path resources/TMalign --out_type rmsd --out_path path/to/out.tsv
 ```
+
+**NOTE** that this module relies on TM-align program, which must be accessible from user defined script path. Useful information for installing i can be found [here](https://zhanglab.ccmb.med.umich.edu/TM-align/).
