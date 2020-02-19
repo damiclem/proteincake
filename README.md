@@ -69,7 +69,7 @@ An Odd Ratio close to 0 indicates that a *GO/DO* term is more present in the *ba
 
 After computing the *OddRatio* and the *p-value* of every *GO/DO* term, which was present in both the *target* and *background* dataset, we computed the depth of this terms using the *Gene/Diesease Ontology Graph*, we then take out all the terms with a too high *p-value* or with a too high depth (these thresholds are parameters that can differ from dataset to dataset, deafult parameters are: <br>
 - *maximum p-value*: 0.05 <br>
-- *maximum depth*: 5
+- *maximum depth*: 4
 
 Moreover, we decided to transmit the p-value of a children to its parents, in order, to easier the presence of *high level terms* in the final results.
 
