@@ -23,6 +23,28 @@
         1.3.d  Evaluated the HMM model using the positive and the negative examples
         hmmsearch --domtblout results/HMM_domtblout_pos -o results/HMM_results_pos models/model.hmm data/positive_pfam.fasta
 
+## Models
+This part explains every model developed in this project and how to use them. Some models, such as PSSM or HMMER require an initial MSA, which can be retrieved by following the instructions above, while others, such as JACKHMMER, don't.
+
+*Note* that each model described here returns a table with two columns:
+1. Protein accession number;
+2. Set of amino-acid positions in which the domain has been found.
+
+### 1 Position Specific Scoring Matrix (PSSM)
+This model is actually a PSI-BLAST algorithm which takes as input a specific PSSM. Parameters are:
+- *fit*: defines wether to fit or not a new model. Boolean, default *True*;
+- *blast_path*: path to blast file, if fit is True. String, default *data/blast.fasta*;
+- *msa_path*: path to multiple sequence alignment result, FASTA formatted. String, default *msa.edited.fasta*;
+- *model_path*: path where to store the new model, if fit is True. String, default *models/model.pssm*
+- *test_path*: path from which test dataset is loaded. String, default *data/human.fasta*;
+- *out_path*: path where to store model results. String;
+- *num_iterations*: number of PSI-BLAST iterations. Int, default *3*;
+- *e_vale*: e-value threshold on results. Float, default *0.001*.
+
+Usage:
+```shell
+python modules/pssm.py --fit True --blast_path path/to/blast.fasta --msa_path path/to/msa.fasta --model_path path/to/model.pssm --test_path path/to/test.fasta --out_path path/to/out --num_iterations 3 --e_value 0.001
+```
 
 ## Part Two
 
