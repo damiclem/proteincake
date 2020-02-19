@@ -4,18 +4,17 @@
 
 
 # Dependencies
+import argparse
 import pandas as pd
 import numpy as np
-from scipy.cluster.hierarchy import linkage, fcluster
 from sklearn.cluster import DBSCAN
 
 
 # Define a method for majority voting
-def majority_voting(models_out, threshold=None):
+def majority_voting(models_out):
     """
     Input:
         1. models_out:      models output, iterable containing dataframe (entry_ac, positive matching)
-        2. threshold:       threshold for majority voting, default number of models
     Output:
         1. ensemble_out:    set of values passing threshold (predicted positive)
     """
@@ -82,20 +81,32 @@ if __name__ == '__main__':
     # 1. Arguments
     parser = argparse.ArgumentParser()
     parser.add_argument('--models_out', type=str, nargs='+', required=True)
-    parser.add_argument('--threshold', type=int, required=False)
     parser.add_argument('--out_path', type=str)
     args = parser.parse_args()
 
     # 2. Load models from csv
-    models_out = [pd.read_csv(model_out, sep='\t') for model_out in models_out]
+    models_out = [pd.read_csv(model_out, sep='\t') for model_out in args.models_out]
 
-    # 3. Run majority voting
-    ensemble_out = majority_voting(models_out, args.threshold)
+    # 3. For each model, turn domain range into domain sequence (set of positions)
+    for i in range(len(models_out)):
+        # Get set of positions matching the domain
+        models_out[i]['positive'] = models_out[i].apply(
+            lambda x: set(range(int(x.seq_start), int(x.seq_end))),
+            axis=1
+        )
 
-    # 4. Handle result
+    # 4. Run majority voting
+    ensemble_out = majority_voting(models_out)
+
+    # 5. Turn domain sequence into domain range, again
+    ensemble_out['seq_start'] = ensemble_out.apply(lambda x: min(x['positive']), axis=1)
+    ensemble_out['seq_end'] = ensemble_out.apply(lambda x: max(x['positive']), axis=1)
+    ensemble_out = ensemble_out[['entry_ac', 'seq_start', 'seq_end']]
+
+    # 6. Handle result
     if args.out_path:
         # Case output path has been defined: store to file
-        ensemble_out.to_csv(args.out_path, index=False)
+        ensemble_out.to_csv(args.out_path, index=False, sep='\t')
     else:
         # Case no output path defined: print out
         print(ensemble_out.to_string())

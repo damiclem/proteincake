@@ -84,8 +84,7 @@ if __name__ == '__main__':
     parser.add_argument('--model_path',     type=str,   default='models/model.pssm')
     parser.add_argument('--test_path',      type=str,   default='data/human.fasta')
     parser.add_argument('--out_path',       type=str)
-    parser.add_argument('--out_fmt',        type=int,   default=6)
-    parser.add_argument('--num_iterations', type=int,   default=1)
+    parser.add_argument('--num_iterations', type=int,   default=3)
     parser.add_argument('--e_value',        type=float, default=0.001)
 
     # 2. Generate dictionary of args
@@ -100,7 +99,7 @@ if __name__ == '__main__':
             fit(args.blast_path, args.msa_path, args.model_path)
 
         # Run psi-blast with given PSSM
-        psi_blast = test(args.model_path, args.test_path, out_fmt=args.out_fmt,
+        psi_blast = test(args.model_path, args.test_path, out_fmt=6,
                          num_iterations=args.num_iterations, e_value=args.e_value)
         # Create dataset
         psi_blast = parse(psi_blast)

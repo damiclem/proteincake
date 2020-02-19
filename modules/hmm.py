@@ -8,6 +8,7 @@ import sys
 import subprocess
 import tempfile
 import pandas as pd
+import numpy as np
 import argparse
 
 
@@ -120,12 +121,12 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--algorithm',      type=str,   default=HMMSEARCH)
     parser.add_argument('--fit',            type=str,   default=True)
-    parser.add_argument('--seq_path',       type=str,   default='data/domain.path')
+    parser.add_argument('--seq_path',       type=str,   default='data/domain.fasta')
     parser.add_argument('--msa_path',       type=str,   default='data/msa.fasta')
     parser.add_argument('--test_path',      type=str,   default='data/human.fasta')
     parser.add_argument('--model_path',     type=str,   default='models/model.hmm')
     parser.add_argument('--out_path',       type=str)
-    parser.add_argument('--evalue',         type=float, default=0.005)
+    parser.add_argument('--e_value',        type=float, default=0.001)
 
     # 2. Define dictionary of args
     args = parser.parse_args()
@@ -146,7 +147,7 @@ if __name__ == '__main__':
 
 
         # Case JACKHMMER algorithm
-        elif args.aglorithm == JCAKHMMER:
+        elif args.algorithm == JACKHMMER:
             hmm_out = test(algorithm=JACKHMMER, seq_path=args.seq_path, test_path=args.test_path)
 
         # Error: no algorithm has been chosen
@@ -156,13 +157,16 @@ if __name__ == '__main__':
         # Parse output to pandas DataFrame object
         hmm_out = parse(hmm_out)
 
+        # Filter on e-value
+        hmm_out = hmm_out[hmm_out.e_value.astype(np.float) < float(args.e_value)]
+
         # Case out path has been set: write to file
         if args.out_path:
             # Write to file
             hmm_out.to_csv(args.out_path, index=False, sep='\t')
         # Case out path has not been set: write to console
         else:
-            print(hmm_result.to_string())
+            print(hmm_out.to_string())
 
     # Catch eventual errors
     except subprocess.CalledProcessError as e:
