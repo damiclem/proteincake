@@ -134,7 +134,7 @@ Example of arguments: <br>
 ## Part Three: Structural Alignment
 
 ### 1) PDB matching
-The first part in structural alignment was the identification of PDBs whose sequence covered decently the WW domain sequence. For this purpose, after retrieving the best model from the previous part, its predicted sequences were compared to the PDBs sequences on the same protein. Then, only PDBs whose sequence's recall was above 80%, by taking models predictions as ground truth, were kept.
+The first part in structural alignment was the identification of PDBs whose sequence covered decently the WW domain sequence. For this purpose, after retrieving the best model from the previous part, its predicted sequences were compared to the PDBs sequences on the same protein. Then, only PDBs whose sequences cover at least 80% of  one of the domains predicted by the model were kept.
 
 ### 2) TM-align
 
