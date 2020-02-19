@@ -9,14 +9,23 @@ import matplotlib.pyplot as plt
 
 from tqdm import tqdm
 
+def get_statistics(df):
+    stats = {}
+    for column in df.columns[-4:]:
+        sequences_with_domain = df.groupby(column)['SP_PRIMARY'] \
+            .unique().apply(lambda x: len(x)).sort_values(ascending=False)
+        stats[column] = sequences_with_domain
+    return stats
+
+
 if __name__ == '__main__':
 
     # 1. Define arguments
     parser = argparse.ArgumentParser()
     ### Path of the files
-    parser.add_argument('--pdb_to_uniprot_path',  type=str,   default='data/pdb_data/pdb_chain_uniprot.tsv')
-    parser.add_argument('--pdb_to_cath_path',     type=str,   default='data/pdb_data/pdb_chain_cath_uniprot.tsv')
-    parser.add_argument('--original_path',        type=str,   default='data/results/ensemble.tsv')
+    parser.add_argument('--pdb_to_uniprot_path',  type=str,   default='data/pdb/pdb_chain_uniprot.tsv')
+    parser.add_argument('--pdb_to_cath_path',     type=str,   default='data/pdb/pdb_chain_cath_uniprot.tsv')
+    parser.add_argument('--original_path',        type=str,   default='data/results/jackhmmer.tsv')
 
     # 2. Define dictionary of args
     args = parser.parse_args()
@@ -30,13 +39,14 @@ if __name__ == '__main__':
     pdb_cath = pdb_cath[pdb_cath.SP_PRIMARY.isin(original.entry_ac)]
 
     # 5. Download data of CATH
-    print('Starting queries...')
+
     url = 'http://www.cathdb.info/version/v4_1_0/api/rest/domain_summary'
     cath_superfamily = []
     cath_ids = pdb_cath.CATH_ID.tolist()
     batch_size = 50
     delay = 3
 
+    print('Starting queries. Total queries: {}'.format(len(cath_ids)))
     for i in range(0, len(cath_ids), batch_size):
         # Define batch ids
         batch_ids = cath_ids[i:min(len(cath_ids), i + batch_size)]
@@ -63,44 +73,49 @@ if __name__ == '__main__':
     for cath_value in cath.CATH:
         c, a, t, h = cath_value.split('.')
         C.append(c)
-        A.append(a)
-        T.append(t)
-        H.append(h)
+        A.append('.'.join([c,a]))
+        T.append('.'.join([c,a,t]))
+        H.append('.'.join([c,a,t,h]))
     cath['Class'] = C
     cath['Architecture'] = A
     cath['Topology'] = T
     cath['Homologous'] = H
+    cath.head()
 
+    stat_superfamily = get_statistics(cath)
     # 7. Show results
     fig, ax = plt.subplots(2, 2, figsize=(18, 14))
 
-    # Category
-    C = cath['Class'].value_counts().sort_index()
-    ax[0, 0].bar([str(i) for i in sorted([int(i) for i in C.keys()])], height=C.values)
+    C = stat_superfamily['Class']
+    ax[0, 0].bar(sorted(C.keys()), height=C.values)
     ax[0, 0].set_xlabel('Class')
     ax[0, 0].set_ylabel('Frequencies')
     ax[0, 0].set_title('Class Distribution')
+    ax[0, 0].set_xticklabels(['Mainly Alpha', 'Mainly Beta', 'Alpha Beta'], rotation=0)
     ax[0, 0].grid()
     # A
-    A = cath['Architecture'].value_counts().sort_index()
-    ax[0, 1].bar([str(i) for i in sorted([int(i) for i in A.keys()])], height=A.values)
+    A = stat_superfamily['Architecture']
+    ax[0, 1].bar(sorted(A.keys()), height=A.values)
     ax[0, 1].set_xlabel('Architecture')
     ax[0, 1].set_ylabel('Frequencies')
     ax[0, 1].set_title('Architecture Distribution')
     ax[0, 1].grid()
     # T
-    T = cath['Topology'].value_counts().sort_index()
-    ax[1, 0].bar([str(i) for i in sorted([int(i) for i in T.keys()])], height=T.values)
+    T = stat_superfamily['Topology']
+    ax[1, 0].bar(sorted(T.keys()), height=T.values)
     ax[1, 0].set_xlabel('Topology')
     ax[1, 0].set_ylabel('Frequencies')
     ax[1, 0].set_title('Topology Distribution')
+    ax[1, 0].set_xticklabels(sorted(T.keys()), rotation=90)
     ax[1, 0].grid()
     # H
-    H = cath['Homologous'].value_counts().sort_index()
-    ax[1, 1].bar([str(i) for i in sorted([int(i) for i in H.keys()])], height=H.values)
+    S = stat_superfamily['Homologous']
+    ax[1, 1].bar(sorted(S.keys()), height=S.values)
     ax[1, 1].set_xlabel('Homologous')
     ax[1, 1].set_ylabel('Frequencies')
-    ax[1, 1].set_title('Homologous Distribution')
+    ax[1, 1].set_title('Superfamily Distribution')
+    ax[1, 1].set_xticklabels(sorted(S.keys()), rotation=90)
     ax[1, 1].grid()
 
+    print(cath)
     plt.show()
