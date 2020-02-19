@@ -61,6 +61,14 @@ python modules/hmm.py --algorithm hmmer --fit True --seq_path path/to/query/sequ
 ```
 
 ### Ensemble model
+Differently from PSSM and HMM models, ensemble model takes as input the output of other models and runs majority voting after clusterizing predicted domains. Parameters are:
+- *models_out*: list of models outputs. List;
+- *out_path*: path where to store the model result. String.
+
+
+```shell
+python modules/ensemble.py --models_out path/to/model1.tsv path/to/model2.tsv --out_path path/to/out.tsv
+```
 
 ## Part Two
 
