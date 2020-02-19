@@ -1,14 +1,13 @@
 # beerprot
 
-## Part one:
-## Models
+## Part one: Models
 This part explains every model developed in this project and how to use them. Some models, such as PSSM or HMMER require an initial MSA, which can be retrieved by following the instructions above, while others, such as JACKHMMER, don't.
 
 *Note* that each model described here returns a table with two columns:
 1. Protein accession number;
 2. Set of amino-acid positions in which the domain has been found.
 
-### 1 Position Specific Scoring Matrix (PSSM)
+### 1) Position Specific Scoring Matrix (PSSM)
 This model is actually a PSI-BLAST algorithm which takes as input a specific PSSM. Parameters are:
 - *fit*: defines wether to fit or not a new model. Boolean, default *True*;
 - *blast_path*: path to blast file, if fit is True. String, default *data/blast.fasta*;
@@ -23,7 +22,7 @@ This model is actually a PSI-BLAST algorithm which takes as input a specific PSS
 python modules/pssm.py --fit True --blast_path path/to/blast.fasta --msa_path path/to/msa.fasta --model_path path/to/model.pssm --test_path path/to/test.fasta --out_path path/to/out.tsv --num_iterations 3 --e_value 0.001
 ```
 
-### 2 Hidden Markov Model
+### 2) Hidden Markov Model
 This model allows to use either HMMER or JACKHMMER in order to obtain domain classification and domain's positions matching. Parameters are:
 - *algorithm*: whether to use HMMER or JACKHMMER. String, default *hmmer*;
 - *fit*: wheter to fit a new model or not. Bool, default *True*;
@@ -38,7 +37,7 @@ This model allows to use either HMMER or JACKHMMER in order to obtain domain cla
 python modules/hmm.py --algorithm hmmer --fit True --seq_path path/to/query/sequence.fasta --msa_path path/to/msa.fasta --test_path path/to/test.fasta --model_path path/to/model --out_path path/to/out.tsv --e_value
 ```
 
-### Ensemble model
+### 3) Ensemble model
 Differently from PSSM and HMM models, ensemble model takes as input the output of other models and runs majority voting after clusterizing predicted domains. Parameters are:
 - *models_out*: list of models outputs. List;
 - *out_path*: path where to store the model result. String.
@@ -66,7 +65,7 @@ Moreover, we decided to transmit the p-value of a children to its parents, in or
 
 For each *GO/DO* term that passed the filter, we annoted its *GO/DO id*, *p-value*, *depth*, *description* and *Score*, with Score being the natural logarithm of 1 over p-value, *ln(1/p-value)*. The score is used to generate the *WordCloud*, such that the description of the GO/DO terms with lower *p-value* would appear with a bigger font.  
 
-#### 2.1.a Original
+#### 1) Original
 The enrichment has been done by using the following datasets: <br>
 - *Target*: Original <br>
 - *Background*: All human proteome on SwissProt
@@ -75,7 +74,7 @@ The enrichment has been done by using the following datasets: <br>
  
     - python modules/go_modules/enrichment_go.py
     
-#### 2.1.b Architectures
+#### 2) Architectures
 For the enrichment this time we have a set of *target datasets*, one for every architecture, where an architecture is characterized by the unordered set of *PFAM domains*. In summary: <br>
 - *Target*: Set of original proteins that share the same PFAM domains (e.g. PF00169, PF00397) <br>
 - *Background*: Original dataset.
@@ -93,7 +92,7 @@ If you want to run the enrichment tests on all the *target datasets* you can run
 Be aware that this script will not display the results but it will save them in a folder (*default: results/go_enrichment/2_architectures*). Please see the scipt to see all the arguments.
     
 
-#### 2.1.c PDB Network
+#### 3) PDB Network
 The enrichment has been done by using the following datasets: <br>
 - *Target*: Original (with a PDB) plus other human proteins which are found as chain in the same PDB <br>
 - *Background*: All human proteome on SwissProt with a PDB
@@ -103,7 +102,7 @@ The enrichment has been done by using the following datasets: <br>
     - python modules/go_modules/pdb_network.py
     - python modules/go_modules/enrichment_go.py  --target_path "data/pdb/pdb_target_go.csv" --background_path "data/pdb/pdb_background_go.csv"
 
-#### 2.1.d STRING Network
+#### 4) STRING Network
 For the STRING part, the enrichment has been done by using the following datasets: <br>
 - *Target*: Original plus the direct interactors found in the STRING database <br>
 - *Background*: All human proteome on SwissProt intersected with the STRING database.
@@ -115,7 +114,7 @@ Note that we considered a protein as a direct interactor with one in the origina
     - python modules/go_modules/string_network.py
     - python modules/go_modules/enrichment_go.py  --target_path "data/string/string_target_go.csv" --background_path "data/string/string_background_go.csv" 
     
-#### 2.1.e: Note on the Enrichment part
+#### Note on the Enrichment part
 Note 1: <br>
 The code showed above produced is an example of the *GO* part, to perform the *DO* part just change the *go* to *do*. E.g:
 
