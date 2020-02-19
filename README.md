@@ -1,4 +1,4 @@
-# beerprot
+# Protein Cake
 ## Requirments
 The code has been written in Python 3.6 using the following packages: <br>
 *pandas*, *numpy*, *wordcloud*, *scipy*, *json*, *request*, *argparse*, *matplotlib*, *seaborn*, *sys*, *os*, *subprocess*, *warnings*, *gzip*, *copy*, *re*, *tempfile*, *xmltodict*, *time* and *tqdm*. <br>
